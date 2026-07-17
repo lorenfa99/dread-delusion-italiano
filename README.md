@@ -1,6 +1,6 @@
 # Dread Delusion — Traduzione italiana
 
-Traduzione italiana non ufficiale e completa di *Dread Delusion*.
+Traduzione italiana completa e non ufficiale di *Dread Delusion*.
 
 [Scarica l’ultima versione](https://github.com/lorenfa99/dread-delusion-italiano/releases/latest)
 
