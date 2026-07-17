@@ -7,7 +7,7 @@ Traduzione italiana non ufficiale e completa di *Dread Delusion*.
 ## Installazione
 
 1. Chiudi il gioco e scarica `resources.assets` dalla release.
-2. In Steam apri **Dread Delusion → Gestisci → Sfoglia i file locali**.
+2. Su Steam apri **Dread Delusion → Gestisci → Sfoglia i file locali**.
 3. Entra in `windows_content\Dread Delusion_Data`.
 4. Conserva una copia del `resources.assets` originale e sostituiscilo con quello scaricato.
 
