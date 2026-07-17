@@ -1,0 +1,700 @@
+NPC Name:|HallowQuests||||
+ID|English|French|German|Spanish|Italian
+ino0|Ora conto su di voi.||||
+ino1|<<Due occhi vivaci brillano su un volto sporco. Attiri l'attenzione della ragazza.>> ##Ehi, non è che dareste una mano a una ragazza?||||
+pq1|Addio.||||
+p1|Qual è il problema?||||
+p2|Scusate, devo andare.||||
+ino2|<<Si asciuga il sudore dalla fronte.>> ##Devo consegnare queste sete di Byonne a un mio contatto al Boccale Barcollante. Ma dopo averle trascinate fin qui, è la mia testa che ormai barcolla. ##<<Ti rivolge un sorriso.>>||||
+p3|D'accordo, vi aiuto volentieri.||||
+p4|Farò la consegna... ma voglio una parte del guadagno.||||
+p5|No, grazie. Ve la dovrete cavare da sola.||||
+ino3|Oh, fantastico! Ve ne devo una, davvero.||||
+ino4|<<Ti porge una cassa di legno.>> ##Chiedete di Bardolph. Di solito è nella saletta... sempre che non si sia fatto cacciare. ##<<Ti fa l'occhiolino.>>||||
+ino5|Sapete come arrivare al Boccale Barcollante?||||
+p6|Se mi perdo, chiederò a una guardia.||||
+ino6|<<Noti un lieve cipiglio.>> Non serve, davvero. È la taverna col teschio gigante, appena oltre il ponte. Non potete sbagliarvi.||||
+p7|Sì, conosco la strada. Addio.||||
+ino7|<<Il suo sorriso si spegne un poco.>> ##Certo, è più che giusto. Sarete pagato.||||
+ino8|Oh, eccovi di nuovo. <<Si illumina.>> ##Ho ancora delle consegne per il Boccale Barcollante. Vi va di aiutare una ragazza?||||
+gd0|Fermo. <<Guarda la tua cassa.>> ##Che avete lì?||||
+p8|Sto facendo una consegna per un'amica.||||
+gd1|<<Ridacchia.>> Questa l'ho già sentita. Sapete, qui a Hallow Town abbiamo un serio problema con i contrabbandieri. Un sacco di merce illegale ci sfugge tra le maglie. Allora ve lo chiedo di nuovo: che c'è nella cassa?||||
+p9|@@Sete di Byonne. La mia amica è una sarta di tutto rispetto e questa consegna è urgente.||||
+gd2|%%Va bene, va bene. Devo solo fare una domanda, tutto qui. Andate pure.||||
+gd3|&&Certo, e io sono il duca di Lundel. Vediamo un po' cosa c'è dentro.||||
+p10|Mi hanno detto che erano sete, ma non ho guardato dentro.||||
+gd4|Sete, un corno. Vediamo un po'.||||
+p11|La cassa è mia. Levatevi di torno.||||
+p12|Fatevi gli affari vostri.||||
+gd5|Bel caratterino, eh? Con me non funziona. Datemi quella cassa.||||
+gd6|Certo, e io sono il duca di Lundel. Vediamo un po' cosa c'è dentro.||||
+gd7|<<Apre appena la cassa. Una creatura tentacolata e fremente lo fissa con una moltitudine d'occhi.>> ##Già, questo è un [[Typhos]]. Una brutta bestia di [[Lundel]], usata per produrre veleni.||||
+gd8|<<Prende il denaro e sospira.>> ##Sentite, stavolta vi avverto e vi lascio andare. Ma vi teniamo d'occhio: la prossima volta finirete in cella.||||
+p13|Queste sono sete di Byonne.||||
+gd9|Va bene, va bene. Devo solo fare una domanda, tutto qui. Qui a Hallow Town girano un sacco di contrabbandieri, capite. Proseguite pure.||||
+gd10|E che ci fa un vagabondo come voi con una bestia del genere, eh?##Ve lo dico io: gli [[Inquisitori]] non saranno clementi. Entro la fine della settimana penzolerete dalla forca.||||
+p_gd1|Mi hanno incastrato! Non sapevo cosa ci fosse nella cassa!||||
+gd11|<<Alza gli occhi al cielo.>>##Risparmiate il fiato. In un modo o nell'altro, siete finito nella tela del ragno.||||
+p_gd2|Basterebbero [[5 monete]] a farvi cambiare idea?||||
+p_gd3|Basterebbero [[20 monete]] a farvi cambiare idea?||||
+gd12|<<Alla cifra offerta, si rianima.>>##Sì, direi proprio di sì.||||
+gd13|Hmph. Facciamo [[10 monete]] e potrei pensarci.||||
+p_gd4|Direi che [[10 monete]] sono una cifra equa.||||
+p_gd5|Mi rifiuto!||||
+p_gd6|Vi prego, prendete quello che volete, ma lasciatemi andare.||||
+gd14|<<Ti accorgi subito di non avere tutto l'oro che hai promesso...>>||||
+gd15|Patetico. Gente come voi — vagabondi, criminali e pagani — andrebbe squartata.||||
+gd16|<<Senza dire una parola, fruga nella tua borsa e arraffa vari oggetti di valore.>>##Ora ascoltate. Sono di buon umore, quindi vi lascio andare. Ma la vostra cassettina me la tengo.||||
+gd17|<<Dopo lo scambio di denaro, ti restituisce la cassa con un cenno.>>##Proseguite pure.||||
+gd18|E temo che mi terrò anche il vostro piccolo «animaletto».##<<Indica la cassa, che all'improvviso sobbalza come in risposta.>>||||
+p_gd7|@@Sono un agente dell'Inquisizione. Fatevi da parte.||||
+gd19|%%<<Gli racconti brevemente della tua missione.>>##Accidenti! L'Inquisizione vi ha incaricato di dare la caccia nientemeno che alla [[Regina dei Pirati del Cielo]] in persona? Incredibile! ... Non voglio trattenervi oltre!||||
+gd20|&&Basta con le sceneggiate. State mettendo a dura prova la mia pazienza.||||
+bar1|<<L'uomo ti rivolge un sorriso sottile e giallastro.>> ##Mi chiamo Bardolph. Non mi pare di conoscervi, amico. Quindi, se non avete affari da sbrigare qui, vi consiglio di filare.||||
+p20|Mi hanno chiesto di consegnarvi delle sete di Byonne.||||
+bar2|Ah! L'ultima recluta di Innogen, eh? ##<<Il suo sorriso si allarga, mostrando denti simili a vetro infranto.>> ##Potevate dirlo subito.||||
+p21|Non mi ha mai detto come si chiamava.||||
+bar3|E rovinare il suo fascino misterioso? Certo che no. Non è da lei.||||
+p22|Ecco la consegna.||||
+bar4|<<Forza il coperchio della cassa. Ne erompe un groviglio di tentacoli e lui la richiude di colpo.>> ##Ah! Sete pregiate, davvero pregiate. Con queste, qualche fortunato nobile starà molto... comodo.||||
+p23|Aspettate, cos'era quella cosa?||||
+bar5|<<Il volto gli si contrae in una smorfia furiosa.>> ##L'avete detto voi stesso, amico. Sete di Byonne.||||
+p24|Lieto di esservi stato utile.||||
+bar6|Questo sì che mi piace. Non siete niente male, sapete.||||
+p25|La vostra merce è stata confiscata. Innogen non mi aveva detto che le sete fossero... senzienti.||||
+bar7|<<Scoppia in una risata roca e ansimante.>> ##Ah, mi sarebbe piaciuto vedere la faccia di quella guardia. Innogen sarà incazzata per aver perso la commissione, ma non è affar mio. Almeno avete dimostrato di non tirarvi indietro.||||
+bar10|Sentite, abbiamo sempre bisogno di gente come voi. Se volete altro lavoro, andate nei bassifondi, oltre i moli. Cercate in una delle case un busto raffigurante uno scheletro.||||
+bar11|Dategli uno strattone. Vi aprirà l'accesso alla Borsa Perduta. Lì troverete Innogen, e lei avrà altro lavoro per voi.||||
+p26|Innogen ha accennato a un pagamento?||||
+bar12|Conoscendola, scommetto che non è stata lei a parlare per prima di soldi, eh?||||
+bar13|Comunque, eccovi qualche moneta per il disturbo.||||
+bar0|Avanti, sparite.||||
+p27|Grazie, Bardolph.||||
+p28|Per poco non mi arrestavano per colpa del vostro carico di tentacoli velenosi.||||
+p29|Addio, «amico».||||
+ino10|<<È la stessa ragazza dei moli, ma della sua cordialità non resta traccia. Ti squadra con uno sguardo gelido.>>||||
+p30|Innogen, giusto? Bardolph ha detto che avreste altro lavoro per me.||||
+ino11|Avete fatto la consegna, eh? Niente male. Quando vi ho visto andarvene con quella cassa, ero certa che prima di sera vi avrebbero già rinchiuso in qualche cella. Quelle bestie sono davvero illegali, sapete.||||
+ino12|Avete una bella faccia tosta, sapete? Avete idea di quanto valeva quel Typhos? Era stato contrabbandato dalle paludi velenose di Lundel e voi l'avete consegnato a una guardia.||||
+ino13|E avete pure il coraggio di chiedermi altro lavoro? Dovrei sbudellarvi qui e ora!||||
+p31|Sarebbe stato utile se mi aveste detto che cosa c'era dentro.||||
+ino14|Siete proprio un idiota, eh? Quella maledetta cassa si contorceva. E che razza di seta puzza di cadavere marcio?||||
+p32|Questa volta farò le cose per bene.||||
+ino15|Già, sarà meglio. Per il vostro bene.||||
+ino16|Tanto per essere chiari: se fosse per me, a quest'ora sareste steso in un fosso. Ma è Bardolph a comandare, quindi pare che abbia un lavoro per voi.||||
+p33|Quel pacco non conteneva seta. Avrebbe potuto uccidermi!||||
+ino17|Siete proprio un idiota, eh? Quella maledetta cassa si contorceva. E che razza di seta puzza di cadavere marcio?||||
+ino18|Comunque, Bardolph mi ha detto di affidarvi un altro lavoro. Tornate da me quando sarete pronto.||||
+ino19|Comunque, Bardolph mi ha detto di affidarvi un altro lavoro. E allora cominciamo.||||
+ino20|C'è questo ricco mercante, Vernon Berwig. Dirige la Gilda dei Mercanti Alati e vive nella parte elegante di Hallow Town. Colleziona strani manufatti, e il nostro cliente vuole mettere le mani su uno in particolare.||||
+ino21|Ho già mandato qualcuno a dare un'occhiata alla proprietà. Al piano di sotto c'è una stanza sbarrata dall'interno. L'oggetto dev'essere lì dentro, ma un grimaldello non servirà.||||
+ino22|Quindi dev'esserci un passaggio segreto in casa di Vernon Berwig che conduce a quella stanza. Trovate l'ingresso e recuperate lo strano manufatto. Facile, no?||||
+ino23|Accidenti, avete davvero rubato quel manufatto dalla casa di Berwig? Devo ammetterlo, sono colpita. Vi avevo preso per uno che molla al primo ostacolo.||||
+ino24|Il cliente ne sarà felicissimo. Vi siete guadagnato la paga, e pure qualcosa in più.||||
+king1|<<L'uomo socchiude gli occhi e ti osserva per un momento.>> ##Ah, eravate già qui, vero? Mi ricordo di voi.||||
+king2|<<L'uomo si ridesta di soprassalto dal torpore. Non è vecchio, ma i suoi occhi tradiscono una profonda stanchezza.>> ##...Orbaith, sei tu? ##Oh, perdonatemi, straniero. Devo aver sognato di nuovo. Ormai non faccio quasi altro.||||
+king3|Aspettate, devo solo... oh, dannazione, dannazione. Dov'è finito?||||
+king4|Il mio Diario dei Sogni... l'ho perso di nuovo. Devo averlo lasciato cadere mentre fuggivo da quei Goblin sulla montagna. Se vi capita di passare da queste parti, potreste tenere gli occhi aperti e cercarlo?||||
+pKing1|Che storia è questa del vostro diario?||||
+king5|Sì, sì... ho perso il mio Diario dei Sogni. Credo di averlo lasciato cadere vicino ai Goblin che vivono sulla montagna a est. ##Superate la fortezza e cercate un lago; poi risalite il fiume. Dovreste trovarli lì.||||
+king6|Ho notato che a volte se ne vanno di notte. Se volete evitare uno scontro, potreste riposare un po' nel mio Letto. Avvicinatevi quando la Stella neurale si sarà rimpicciolita: potrebbero essersene andati.||||
+pKing2|Ho trovato il vostro diario.||||
+king7|<<Sfoglia le pagine con entusiasmo.>> ##Sì, c'è tutto: Orbaith. La guerra. L'era delle macchine. Vi prego, prendete questo insieme ai miei più sinceri ringraziamenti.||||
+pKing3|Posso chiedervi una cosa?||||
+king8|Potete senz'altro provarci, ma ultimamente le cose mi sfuggono di mente... e queste vecchie ossa non mi portano lontano.||||
+king9|Avete mai sentito parlare di Vela Callose?||||
+king10|Vela, Vela... Oh, intendete quella giovane comandante? Comanda quella banda di mercenari nella vecchia fortezza?||||
+king11|Ero un po' preoccupato quando hanno occupato quel posto. Temevo che avrebbero causato guai, ma a dire il vero, a parte il rumore, non hanno dato fastidio.||||
+king12|Quella ragazza, Vela, è perfino venuta a trovarmi una volta. Si è seduta ad ascoltare i miei sogni e mi ha lasciato del cibo. Sembrava una brava ragazza.||||
+pKing4|Le vostre ossa non sembrano poi ((così)) vecchie.||||
+king13|<<Ridacchia piano.>> Ah, sì, me lo dicono in molti. In verità, non ricordo più quanti anni ho. La mia mente è annebbiata, i miei ricordi avvolti nella foschia.||||
+king14|Ma i miei sogni? Quelli sono vividi. Sogno mia figlia, Orbaith, e una guerra terribile. Tengo un diario nella speranza di distinguere la verità dal sogno.||||
+pKing5|Che cosa potete dirmi di queste isole?||||
+king15|Uhm. Queste sono le Isole Oniriche, ma nemmeno io sono del posto. Vediamo... una piccola Stella neurale rossa ci orbita attorno, anche se probabilmente l'avrete già notato. ##Oh, sì: ultimamente tutti fanno un gran parlare di una certa Unione Apostatica.||||
+king16|Credo che l'Unione abbia rinnegato i propri dèi, arrivando persino a muovere loro guerra. Ha rivendicato queste isole per sé, ma non tutti condividono la sua apostasia. Molti non intendono rinunciare al proprio culto.||||
+king17|A proposito... credo di aver conosciuto un dio, una volta. Oppure... era soltanto un sogno?||||
+pKing6|Addio.||||
+vil1|Hmph. Di questi tempi non passano molti viaggiatori. Date retta a me: non resterei qui a lungo. C'è qualcosa che... non va, qui.||||
+vil2|Qualche tempo fa, quasi tutto il villaggio è morto di peste. Da allora la gente ha cominciato a comportarsi in modo strano.||||
+p40|In che senso, «strano»?||||
+vil3|Intendo proprio strano. La gente ha cominciato a sentire cose. A ((vedere)) cose. Alcuni hanno persino cominciato a... ((cambiare)). Quasi tutti sono partiti per non tornare più.||||
+p41|Chi vive in quel castello lassù?||||
+vil4|Il Duca. Un tempo era un brav'uomo, ma dopo la peste la gente lo vide vagare da solo di notte, in armatura completa, ululando tra sé e sé come una bestia. Circa un anno fa si è rinchiuso nel castello e da allora nessuno l'ha più visto.||||
+p42|Grazie. Addio.||||
+vil10|<<Il paesano ha gli occhi sbarrati mentre si passa le mani sulle braccia.>>||||
+vil11|Lo vedete? Vedete che cosa sono diventato? ##...Mi faccio schifo.||||
+vil12|C'è qualcosa nell'aria. Qualcosa che nasconde la verità. ##Ma... Seme Frenetico e Paradoxicus. Mescolateli: allora i vostri occhi si apriranno davvero.||||
+vil13|L'incubo è finito. È... è davvero finito?||||
+wik1|<<Da un volto segnato dal tempo ti scrutano occhi stanchi. L'uomo indossa i paramenti vecchi e logori di un sacerdote Wikkan.>>||||
+wik2|C-che cos'è... un intruso? Come siete entrato nel mastio?||||
+p43|Non c'era proprio nessuno a fermarmi.||||
+wik3|Ma la guardia reale...? Bah, disertori, tutti disertori. Allora... allora... la rovina di questo luogo sia completa.||||
+p44|Sono venuto a porre fine a questa follia.||||
+wik4|Dunque la facciata è infine crollata? Credo di aver sempre saputo che questo giorno sarebbe arrivato. La rovina di questo luogo è completa.||||
+wik5|Ho tentato di avvolgere questo luogo nella [[magia illusoria]], per celarne il disfacimento, ma... anche un semplice incanto ha i suoi limiti.##Il castello marcisce, le ossa allo scoperto.||||
+p45|In che condizioni è il castello?||||
+wik6|Dunque il figlio del Duca si è offerto di sopportare il fardello sacrificale? La notizia mi addolora profondamente; è un'anima gentile e non merita un simile tormento.||||
+wik7|Ma forse... è meglio così. Già ora gli abitanti del villaggio stanno tornando alla normalità.||||
+wik8|Il Duca è morto? Allora il patto con Paeguth è spezzato. La follia è finita, ma temo che la peste esigerà un tributo ancora più gravoso.||||
+p46|Che cosa affligge questo castello?||||
+wik9|<<L'uomo lascia sfuggire un lungo sospiro stremato.>> ##Un patto funesto. Doveva salvare questa gente, non... <<deglutisce.>> Non condannarla.||||
+wik10|Anni fa, questo castello fu colpito da una terribile peste. Persino il figlio del Duca ne fu contagiato. L'Unione Apostatica rifiutò di aiutarli, così gli abitanti si rivolsero a un dio locale. Ma Paeguth pretese un tributo...||||
+wik11|...così la mia congrega mi inviò a mediare un patto. L'incantesimo di Paeguth sarebbe stato alimentato da un sacrificio. ##Un sacrificio non di vita, ma di ((dolore)).||||
+wik12|Il Duca acconsentì. Ancora oggi, un veleno lo avvolge in un'agonia perpetua affinché la peste resti a bada. Ma la sua forza vitale si affievolisce, l'incantesimo del dio trova sempre nuovi modi di esigere il dovuto e l'isola diventa sempre più maledetta.||||
+wik13|Ho riflettuto per molti mesi su che cosa fare. La mia coscienza è oppressa da questo peso. Ma perché la situazione cambi, dovrà accadere qualcosa di terribile.||||
+p47|Deve esserci un modo per spezzare questa maledizione.||||
+wik14|Hmph. Una soluzione? È un pensiero... confortante, lo ammetto.||||
+wik15|Dietro quel dipinto si cela una stanza segreta. Custodisce un [[Veleno Sacrificale]], lo stesso che scorre nelle vene del Duca.||||
+wik16|La dose è esatta. Una dose eccessiva sarebbe letale. Se il Duca ne bevesse ancora, morirebbe e il patto verrebbe annullato del tutto. ##La follia cesserebbe, ma la peste tornerebbe.||||
+wik17|Ma esiste un'alternativa. Se si trovasse una seconda vittima da sacrificare, il dio sarebbe sazio. L'equilibrio potrebbe essere ristabilito, anche se la corruzione di Paeguth non svanirebbe mai del tutto.||||
+wik18|Ma questa faccenda mi ha stancato. Non ho il cuore di infliggere altro dolore.||||
+p48|@@Potrei somministrare io il veleno, per conto vostro.||||
+p49|Ho trovato il veleno. Potrei somministrarlo io, per conto vostro.||||
+wik19|%%<<Rimane in silenzio per qualche istante.>> ##Forse... forse è la scelta più saggia?||||
+wik20|La mia indecisione ha lasciato marcire questo castello. Forse potreste salvarlo voi. Molto bene, aprirò la porta che conduce al veleno. ##Il Duca si trova in cima al mastio. Per entrare, dovrete attraversare una parete illusoria.||||
+wik21|&&È un'offerta gentile, ma questo fardello spetta soltanto a me. Non potrei, in buona coscienza, permettervi di farlo.||||
+p50|Siete un Wikkan, vero? Perché siete qui?||||
+wik22|Hmph, a questo punto non ha più senso nasconderlo. Sarebbe un affronto a entrambi.||||
+wik23|Sono un emissario della Congrega Wikkan del Verme, inviato a sovrintendere ai patti con gli dèi. Persino una semplice preghiera rivolta a una divinità minore può essere pericolosa, e un sacerdote Wikkan può fungere da... intermediario, per così dire.||||
+wik24|Naturalmente, di questi tempi è un mestiere pericoloso. Dalla Guerra Divina, le nostre congreghe sono disperse e operano in segreto. Se l'Unione ci scoprisse, ognuno di noi rischierebbe una morte terribile.||||
+wik25|Se nulla cambia, è solo questione di tempo prima che l'Inquisizione mi trovi qui. Naturalmente, mi tortureranno. Naturalmente, dirò loro tutto. Se ne avessi il coraggio, mi toglierei la vita adesso, ma sono un codardo.||||
+wik26|Ehm. C'era altro?||||
+p51|Addio.||||
+duke1|<<Dall'elmo provengono gemiti di dolore. L'uomo si contorce in evidente agonia. Non sembra accorgersi della tua presenza.>>||||
+duke2|<<Quando ti vede, l'uomo lancia un ululato agghiacciante che riecheggia tra le mura del castello.>> ##Voi... avete condannato mio figlio... a questo destino?||||
+duke3|Vi... ucciderei... se potessi.||||
+p52|Ehm... salve?||||
+duke4|<<L'uomo inspira bruscamente e volge lentamente il capo verso di te.>> ##Io sono... il Duca di Hallowshire. Dichiarate... il vostro scopo.||||
+p53|Che cos'avete?||||
+duke5|<<Per un momento, il Duca emette soltanto un gemito di dolore.>>##Sto... offrendo in sacrificio il mio stesso... ((dolore...)) affinché il mio ducato e... mio figlio... possano vivere.||||
+p54|Ehm, posso aiutarvi?||||
+duke6|Solo... quel bastardo del Wikkan... può aiutarmi ormai.||||
+p55|Ho il veleno del Wikkan. Potrei porre fine al vostro dolore.||||
+duke7|<<Per un momento regna il silenzio, rotto soltanto dal respiro rauco del Duca.>>||||
+duke8|Da tanto tempo... anelo alla morte. Anche se potrebbe condannare il mio ducato... sono troppo debole... per rifiutare. ##Vi prego... uccidetemi.||||
+p56|<<Avvelenare il Duca.>>||||
+duke9|<<Infili la fiala sotto l'elmo del Duca e lasci che il liquido gli scivoli tra le labbra. Dopo un istante comincia a tremare violentemente, facendo sferragliare l'armatura.>>##<<Poi resta immobile.>>||||
+p57|Ho cambiato idea.||||
+duke10|Che siate... maledetto...||||
+p58|Siete... evidentemente occupato. Addio.||||
+dson1|Salve. Non ricevo spesso visite quassù.||||
+dson2|Sono Thomas Harwicke, figlio del Duca di Hallowshire. È un piacere fare la vostra conoscenza.||||
+p59|Qui c'è qualcosa che non va affatto.||||
+dson3|Infatti. Siamo intrappolati in un incantesimo: un patto con il dio Paeguth, negoziato dal Wikkan di questo castello. Finché mio padre sopporterà un fardello di dolore sacrificale, il castello e il villaggio circostante saranno liberi dalla peste.||||
+dson4|Solo che... l'incantesimo è cambiato col tempo. Man mano che mio padre si indebolisce, i suoi sudditi sviluppano abitudini e deformità sempre più bizzarre. Non dissimili... dai mostri che infestano le rovine a ovest.||||
+dson5|Temo ciò che ci attende. Se potessi rendermi utile in qualche modo, lo farei volentieri. Anche se significasse sopportare il dolore che patisce mio padre.||||
+p60|Ho una fiala del veleno del Wikkan.||||
+dson6|Oh, cielo... questo è... il Veleno Sacrificale? ##<<Studia la fiala con curiosità.>>||||
+dson7|Ogni giorno guardo mio padre soffrire. Al suo fianco mi sento inutile, incapace di aiutarlo. Ma con questo... forse, unendo i nostri sacrifici, potremmo riparare l'incantesimo. Forse la terra sarebbe libera sia dalla peste ((sia)) dalla corruzione.||||
+dson8|Vi supplico: lasciate che beva questo veleno. Adempierei al mio dovere verso mio padre e i suoi sudditi.||||
+p61|<<Dargli il veleno.>>||||
+dson9|<<Con la fiala in mano, esita per un istante. Poi la beve tutta d'un fiato.>>||||
+dson10|<<Per un momento non accade nulla. Poi lancia un urlo lancinante.>>||||
+dson11|Oh, Paeguth! Che dolore è mai questo? L'agonia! La... aaaargh! ##È questo... ciò che ha sopportato mio padre? È... insopportabile. Insopportabile!||||
+p62|No, sarebbe un fardello troppo grande.||||
+p63|Grazie. Addio.||||
+dson12|<<L'uomo è pallido come un morto e la sua pelle è coperta di bubboni. Quando ti avvicini, è scosso da un accesso di tosse.>> ##Vi prego... non avvicinatevi. Non sto bene.||||
+dson13|Con la morte di mio padre, la maledizione è stata spezzata. Ma la peste... rimasta sopita nel mio sangue... è tornata.||||
+dson14|Eppure... forse è meglio così. Meglio morire libero... che vivere maledetto.||||
+p64|A dire il vero, volevo chiedervi un'altra cosa.||||
+dson15|C'era altro?||||
+dson16|Capisco...||||
+servant1|Buondì, straniero. Fossi in voi, me ne andrei da questo luogo maledetto. Andatevene e non voltatevi.||||
+p65|Che cosa affligge questo castello?||||
+servant2|Non lo percepite? Il Castello di Hallow è stato colpito da una terribile maledizione. Creature immonde infestano queste terre mentre il nostro Duca si contorce nell'agonia.||||
+servant3|Tutto è cominciato quando quel [[maledetto Wikkan]] è venuto in nostro aiuto. Ve lo dico io: la ((peste)) era meglio di così...||||
+servant4|Se insistete a trattenervi, vi darò un consiglio: le cose non sono come sembrano. [[Quei grandi dipinti]] sono semplici illusioni; potete attraversarli.||||
+servant5|Con un po' di [[Seme Frenetico]] e [[Paradoxicus]], potreste preparare una pozione per vedere oltre l'illusione.||||
+p66|Chi siete?||||
+servant6|Solo un umile servitore. L'ultimo ancora al servizio del Duca, a quanto pare. Chiunque abbia un briciolo di senno è già fuggito.||||
+p67|Me ne vado.||||
+servant7|Ricordate, straniero: [[I dipinti]] non sono ciò che sembrano.||||
+servant8|Dunque il Duca è morto? ##Almeno i suoi ululati di dolore non infesteranno più queste sale.||||
+servant9|Da qualche tempo gli orrori si sono placati. C'entrate qualcosa, straniero? ##Eppure queste sale riecheggiano ancora di grida strazianti. Temo che non saremo mai davvero liberi.||||
+dstarDrunk1|<<La mercenaria della Stella Oscura se ne sta stravaccata con una birra in mano. Si accorge a malapena della tua presenza.>>||||
+dstarDrunk2|Hmph. Siete dell'Inquisizione, allora? O solo un ladruncolo venuto a spolpare i nostri cadaveri?||||
+dstarDrunk3|Hmph, di nuovo qui?||||
+p70|Sto dando la caccia alla vostra comandante, Vela Callose.||||
+dstarDrunk4|Fate come vi pare; non sarò certo io a intralciarvi. Quella maledetta ci ha già cacciati in abbastanza guai. ##<<Tracanna la birra, rovesciandosene gran parte sul viso.>>||||
+p71|Sono solo di passaggio; non ho nulla contro di voi.||||
+dstarDrunk5|E ci mancherebbe. Provate a fare scherzi e vi mozzo la testa. ##<<Agita un braccio in un gesto vago, rovesciando altra birra.>>||||
+p72|Che cosa potete dirmi di Vela Callose?||||
+dstarDrunk6|<<Socchiude gli occhi e ti fissa, con la testa che ciondola per l'alcol.>> ##...Sapete tenere un segreto, vero?||||
+dstarDrunk7|Lei comanda la Stella Oscura, quindi dovrei togliermi il cappello e chiamarla «capo». Ma, detto tra noi, finirà per farci ammazzare tutti. Sempre che non l'abbia già fatto.||||
+dstarDrunk8|Parla di profezie da pazzi. Di spezzare la realtà stessa per creare una specie di paradiso dove nessuno muore. Tutte sciocchezze e menzogne.||||
+p73|@@Se Vela non vi piace, fatemi entrare nel magazzino qui sotto.||||
+dstarDrunk9|%%Sapete che c'è? Perché i lavori di merda capitano sempre a me? Certo, saccheggiate pure tutto, per quel che me ne importa. Così Vela impara. ((Hic.))||||
+dstarDrunk10|&&È vero, Vela non mi piace; ma tradire la Stella Oscura è un'altra faccenda. Sono pur sempre i miei... ((hic)) ...fratelli d'armi.||||
+p74|Vi lascio alla vostra birra.||||
+shroomMan1|Respirate a fondo, straniero. Lasciate che il profumo della terra vi riempia i polmoni...||||
+p80|Ha un puzzo tremendo.||||
+p81|Ehm... che cosa sto annusando, di preciso?||||
+shroomMan2|Come osate! Questo è il profumo più sublime di tutti i Regni Celesti.||||
+shroomMan3|Questo luogo è colmo di spore. Coltivo funghi: quanto di più antico e splendido cresca da questa terra.||||
+shroomMan4|Con il cappello di un fungo potrei donarvi visioni meravigliose. Con un altro, una morte straziante. Non c'è da stupirsi che i Wikkan li bramino tanto.||||
+shroomMan5|Ah, i funghi avevano predetto il vostro ritorno. ##Però avevano anche predetto che avrei partorito mio padre.||||
+p82|Avete funghi da vendere?||||
+p83|@@Posso vedere i vostri funghi?||||
+shroomMan6|%%Ah, vedo che siete un intenditore. Vi apro la porta. Ma non mettete le mani sui piccoletti arancioni, a meno che non vogliate ritrovarvi senza dita.||||
+shroomMan7|&&Mi dispiace, straniero. Non posso lasciare che il primo venuto frughi nella mia coltivazione di funghi.||||
+p84|Che cosa potete dirmi dei funghi?||||
+shroomMan8|Prima dello Squarcio del Mondo, foreste di funghi ricoprivano il pianeta e prosperavano nelle ombre umide delle isole volanti.||||
+shroomMan9|Sottoterra si intrecciano, formando immense colonie. Quando osservate una vasta foresta di funghi, potreste in realtà trovarvi davanti a un unico fungo gigantesco.||||
+shroomMan10|È per questo che i Wikkan li usavano per comunicare con gli dèi. Nei tempi antichi svuotavano i più grandi e li trasformavano in templi... luoghi di verità e di terrore.||||
+p85|Vi lascio a fungheggiare.||||
+troll1|<<La creatura ti osserva con occhi infossati. Si muove a fatica dietro l'enorme mandibola; pare fisicamente incapace di sollevare il capo.>>||||
+troll2|State fermo, umano. Solo chi abbraccia la propria miseria può reclamare il proprio Secondo sé.||||
+p90|Aspettate, che cos'è un Secondo sé?||||
+troll3|Molto tempo fa, i Goblin di questa foresta commisero un male indicibile. Ancora oggi la loro stirpe porta il peso di quella colpa.||||
+troll4|Perciò scolpiscono un nuovo sé, sotto forma di maschera. Quando i Goblin la indossano, sembrano... mutati. Se sia opera della magia o soltanto una recita, non saprei dirlo.||||
+troll5|Tutti portiamo il peso di una colpa, umano. Se desiderate riconoscere le vostre malefatte, potrete reclamare una maschera.||||
+p91|@@Ho abbracciato la mia miseria. Posso passare?||||
+troll6|%%La vostra penitenza sembra sincera. Molto bene, potete reclamare il vostro Secondo sé. La porta è aperta.||||
+troll7|&&Pronunciare le parole è una cosa; comprenderne davvero il significato è un'altra. Non credo che siate pronto, umano.||||
+p92|Chi siete?||||
+troll8|Sono... uno degli ultimi della mia specie. Quasi tutti furono uccisi molto tempo fa, e noi sopravvissuti siamo... maledetti per sempre.||||
+troll9|Come vedete, non possiedo alcuna grazia. Se mi raddrizzassi, il collo si spezzerebbe. Percorrere anche brevi distanze è... difficile.||||
+troll10|Eppure... respiro, e questo basta. Ho trovato pace in questa foresta, e i Goblin mi proteggono.||||
+orderMan1|<<Il vecchio tossisce con violenza, il corpo scosso a ogni colpo. Sputa sangue e catarro sul pavimento.>>||||
+orderMan2|La mia vita si spegne, la vista mi ha abbandonato... chi va là? ##Siete il Terzo, venuto a darmi il cambio?||||
+p100|Chi siete?||||
+orderMan3|Oh, no, no... non possiamo dirlo... non possiamo rivelarlo. Tradiremmo il codice. Tradiremmo l'Ordine.||||
+orderMan4|Sono sempre in tre, vedete: tre e uno. Uno per guidare, gli altri per seguire. Ma non possiamo rivelare i nostri veri nomi. No, operiamo in segreto.||||
+orderMan5|Ho viaggiato per i Regni Celesti al servizio dell'Ordine, sapete. Cercando contatti, scovando acquirenti, stringendo accordi commerciali...||||
+orderMan6|Ho visitato terre arse dalle Stelle neurali più luminose e isole desolate di ghiaccio splendente e magnifico. Tutto in nome del profitto. Per l'Ordine dei Tre e dell'Uno.||||
+orderMan7|<<Il vecchio resta immobile per qualche istante, e soltanto il suo respiro affannoso e sibilante rompe il silenzio.>> ##...Perdonatemi, devo essermi appisolato. Qual era la domanda?||||
+p101|@@Sì, sono il Terzo.||||
+orderMan8|%%Allora è giunto il momento. L'Uno mi ha finalmente sostituito. Aprirò la porta e potrete reclamare il vostro nuovo aspetto.||||
+orderMan9|&&Ah, ma come posso esserne certo? C'era una parola d'ordine, o qualcosa del genere? Oh, maledetta memoria...||||
+p102|Riposate sereno, vecchio.||||
+chainedGod1|Benvenuto nella mia prigione, umano. ## <<Le parole si abbattono sul tuo cranio cariche di un terribile presagio. Non c'è dubbio: stai parlando con un dio.>>||||
+chainedGod2|Ah, lo percepisco in voi. Quell'orrore abietto; quello sgomento lancinante. Il vostro cuore batte tanto forte che potrebbe scoppiare, umano...||||
+p110|Aspettate, sono... sono morto?||||
+chainedGod3|<<L'entità ride; grandi ondate di energia ultraterrena riecheggiano nelle tue ossa.>> ##No, umano: non siete morto. Non ancora.||||
+p111|Come sono arrivato qui?||||
+chainedGod4|Eravate a pochi istanti dalla morte. Vi ho strappato a morte certa con la stessa facilità con cui la vostra specie estirpa un'erbaccia.||||
+chainedGod5|Ma non è stato un gesto di bontà. Esigo qualcosa in cambio.||||
+p112|Non vi ho chiesto di salvarmi.||||
+chainedGod6|E io non ho cercato il vostro consenso. Non fatevi illusioni, umano: la vostra vita vale ben poco. Senza di me, sareste soltanto un altro mucchio d'ossa che sprofonda nella terra.||||
+chainedGod7|Mi aiuterete, oppure perirete.||||
+p113|Allora che cosa volete?||||
+chainedGod8|Vela Callose, nella sua ((arroganza)), mi ha incatenato qui con ceppi d'Acciaio del Vuoto. Voglio essere libero, e dunque lei deve morire.||||
+chainedGod9|Date la caccia a Vela, non è così? Senza il mio aiuto, la vostra missione è vana; andrete certamente incontro a una morte atroce.||||
+chainedGod10|Perciò vi salverò. Vi strapperò dal baratro dell'oblio, ancora e ancora, finché l'impresa non sarà compiuta.||||
+chainedGod11|Bentornato, umano.||||
+p114|Chi siete?||||
+chainedGod12|Come sono cambiati i tempi, se un umano arriva a pormi una simile domanda.||||
+chainedGod13|Vi furono epoche remote in cui i miei santuari sorgevano in mille insediamenti. In cui ogni Wikkan conosceva il mio nome. In cui la mia mente risuonava delle preghiere della vostra specie.||||
+chainedGod14|Non mi abbasserò a presentarmi. Ma sappiate questo: vi sono ancora fedeli che preservano i miei santuari nascosti. Sarà in quei luoghi che vi evocherò, quando la vostra morte sarà imminente.||||
+p115|Perché Vela vi ha catturato?||||
+chainedGod15|Per quale altro motivo? Bramava il mio potere. Sono unico nel pantheon degli dèi maggiori, poiché posso percepire l'istante della morte di qualcuno... e sottrarlo al proprio destino.||||
+chainedGod16|Ma nella sua arroganza, questo non le bastò; io non posso riportare in vita chi è morto da tempo. Nessun dio ne è capace, salvo, forse, i sognatori stessi.||||
+chainedGod17|Così mi ha tenuto incatenato qui. Tale è il misero stato del mondo: nessun seguace è venuto a salvarmi. Neppure i Wikkan sono accorsi in mio aiuto. ((Maledetta)) quella Guerra Divina.||||
+p116|Addio.||||
+chainedGod18|Ricordate il nostro patto, umano.||||
+paganScribe1|Avete visto l'enorme statua là fuori?||||
+paganScribe2|È un antico manufatto Wikkan. Fu costruito molto tempo fa, prima dello Squarcio del Mondo, quando soltanto occultisti folli osavano mettere piede nei Regni Celesti.||||
+paganScribe3|Statue del genere potrebbero essere state erette per segnare importanti luoghi rituali Wikkan, ma... è soltanto una teoria.||||
+paganScribe4|I Wikkan spesso [[celano la vera natura delle cose]] con potenti magie, quindi è quasi impossibile stabilirlo con certezza.||||
+bina1|<<La donna sembra invecchiata anzitempo, come oppressa da una stanchezza che il sonno non può curare.>> Anche voi fuggite da Hallowshire? Avevamo la stessa idea, finché il nostro maledetto Attendente non è andato in panne.||||
+p120|Proprio così. Conoscete la via migliore per uscire di qui?||||
+bina2|Magari lo sapessi, straniero. Speriamo soltanto che altrove si stia meglio che qui. Vi offrirei un passaggio, ma... <<Indica sconsolata la macchina.>> ##Forse gli Eterni ci accoglieranno, anche se le storie che abbiamo sentito su di loro fanno gelare il sangue.||||
+p121|Perché dovrei fuggire da Hallowshire?||||
+bina3|Siete più coraggioso di noi, straniero. O forse siete appena arrivato? ##Se ci fosse soltanto questa [[carestia]], potremmo cavarcela. Ma tra il giro di vite dell'Inquisizione e la rabbia che ha scatenato... <<rabbrividisce.>> No, no. Sappiamo come va a finire.||||
+bina4|Siamo arrivati qui sei anni fa dal [[Regno Meccanico]]. Andarcene è stata la decisione più difficile della mia vita. Speravamo che Hallowshire fosse un luogo più sicuro per i nostri figli... e per un po' lo è stato. ##<<Sospira.>> Vorrei soltanto...||||
+bina5|<<Dall'interno del carro si leva la voce di un bambino: «Mamma! Ishtar ha nascosto di nuovo Gobbie!»>> ##<<La donna grida alle proprie spalle.>> Ishtar, restituisci subito quella bambola, o vengo lì e ti faccio coniugare l'Emberiano! <<Un altro bambino si lamenta: «Uffa, mammaaa...!>>»||||
+bina6|<<La donna torna a guardarti con un sorriso stanco.>> I figli sono un dono, eh? ##Oh, dove sono le mie buone maniere? Io sono Bina, e quello è mio marito Youssef. Se vi fermate un momento a riposare, posso offrirvi un tè?||||
+p122|Accetterei volentieri del tè.||||
+bina7|Subito. <<Si volta e apre un pannello sul carro, rivelando un samovar pieno di valvole e tubi. Gli dà qualche colpo, poi riempie due vecchie tazze di porcellana pregiata con tè fumante e te ne porge una.>>||||
+p123|Grazie, ma sto bene così.||||
+bina8|Non vi dispiace se me ne preparo un po', vero? <<Si gira e apre un pannello del carro, rivelando un samovar pieno di valvole e tubi. Gli dà qualche colpo, poi riempie di tè fumante una vecchia tazza di porcellana pregiata.>>||||
+p124|Ahimè, non posso restare. Buona fortuna.||||
+bina9|Si vede che siete un tipo curioso, quindi chiedete pure quello che volete. Tanto per un po' non andremo da nessuna parte.||||
+bina10|Chiedete pure. Per un po' non andremo da nessuna parte.||||
+p125|Che cos'è quella cosa, di preciso?||||
+bina11|L'Attendente? Da queste parti non se ne vedono molti, vero? Un congegno di ferro e ottone, animato dalla magia cifrata. Il Regno Meccanico ne ha costruiti a decine, ma per i dettagli dovreste chiedere a Youssef. Lui è l'ingegnere; io sono soltanto una semplice traduttrice.||||
+p126|Che cosa traducete?||||
+bina12|L'Emberiano antico, ci credereste? Nel Regno era molto richiesto. Alcune delle nostre... cioè, delle ((loro)) macchine più straordinarie si basano sulle antiche conoscenze Emberiane. Nessuno si è avvicinato quanto loro a recuperare ciò che è andato perduto.||||
+p127|Perché avete lasciato il Regno Meccanico?||||
+bina13|Da dove cominciare? All'inizio il [[Re Meccanico]] funzionava a meraviglia. Cibo, bevande, combustibile e lussi che i miei genitori non avrebbero mai immaginato, a disposizione di tutti... come in una fiaba in cui un taglialegna trova un dio in una grotta che esaudisce ogni desiderio.||||
+bina14|Poi il Re divenne... imprevedibile. Forse i Macchinisti interpretavano male i suoi ordini o gli davano consigli sbagliati... ##<<Ti rendi conto che, ancora oggi, esita a criticare apertamente il Re.>> Poi la gente cominciò a sparire, e tutti si comportavano come se quelle persone non fossero mai esistite.||||
+bina15|<<Sospira pesantemente.>> Solo l'anno scorso avevo finalmente smesso di tenere un occhio sulla via d'uscita. Avevo davvero cominciato a sentirmi a casa, sapete?||||
+p128|Come siete riusciti a scappare?||||
+bina16|Non è stato facile. Abbiamo setacciato il mercato nero in cerca di Passaporti dell'Unione Apostatica, poi un amico ci ha messi in contatto con un contrabbandiere dei cieli. Siamo partiti nel cuore della notte, come ladri.||||
+bina17|Siamo stati fortunati. Avevamo abbastanza denaro per portare con noi quasi tutto. Alcuni arrivano a Hallowshire con i soli vestiti che hanno addosso. Cerchiamo di aiutarli quando li incontriamo, ma non possiamo privarci di molto.||||
+bina18|Non mi è mai piaciuto pensare a me stessa come a una rifugiata. Una forma di orgoglio contorto, forse. Ma ora che sta succedendo tutto da capo, come posso negarlo?||||
+p129|Mi dispiace.||||
+p130|Già.||||
+p131|Vostro marito sta bene? Sembra che abbia visto un fantasma.||||
+bina19|<<Per un istante, nei suoi occhi si scontrano premura e diffidenza. Vince la premura.>> Sinceramente? Non lo so. Qualche notte fa siamo stati derubati dai [[Disertori]] e lui è ancora scosso, ma c'è anche qualcosa di più profondo.||||
+bina20|Detto tra noi, passa sempre più tempo immerso nelle Visioni in Bottiglia: sogni distillati esportati dal Regno. Vista la situazione, non posso dargli torto, ma la cosa mi preoccupa.||||
+bina21|Credo che stia cercando qualcosa in quelle visioni. Vorrei che mi dicesse che cosa.||||
+p132|È meglio che mi rimetta in cammino. Buona fortuna.||||
+yous1|<<L'uomo ha un'aria ansiosa e tormentata, come se fosse braccato da qualcosa a cui non può sfuggire. Sta esaminando la strana macchina, con le mani sporche d'olio posate sui fianchi.>> ##Ach, prima la carestia, poi i ladri, adesso questo... quando finirà?||||
+p140|Posso aiutarvi?||||
+yous2|Senza offesa, amico, ma ne dubito. Faccio l'ingegnere da decenni e perfino io capisco a malapena questo affare. A meno che non abbiate con voi un dispersore eterico del Vuoto di ricambio?||||
+p141|Non ho la minima idea di cosa sia.||||
+yous3|Per la verità del Re, neanch'io. E secondo me non lo sanno neppure gli stronzi che l'hanno progettato.||||
+p142|L'ho lasciato nell'altro cappotto.||||
+yous4|Ah! Dev'essere un signor cappotto. Spero sia foderato di piombo.||||
+p143|Che cos'((è)) quella cosa?||||
+yous5|Questo è un Attendente Universale... <<Gli dà un calcio per la frustrazione.>> Sempre che si degni di funzionare. Telaio aracnoide standard, configurazione da manovale. Nel [[Regno Meccanico]] queste macchine fanno tutti i lavori più pesanti, così non tocca farli né a me né a voi.||||
+yous6|Ma dove sono finite le mie buone maniere? Io sono Youssef, e quella è la mia adorata moglie Bina. Sono il miglior ingegnere che possiate assoldare in tutta Hallowshire, anche se ancora per poco. Prenderemo i bambini e ce ne andremo appena riuscirò a far funzionare questo rottame.||||
+yous7|<<Dall'interno del carro arriva la voce di un bambino: «Baba! Ishtar continua a tirarmi i capelli!>>» ##<<L'uomo grida voltandosi indietro.>> Ishtar, smettila subito o vengo lì e ti rispiego l'algebra lineare! <<Un altro bambino si lamenta: «Nooo, Babaaa...!>>»||||
+p144|Youssef, posso chiedervi una cosa?||||
+p145|Raccontatemi ancora delle bottiglie rubate.||||
+p146|Scusate, non posso fermarmi. State attento.||||
+yous8|Beh, ho il cervello più fritto di uno dei tentativi di Nour di preparare la colazione. Tanto vale fare una pausa, e in compagnia è anche meglio.||||
+yous9|Non ho fretta di tornare al lavoro. C'era qualcos'altro?||||
+p147|Cos'avete detto che era quella macchina?||||
+yous10|Questo è un Attendente Universale... <<Gli dà un calcio per la frustrazione.>> Sempre che si degni di funzionare. Telaio aracnoide standard, configurazione da manovale. Nel [[Regno Meccanico]] queste macchine fanno tutti i lavori più pesanti, così non tocca farli né a me né a voi.||||
+p148|L'Attendente è arrivato con voi dal Regno Meccanico?||||
+yous11|<<Sembra offeso.>> Badate bene, non ruberemmo mai nulla al Regno. Questo l'ho costruito io dopo la fuga, con pezzi raccattati qua e là. Non ero sicuro di riuscire a costruirlo da zero, ma ce l'ho fatta. <<Gli lancia un'occhiata.>> O almeno ci ho provato.||||
+p148b|Va bene, grazie per la spiegazione.||||
+p149|A che genere di macchine lavoravate?||||
+yous12|Fattorie meccanizzate che seminavano e mietevano da sole. Enormi officine ambulanti su ruote, avvolte dal fumo. Santuari cifrati che facevano comparire il pane appena sfornato. Torri che inviavano messaggi nell'aria su ali invisibili. Cose che non riuscireste nemmeno a immaginare. E gli Attendenti, naturalmente.||||
+yous13|Dicono che parte di quella tecnologia si basi sulle antiche conoscenze Emberiane. Ma per questo dovreste chiedere a Bina. È lei la studiosa; io sono soltanto un semplice aggiustatutto.||||
+yous14|Al confronto, le macchine dell'Unione sono primitive, ma almeno riparandole ci campavo. Poi è cominciata la carestia, e qualunque cosa più complessa di una serratura valeva più per il grano che fruttava che per il meccanismo che conteneva.||||
+yous15|I miei genitori arrivarono nel Regno dalla Wikkanlaw quando ero ancora piccolo. Baba faceva lo straccivendolo e Ma raccoglieva funghi. Pensavo: guardatemi adesso, sono un ingegnere! E invece guardateci ora, poveri topi che corrono a nascondersi.||||
+p150|State bene? Sembrate aver visto un fantasma.||||
+p151|Ho una domanda sulle bottiglie che vi hanno rubato.||||
+p152|È tutto. Buona fortuna con la macchina.||||
+yous15b|Ach, grazie per averlo chiesto. Qualche giorno fa ci hanno assaliti dei disertori e abbiamo dovuto consegnare loro la mia scorta di Visioni in Bottiglia. Da allora faccio fatica a dormire la notte e passo le giornate infreddolito e tremante.||||
+yous16|Avete mai provato una Visione in Bottiglia? Fantasie inebrianti, distillate dai sogni della gente. Soltanto il Regno Meccanico sa come produrle. Ormai non escono quasi più lettere né libri, quindi sono il modo migliore per tenermi in contatto con casa.||||
+yous17|Una delle bottiglie rubate era importante. Davvero importante. Ma, ach, non c'è niente da fare.||||
+yous18|Ach, così va.||||
+p153|Perché una di quelle bottiglie era tanto importante?||||
+yous19|Io... <<Youssef esita, incerto se confidarsi con te.>> Avevo una sorella nel Regno Meccanico: [[Yasmeen]], così si chiamava. E avevo anche una nipote. ##Non so se si ricordano di me. Chi sfida il Re tende a essere dimenticato, in qualche modo.||||
+yous20|Qualche mese fa ho rivisto Yasmeen in una visione. Era più vecchia, molto più stanca. Sembrava riconoscermi. L'ho chiamata a gran voce, ma sapete come sono i sogni: non vi danno mai ciò che volete.||||
+yous21|Mi ha fatto capire una cosa: se riuscissi a far arrivare una visione a ((lei)), almeno saprebbe che sono vivo. ##Così ho cominciato a imparare a distillare i miei sogni. Una volta che avete un tubo per visioni, non è difficile ricostruire il progetto di un collettore.||||
+yous22|Comunque, adesso ce l'hanno quei dannati ladri.||||
+p154|Di chi era quel sogno?||||
+yous23|Impossibile dirlo. Conosceva mia sorella, oppure l'aveva soltanto incrociata per strada? Sembrava recente, però. Come se Yasmeen fosse ancora viva quando il sogno è stato distillato.||||
+p155|Perché non mandarle semplicemente una lettera?||||
+yous24|Ach, Yasmeen non ha mai saputo leggere granché. E poi una lettera potrebbe essere intercettata o censurata. I consiglieri del Re vedono spie dappertutto, capite? Le visioni invece vengono controllate meno: tanto tutti sanno che non sono reali.||||
+p156|Non potete crearne un'altra?||||
+yous25|Avete idea di quante notti mi ci sono volute per sognare qualcosa che potessi mandarle? Non potevo mica spedirle un dannato incubo... ##<<Assume un'aria imbarazzata.>> ...E men che meno uno dei miei sogni su Bina.||||
+p157|Forse posso aiutarvi a recuperarla.||||
+p158|Mi dispiace.||||
+p159|Che cosa sapete dei disertori?||||
+yous26|Conoscete il vecchio classico: «O la borsa o la vita». Ci era rimasto ben poco, quindi abbiamo dovuto consegnare tutta la scorta: quella o l'Attendente. Probabilmente ce l'hanno ancora, sempre che non l'abbiano consumata tutta.||||
+yous27|I [[Disertori]] sembravano ex Inquisitori, o forse quei mercenari della Stella Oscura a cui l'Unione sta dando la caccia. Qualunque cosa fossero, ne avevano avuto abbastanza. Li ho sentiti parlare di un campo base vicino a quella vecchia torre laggiù.||||
+p160|Che cosa dovevo fare, di preciso?||||
+p161|Forse posso aiutarvi a recuperare le bottiglie.||||
+yous28|Davvero? Siete sicuro? Probabilmente sono ancora nelle mani di quei [[Disertori]]... ma forse siete in grado di affrontare qualche guaio.||||
+p162|Farò il possibile.||||
+yous29|Grazie, amico. Siete fin troppo buono per queste isole maledette.||||
+yous30|Se trovate la scorta, non riportatela a me. A Hallow Town c'è un pilota dei cieli di nome [[Mikhail]] che potrebbe contrabbandarla nel Regno. Mi conosce: è stato lui a farci uscire di contrabbando.||||
+yous31|Chiedetegli di consegnare a mia sorella, nel Regno, la bottiglia contrassegnata «[[Yasmeen]]». Con un po' di fortuna riuscirà a trovarla. Il resto della scorta basterà e avanzerà per pagarlo: laggiù le visioni provenienti dall'esterno sono rare.||||
+yous32|Vorrei potervi ricompensare, ma non ci è rimasto nulla. Forse potrete trovare un accordo con Mikhail. ##Vi prego, amico. Mi manca casa. Mi manca la mia famiglia.||||
+p163|Mi dispiace, non credo di esserne all'altezza.||||
+yous33|<<Il suo volto si rabbuia e lui annuisce.>> Capisco. Non tutti possono affrontare delinquenti del genere. Beh, se trovate una Visione in Bottiglia contrassegnata «Yasmeen», vi prego di tenerla al sicuro.||||
+p164|Spero che presto dormiate sonni più tranquilli.||||
+p165|Va bene, era tutto ciò che volevo chiedere.||||
+yous34|Eh, va bene.||||
+care1|<<Il vecchio siede intagliando un blocco di legno. Gli occhi scompaiono sotto sopracciglia cespugliose e baffi folti, e ti chiedi se riesca perfino a vedere il coltello.>>||||
+care2|Hmph. A quanto pare abbiamo un intruso, eh? ##Allora ditemi, straniero: che ci fate a ficcanasare su isole che non vi riguardano?||||
+p170|Mi piace esplorare. È un po' il mio forte.||||
+care3|<<Il coltello si ferma.>> E chi vi dà questo diritto, eh? Certi luoghi sono privati. ((Proibiti)).||||
+care4|Si raccoglie quel che si semina, diceva sempre il mio vecchio. Prima o poi questo vostro fare da vagabondo vi caccerà nei guai, segnatevelo...||||
+p171|Scusate, non avevo capito che ci abitasse qualcuno.||||
+care5|Pah! E invece sì, mi sentite? Da cinquant'anni la mia famiglia bada a questo maniero. Mio padre mi ha affidato il compito, e io da qui non mi schiodo.||||
+p172|Vado dove mi pare, vecchio.||||
+care6|<<Posa con cura sul tavolo prima il pezzo di legno, poi il coltello.>> ##Ma ah, chi voglio prendere in giro? Questo posto è un rudere. Un tempo vi avrei cacciato a calci dall'isola, ma ormai non ne ho più la forza.||||
+care6-2|Basta che non andiate a ficcare il naso nel maniero, capito? Anche se l'Unione cerca di venderlo, questo maniero ha ancora una proprietaria... e un giorno tornerà.||||
+care7|Siete tornato, eh?||||
+p173|Che posto è questo?||||
+care8|Un tempo il nome di questa tenuta era noto in tutta Hallowshire. I giardini erano tanto magnifici e le mura tanto possenti che persino i nobili di Byonne sudavano al solo vederla.||||
+care9|Ah, ma quello era prima del mio tempo. Ora è un rudere, e la signora del maniero è via da così tanto che quei maledetti idioti dell'Unione l'hanno messo in vendita.||||
+p174|Quindi il maniero è in vendita?||||
+care10|Già, al giorno d'oggi gli Atti sono nelle mani dell'Unione Apostatica. Li mettono all'asta al miglior offerente, nell'[[edificio del consiglio dell'Unione]] a [[Hallow Town]]. ##Ho provato a dirgli che il posto è ancora occupato, ma quei bastardi non vogliono sentire.||||
+p175|Chi mai comprerebbe un simile tugurio?||||
+care11|<<Ti guarda con disgusto.>> ##Qualcuno lo comprerebbe, ve lo dico io. Qualcuno lo comprerebbe.||||
+care12|Al giorno d'oggi gli Atti sono nelle mani dell'Unione Apostatica. Li mettono all'asta al miglior offerente, nell'[[edificio del consiglio dell'Unione]] a [[Hallow Town]].||||
+care13|Solo che... per ora nessuno può comprarlo. Per colpa di quel costruttore che se la prende comoda.||||
+p176|Aspettate... avete detto «costruttore»?||||
+care14|Già, quel costruttore immobiliare. Un damerino di Lundel che ha fatto un'offerta tempo fa, ma pare che l'affare possa saltare.||||
+p177|D'accordo, ho capito.||||
+care15|<<Non dice nulla e torna a intagliare.>>||||
+p178|Che cosa fate qui?||||
+care16|Sono il [[custode]] di quest'isola. Mi occupo dei terreni e tengo in ordine la casa, solo che...||||
+care17|Il maniero è vuoto da molto tempo, capite. L'Unione Apostatica cerca di venderlo, e non starò certo a rimetterlo a nuovo solo per farle un favore.||||
+care18|Certo, il mio vecchio si starà rivoltando nella tomba. La mia famiglia bada a quest'isola da generazioni, capite. E io me ne sto qui a intagliare, per ammazzare il tempo.||||
+p179|Che cosa state intagliando?||||
+care19|<<Sorride.>> Sono pedine del Voyna. Lo conoscete? È un gioco per due, su un grande tavoliere.||||
+care20|Ogni tanto viene un vecchio amico a giocare con me. Ogni... tanto...||||
+care21|<<Il suo sguardo ti oltrepassa e rimane in silenzio per un lungo istante.>>||||
+p180|Vi lascio ai vostri intagli.||||
+p181|Aspettate, avete detto che questo maniero ha una proprietaria?||||
+care22|Già. Fu costruito da una donna di nome Ezra Thornwood, circa duecento anni fa. Quando mio padre divenne custode, una sua discendente, l'attuale signora del maniero, partì per viaggiare nei Regni Celesti.||||
+care23|Un giorno tornerà e, con il patrimonio di famiglia, riporterà questo luogo all'antico splendore. ##Almeno... se quella dannata Unione non lo vende prima.||||
+care30|<<Il vecchio siede intagliando un blocco di legno, ma quando ti vede sbatte gli attrezzi sul tavolo.>>||||
+care31|Così ((siete voi)) il bastardo che ha comprato questa terra, eh? Vi stavo aspettando...||||
+care32|Avete commesso un errore, mi sentite? Questo maniero ((ha)) una proprietaria. Sarò pure soltanto un custode, ma questa terra appartiene ancora ai Thornwood, e loro torneranno!||||
+p182|Ho pagato fior di quattrini per questo posto. Ora è mio.||||
+care33|Pah! Che importa se l'Unione Apostatica vi ha venduto un bell'Atto tutto infiocchettato? Questa terra non è vostra, punto e basta!||||
+p183|Questo posto è evidentemente abbandonato!||||
+care34|Non lo è! Sono il custode di questo maniero e continuerò a badare ai terreni finché la signora non tornerà!||||
+care35|<<Si accascia sulla sedia.>> Ah, ma vedo che non c'è verso di farvi ragionare. Siete qui per restare, e basta...||||
+care36|Allora lasciate che vi dia un consiglio, per il ((vostro bene.))||||
+care37|Ezra Thornwood costruì questo posto circa quattrocento anni fa, ma aveva... ((pericolosi)) segreti. In questa tenuta ci sono luoghi chiusi a chiave, come il seminterrato. Non apriteli mai. ((Mai)) entrateci.||||
+care38|Promettetemelo, e forse riusciremo ad andare d'accordo.||||
+p184|Aspettate, qual è questo oscuro segreto? Dovete dirmelo!||||
+care39|Nossignore. Ho prestato giuramento di silenzio alla famiglia Thornwood. Bocca cucita.||||
+p185|Non accetto che mi si vieti l'accesso alla mia proprietà.||||
+care40|((Siete voi)) l'intruso qui. Non m'importa quale pezzo di carta tutto infiocchettato vi abbia dato l'Unione; questo maniero appartiene ai Thornwood, e io ho giurato di proteggerne i segreti.||||
+p186|D'accordo. Affare fatto.||||
+care41|E mi fa piacere sentirlo.||||
+care42|E ora sparite e godetevi il vostro nuovo ((acquisto)). Resterò perfino qui a occuparmi dei terreni, purché diate retta al mio avvertimento.||||
+care43|<<Il vecchio siede intagliando un blocco di legno.>> Hmph. Vedo che il nostro ((proprietario)) è tornato, eh?||||
+care44|<<Il vecchio siede intagliando un blocco di legno.>> ##Buondì.||||
+care45|<<Ti fissa con il volto deformato dalla rabbia.>> ((Voi!)) L'avete liberata, vero? Avete spezzato il sigillo con cui mio padre aveva intrappolato quel ((mostro!))||||
+care46|Per tutta la vita l'ho sorvegliata qui, proteggendo i Regni Celesti da quell'immondo parassita. Avete idea del male che avete scatenato?||||
+care47|Be', non resterò qui un istante di più. Grazie a voi, non è più sicuro. La prossima volta che verrete, me ne sarò andato. Non ci vedremo ((mica)) più.||||
+care48|<<Ti fissa per un momento.>> ##L'avete uccisa, vero?||||
+care49|L'ho sorvegliata per tutta la vita. Sarà stata un mostro, ma avevo giurato di imprigionarla, non di ucciderla. Questa è la via di un Kresnik.||||
+care50|<<Sospira.>> Ma non crediate che non ci abbia mai pensato. Forse è meglio così. Ora siamo ((tutti)) liberi da quel parassita, immagino.||||
+p187|C'è un mostro nel seminterrato!||||
+p187b|A proposito della Vierme nel seminterrato...||||
+care51|<<Inspira profondamente.>> Già. Ormai non ha più senso nasconderlo.||||
+care52|Ezra Thornwood possiede questo maniero da duecento anni. Lei, e nessun'altra. È una ((Vierme)).||||
+care53|Significa che per tutto questo tempo ha avuto un parassita dentro di sé. L'ha trasformata in un ((mostro)) che si nutre dei sogni altrui mentre dormono.||||
+care54|E io? Sono un Kresnik, come mio padre prima di me. L'ho tenuta prigioniera qui per il bene di tutti.||||
+care55|O almeno lo facevo... prima che voi la mandaste al riposo eterno.||||
+p188|Che cos'è un... ((Kresnik?))||||
+care56|Siamo un'antica stirpe di cacciatori di Vierme. Le nostre origini risalgono a Slev, ma molti di noi viaggiano per i Regni Celesti, inseguendo le proprie prede.||||
+care57|Quasi tutti si addestrano per tutta la vita in vista di un solo scontro: sconfiggere una Vierme in battaglia, per poi imprigionarla e sorvegliarla.||||
+p189|Perché non la uccidete e basta?||||
+care58|Noi Kresnik giuriamo di non uccidere le Vierme che cacciamo. In fin dei conti, sono ancora esseri pensanti.||||
+care59|Perciò offriamo la nostra carne per mantenerle in vita. Quando una Vierme si nutre, si può intravedere ciò che pensa, ciò che sa. Alcuni Kresnik diventano persino... ((intimi)) con la propria Vierme.||||
+care60|<<Alza le spalle.>> È tradizione. Non mi aspetto che capiate.||||
+p190|E se la liberassi?||||
+care61|<<Ti fulmina con un'occhiata cupa.>> Sarebbe una cattiva idea. Una ((davvero)) cattiva idea.||||
+care62|Una Vierme, soprattutto un'antica come Ezra, è una creatura pericolosa. Non vorrete certo scatenarla sul mondo.||||
+p191|Quindi adesso vivo con un mostro?||||
+care63|Hmph, avevo cercato di avvertirvi, no?||||
+p192|D'accordo, ho capito.||||
+care64|Non ditelo a nessuno, chiaro?||||
+p193|Volevo chiedervi di certe cose... ((strane)) che ci sono nel maniero.||||
+care65|<<Si acciglia.>> Vi avevo detto di stare in guardia, no?||||
+p194|Faccio sogni strani e dormo male.||||
+care66|<<Per un istante si irrigidisce, fissando un punto oltre le tue spalle, come prigioniero di una rivelazione.>> ##...Sogni, eh?||||
+care67|E chi sarei io, un veggente Wikkan? Non m'importa nulla dei vostri sogni.||||
+p195|Ho trovato degli appunti sparsi per la tenuta. Parlano di cose oscure.||||
+care68|Già, saranno di mio padre. Era ossessionato dall'occulto; voleva proteggere la gente dalle cose malvagie che si aggirano nella notte.||||
+care69|Non badateci. Avrei dovuto bruciarli molto tempo fa.||||
+p196|C'è una statua nel seminterrato.||||
+care70|Non vi avevo detto di starne alla larga? Ezra Thornwood collezionava cose oscure. Cose ((malvagie)) in tutto e per tutto. Lasciatela stare, per l'amor degli dèi.||||
+p197|È tutto.||||
+care71|<<Fa una smorfia senza dire nulla.>>||||
+p198|Voglio potenziare il maniero.||||
+care72|Hmph. Fossi in voi, lo lascerei com'è... ##Ma lo ammetto: rivederlo elegante come un tempo... be', sarebbe una bella cosa.||||
+care73|L'Unione ha installato una [[Stazione Immobiliare]] qui vicino. Vi permetterà di commissionare dei miglioramenti per il maniero, a pagamento.||||
+care74|Solo... non lasciate che nessun operaio si avvicini al seminterrato, mi sentite? Ci sono luoghi che è meglio non toccare.||||
+p199|Che cosa fate qui?||||
+care75|Sono il [[custode]] di questa tenuta. Mi occupo dei terreni per la famiglia Thornwood, solo che... a quanto pare ora me ne occupo anche per voi, ormai.||||
+p200|Vi lascio ai vostri intagli.||||
+clerk1|<<La scrivania dell'impiegato è sepolta sotto calamai e pergamene. Le braccia si agitano senza sosta, afferrando fogli e scarabocchiando con la penna. Di tanto in tanto borbotta un'imprecazione, getta un documento a terra e lo calpesta.>>||||
+clerk2|<<Si accorge che ti stai avvicinando.>> No, no, no, no! Mai! Assolutamente no!||||
+p211|Sì. Assolutamente, indubbiamente, inequivocabilmente ((sì.))||||
+clerk3|Ho detto di no! Le Stelle neurali si ridurranno tutte in polvere prima che io faccia una cosa simile.||||
+p212|Sì. Un milione di volte sì, avete capito?||||
+clerk4|Una maledizione sulla vostra casa! Che le spuntino le gambe e se ne scappi. Sparite!||||
+p213|Aspettate... di che cosa stiamo parlando?||||
+p214|Ehm, scusate?||||
+clerk5|Conosco quelli come voi. Avete una certa aria. Un'aria da ((incubo legale)).||||
+clerk6|Forse la vostra casa è andata alla deriva in un altro principato? Il vostro nome contiene lettere che non esistono? O il vostro sosia rivendica la proprietà del vostro bestiame? Qualunque sia il problema, ((non m'interessa)).||||
+clerk7|Quindi, a meno che non siate venuto a comprare quel vecchio maniero fatiscente per una somma oltraggiosa, vi prego di ((levarvi di torno)).||||
+p215|Voglio comprare quel maniero.||||
+clerk8|<<Gli occhi dell'impiegato si spalancano e la penna gli si spezza, schizzando inchiostro sulla scrivania.>>||||
+clerk9|((Ehm)). Sì, credo di aver detto che abbiamo in vendita un nuovo e ((lussuoso)) maniero, a un prezzo assolutamente ragionevole.||||
+clerk10|Può essere vostro per appena 200 monete. Un vero ((affare)), davvero.||||
+p216|Parlatemi del maniero.||||
+clerk11|È uno splendido maniero, con un'isola intera a fargli da tenuta. Una proprietà storica, successiva allo Squarcio del Mondo, vecchia di circa 200 anni. ##L'isola è raggiungibile tramite un ascensore di legno al confine meridionale di Hallowshire.||||
+clerk12|Ha, ehm, bisogno di qualche... ((piccolo ritocco.)) Ma con un po' di monete potreste far ristrutturare tutto in men che non si dica. ##Oh, e c'era un altro dettaglio insignificante...||||
+clerk13|Il terreno è stato recentemente riacquisito dall'Unione Apostatica, dopo essere stato trovato disabitato, ma certa marmaglia locale ha protestato. Sciocchezze sul fatto che la proprietaria sarebbe ancora... ((viva)).||||
+clerk14|Assurdo, naturalmente. Non badateci.||||
+p217|@@È un prezzo scandaloso. Ve ne offro la metà.||||
+clerk15|%% <<Deglutisce nervosamente.>> Sì, ha bisogno di... qualche riparazione. E va bene. Metà prezzo. ##<<Ti strappa di mano la borsa.>>||||
+clerk16|&&Assolutamente assurdo! È un maniero storico, più antico dei funghi di queste isole. Prezzo pieno, e non una moneta di meno.||||
+p218|D'accordo, lo compro. Ecco il denaro.||||
+clerk17|<<Sospira.>> A quanto pare non ne avete abbastanza. Tornate quando avrete una ((seria)) proposta.||||
+clerk18|Splendido, splendido! Lasciate che prenda il denaro... cielo, questa borsa pesa parecchio, eh?||||
+p219|Ho cambiato idea.||||
+clerk19|Capisco. Vi prego, non fatemi perdere tempo con domande oziose.||||
+p220|Me ne vado.||||
+clerk20|<<L'impiegato è ancora impegnato con la sua montagna di scartoffie.>> ##Mh, di nuovo voi? Fate in fretta, per favore.||||
+p221|Ho qualche domanda sul maniero che ho comprato.||||
+clerk21|Ah, sì, quella vecchia... ehm, voglio dire, quella splendida proprietà. Che cosa volevate sapere?||||
+p222|Parlatemi del maniero.||||
+p223|Mi avete venduto una proprietà che appartiene a un antico mostro!||||
+clerk22|<<L'uomo ti fissa per un istante, poi scoppia a ridere.>> ##Cielo, di racconti inverosimili ne ho sentiti tanti, ma mai nulla del genere.||||
+clerk23|Temo che l'affare sia concluso, qualunque assurdità vi piaccia inventare.||||
+p224|Ricordatemi come si gestisce la proprietà.||||
+clerk24|Ora che siete in possesso di una proprietà tanto... ((prestigiosa)), potreste prendere in considerazione alcune ristrutturazioni.||||
+clerk25|Nella tenuta troverete una [[Stazione Immobiliare]]. Potete usarla per [[potenziare]] e [[decorare]] una proprietà.||||
+clerk26|Nella tenuta vive anche un [[custode]] che non paghiamo; anzi, gli abbiamo intimato numerose volte di andarsene. Forse voi avrete più fortuna.||||
+p225|Come faccio a potenziare una proprietà?||||
+clerk27|Usate una [[Stazione Immobiliare]] per vedere i potenziamenti disponibili. Ogni potenziamento comporta un costo, sia in [[monete]] sia in [[risorse]].||||
+clerk28|La prima fase di ogni potenziamento consiste solitamente nel [[costruirlo]]. Per esempio, potreste voler costruire un'ala adibita a [[Biblioteca]] ma dovrete pagare il costo di costruzione e attendere che i lavori siano completati.||||
+clerk29|La seconda fase consiste nell'[[arredare]] il potenziamento. In questo modo otterrete mobili, trofei e, in alcuni casi, equipaggiamento speciale.||||
+clerk30|Tutti i potenziamenti condivideranno lo stesso [[stile decorativo]] del resto della proprietà.||||
+p226|Come faccio a decorare una proprietà?||||
+clerk31|Potete [[decorare]] la vostra proprietà in diversi stili. Questi stili si sbloccano acquistandoli; le [[decorazioni dell'Unione Apostatica]], per esempio, possono essere comprate dal [[sarto]] in città.||||
+clerk32|Alla proprietà può essere applicato un solo [[stile decorativo]] e avrà effetto soltanto sulle parti già [[arredate]]. Non potete decorare senza mobili!||||
+clerk33|Anche certi [[oggetti speciali]] possono cambiare insieme ai mobili. Provate stili diversi per capire che cosa intendo.||||
+p227|Come faccio a esporre trofei e opere d'arte?||||
+clerk34|Una volta che una parte della proprietà è stata [[arredata]], appariranno diversi [[supporti per trofei]] con cui potrete cambiare il tipo di trofeo esposto.||||
+clerk35|I trofei, però, devono essere [[sbloccati]] prima di poter essere esposti.||||
+clerk36|Quanto al modo in cui potete scoprirli, non saprei dirlo. ##Una volta conoscevo un tizio che vinse una gara di bevute e da allora la sua casa si ritrovò piena di pacchiani dipinti raffiguranti boccali di birra.||||
+p228|Grazie, credo di aver capito.||||
+clerk37|Sì, sì. C'era altro?||||
+p229|Addio.||||
+vierme1|<<La creatura ti fissa con un'intensità agghiacciante. Le parole le sibilano tra i denti affilati, ma parla lentamente, con studiata precisione.>>||||
+vierme2|Salute, intruso. Vi osservo da tempo: calpestate i miei terreni, profanate la mia dimora, innalzate i vostri miseri gingilli.||||
+vierme3|E vi ho osservato mentre dormivate. Ho assaporato la vostra carne; ho bevuto il vostro sangue; ho gustato i vostri sogni.||||
+vierme4|Pensavo che sareste fuggito in preda al terrore, e invece indugiate ancora in un luogo che non vi appartiene. Perciò vi chiedo, intruso: perché mi tormentate tanto?||||
+p240|((Sono io)) a tormentare ((voi?)) C'è un mostro nel mio seminterrato!||||
+vierme5|<<La creatura emette un sospiro gutturale.>> Un mostro, davvero. Sono passati molti secoli dall'ultima volta che ho potuto sostenere il mio sguardo allo specchio.||||
+vierme6|Ma mostro o no, questo ((non)) è il vostro seminterrato.||||
+p241|Non sono un intruso. Ho comprato questa casa in piena regola.||||
+vierme7|Oh? E quale ladro ha mediato l'affare?||||
+p242|Preparatevi a morire, parassita.||||
+vierme8|Sareste così rapido a massacrare un'altra anima viva, che respira? Ascoltatemi solo un momento, intruso, prima di sguainare la lama.||||
+vierme9|Questi terreni sono la mia prigione, ma anche la mia casa. Ho visto innalzare queste travi circa duecento anni fa e da allora vivo qui.||||
+vierme10|Avrete pure comprato un pezzo di carta per una somma considerevole. Forse reca la firma di qualche nobile azzimato? Non m'importa. Queste terre sono mie.||||
+vierme11|<<Fa un respiro profondo.>> ((Ma)). Esistono cose più preziose perfino di una casa. Come la propria ((libertà)).||||
+vierme12|Sono incatenata qui, intruso, prigioniera nei miei stessi terreni per opera di una potente magia cifrata. Se mi aiutaste a conquistare la libertà, riconoscerei il vostro diritto su questo maniero. ##Che ne dite?||||
+p243|Mi avete aggredito mentre dormivo! Perché dovrei fidarmi di voi?||||
+vierme13|Ammetto che forse siamo partiti col piede sbagliato. Ma ricordate, intruso, che la prima pietra l'avete scagliata voi. È naturale agire d'impulso quando ci si sente minacciati.||||
+p244|Mettiamo che vi aiuti ((davvero)) a liberarvi. Mi lascerete in pace?||||
+vierme14|Ahimè, sono pochi i luoghi in cui una creatura come me possa vivere al sicuro. Se mi concedeste la libertà, vi lascerei governare il maniero, mentre io resterei in queste sale sotterranee.||||
+vierme15|Ma, oh, quali meraviglie porterebbe la libertà! I miei viaggi mi arricchirebbero immensamente, e dopo aver banchettato con la vostra carne vi concederei grandi doni.||||
+p245|Aspettate: continuereste comunque a bere il mio sangue?||||
+p246|Siete davvero un mostro!||||
+vierme16|Oh, il bacio di una Vierme non è nulla di tanto rozzo quanto il semplice ((succhiare sangue)). È la tenera unione di due anime.||||
+vierme17|La mia lingua vermiforme si lega al vostro sistema nervoso e, per un magnifico istante, le nostre menti diventano una sola. I sogni che avete visto? Sono i miei. Un dono in cambio del nutrimento.||||
+vierme18|Se mi liberaste, vi risvegliereste qui con una parte della vostra [[Salute]] in meno, ma sareste [[rinvigorito]]: i sensi più acuti, i riflessi più pronti.||||
+p247|Molto bene, vi aiuterò.||||
+vierme19|Eccellente. Ecco cosa dovete fare.||||
+vierme20|Nella foresta di [[Hallowshire occidentale]] sorge una casa decrepita, non molto diversa dalla mia. Un tempo la frequentavo; [[questa chiave]] vi permetterà di aprirla.||||
+vierme21|Un tempo vi abitava una Vierme; non so se sia ancora lì. Ma so questo: era prigioniera come me e si liberò del proprio oppressore. Recuperate il suo [[grimorio]] e forse potrò fare altrettanto.||||
+p248|D'accordo, ma prima ho qualche domanda.||||
+vierme22|Fate pure.||||
+p249|Allora mi metto in cammino.||||
+vierme23|Grazie, e buona fortuna.||||
+p250|E se dicessi di no?||||
+vierme24|Allora immagino che risolveremmo la questione come animali, con zanne e artigli. Ma badate, intruso: quando siete sveglio, il mio morso è più pericoloso.||||
+p251|Niente accordo, mostro. Preparatevi a morire.||||
+vierme25|E sia. Assaporate questi istanti, intruso, perché saranno gli ultimi.||||
+vierme26|Siete tornato.||||
+vierme27|È un piacere rivedervi, amico mio.||||
+p252|Ricordatemi come posso liberarvi.||||
+p253|Ricordatemi dove posso trovare quel grimorio.||||
+p254|Ho portato il grimorio.||||
+vierme28|Temevo che fosse andato perduto. È un dono squisito, mortale.||||
+vierme29|<<La Vierme sfoglia il libro fino a una determinata pagina e la strappa. Pronuncia una raffica di parole in Cifro e l'aria si fa gelida. Nella tua mente riecheggia un suono simile a mille bicchieri che si infrangono.>>||||
+vierme30|Oh, lo sento già: un peso enorme è svanito! ##Ho riavuto la libertà, e voi avete la mia più sincera gratitudine.||||
+vierme31|Tornerò a volare attraverso i Regni Celesti, per contemplarne meraviglie e bellezze. Il bacio di una Vierme libera è sublime, mortale; condividerete la mia euforia quando vi risveglierete nel vostro Letto.||||
+p255|Ehm... grazie.||||
+p256|È stato un piacere.||||
+p257|Che effetto fa essere libera?||||
+p258|Che genere di creatura siete?||||
+vierme32|Sono una Vierme, nome che deriva dal parassita che vive dentro di me. Non si nutre soltanto di carne. Pensieri, sentimenti, emozioni umane: questo è il suo nutrimento. E così la mia specie si aggira furtiva nella notte, cibandosi di sogni.||||
+p259|Credo di essere anch'io una Vierme.||||
+vierme33|<<La Vierme annusa l'aria con espressione perplessa.>> Ah, sì: ora lo sento. È molto lieve: dovete essere stato infettato da poco...||||
+vierme34|Un consiglio. Se riuscite a trovare un modo per liberarvene, fatelo in fretta. Col passare degli anni si fonderà con la vostra carne, finché il mortale e il mostro non saranno un tutt'uno.||||
+vierme35|Guardatemi, giovane Vierme: guardate il miserabile destino che vi attende. Non volete questo. ##Invecchiate, siate felice e morite con orgoglio.||||
+p260|Parlatemi di questo parassita.||||
+vierme36|Il parassita Vierme è una lunga larva simile a un serpente. Prolifera in luoghi ripugnanti e piomba sulla preda, infilandosi a forza nella sua bocca.||||
+vierme37|Le scivola giù per la gola e si annida nelle viscere. Le sue tossine annebbiano la mente, celando l'orrore latente dietro una falsa euforia.||||
+vierme38|Il parassita non può sopravvivere di cibo normale e costringe l'ospite a rigurgitarlo. Nel cuore della notte, invece, l'ospite brama il calore della pelle umana. Quando il parassita si nutre, emerge dalla bocca dell'ospite e usa i propri denti.||||
+vierme39|Per circa il primo secolo, l'ospite sembra non invecchiare. Ma col tempo il parassita si fonde con lui, finché i due diventano una cosa sola e assumono un aspetto simile... al mio.||||
+p261|Che genere di vita avete condotto?||||
+vierme40|Ho vissuto quattrocento anni, ma non sono sempre stata la Vierme contorta che vedete davanti a voi. Molto tempo fa ero una ragazza umana, non tanto diversa dalle altre.||||
+p262|Parlatemi della vostra «giovinezza».||||
+vierme41|Da ragazza mi chiamavo... Ezra Thornwood. È da molto tempo che non pronuncio quel nome.||||
+vierme42|Io e i miei genitori eravamo profughi dello Squarcio del Mondo, se riuscite a crederci. Avemmo la fortuna di trovarci a bordo di un'Aeronave Emberiana che precipitò su queste isole. Avevo cinque anni.||||
+vierme43|Oggi pochi lo ricordano, ma Hallow Town nacque come accampamento di quei superstiti. Quando ero bambina, i miei genitori mi regalarono un'arpa e m'insegnarono le antiche canzoni Emberiane. Storie meravigliose delle grandi città che né io né nessun altro avremmo mai più visto.||||
+vierme44|Fu nel bosco che... mi entrò in gola. Il parassita. Soffocai, ebbi conati, ma invano. I miei genitori non vollero consultare i Wikkan locali, perché gli Emberiani erano un popolo fiero e laico. Quella notte mi trovarono mentre mi nutrivo di mia madre, con il parassita mezzo emerso dalla bocca.||||
+vierme45|Fuggii e non rividi mai più i miei genitori.||||
+p263|Parlatemi della vostra vita da Vierme.||||
+vierme46|Viaggiai a lungo nei Regni Celesti, spostandomi da un'isola all'altra. Quando tornai nella città della mia infanzia, Hallow Town, avevo più di cent'anni, anche se non ne dimostravo più di venti.||||
+vierme47|Tutti quelli che conoscevo erano morti. Ricordo di essere rimasta per giorni accanto alle tombe dei miei genitori, prigioniera di un dolore silenzioso.||||
+vierme48|Trovai la mia vecchia arpa in vendita come pezzo d'antiquariato. La comprai e suonai nella taverna, ma tutti avevano dimenticato le antiche canzoni. La gente seguiva le usanze Wikkan; le città Emberiane erano ormai leggenda.||||
+vierme49|Dubito che possiate capire che cosa significhi essere straniera in casa propria. ##Ma mi stabilii qui, a Hallowshire. Feci fortuna. Costruii questo maniero.||||
+vierme50|Col tempo il parassita si fuse con il mio corpo. Non ero più umana: ero un'antica Vierme. ##Nascondermi divenne più difficile e, alla fine, quel maledetto Kresnik mi trovò qui.||||
+p264|Grazie per avermi raccontato la vostra storia.||||
+vierme51|Non c'è di che. A essere sincera, mi ha fatto piacere poterla raccontare a qualcuno. Grazie di questo.||||
+p265|Era tutto ciò che volevo sapere.||||
+vierme52|Molto bene.||||
+p266|Come siete finita prigioniera qui?||||
+vierme53|Potreste aver incontrato il... ((custode)) che si aggira di soppiatto sui miei terreni. Non lasciatevi ingannare: quell'uomo è un [[Kresnik]], un cacciatore della mia specie.||||
+vierme54|Dicono di cacciare i parassiti, ma è ironico: non uccidono le prede. Le intrappolano, le incatenano alle loro dimore e prendono il loro posto.||||
+vierme55|È più di un semplice furto. Alcuni bramano il bacio di una Vierme. Lui viene da me fin troppo spesso, offrendo la propria carne perché questa farsa possa continuare.||||
+vierme56|Ormai sono passati cinquant'anni. Prima suo padre, che poi ha trasmesso il compito al figlio: cacciano in branco, vedete. Questo infernale sigillo cifrato m'impedisce di fargli del male, e più mi allontano dal sigillo, più mi indebolisco. Se lasciassi quest'isola, morirei di certo.||||
+vierme57|Quell'infernale sigillo cifrato m'impediva di fargli del male, e più me ne allontanavo, più mi indebolivo. Ma grazie a voi, dopo trent'anni di prigionia, sono finalmente libera.||||
+p267|Addio.||||
+FrostFix1|<<Ti svegli senza fiato e madido di sudore, con i pensieri in tumulto. Sai dove devi andare.>>||||
+FrostFix2|<<Lo sai grazie alla visione: hai sorvolato le [[Terre Corrotte]] con Vela. Oltre gli [[scavatori abbandonati]], fino all'[[estremità sud-orientale]], dove sorge la [[Città Perduta di Progresso]]. È ((lì)) che giacciono i ricordi di Horace.>>||||
+SkiffHinter1|<<L'uomo, vestito con abiti raffinati, borbotta davanti a una mappa consunta.>> ##...Quest'affare è più inutile di una ((carcassa gonfia di un dio...))||||
+SkiffHinter2|<<All'improvviso si accorge di te.>> Ah! Voi, laggiù! Per caso potreste aiutare un ((umile)) mercante nel momento del bisogno, eh?||||
+SkiffHinter3|Ho un grosso carico di Tè di Fungoscrutatore diretto al Regno Meccanico. ##Ora, prima che lo diciate, lo so, lo so: il valico di frontiera è [[sbarrato.]] Ma vedete, sono in contatto con l'unico tizio da queste parti che possieda un [[permesso d'importazione]] per quel maledetto regno d'ingranaggi, o quel che è.||||
+SkiffHinter4|Come si chiamava? M... Mika? Makka? Ah, mi sfugge. ##Il punto è che proprio non riesco a ((trovarlo)) da nessuna parte, no? Questa vecchia mappa è tutta sbagliata!||||
+SkiffHinter5|Quindi, se avete visto quel tizio, fatemelo sapere. Ci sarà qualche moneta per voi.||||
+p301|Mikhail? Sì, è direttamente a sud di qui, lungo la scogliera.||||
+SkiffHinter6|Ah, il mio salvatore! A ben poco mi è servita questa mappa, eh? Dovrebbero affidare a ((voi)) il compito di disegnare queste dannate mappe.||||
+SkiffHinter7|Come promesso, ecco alcune [[monete]] per il disturbo. Ben guadagnate, devo dire.||||
+SkiffHinter8|Ora, dato che il mio assistente mi ha piantato in asso, mi toccherà spostare il carico da solo. <<Fa una pausa.>> ##...Ah, ((maledetti dèi...))||||
+p302|Certo, vi farò sapere se lo vedo.||||
+SkiffHinter9|<<Annuisce.>> Siete davvero gentile. Nel frattempo, tornerò a decifrare questa ((maledetta)) vecchia mappa...||||
+p303|Aspettate: pensate che possa far entrare delle ((persone)) nel Regno?||||
+SkiffHinter10|<<Il mercante si acciglia.>> Beh, direi che non esiste ((altro)) modo di entrare in quel posto maledetto. Se foste disperato, varrebbe la pena tentare la sorte.||||
+SkiffHinter11|Ma non capisco perché ((qualcuno)) dovrebbe volerci andare. A quanto si dice, le politiche del Re hanno gettato il Regno nel caos. Pare che una pagnotta valga più di un'Aeronave! Perché credete che stia cercando di rifilare questo tè a qualcuno?||||
+SkiffHinter12|Ehm. Comunque, fatemi sapere se lo vedete, d'accordo?||||
+p304|Non sono un vostro garzone.||||
+SkiffHinter13|<<Ti squadra da capo a piedi.>> Hmph. No, ((direi)) di no. ##Allora vi auguro buona giornata.||||
+SkiffHinter14|Ah, ci incontriamo di nuovo. Non avrete per caso visto quell'individuo con un [[permesso d'importazione per il Regno Meccanico]]?||||
+p305|No, non ancora.||||
+SkiffHinter15|<<Annuisce.>> Capisco, capisco. Be', meglio tornare alla mappa. Forse è capovolta...||||
+cwkGatebridge1|Salute, viaggiatore. Mi spiace, ma se siete un cittadino del Regno Meccanico in cerca di rifugio nell'Unione Apostatica, vi servirà un [[Passaporto dell'Unione Apostatica]] per attraversare questo Ponte del Cancello.||||
+cwkGatebridge2|Vedete, un sacco di gente sta cercando di sfuggire al caos del Re Meccanico, e questo Ponte del Cancello è stato riservato alla gente dell'Unione — e ((soltanto)) alla gente dell'Unione. I nobili di Hallowshire ritengono che questo posto abbia già abbastanza problemi senza un'ondata di profughi.||||
+casSurvivorA1|Arrivate da fuori? Là fuori non è sicuro!||||
+casSurvivorA2|Ci sono... cose là fuori. Le ho viste dalla finestra. Erano come... come...||||
+casSurvivorB|<<La donna è scossa da una serie di colpi di tosse gorgoglianti e rantolanti.>>##Augh... se fossi in voi, mi terrei a distanza. Io sono...##<<Il resto delle parole diventa incomprensibile, soffocato da un nuovo accesso di tosse.>>||||
+casSurvivorC1|Qui fuori è tutto così limpido! Così pulito!##Voi... voi siete quello che è venuto da fuori... avete fatto voi tutto questo?||||
+casSurvivorC2|Allora grazie! Mille e mille grazie!##Ecco, prendete questo.||||
+casSurvivorC3|Ma, se posso chiedervelo... come avete fatto?||||
+casSurvivorC4|<<Il suo volto radioso si spegne mentre le racconti la tua storia.>>##Io... non posso dire di non esservi grata, ma perdonatemi se... voglio dire... Lasciateci, vi prego! Avete... avete fatto abbastanza!||||
+casSurvivorC5|Lasciateci, vi prego! Avete... avete fatto abbastanza!||||
+casSurvivorC6|<<Ti guarda con occhi luminosi.>>##Grazie infinite. Per tutto.||||
+casSurvivorCP1|Felice di essere stato d'aiuto.||||
+casSurvivorCP2|<<Non rispondere>>||||
+casSurvivorCP3|<<Raccontarle ciò che hai fatto.>>||||
+casSurvivorCP4|<<Omettere le parti più oscure>>||||
+secretAdv1|Uhm, che cosa abbiamo qui? ((Un altro)) aspirante avventuriero su questa roccia alla deriva? Oserei dire che qui comincia a esserci un po' di ressa.||||
+secretAdv2|Avanti, dunque: cercate ((anche)) voi il [[tesoro]] nascosto dietro quella porta di pietra?||||
+secretAdv3|Ehm, direi di sì.||||
+secretAdv4|Be', questo non va affatto bene! Non possiamo ((entrambi)) rivendicare la proprietà di ciò che si trova oltre quella porta. Immaginate l'imbarazzo di dover ammettere alla Gilda degli Speleologi di Riova che avete avuto ((aiuto!))||||
+secretAdv5|Ehm, non ho idea di che cosa stiate parlando.||||
+secretAdv6|<<Socchiude gli occhi.>> Uhm. Fate il vago, eh? Be', supponiamo che stiate dicendo la verità.||||
+secretAdv7|Facciamo così. Se mi aiutate ad aprire questa porta e vi fate da parte quando rivendicherò qualunque cosa si trovi là dentro, vi ricompenserò ((generosamente)).||||
+secretAdv8|Naturalmente non avrete nulla da questa antica caverna, ma in compenso potrete avere un oggetto [[davvero inestimabile]] dalla mia nave mercantile.||||
+secretAdv9|Dovete soltanto [[tirare questa leva]] per attivare una specie di conto alla rovescia. Poi dovrete trovare [[dieci interruttori segreti]] che sbloccheranno il meccanismo della porta prima che [[scada il tempo]].||||
+secretAdv10|C'è solo un problema: sembra che gli [[interruttori]] fossero a loro volta piuttosto preziosi e siano stati trafugati dalla gente del posto. Per quanto ne sappiamo, potrebbero essere [[sparsi per tutte le Isole Oniriche.]]||||
+secretAdv11|Un bel rompicapo, eh? Ma ricordate: se riuscirete ad aprire quella porta, saprò ricompensarvi a dovere, e anche di più.||||
+secretAdv12|<<L'avventuriero urla furibondo.>> ((Merda di calamaro! Sterco di Typhos! Figlio d'una limaccia da seta! Che vada tutto in malora!))||||
+secretAdv13|Ehm, state bene?||||
+secretAdv14|Che cosa c'è?||||
+secretAdv15|Il tesoro! È... è...||||
+secretAdv16|((È un dannato pagherò!))||||
+secretAdv17|Guardate questa tavoletta. Nelle scritture preistoriche delle tribù degli abitanti dei cieli, si traduce più o meno così...||||
+secretAdv18|((Il grande tesoro della...)) ehm, credo che qui dica ((tribù dei Cavalcanuvole))... ##((...è stato prestato ai nostri fratelli delle Isole Fluttuanti, in cambio dell'uso delle loro... sorgenti termali?))||||
+secretAdv19|...##...||||
+secretAdv20|... quei bastardi ((l'hanno dato via!))||||
+secretAdv21|<<Sospira.>> Be', avete aperto quella dannata cosa, quindi devo onorare il nostro accordo.||||
+secretAdv22|Potete avere la mia [[Cabina degli Avventurieri]], insieme a tutto ciò che contiene. Ho ordinato ai miei servitori di smontarla per il trasporto.||||
+secretAdv23|Ora lasciatemi. Forse c'è ancora qualche pietra preziosa nel fango, da qualche parte...||||
+cephalokAgent1|Mi hanno mandato a tenere d'occhio questo Cefalopode gigante. È comparso solo di recente e ha messo in allarme certi pezzi grossi di Hallowshire.||||
+cephalokAgent2|A quanto pare, le leggende parlano di alcuni Wikkan che costruirono un castello nel guscio di un Cefalopode, ma a me sembra una sciocchezza. E che cosa dovrei fare, strisciare dentro la sua gola?||||

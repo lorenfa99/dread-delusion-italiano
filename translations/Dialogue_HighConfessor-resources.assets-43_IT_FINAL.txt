@@ -1,0 +1,713 @@
+cae|||||
+ID|English|French|German|Spanish|Italian
+p1|Arrivederci.||||
+p0|Addio.||||
+pq1|Posso farvi qualche domanda?||||
+pq2|D'accordo, credo di aver capito.||||
+pq3|Capito.||||
+pq4|A dire il vero, avevo altre domande.||||
+pq5|Era tutto ciò che volevo sapere.||||
+hc1|<<Il congegno barcolla su zampe malferme, mentre sangue denso cola dalle giunture a ogni movimento convulso. >>||||
+hc2|<<La voce roca e raschiante di una donna riecheggia dall'interno del congegno.>>##Il vostro servizio è... ((obbligatorio)), Prigioniero XVII.||||
+p10|Non è il mio nome.||||
+hc3|<<Uno sghignazzo si spegne in una raffica di colpi di tosse.>> ##Avete rinunciato... al ((diritto)) a un nome quando avete tradito... l'[[Unione Apostatica.]] Un numero è tutto ciò che meritate.||||
+hc4|Ma vi offro la possibilità di fare penitenza. Un'occasione per espiare... i vostri sordidi crimini.||||
+p11|Non prenderò ordini da una bara.||||
+p12|Ehm... vi serve aiuto?||||
+hc5|<<Uno sghignazzo si spegne in una raffica di colpi di tosse.>> ##Questa bara di ferro è un onore, un ((privilegio.)) Il dolore che infligge... non fa che affinare la mia ragione.||||
+hc6|I vostri vili crimini contro l'[[Unione Apostatica]] non meriterebbero... un tormento tanto squisito. Ma posso offrirvi una redenzione di... altro genere.||||
+hc7|Sono l'[[Alta Confessora]] di questo... tribunale da combattimento dell'[[Inquisizione]]. Diamo la caccia ai criminali più pericolosi. ##E ((voi))... ci aiuterete.||||
+p13|In che modo, esattamente?||||
+p14|Non se ne parla proprio di aiutare l'Inquisizione.||||
+hc8|<<Ansima.>> Oh, ma lo ((farete)). La vostra condanna... vi impone questo servizio militare. Un rifiuto comporterebbe... orrori ((indicibili)) inflitti alla vostra persona. ##Quindi... ascoltate bene.||||
+p15|E io cosa ci guadagno?||||
+hc9|<<Ansima.>> Dovreste rallegrarvi di una simile... ((lodevole)) occasione di fare penitenza. Ma il successo potrebbe portare dei vantaggi. Perfino la vostra ((libertà.)) ##Quindi... ascoltate bene.||||
+hc10|Sappiamo da tempo... dove si trova il nostro bersaglio. In un arcipelago sperduto ai margini estremi... del territorio dell'Unione.||||
+hc11|Conosciute come le [[Isole Oniriche]], queste isole volanti... ospitano ogni sorta di reietti e malfattori. ##Siamo arrivati poche ore fa, ma abbiamo incontrato... una feroce resistenza.||||
+hc12|Il nostro bersaglio... si trova nella fortezza [[Luce Accecante]], l'ultimo baluardo rimasto dei [[Mercenari della Stella Oscura...]]||||
+hc13|...perché la nostra preda è la loro comandante, la famigerata... [[Vela Callose]].||||
+p16|Non ho scelta.||||
+p17|Mai sentita nominare.||||
+hc14|È la figlia dell'Ammiraglio Callose. Cresciuta per comandare, scelse invece la propria strada e fondò una banda armata... di ladri e pirati.||||
+hc15|I mercenari della Stella Oscura furono tollerati nell'Unione, finché Vela non si lasciò ammaliare da... deliri di grandezza. Sosteneva di poter creare... una sorta di ((paradiso)).||||
+hc16|((Vela Callose?)) È un suicidio!||||
+hc17|Niente affatto. È vero che i nostri agenti hanno incontrato... una feroce resistenza. Ma i miei Drone calcolano una... probabilità di successo di una su trecentosessantaquattro. È ((del tutto)) possibile.||||
+hc18|Prima di andare, prendete questo [[Diario dell'Inquisizione.]] ## <<Un braccio meccanico protende uno strano congegno verso di te.>>## Terrà traccia della vostra missione.||||
+hc19|I miei [[Drone]] possono offrirvi indicazioni. Nei pressi della Luce Accecante, l'[[Inquisitore Ignavius]] potrà darvi altro aiuto.||||
+hc20|Oh, e... non provate a fuggire. Queste [[isole volanti]] sono... instabili, e più d'uno sciocco vi ha trovato la morte precipitando.||||
+coop1|<<Mentre ti avvicini, l'Inquisitore inspira profondamente.>> Riuscite a ((sentire)) questo odore, Prigioniero XVII?||||
+p20|Ehm... grasso da motore?||||
+coop2|<<Scuote la testa.>> Queste navi dell'Inquisizione funzionano con magia cifrata inodore: tecnologia all'avanguardia, opera di quei cervelloni dell'Accademia Erudita.||||
+coop3|No, in realtà parlavo di... <<Inspira profondamente.>> ((spore di funghi)).||||
+p21|Ehm... il fumo della battaglia?||||
+coop4|<<Annusa esattamente due volte.>> Direi che ((c'è)) un lieve sentore.||||
+coop5|Ma in realtà parlavo di... <<Inspira profondamente.>> ((spore di funghi)).||||
+p22|Ehm... funghi?||||
+coop6|<<Schiocca le dita.>> ((Esatto))!||||
+coop7|<<Si volta verso di te con un sorriso raggiante.>> ##Non ho mai visto tanti funghi in ((vita mia.))||||
+coop8|Che gambi larghi. Che lamelle ben formate. <<Fa un lungo respiro.>> Ah, e che ((potenti)) spore! ##A Lundel abbiamo foreste di funghi, ma nulla di simile.||||
+coop9|<<Agita un dito verso di te, tornando a guardare i funghi.>> ##Prigioniero XVII, se tornate vivo, ricordatemi di procurarmi una scorta di [[Tè di Fungoscrutatore]] per mia moglie. Lo producono qui, nelle Isole Oniriche, e ho sentito dire che è da ((morire)).||||
+p23|Ehm, va bene.||||
+coop10|<<Ti dà una pacca sulla spalla.>> È dannatamente gentile da parte vostra, Prigioniero. ##Ah, ma dove sono finite le mie buone maniere?||||
+p24|Ehm, no.||||
+coop11|<<Aggrotta la fronte.>> Sapete, avete ragione, Prigioniero. Non ci siamo nemmeno presentati e già vi chiedo dei favori. È stato dannatamente scortese da parte mia.||||
+p25|Ehm, chi siete?||||
+coop12|<<Si dà una manata in fronte.>> Ah, ma dove sono finite le mie buone maniere?||||
+coop13|<<Ti porge la mano in segno di saluto.>> ##Inquisitore Ignavius del Dodicesimo Tribunale Inquisitorio, lieto di fare la vostra conoscenza.||||
+p26|((Stringergli la mano con fermezza.))||||
+coop14|<<Ricambia la stretta con pari fermezza.>> Direi che sono in buona compagnia, Prigioniero.||||
+p27|((Respingergli la mano con uno schiaffo.))||||
+coop15|<<Ride.>> Il classico ((Schiaffo Sleviano)). Be', può andare.||||
+p28|Che cosa ci ((facciamo)) qui, Ignavius?||||
+coop16|<<Ritira la mano.>> Hmph, subito al sodo, eh, Prigioniero? E sia.||||
+coop17|<<Indica la fortezza davanti a te.>> Quella che vedete è la [[Luce Accecante]] e appartiene a Vela Callose, comandante dei mercenari della Stella Oscura.||||
+coop18|L'Alta Confessora mi ha detto che avreste preso parte all'assalto. E appena in tempo: ci serve tutto l'aiuto possibile.||||
+coop19|Ho mandato tutti i miei agenti, ma finora nessuno è tornato a riferire. Ci aspettavamo duri scontri, ma a quanto pare quei furfanti della Stella Oscura sono ben più coriacei di quanto pensassimo.||||
+coop20|I vostri ordini sono di [[catturare Vela viva]]. Non è un compito da poco, lo ammetto, ma credo che siate all'altezza, Prigioniero. ##Allora, qualche domanda?||||
+p29|Come si arriva alla Luce Accecante?||||
+coop21|Ebbene, vedete quel gran [[cannone]] che incombe lassù? Fa parte della fortezza della Luce Accecante, ed è lì che dovete arrivare.||||
+coop22|Entrate a passo deciso dal portone principale, avendo cura di eliminare ogni fastidioso mercenario della Stella Oscura che vi sbarri la strada. Una volta nel complesso, cercate un [[meccanismo dell'ascensore]] che vi porti sui [[bastioni]]. È lì che Vela si è rintanata.||||
+p30|C'è un modo per evitare spargimenti di sangue?||||
+coop23|Ah, siete il tipo ((furtivo)) che preferisce non farsi vedere, eh? Be', siete fortunato. I miei agenti hanno segnalato un [[ingresso laterale]] a destra della fortezza, che conduce a una specie di tunnel di manutenzione. Di certo i mercenari della Stella Oscura avranno disseminato il percorso di [[trappole]], ma una mano esperta come la vostra saprà disinnescarle, eh?||||
+coop24|Una volta dentro, potreste provare a [[evitare di essere scoperto]] stando rasente alle pareti. Questi vecchi forti della Guerra Divina sono pieni di anfratti e nascondigli, quindi... <<Si porta un dito alle labbra.>> fate silenzio e non fatevi vedere, d'accordo?||||
+p31|E se volessi esercitarmi nel combattimento?||||
+coop25|Ah, be', abbiamo allestito una sorta di piccolo campo d'addestramento proprio qui! Prima di una missione difficile, mi assicuro sempre che il mio Contingente da combattimento ripassi i fondamentali, perciò troverete parecchi [[manichini da addestramento]] e [[cartelli del tutorial]] poco più in basso.||||
+p32|Devo saperne di più su Vela e su questa missione.||||
+coop26|<<Annuisce.>> Sì, sono certo che avrete molte domande. Che cosa volete sapere?||||
+p33|D'accordo, direi che è ora di andare.||||
+coop27|<<Il suo sorriso si allarga.>> Ah, questo è lo spirito giusto, Prigioniero. Sono certo che vi sbarazzerete di quei furfanti in un baleno.||||
+coop28|E quando avrete finito, assicuratevi di [[ripassare da me]] dopo la missione. Ultimamente mi sono interessato parecchio a queste Isole Oniriche, e sono certo di potervi raccontare molte [[curiosità utili.]]||||
+coop29|<<Sorride.>> Inquisitore Ignavius del Dodicesimo Tribunale Inquisitorio, lieto di fare la vostra conoscenza.||||
+coop30|In qualità di Secondo Inquisitore di questo tribunale, potete rivolgermi qualsiasi domanda troppo ((insignificante)) per meritare l'attenzione dell'Alta Confessora. Insieme, sono certo che acciufferemo quella canaglia di Vela in men che non si dica.||||
+coop31|<<Inspira profondamente.>> E nel frattempo possiamo goderci questa deliziosa campagna. Qui ci sono spore davvero ((potenti)) da far girare la testa! Scommetto che il [[Tè di Fungoscrutatore]] è da ((morire)).||||
+coop32|Ah, Confessore XVII! Lo ((sapevo)) che sareste sopravvissuto all'assalto. I Drone erano pressoché ((certi)) che avreste fatto una fine atroce, ma gliel'avete fatta vedere, eh?||||
+coop33|Salute, Confessore! Vi siete fermato per fare due chiacchiere? Che piacere.||||
+coop34|<<Sorride.>> Inquisitore Ignavius del Dodicesimo Tribunale Inquisitorio, lieto di fare la vostra conoscenza.||||
+coop35|Una faccenda terribilmente spiacevole, quella dell'Alta Confessora, eh? L'ho sempre ritenuta una donna dannatamente in gamba, ma chi avrebbe mai pensato che avesse tanti ((scheletri)) nella bara? Ehm, volevo dire nell'armadio. Brutta scelta di parole.||||
+coop36|Comunque, pare che sarò l'Inquisitore Capo ad interim di questo tribunale, finché la faccenda non sarà risolta. Una bella responsabilità, eh? Potrebbe servirmi del vino per calmare i nervi...||||
+coop37|Quanto ai ((vostri)) doveri? Ehm... be'... continuate pure a fare quello che stavate facendo, ecco... qualunque cosa fosse.||||
+coop38|Confessore, i Drone mi hanno informato che c'è stato un gran trambusto sui ponti inferiori, quasi che alcuni dei nostri ospiti si stessero ((preparando)) a qualcosa. Ma naturalmente ho detto loro che non potevate certo star organizzando nulla, dato che ci è stato ordinato di restare inattivi fino a nuovo avviso!||||
+coop39|Comunque, cercate solo di non fare troppo baccano, chiaro? So quanto sia ((noioso)) aspettare così, ma potreste dedicarvi ai vostri strani passatempi ((lontano)) dalla nave? Ve ne sarei molto grato.||||
+coop40|Ah, Confessore XVII! Tutto bene, spero?||||
+coop40b|Ah, Prigioniero XVII! Tutto bene, spero?||||
+p34|Vi ho portato del Vino di Funghi.||||
+coop41|Confessore! Non me l'aspettavo affatto. Che pensiero gentile.||||
+coop42|<<Sfila dalla cintura un minuscolo calice di metallo. Stappa il vino, lo versa con cura e ne beve un sorso.>>||||
+coop43|<<Aggrotta la fronte e tace per un momento.>> ##Confessore, questo è... ((scusatemi))...||||
+coop44|...un vino ((dannatamente)) buono!||||
+coop45|<<Ne beve un altro sorso.>> Nel corso della mia vita ho assaggiato vini di un'infinità di annate, e questa... questa è una delle migliori.||||
+coop46|Mia moglie lo adorerà. Vi prego, accettate questo come ricompensa.||||
+p35|Riguardo alla missione...||||
+coop47|Ah, sì! Che cosa c'è?||||
+p36|Parlatemi di Vela e della Stella Oscura.||||
+coop48|Vela Callose. Quello ((sì)) che è un nome da far rizzare i capelli.||||
+coop49|È la figlia del vecchio Ammiraglio Callose della Marina dell'Unione Apostatica, ma invece di seguire le orme del padre ha fondato la compagnia mercenaria più affermata dai tempi della Guerra Divina.||||
+coop50|Certo, al momento è la criminale più ricercata dell'Unione. Ma bisogna darle atto di questo: per anni l'Unione stessa si è affidata a Vela e ai suoi mercenari della Stella Oscura per svolgere incarichi che la Marina non voleva o non era ((in grado)) di affrontare da sé.||||
+coop51|<<Sospira.>> Peccato che abbia imboccato una strada tanto oscura. Negli ultimi anni di attività della Stella Oscura, le imprese scellerate della compagnia superarono di gran lunga quelle compiute a fin di bene.||||
+p37|E quali sarebbero le malefatte della Stella Oscura?||||
+coop52|Be', ci fu il colpo al Collegio Astrale di Byonne, dove trafugarono, fra gli altri tesori, una ((stella artefatta)) di valore inestimabile. ##Poi ci furono l'affondamento del mercantile Popinjay e tutti quegli ostaggi massacrati durante l'Assedio di Saracolco... ((Potrei continuare)).||||
+coop53|Alla fine, dicono che abbia perso il senno. Cominciò a blaterare di una sorta di ((paradiso)). L'Inquisizione stabilì che ciò equivaleva a una forma di culto — ((Articolo CXII, affermazioni di natura religiosa)) — e ne decretò l'arresto.||||
+coop54|Naturalmente, credo che i Polimati di Riova volessero liberarsi di lei già da molto prima. Si era montata troppo la testa, e finalmente ottennero il mandato. ##Perfino i ((suoi stessi)) mercenari si infuriarono al punto da ammutinarsi contro di lei.||||
+coop55|Si nasconde qui da anni, ma l'Inquisizione ha finalmente ricevuto il via libera per intervenire. Ed eccoci qua.||||
+p38|Grazie delle informazioni.||||
+coop56|Ma certo. Era tutto?||||
+p39|Perché usate prigionieri come me?||||
+coop57|<<Sorride.>> Ah, perché il duro lavoro è un tonico per i mali della ((mente))!||||
+coop58|Non siamo mica come una qualunque magistratura nel cuore dell'Unione, dove i prigionieri vengono gettati in una fossa con un tozzo di pane ammuffito, qualunque sia il loro crimine.||||
+coop59|<<Si picchietta la fronte.>> Noi riconosciamo l'((intelletto contorto)) dei nostri ospiti. E se, con la giusta applicazione di lavoro punitivo, riusciremo a ((ri))addrizzare quel modo di ragionare, avremo reso il mondo un poco più illuminato.||||
+coop60|<<Si schiarisce la gola.>> Siamo anche autorizzati a ricorrere a qualunque mezzo a nostra disposizione quando una missione sta andando... Ah... come si dice a Slev? ((A mammelle all'aria)).||||
+p40|Che cosa pensate dell'Alta Confessora?||||
+coop61|<<Si accarezza il mento.>> Molti nell'Inquisizione ritengono uno ((scandalo)) che a una Confessora — vale a dire, una prigioniera ancora intenta a scontare la propria penitenza — sia stato affidato il controllo di un intero Tribunale. Normalmente sarebbe compito di un Inquisitore Capo.||||
+coop62|In effetti, c'è anche la ((natura)) dei suoi crimini, e il modo in cui sono legati proprio alla criminale che le è stato ordinato di catturare...||||
+coop63|Ma personalmente? Credo che, nonostante le sue ((stranezze)), abbia dimostrato di essere tra gli agenti più capaci delle nostre fila.||||
+p41|Era tutto ciò che volevo sapere.||||
+coop64|Splendido. C'era altro?||||
+p42|Avevo delle domande sui Regni Celesti.||||
+coop65|Ma certo, chiedete pure.||||
+p43|Parlatemi dell'Unione Apostatica.||||
+coop66|<<Ti squadra da capo a piedi.>> Ma di certo siete ((stato)) nelle terre centrali, nel ((cuore)) dell'Unione, intendo?||||
+coop67|Ebbene, l'Unione è il luogo più ((civilizzato)) dei Regni Celesti dai tempi dello Squarcio del Mondo. Potreste non essere d'accordo, ma per me è la verità.||||
+p44|Qual è la sua storia?||||
+coop68|Negli ultimi quattrocento anni, i Regni Celesti sono stati sotto il controllo delle congreghe Wikkan e dei loro dèi. È vero che alcuni predicavano la tolleranza, ma altri erano tiranni che trascinavano i loro poveri seguaci nella crudeltà e nell'ignoranza. Questo non potete negarlo.||||
+coop69|Vedete, i Wikkan non si comportavano diversamente dai peggiori cartelli sleviani. Proibivano di tessere la magia cifrata e di promuovere il dibattito razionale. Ci vincolavano a patti di sangue con dèi che soffocavano il nostro progresso.||||
+coop70|Ma quarant'anni fa, durante la Guerra Divina, gli Apostati spezzarono le nostre catene. ##<<Sospira.>> È vero, fu versato molto sangue, mortale e divino. Ma ora, nel territorio dell'Unione, la ragione e il dialogo hanno sostituito l'ignoranza e la paura.||||
+p45|Com'è il cuore dell'Unione?||||
+coop71|<<Tira su col naso.>> Be', dipende da dove andate. Io vengo da Lundel: una terra di colline spazzate dal vento, paludi fradice e castelli in rovina, attorno a cui orbita una stella neurale azzurra. Abbiamo anche una certa... ((debolezza)) per la birra.||||
+coop72|C'è poi Byonne, celebre per le sue università e i suoi vini pregiati, e Slev: una terra aspra e piovosa, infestata dalla criminalità.||||
+coop73|Ma molti considerano Vena il reame più importante dell'Unione. È un arcipelago caldo e incantevole, colmo di frutteti immersi nella luce gialla delle stelle, e ospita la città più importante dell'Unione: Riova.||||
+coop74|A Riova si riunisce il consiglio dei Polimati dell'Unione. È una città di case galleggianti, tutte collegate da ponti e funi, con gondole che scivolano tra l'una e l'altra. Si dice che, quando ci si trova nel cuore della città, non si riesca a scorgere neppure un lembo di cielo: edifici in ogni direzione.||||
+coop75|Ma ovunque andiate nel cuore dell'Unione, non troverete nulla di tanto aspro e ((selvaggio)) quanto questo posto. ##<<Inspira a pieni polmoni.>> Ah! Neanche una fogna per miglia e miglia.||||
+p46|Basta così sull'Unione.||||
+coop76|<<Annuisce.>> Altro?||||
+p47|Parlatemi delle Isole Oniriche.||||
+coop77|Ebbene, le Isole Oniriche sono l'arcipelago in cui ci troviamo adesso. Sono sempre state ai margini del territorio dell'Unione, e solo di recente è stato insediato un consiglio regionale a Hallowshire.||||
+coop78|Ma vi sono anche isole fuori dal controllo dell'Unione. A est sorge il Regno Meccanico, governato da un monarca meccanico; a ovest, invece, si trova un luogo piuttosto spaventoso popolato da anime immortali, noto come Regno Eterno.||||
+p48|Parlatemi di Hallowshire.||||
+coop79|Benché Hallowshire sia tecnicamente sotto il controllo dell'Unione dai tempi della Guerra Divina, è stata alquanto... ((trascurata)) fino a poco tempo fa.||||
+coop80|Ciò significa che tra le colline si nascondono ancora cultisti che non siamo riusciti a stanare. Si mormora perfino di ((dèi)) annidati negli anfratti più sinistri.||||
+coop81|Ma non c'è da preoccuparsi. A Hallow Town è appena stata costruita una sala del Consiglio dell'Unione, e ora questo posto ha perfino una Polimate tutta sua! Con una formazione tanto prestigiosa, sistemerà ogni cosa in un batter d'occhio.||||
+p49|Parlatemi del Regno Meccanico.||||
+coop82|Hmph, meno si dice di quel posto, meglio è. Un tempo si chiamava [[Kardova]], e durante la Guerra Divina i suoi abitanti aiutarono gli Apostati a rovesciare i Wikkan e i loro dèi. Costruirono perfino la fortezza della Luce Accecante, oltre a molte altre macchine da guerra.||||
+coop83|Ma si sono sempre creduti un po' troppo importanti. Pur avendo i migliori alchimisti ed Eteristi dei Regni Celesti, si misero in testa la folle idea di creare una sorta di ((utopia magica)) in cui ogni stupido contadino potesse lanciare incantesimi. Una vera assurdità, ve lo dico io.||||
+coop84|Solo che, per un certo periodo, sembrò che quei mascalzoni fossero davvero riusciti a farla ((funzionare)). Tutto ciò che usciva dal neonato Regno Meccanico faceva arrossire d'invidia perfino gli studiosi dell'Accademia Erudita!||||
+coop85|Almeno finché il loro Re Meccanico non impazzì, gettando l'intero regno nel caos. Ora è una landa gelata, piena di automi malfunzionanti e raccolti marcescenti.||||
+coop86|Ed è un ((dannato)) peccato, perché a Ferropolis c'era una deliziosa sala da tè che mia moglie ((adorava)). Ah, pazienza.||||
+p50|Parlatemi del Regno Eterno.||||
+coop87|Avete mai sentito le storie delle Crociate dei Cadaveri? Quelle guidate da orrendi ghoul che depredavano i vivi per divorarne la carne? <<Rabbrividisce visibilmente.>>||||
+coop88|Ebbene, a quanto pare non erano soltanto storie. Quei mostri ((esistono)), e hanno un piccolo regno proprio laggiù, governato dalla loro cosiddetta Regina d'Argento! Vi assicuro, non si potrebbe inventare una cosa simile.||||
+coop89|L'ultima volta che ne ho sentito parlare, avevano abbandonato tutta quella faccenda del divorare carne e avevano cominciato ad allevare una sorta di... ((carne priva di coscienza)). Pensate un po': ghoul con una coscienza!||||
+p51|Su quale isola ci troviamo adesso?||||
+coop90|Oh, quest'isoletta si chiama [[Pwyll]]. Qui ci sono soltanto pochi coltivatori di funghi, a dire il vero, ma la sua posizione remota l'ha sempre resa un rifugio per contrabbandieri e pirati.||||
+coop91|Forse è per questo che Vela venne qui a leccarsi le ferite dopo l'ammutinamento della Stella Oscura.||||
+p52|Era tutto ciò che volevo sapere su queste isole.||||
+coop92|Molto bene. C'era altro?||||
+p53|Parlatemi di voi.||||
+coop93|Di me? Oh, non c'è molto da raccontare: sono soltanto un umile servitore dell'Unione Apostatica.||||
+coop94|Un tempo ero consigliere, ci credereste? Solo che... un ((incidente piuttosto imbarazzante)) riguardante un carico smarrito di Fungoscrutatori allucinogeni mi costò... ((ehm)) una retrocessione a un incarico meno esposto al pubblico.||||
+coop95|Ed eccomi qui, al servizio della stimata Inquisizione. Ma il pensiero torna spesso alle comodità di casa, vero? A Lundel ho un grazioso cottage con mia moglie. Un giorno mollerò tutto e tornerò a coltivare prataioli nel mio giardino.||||
+p54|Non avevo altre domande.||||
+coop96|Eccellente. Ora, c'è qualcos'altro?||||
+p55|Arrivederci.||||
+coop97|Buona fortuna là fuori.||||
+p56|Vi ho portato del Tè di Fungoscrutatore.||||
+coop98|Ah, Confessore! È esattamente ciò che cercavo. Che pensiero gentile.||||
+coop99|<<Sfila dalla cintura una minuscola teiera di metallo. Mette alcune foglie di tè sfuse nel filtro e, con tua sorpresa, noti che contiene già acqua bollente.>> ##Se foste così gentile da attendere un momento, Confessore, devo proprio lasciarlo in infusione.||||
+coop100|<<Aspetti per qualche minuto, a disagio, nel silenzio più assoluto, mentre l'Inquisitore fissa la sua teiera in miniatura.>> ##<<Alla fine sembra soddisfatto. Versa il liquido in una tazza e ne beve un sorso.>>||||
+coop101|<<Aggrotta la fronte e tace per un momento.>> ##Confessore, questo è... ((scusatemi))...||||
+coop102|...un tè ((dannatamente)) buono!||||
+coop103|Mia moglie lo adorerà. Vi prego, accettate questo come ricompensa.||||
+coop104|<<Ne beve un altro sorso.>> Nel corso della mia vita ho assaggiato un'infinità di tè, e questo... questo è uno dei migliori. ##Mia moglie lo adorerà. Vi prego, accettate questo come ricompensa.||||
+coop105|<<Gocce di sudore affiorano sulla fronte dell'Inquisitore, che sembra fissare qualcosa visibile soltanto a lui. Borbotta tra sé:>> ((Un tè dannatamente buono, eccome...)) ##<<Pensi che sia meglio lasciarlo in pace.>>||||
+coop106|Ah, Prigioniero XVII, credo che siate atteso dall'[[Alta Confessora.]] Meglio non farla aspettare, no?||||
+coop107|Ma tornate pure a parlarmi dopo; abbiamo molto di cui discutere.||||
+p57|A proposito di quel tè che volevate...||||
+coop108|Sì, il [[Tè di Fungoscrutatore]], per mia moglie. Lo producono qui, nel [[Villaggio di Pwyll]], appena più a sud, lungo la strada che parte dalla fortezza della Luce Accecante.||||
+coop109|Ah, è molto gentile da parte vostra, Confessore, ma aspettiamo che l'assalto sia finito, d'accordo? Venite a trovarmi nella [[Luce Accecante]] quando avremo catturato quella Vela.||||
+p58|Qual era quel tè, già?||||
+p59|Lasciate perdere.||||
+agentCruel1|Oh, siete ((voi.)) ##L'[[Alta Confessora]] vuole parlarvi, lassù sulla piattaforma.||||
+agentCruel2|<<Borbotta sottovoce:>> ((Eppure non capisco proprio che cosa ci trovi in un miserabile prigioniero.))||||
+agentCruel3|Dunque vi ha conferito il rango di [[Confessore]], eh? Be', da ora lavoreremo insieme, a quanto pare...||||
+agentCruel4|Ricordate soltanto questo: il rango di Confessore vi resterà impresso come una voglia. Vi marchia come un ((prigioniero)), intento a espiare le proprie colpe attraverso il servizio. Neppure ((lei)) può sfuggire a quel rango infamante.||||
+agentKind1|<<Scorgi un sorriso raggiante dietro la visiera dell'agente.>> Ah, dunque siete voi quello che ha affrontato Vela? E pensare che vi tenevamo rinchiuso in una cella!||||
+agentKind2|<<L'agente ridacchia.>> Be', avete mostrato proprio a ((noi)) come si fa. ##Comunque, credo che l'[[Alta Confessora]] voglia vedervi. Io non la farei aspettare...||||
+agentKind3|Oh, ma guarda chi c'è: il nostro nuovo Confessore! <<China educatamente il capo.>>||||
+agentKind4|Mi piacerebbe aiutarvi con la missione, ma non ho l'autorizzazione di sicurezza necessaria per conoscerne tutti i dettagli. Dovreste parlare con l'[[Inquisitore Ignavius]], sulla piattaforma di fronte all'Alta Confessora. ((Lui)) saprà che cosa fare.||||
+caerAgent1|Hmph, siete voi quello che hanno mandato dal Dodicesimo Tribunale?||||
+caerAgent2|Come ho detto al mio referente, è soltanto un Divinetto di Classe F: il ((nostro)) tribunale ha la situazione sotto controllo. Non capisco perché dobbiamo aspettare un idiota di quella vostra accozzaglia di prigionieri e disadattati.||||
+caerAgent3|<<Alza le spalle.>> Cioè, ((senza offesa)).||||
+hc50|<<L'Alta Confessora impartisce ordini agli agenti che la circondano, indicando con gli arti meccanici e gridando tra un accesso di tosse e l'altro. Alla fine si accorge di te.>>||||
+hc51|Ah! Prigioniero... XVII, giusto? I nostri Drone... vi tenevano d'occhio. A quanto pare Vela è fuggita.||||
+p100|Non sono riuscito a catturarla. Ho fallito.||||
+hc52|<<Una risata acuta riverbera nella bara.>> ##Sciocchezze. Ero certa... che vi avrebbero fatto a pezzetti. È sorprendente che siate arrivato fin qui.||||
+hc53|Ma la vostra condanna... resta in vigore. Potreste ancora rendervi utile.||||
+p101|Ho giocato al vostro giochetto. Mi lascerete libero?||||
+hc54|<<Il congegno avanza minaccioso verso di te.>> ##Devo forse ricordarvi, ((prigioniero)), che la vostra condanna non è ancora stata scontata?||||
+hc55|Dobbiamo... scoprire dove sia fuggita Vela. Per nostra fortuna, so... esattamente a chi chiedere.||||
+hc56|<<Ride tra sé, ma la risata si trasforma in una dolorosa serie di conati. Dopo un momento, pensi che possa aver vomitato.>> ## Scusatemi.||||
+hc57|Nelle Isole Oniriche vivono diversi [[ex mercenari della Stella Oscura.]]||||
+hc58|I miei superiori preferirebbero che li ((giustiziassi)) invece di lasciarli vivere, ma... <<Resta in silenzio per un momento.>> ##...Sono più utili da ((vivi.)) Se qualcuno sa dove sia andata Vela, ((loro)) sapranno dircelo.||||
+hc59|Comincerei da [[Jack Basalt]], un ex capitano della Marina divenuto mercenario. Lo abbiamo già contattato e abbiamo organizzato... un incontro. ##Lo troverete alla taverna del [[Boccale Barcollante]] di [[Hallow Town]], al centro delle Isole Oniriche.||||
+hc60|Basalt ha promesso... di indicarci dove trovare i suoi compagni, in cambio della Grazia del Polimate. Può aiutarvi a rintracciare... gli altri.||||
+p102|Capito.||||
+p103|Da che parte si va per Hallow Town?||||
+hc61|Seguite la strada verso sud, attraversate il [[Villaggio di Pwyll]], quindi superate il [[Ponte del Cancello]]. Così dovreste raggiungere [[Hallowshire]].||||
+hc62|Per attraversare il ponte dovrete procurarvi un [[Passaporto dell'Unione Apostatica]]. Vorrei potervene concedere uno io stessa, ma... siamo a corto di rifornimenti. ##Forse gli abitanti del [[Villaggio di Pwyll]] potrebbero aiutarvi.||||
+p104|Perché proprio ((io)), fra tutti i vostri agenti?||||
+hc63|I mercenari della Stella Oscura... diffidano profondamente dell'Inquisizione. Si potrebbe dire... che in passato abbiamo avuto qualche screzio. ##Potreste avere più fortuna di un altro dei miei uomini, poiché siete uno dei nostri agenti più recenti e... ((malleabili)).||||
+hc64|Bene. E siate ((prudente.)) Queste isole si trovano ai confini estremi del territorio dell'Unione Apostatica. Qui potrebbero essersi nascosti fedeli o perfino ((dèi minori)) sfuggiti alle purghe dell'Unione. L'unico luogo sicuramente privo di fede è [[Hallow Town]].||||
+hc65|E oltre i confini di Hallowshire si estendono... terre che neppure gli stivali dell'Unione osano calpestare. ##A est, il [[Regno Meccanico]] è in piena crisi. Gli abitanti del [[Regno Eterno]], a ovest, sono invece condannati a non morire mai.||||
+hc66|Il mio tribunale allestirà un posto di comando in questa fortezza, la [[Luce Accecante.]] Tornate qui per riprendervi, se lo desiderate.||||
+hc67|Ah, e un'ultima cosa...||||
+hc67b|D'ora in poi sarete conosciuto come [[Confessore XVII]]. Questo non cambia i vostri crimini né la vostra condanna... ma suona un po' meglio di «prigioniero», no?||||
+p105|D'accordo, me ne vado.||||
+hc68|Addio... Confessore.||||
+p106|Ho alcune domande...||||
+hc69|Molto bene.||||
+hc70|Bentornato, Confessore XVII.||||
+hc71|Dunque avete trovato il Capitano Basalt? Pensare che la vergogna della Marina dell'Unione... lavori per l'Inquisizione. Se me l'aveste detto cinque anni fa... <<Ridacchia.>>||||
+hc72|Avete trovato la Cavaliera Emberiana? Ben fatto, Confessore. Pochi... possono eguagliarla nell'arte della spada. Sarà una risorsa preziosa.||||
+hc73|La Duchessa è arrivata, grazie a voi. Perfino da dentro questa cosa riesco a percepirne il potere. Il Cifro si sprigiona da quella donna... come luce da una stella neurale.||||
+hc74|Avete procurato ciò che chiedeva Caxton Frost. Bene. Si è già messo... a riparare questa fortezza. Evidentemente ne conosce... molto bene i meccanismi.||||
+p107|Riguardo alla mia missione...||||
+hc75|Che cosa... volete sapere?||||
+p108|Che cosa devo fare adesso?||||
+hc76|Dovete affrettarvi al [[Boccale Barcollante]] di [[Hallow Town]], dove incontrerete Jack Basalt.||||
+hc77|Seguite la strada verso sud, attraversate il [[Villaggio di Pwyll]], quindi superate il [[Ponte del Cancello]]. Così dovreste raggiungere [[Hallowshire]].||||
+hc78|Ora che avete parlato con Basalt... dovreste sapere dove trovare gli altri tre [[mercenari della Stella Oscura]]. Trovateli. Interrogateli. E riportateli... qui.||||
+hc79|La Cavaliera Emberiana... era la vicecomandante di Vela e possedeva abilità marziali... di gran lunga superiori a quelle di uno spadaccino esperto.||||
+hc79b|Secondo i rapporti si trova a Hallowshire, quindi... chiedete in giro per [[Hallow Town]].||||
+hc80|Caxton Frost era un archeologo... del [[Regno Meccanico]], prima di vendere il proprio ingegno alla Stella Oscura.||||
+hc80b|Non abbiamo sue tracce... ma potrebbe essere tornato dal suo Re, nel lontano [[est.]]||||
+hc81|La Duchessa... era una temibile strega del Cifro. Condannata a una vita eterna, come tutti quelli della sua stirpe.||||
+hc81b|Secondo i nostri rapporti è tornata... nel [[Regno Eterno]], a [[ovest]].||||
+hc82|TERRE DI SOTTO 1||||
+hc83|TERRE DI SOTTO 2||||
+hc84|TERRE DI SOTTO 3||||
+hc85|NAVETTA 1||||
+hc86|NAVETTA 2||||
+hc87|NAVETTA 3||||
+hc88|CULLA 1||||
+hc89|CULLA 2||||
+hc90|CULLA 3||||
+p109|Parlatemi di Vela Callose.||||
+hc91|Quel nome... incute timore e rispetto in tutti i Regni Celesti. La sua compagnia mercenaria... la [[Stella Oscura]]... ha rovesciato tiranni, fomentato rivolte... ((ucciso dèi)).||||
+hc92|<<Inspira con fatica.>> Perfino chi... come me, è parte integrante degli ingranaggi dell'Inquisizione... può provare ((ammirazione)) per quella ragazza e per le sue imprese.||||
+hc93|<<Senti un tonfo provenire dall'interno della bara.>> Ma quella donna ci ha ((traditi)). Avrebbe potuto compiere... imprese ancora ((più grandi)). Invece ci ha trascinati nel fango, inseguendo... oscuri e funesti presagi.||||
+hc94|Il suo delirio... di creare una sorta di ((paradiso)) in questi Regni Celesti... sarà la rovina di tutti noi. La Marina dell'Unione la vuole catturata. ##Ma se io... riuscirò a metterle le grinfie addosso... non vedrà l'alba di domani.||||
+p110|Parlatemi dell'Inquisizione.||||
+hc95|Siamo un corpo d'élite dell'... Unione Apostatica. Specializzato in... spionaggio, intelligence e... contrasto al culto.||||
+hc96|Come sapete, essere apostati significa... rinnegare la propria fede. Ci siamo liberati dalle catene dei nostri dèi... durante la [[Guerra Divina]], circa quarant'anni fa.||||
+hc97|Ma anche se le fiamme della guerra... si sono spente, restano minacce latenti. Le congreghe Wikkan... si annidano negli angoli bui dell'Unione. I loro sacerdoti... allevano Divinetti avvizziti e compiono... empie consacrazioni.||||
+hc98|Ogni divisione dell'Inquisizione... è chiamata tribunale. Cento agenti, più... prigionieri in servizio e Drone. Abbiamo piena autorità... per far rispettare la legge dell'Unione come riteniamo opportuno.||||
+p111|È tutto.||||
+hc99|Molto... bene.||||
+p112|Volevo chiedervi una cosa.||||
+hc101|Molto bene, ma... <<Con un fremito, la macchina si accovaccia leggermente. >> ## Dovrete parlare più forte. Qui dentro c'è davvero... molta eco.||||
+p113|Che cos'ha di particolare questa fortezza?||||
+hc102|Il suo nome... è [[Luce Accecante]]. ##Era una fortezza della Guerra Divina, circa quarant'anni fa. Una meraviglia dell'ingegneria kardovana. Quel gigantesco cannone... trapassava il cuore di molti dèi con lance d'Acciaio del Vuoto.||||
+hc103|Al culmine dell'infamia della Stella Oscura, Vela Callose si procurò... questa fortezza. La restaurò... partendo da un mucchio di rottami. Negli ultimi anni, da quando i membri della Stella Oscura si sono rivoltati gli uni contro gli altri, Vela si nasconde qui.||||
+hc104|Che ci crediate o no... sono già stata qui, molto tempo fa. È... strano essere tornata.||||
+p114|Perché siete dentro quella bara di metallo?||||
+hc105|Non siete... l'unico membro di questo tribunale... ad aver tradito l'Unione Apostatica.||||
+hc106|Nella mia vita precedente ho commesso... crimini atroci. <<Emette un sospiro metallico.>> ##Tessitura di incantesimi... senza licenza. Conversazioni... con gli dèi. Favoreggiamento... di conflitti armati. Potrei continuare.||||
+hc107|Questa bara di ferro è un onore, un ((privilegio)). Il dolore che infligge... quel tormento ((squisito)) serve ad affinare la mia ragione.||||
+hc108|Ed è stata... progettata appositamente... per isolare la mia mente. Affinché non oda i crudeli sussurri degli dèi... e non dimentichi la mia penitenza.||||
+p115|Se vi dicessi di aver visto un ((fantasma)), mi prendereste per pazzo?||||
+hc109|<<La macchina esita.>> Che... aspetto aveva?||||
+p116|Una giovane donna con un mantello.||||
+p117|Molto... spettrale.||||
+hc110|<<L'Alta Confessora tace per un momento. Quando parla, lo fa lentamente.>> ##I fantasmi sono tracce... di traumi. Residui di sofferenza umana che indugiano nell'aria...||||
+hc111|...e le Isole Oniriche hanno conosciuto molte sofferenze. Il Regno Eterno, in particolare... è infestato dagli spiriti.||||
+hc112|Non... darei alcun peso... alle parole delle apparizioni. Sono esseri tormentati e vi... condurranno fuori strada.||||
+p118|C'è un ((dio)) in questa fortezza.||||
+hc113|dio1||||
+hc114|dio2||||
+hc115|dio3||||
+p119|È tutto.||||
+hc116|Molto bene, Confessore.||||
+p120|Me ne vado.||||
+hc117|<<La macchina annuisce a scatti, gesto che interpreti come un saluto.>>||||
+hc120|Caspita... non siete rimasto con le mani in mano. Tutti gli ex mercenari della Stella Oscura... sono tornati. ##<<Sghignazza e tossisce.>> Proprio come... ai vecchi tempi.||||
+hc121|Insieme abbiamo concepito... un piano. Secondo Orlaith, Vela è fuggita nelle [[Terre di Sotto]] e, per di più, sa ((dove)). ##Prenderete questi ex mercenari della Stella Oscura come vostri... compagni. Inseguirete Vela. E ((non)) fallirete.||||
+p121|Non andrò nelle Terre di Sotto! È una condanna a morte.||||
+hc122|<<Punta bruscamente un arto meccanico nella tua direzione.>> E anche se lo ((fosse))? Devo ricordarvi... che siete ancora il mio ((prigioniero))? ##Avete esplorato queste isole come ((penitenza)) per i vostri crimini. E se vi manderò incontro a morte certa, ci andrete con gioia.||||
+p122|Che cosa c'è laggiù, esattamente?||||
+hc123|Secoli fa, gli Emberiani... costruirono un impero di metallo e magia, sfidando gli dèi. Si estendeva su tutta la superficie del mondo... e l'umanità ((prosperava)). <<Sputa la parola.>>||||
+hc124|Ma quattrocento anni fa... lo [[Squarcio del Mondo]] ridusse quell'impero in polvere. Soltanto i Regni Celesti... sopravvissero. Laggiù non restano che... rovine maledette, infestate dai fantasmi... e pattugliate da orrori meccanici.||||
+hc125|L'aria stessa è avvelenata... da un denso miasma. Attraversare quel luogo sarà... difficile. Ma ho la massima fiducia che morirete nobilmente per la nostra causa. Potreste perfino... ((riuscire)).||||
+p123|D'accordo. E come faremo?||||
+hc126|Caxton Frost ha finito di riparare la [[Luce Accecante]]. Possiamo lanciare una piccola [[Navetta]]... per una spedizione nelle Terre di Sotto.||||
+hc127|Ma prima... lascerò a voi l'onore... di [[attivare la Luce Accecante]]. ##Andate al pannello di controllo principale... e impostate l'allerta... su «posti di combattimento».||||
+caer1|Che cosa abbiamo qui? Un'altra anima miserabile impigliata nella tela dell'Inquisizione, senza dubbio.||||
+caer2|Ditemi, la vostra Alta Confessora vi ha mandato a morire?||||
+p501|Sì.||||
+caer3|<<Un sorriso malinconico le affiora sulle labbra.>>##Sa essere terribilmente crudele, non è vero?||||
+p502|No.||||
+caer4|Dunque siete fedele a quell'assurda istituzione? Siete proprio un caso disperato.||||
+caer5|Di questo passo, quei bastardi dell'Inquisizione avranno rinchiuso metà dei Regni Celesti. E per che cosa? Per aver pregato il proprio dio tutelare? Per aver nutrito un poco di ((speranza))?||||
+p503|Siete... un fantasma?||||
+caer6|<<Sorride, indicando se stessa.>> Siete tanto ((sconvolto)) da una piccola apparizione?||||
+caer7|<<La sua dolce risata sembra echeggiare intorno a te.>> Perbacco, non andrete molto lontano, se è così.||||
+caer8|<<Fissa l'orizzonte.>>||||
+caer9|<<Fissa l'orizzonte.>> ##Ebbene, straniero, fareste meglio a guardarvi le spalle là fuori. Ricordate le mie parole: su queste isole bolle qualcosa in pentola. Il palco è pronto, il sipario tirato; e lo spettacolo sta per far ((venir giù il teatro)).||||
+caer10|<<Ti rivolge un sorrisetto.>> E qualcosa mi dice che anche voi avete una parte da recitare.||||
+caer20|Vedete quella fortezza incombente? Ha incusso terrore nel cuore di molti più coraggiosi e forti di voi, straniero.||||
+caer21|Fu costruita durante la Guerra Divina, e gli Apostati la chiamarono [[Luce Accecante]] per schernire gli dèi che intendevano massacrare.||||
+caer22|È ironico che sia caduta nelle mani di una donna tanto ((accecata)) dall'ambizione e dallo zelo; Vela se n'è impadronita per inseguire il proprio paradiso distorto, e ora la Luce Accecante punta i cannoni contro le anime senza fede che la crearono.||||
+caer23|<<I suoi occhi spettrali scintillano.>> Ditemi, straniero. Se un nemico odiato si frapponesse fra voi e il vostro ideale più caro, lo abbattereste? Avreste l'((arroganza)) di togliere una vita per inseguire la vostra fantasia?||||
+p504|Sì, ucciderei per ciò in cui credo.||||
+caer24|Almeno siete sincero; e non siete certo il solo. I Regni Celesti sono macchiati del sangue di chi si trovò dalla parte sbagliata della storia. Perfino i ((dèi)) si rivelarono fallibili, alla fine.||||
+p505|Mai.||||
+caer25|<<Sorride.>> Dunque siete un macellaio ((e)) un bugiardo? ##Non crediate che non vi abbia osservato, straniero. Non appena l'Inquisizione vi ha scaraventato fuori dalla sua prigione, avete cominciato a uccidere i compagni di Vela senza la minima ombra di rimorso.||||
+caer26|<<Sorride debolmente.>> Un cuore gentile è cosa rara, a quanto pare; ma finora siete stato fedele alla vostra parola.||||
+caer27|Eppure temo che, in un mondo come questo, un simile cuore vi condannerà a morire in un fosso, trafitto dalla spada di qualcuno assai meno scrupoloso.||||
+caer28|Eppure avete suscitato la mia curiosità, straniero. Vi terrò d'occhio.||||
+hc130|Ah, lo sentite? La Luce Accecante torna a solcare i cieli!||||
+p531|Non avevate mai detto che fosse un'Aeronave.||||
+hc131|<<Sbuffa con disprezzo.>> Non avete... mai visto il celebre dipinto, o una delle sue molte riproduzioni: ((La Luce Accecante trafigge un orrore))? Né udito le innumerevoli canzoni e storie, per quanto abbellite? ##Non potete certo incolpare me... della vostra ignoranza.||||
+p532|Non possiamo semplicemente inseguire Vela con l'intera nave?||||
+hc132|Questa fortezza volante è troppo grande... per compiere la discesa. Le tempeste che infuriano perennemente sopra le Terre di Sotto la farebbero a pezzi.||||
+hc133|Ma possiamo lanciare una piccola Navetta dallo scafo rinforzato... che potrebbe sopravvivere al viaggio. Il tribunale potrà seguire i vostri progressi dalla sicurezza dei cieli.||||
+p533|E adesso?||||
+hc134|Voi e gli ex mercenari della Stella Oscura formerete una squadra d'assalto anticulto... e inseguirete Vela. ##La vostra missione è... la seguente.||||
+hc135|Raggiungerete l'[[hangar]] della Luce Accecante, dove una piccola [[Navetta]] è pronta a scendere nelle Terre di Sotto.||||
+hc136|Jack Basalt piloterà il velivolo, mentre la magia della Duchessa... lo proteggerà dal caos incessante delle sottotempeste. Caxton Frost... disattiverà qualunque antico sistema di sicurezza troviate in superficie.||||
+hc137|Una volta atterrato, Orlaith vi guiderà... fino alla [[Culla]]. Non sappiamo esattamente che cosa sia la Culla, ma Vela... crede che possa riscrivere il tessuto stesso della ((realtà)). ##Inutile dirlo: deve essere ((fermata)).||||
+hc138|<<Fa una pausa. Dai suoi meccanismi proviene un rantolo sinistro: è forse un sospiro? Sembra quasi... commossa.>> Ascoltate, Confessore. Se dipendesse da me, avremmo un'intera ((flotta da guerra)) lanciata laggiù. Ma la Marina dell'Unione non vuole saperne. Pensano che questa bara in cui mi hanno rinchiusa... abbia offuscato la mia ragione.||||
+hc139|Ho l'autorità di inviare soltanto gli elementi più ((sacrificabili)) del mio tribunale. ##<<Punta un arto meccanico verso di te.>> Ma, per quanto mi costi ammetterlo, vi siete dimostrato... all'altezza di qualsiasi agente ai miei ordini.||||
+hc140|Spetta quindi soltanto alla ((vostra)) squadra fermare Vela a ogni costo. Ricordate... che armeggia con forze al di là della nostra comprensione e minaccia la stabilità non solo dell'Unione Apostatica... ma di tutti i Regni Celesti.||||
+hc141|La missione è chiara, Confessore XVII?||||
+p534|Tutto chiaro. Sono pronto.||||
+hc142|Bene. Raggiungete [[l'hangar]] per partire.||||
+p535|Ho delle domande.||||
+hc143|Molto bene, ma fate in fretta. Siamo pronti... a partire.||||
+p536|Sappiamo che cosa sta facendo Vela laggiù?||||
+hc144|Molto tempo fa, prima dell'ammutinamento della Stella Oscura... Vela trovò una mappa che conduceva a qualcosa di antico. Qualcosa di potente e pericoloso oltre ogni immaginazione. Gli Emberiani lo chiamavano... la [[Culla]].||||
+hc145|Orlaith era con Vela quando scoprì la mappa. Crede... di potervi condurre fin là. Per il bene di tutti noi... sarà meglio che abbia ragione.||||
+hc146|Perché, anche se della Culla sappiamo ben poco, ciò che ((sappiamo)) mi gela il sangue. Se le nostre informazioni sono corrette e quel congegno ((funziona)), Vela potrebbe riscrivere il linguaggio stesso del Cifro... che tiene unita la realtà.||||
+hc147|Ciò significa che potrebbe disfare l'esistenza stessa. Potrebbe ((porre fine al mondo)) così come lo conosciamo.||||
+p537|Quali pericoli ci attendono nelle Terre di Sotto?||||
+hc148|Non vi mentirò... Confessore XVII. Sono molti. ##La prima sfida sarà... superare le sottotempeste. Fin dallo Squarcio del Mondo, una furiosa tempesta avvolge la superficie. Per attraversarla indenne... servirà tutta la maestria della Duchessa nel Cifro.||||
+hc149|Non appena atterrerete, sarete maledetto... dal denso miasma che ristagna fra le rovine. A meno che non troviate un modo per contrastarlo, soffrirete... di debolezza mentale e fisica.||||
+hc150|E poi ci sono i... pericoli che si aggirano tra le macerie. I pochi tornati vivi dalle Terre di Sotto raccontano di... soldati di metallo che pattugliano senza mai stancarsi... e spettri vendicativi capaci di tagliare una persona in due.||||
+p538|Possiamo fidarci della lealtà della squadra?||||
+hc151|È vero... che, sebbene i vostri compagni non siano più mercenari della Stella Oscura, potrebbero provare sentimenti contrastanti... trovandosi davanti alla loro ex comandante.||||
+hc152|E poiché molti di coloro che incontrano Vela vengono conquistati... dai suoi ideali radicali, non posso essere certa nemmeno della ((vostra)) lealtà, Confessore.||||
+hc153|Ma io conosco Vela. In questi ultimi anni... ha vissuto in preda a una paranoia frenetica, guardandosi continuamente le spalle. Non si fiderà... di nessuno che interferisca con i suoi piani.||||
+hc154|Se qualcuno di voi dovesse tradire l'Inquisizione... so che sarà ((Vela)) ad abbatterlo.||||
+p539|Ripetetemi la nostra missione nelle Terre di Sotto.||||
+caer30|Un tempo i campi di [[Hallowshire]] erano seminati con semente Wikkan; le loro divinità, benché indebolite, potevano garantire un buon raccolto. I patti con gli dèi erano modesti; il prezzo di sangue, equo.||||
+caer31|Naturalmente, ben presto l'Unione Apostatica fiutò la cosa. Mandò quella [[Polimate]] e il suo seguito a soffocare ogni brace divina, e ora la gente comune muore di fame, mentre i campi giacciono sterili e desolati.||||
+caer32|L'Unione sostiene di farlo in nome della ((ragione)) e del ((progresso.)) <<Emette un sospiro dissonante>>. ## Ammetto che quegli antichi patti Wikkan possano essere... ingannevoli. Molti non comprendono il peso della propria firma finché la maledizione non attecchisce...||||
+caer33|Ma l'Unione soffocherebbe i Regni Celesti in un groviglio di burocrazia, fino a farci adorare nient'altro che scadenze e manifesti di carico. La sua unica virtù è l'onestà: almeno la gente ((sa)) di essere calpestata.||||
+caer34|E che mi dite di ((voi)), straniero? Preferireste essere avvolto da una dolce menzogna, beato nella vostra ignoranza, oppure scegliereste l'amara ((verità))?||||
+p600|Tutti meritano di conoscere la verità.||||
+caer35|<<Sorride con ironia.>> Ma potremmo mai ((conoscere)) la verità con certezza? Forse non siamo che attori nel sogno di qualcun altro, destinati a essere dimenticati alla luce del mattino...||||
+caer36|Se l'Unione scoprisse che è così e lo scrivesse in tutti i suoi libri, saremmo illuminati? O soltanto ancora più smarriti?||||
+p601|Se una falsa credenza porta gioia, lasciamola vivere.||||
+caer37|<<Sorride con calore.>> Parole compassionevoli, straniero. ##Sarei pienamente d'accordo, se non conoscessi il lato più oscuro di una simile tolleranza.||||
+caer38|Perché quando le fantasie si scontrano, il sangue versato è senza dubbio reale. La Guerra Divina ne è la prova.||||
+p602|L'idea stessa di verità è una menzogna; ci illudiamo tutti.||||
+caer39|<<Sorride.>> Mia madre mi disse una volta: esistono tanti mondi quante sono le persone. ##Credo che le sareste piaciuto, straniero.||||
+caer40|Riuscite a ((sentire)) quel fetore rancido portato dal vento, straniero? Il [[Regno Eterno]] è intrappolato in un'eterna putrefazione: qui ogni cosa marcisce, ma nulla muore mai.||||
+caer41|I suoi abitanti si accalcano in città-sepolcro sotterranee, isolando i loro corpi fragili dal mondo esterno mentre si abbandonano a nostalgiche fantasticherie. Hanno ottenuto ciò che molti mortali bramano: una vita senza fine.||||
+caer42|Ma un'esistenza tanto miserabile è davvero preferibile alla morte? Ditemi, straniero: se quegli studiosi dell'Unione hanno ragione, e dopo la vita non vi è altro che un sonno senza sogni, quel nulla cancella forse ciò che è venuto prima? L'oblio imminente rende vana la nostra esistenza?||||
+p603|È vero. La morte rende le nostre vite prive di senso.||||
+caer43|<<Ridacchia.>> Detto da ((voi)), sembra alquanto macabro.||||
+caer44|<<Fa un gesto tutt'intorno.>> E allora tutto ((questo)), che cos'è? L'opera collettiva di noi mortali, le ((meraviglie)) della civiltà? È soltanto un'illusione collettiva, un rifiuto della nostra intrinseca inutilità?||||
+caer45|<<Sorride.>> Sapete che c'è? Non rispondete. Perfino da spirito, mi fa rabbrividire.||||
+p604|La brevità ha una sua bellezza. La vita eterna sarebbe una tortura.||||
+caer46|<<Annuisce.>> Molti Eterni condividerebbero il vostro pensiero, dopo essere rimasti prigionieri dei propri corpi tanto a lungo. Si dice che perfino gli Eterni fatti a pezzi restino... coscienti.||||
+caer47|Non ho dubbi che, a lungo andare, tutti imploreremmo il nulla.||||
+p605|È inutile pensarci.||||
+caer48|<<Sorride.>> Parole degne della saggezza di mille vite.||||
+caer49|Qualunque incantesimo tessiamo o patto stringiamo, prima o poi la fine arriva per tutti.||||
+caer50|Il cambiamento è una forza che spazza i Regni Celesti senza ostacoli; nessuno può sfuggirgli. I Wikkan cercarono di resistere e furono ridotti in polvere. Ma per alcuni, il turbine del cambiamento è come il vento nelle loro vele.||||
+caer51|Dopo la Guerra Divina, i Regni Celesti ebbero l'occasione di scegliersi i propri padroni. Ma qui, nel [[Regno Meccanico]], non bastò. I loro scribi del Cifro e i loro macchinisti decisero di ((costruire)) il proprio monarca con metallo e magia.||||
+caer52|Doveva essere un reame in cui ogni umile lavoratore potesse attingere al potere di un dio, e ogni ventre fosse sazio. Ma abbracciare un cambiamento tanto drastico significa anche lanciare i dadi del destino, e agli abitanti di queste terre la fortuna non ha sorriso.||||
+caer53|Che cosa ne pensate, straniero? Benché il loro popolo marcisca nei campi sterili, è stato nobile da parte loro ((tentare)) di raggiungere il cielo nonostante i rischi?||||
+p606|Dovremmo sempre cercare di migliorarci, a qualunque costo.||||
+caer54|<<Annuisce.>> Un nobile ideale, certo. Ma la via del cambiamento radicale è lastricata di sangue, e la realtà non è mai dolce quanto i nostri sogni...||||
+p607|L'idealismo va bene, ma non quando sono in gioco delle vite.||||
+caer55|<<Annuisce.>> Una risposta pragmatica. Ma un sovrano imparerebbe presto che le sue mani non sarebbero mai monde di sangue; non fare nulla è comunque una scelta.||||
+p608|Preferisco lasciare simili dilemmi alle classi dominanti.||||
+caer56|<<Annuisce.>> Il peso della scelta è gravoso, e non esiste mai una via giusta. Non ve ne faccio una colpa, straniero.||||
+caer57|Vela trascorse qui innumerevoli notti, china sulla scrivania alla luce di una candela. Mentre il resto della ciurma dormiva, studiava carte celesti e setacciava antichi tomi in cerca di frammenti di sapere arcano.||||
+caer58|Allora, quando ero in carne e ossa, credevo che fosse spinta dal puro desiderio di plasmare un mondo migliore. Ma col tempo finii per vederla soltanto come una ragazza impaurita, intenta a riparare qualcosa di ((spezzato)) dentro di sé.||||
+caer59|Perché nel cuore di Vela c'è una spina che non riesce a estirpare. A volte quel pungolo incessante la spinge alla grandezza; altre volte la piega alla crudeltà e alla barbarie.||||
+caer60|<<Il fantasma ti guarda negli occhi.>> Ascoltate, straniero. Che lo vogliate o no, ((incrocerete)) la strada di Vela; lo vedo chiaro come il giorno. Ma ciò che accadrà dopo è un groviglio di infinite possibilità, un vuoto oscuro che inghiotte ogni tentativo di preveggenza.||||
+caer61|Se desiderate comprendere la donna a cui è legato il vostro destino, cercate un antico maniero che fluttua sul [[margine nord-orientale di Hallowshire]]. Vi incontrerò là.||||
+caer62|Per molti anni questo maniero risplendette di opulenza. Il sangue Wikkan ne pagò le mura e le spoglie della guerra ne colmarono le stanze; apparteneva all'[[Ammiraglio Callose]], che si era distinto durante la Guerra Divina.||||
+caer63|Eppure qui fiorì la felicità. Accanto alla sorella Isabet, Vela trascorse un'infanzia gioiosa; le due giocavano sotto lo sguardo vigile della madre.||||
+caer64|Ma la nostra follia sta nel credere che un privilegio, una volta ottenuto, duri per sempre. Basta una candela rovesciata per radere al suolo una città di legno; qualcosa di simile accadde qui.||||
+p609|È tragico.||||
+caer65|Per Vela, il mondo crollò. In seguito avrebbe compreso il prezzo pagato da altri per il suo privilegio; ma per quella bambina? Aveva semplicemente perso la casa, la ((famiglia)).||||
+p610|Meglio così.||||
+caer66|Questo luogo era un bottino rubato? O la casa amata di una bambina? In verità, era l'una e l'altra. La morale non è un'equazione con una risposta esatta; è confusa, torbida...||||
+p611|Non mi interessano le vecchie storie.||||
+caer67|Dunque è questo il mondo, per voi, straniero? Soltanto una vecchia storia popolata da personaggi dimenticabili? <<Sorride.>> ##Beh, spero di non annoiarvi.||||
+caer68|Vela e suo padre erano lontani quando il maniero prese fuoco. Ma Isabet, la sorella di Vela, e la loro madre arsero vive.||||
+caer69|Isabet era un prodigio. Fin da piccole, Vela e Isabet sgattaiolavano nelle rovine emberiane, suscitando l'ira del padre. Isabet riusciva a smontare quegli antichi rottami e a rimontarli, facendoli funzionare come nuovi.||||
+caer70|Se fosse vissuta, Isabet avrebbe prosperato. Riesco quasi a vederla: una delle archeologhe più rispettate dei Regni Celesti.||||
+caer71|Vela non si riprese mai dalla morte di Isabet. In ogni tomo arcano, in ogni volume proibito, cercava un modo per riportarla indietro. Ma benché i Regni Celesti pullulino di creature che si fanno beffe della vita, ((me stessa)) compresa, Vela non trovò mai una risposta.||||
+caer72|Perché la grammatica della magia cifrata obbedisce a regole ferree. Il [[Principio Mortale]], studiato a lungo ma poco compreso, impedisce di riportare in vita un corpo. Si può strappare qualcuno alle fauci della morte o prolungarne la vita in modo innaturale; ma per i resti carbonizzati di Isabet non si può fare nulla.||||
+p612|Isabet potrebbe essere riportata in vita come Eterna?||||
+caer73|Il rituale che creò gli Eterni ((è stato)) ripetuto in rare occasioni... ma richiede un soggetto ((vivo)) su cui operare.||||
+caer74|Lo stesso vale per i fantasmi come me. Siamo impronte di un trauma, l'eco di una mente nata in un unico istante di terrore. Ma senza un corpo vivo? Impossibile.||||
+p613|Un dio non potrebbe riportarla in vita?||||
+caer75|Vela pensava di sì. Arrivò perfino a catturarne uno, imprigionando la povera creatura con catene d'Acciaio del Vuoto nella Luce Accecante.||||
+caer76|Ma i suoi poteri, per quanto incredibili, erano limitati. Poteva soltanto salvare un'unica anima vivente a un passo dalla morte. Se gli si offrisse un cadavere, non potrebbe creare la vita dal nulla.||||
+p614|Dunque è ((questa)) la spina nel cuore di Vela.||||
+caer77|<<Annuisce lentamente.>> Credo che sia stata la perdita di Isabet a spingere Vela ad abbandonare la Marina dell'Unione. Con un ammiraglio per padre, avrebbe potuto raggiungerne i vertici; ma semplicemente... non ne vedeva il senso.||||
+caer78|Così prese il sogno di suo padre e lo capovolse. Nacque la Stella Oscura; il suo emblema, una stella nera, era una beffa cinica del simbolo dell'Unione Apostatica.||||
+caer79|<<Sorride.>> Ma per oggi abbiamo raccontato abbastanza storie, non credete? C'è un'isola con una [[Baia per Aeronavi]] sul [[margine occidentale del Regno Eterno]]; incontratemi là quando sarete pronto, e continuerò il mio racconto.||||
+caer80|È qui che cominciò tutto: la compagnia mercenaria nota come Stella Oscura. ##Vela, Jack Basalt e Orlaith. Soltanto loro tre, in una grotta, con uno Sloop traballante a malapena in grado di volare.||||
+caer81|Durante uno dei loro primi incarichi trovarono ((me)). O meglio, la ((vera)) me, prima che assumessi l'aspetto di un dipinto da quattro soldi. <<Sorride.>> ##Quei tre per poco non mi ammazzarono.||||
+p615|Un momento: avete davvero ((combattuto)) contro Vela?||||
+caer82|Proprio così, straniero. Un nobile di Riova li aveva assoldati per rastrellare i Wikkan a Hallowshire, prima che l'Unione vi si insediasse in forze.||||
+caer83|Così, una mattina, mi svegliai con la spada di Orlaith alla gola. Vederla nella sua armatura emberiana completa fu una bella scossa. Ma la scossa che inflissi a ((lei)) fu ancora più forte: una saetta di pura elettricità che attraversò tutto quel metallo...||||
+caer84|E così combattemmo: io e il mio Divinetto contro loro tre. Quasi riuscii a fuggire, ma... vedere Vela combattere era qualcosa di ((straordinario)).||||
+caer85|Di solito riesco a scrutare ciò che qualcuno intende fare, ma i pensieri di Vela sono irti di possibilità. Prima ancora che me ne rendessi conto, era alle mie spalle con un pugnale alla gola.||||
+p616|Arrivate al punto, fantasma.||||
+caer86|<<Sorride.>> Come desiderate. ##Una mattina Vela, Orlaith e Basalt mi assalirono. Mi difesi bene, ma... finii con il pugnale di Vela premuto contro la gola.||||
+caer87|Pensai di essere morta. Ma lei mi chiese semplicemente: «Ti andrebbe di fare la mercenaria?» ##E così mi riportarono qui, nel loro rifugio: da tre diventammo quattro.||||
+caer88|Dovete capire, straniero. Avevo trascorso la giovinezza rintanata per sfuggire all'Unione e ai suoi agenti. I miei genitori mi insegnarono tutto ciò che so della magia Wikkan e come ascoltare il linguaggio del Cifro in ogni cosa; ma quando scomparvero, rimasi sola.||||
+caer89|Quando raccontai la mia storia a Vela, lei pianse e mi strinse a sé. Era passato... ((molto)) tempo dall'ultima volta che qualcuno mi aveva toccata.||||
+caer90|E guardarla negli occhi era come... fissare il vuoto. Di solito, straniero, riesco a leggere le persone, a intravedere ciò che verrà. Ma Vela? Il suo futuro era un groviglio di infinite possibilità. Era illeggibile. Era ((inebriante)).||||
+caer91|Quei primi anni con la Stella Oscura? Fu la prima volta che sentii di ((appartenere)) a qualcosa. I miei compagni non temevano il mio Cifro: ((contavano)) su di esso.||||
+p617|Non avevate mai detto di essere stata una mercenaria della Stella Oscura.||||
+caer92|<<Sorride maliziosa.>> Non sarebbe molto ((misterioso)) da parte mia, non vi pare? Ho una certa reputazione da mantenere, visto che sono un fantasma e tutto il resto.||||
+caer93|E poi, per quanto mi riguarda, la compagnia della Stella Oscura che ((io)) conoscevo... non esiste più.||||
+p618|Avete avuto un'infanzia difficile. Mi dispiace.||||
+caer94|Non più di qualunque altro Wikkan a memoria d'uomo. In verità, fui fortunata: fu Vela a ((salvarmi)) nonostante tutti i suoi difetti.||||
+caer95|Nei primi tempi della Stella Oscura, Vela accettava incarichi da chiunque: dall'Unione, dai Wikkan, perfino dai Fuorilegge. Ma contava la ((causa)), non il denaro.||||
+caer96|Non sopportava l'idea di somigliare a suo padre, le cui campagne militari avevano provocato tanta devastazione. Così, se un incarico puzzava di marcio, lo rifiutavamo e restavamo a digiuno. Non ci importava.||||
+caer97|Ma quando accettavamo un incarico? ((Nulla)) poteva fermarci. In breve tempo le nostre fila si ingrossarono, e quella minuscola grotta non bastò più. Ben presto, dall'ultimo dei furfanti al più altolocato dei nobili, tutti conoscevano la ((Stella Oscura)).||||
+p619|Perché la gente voleva seguire Vela?||||
+caer98|Vela ci conquistò tutti con sogni inebrianti. Non ci saremmo limitati ad arricchirci; avremmo ((costruito)) qualcosa che né l'Unione né i Wikkan possedevano. Un luogo senza dèi né padroni. Un paradiso. Un ((cielo))...||||
+caer99|Quelli furono gli anni più felici della mia vita. Combattevamo insieme, bevevamo e danzavamo insieme, ((sognavamo)) insieme. Ma... non era destinato a durare.||||
+p620|E allora che cosa andò storto?||||
+caer100|Per pagare le nuove reclute, Vela dovette essere meno ((scrupolosa)) nella scelta degli incarichi. A volte ci scontravamo: quando uccise il dio minore Cernun, andai su tutte le furie... Non avevo mai voluto il sangue di un dio sulle mie mani.||||
+caer101|Ma fu quando trovò quella dannata ((Chiave)) Emberiana che la situazione sfuggì davvero di mano.||||
+caer102|C'è un'isola alla deriva a [[nord-ovest del Regno Meccanico]], che ospita il relitto dell'[[Aeronave Goblin Nero.]] Incontratemi là, e concluderò questa storia.||||
+caer103|Questo mucchio di rottami un tempo era la nave pirata più temuta dei Regni Celesti: il [[Goblin Nero]]. I mercanti, da Puria ad Al-Asfara, temevano le sue salve di palle di cannone incise col Cifro.||||
+caer104|La Marina dell'Unione ci pagò una fortuna per dare la caccia al suo capitano. Alla fine ottenemmo il denaro ((e)) la nave. Dopo di allora, pochi osarono mettersi contro la Stella Oscura.||||
+p621|Come avete vinto la battaglia navale?||||
+caer105|Affrontavamo un galeone con una minuscola goletta. Noi avevamo due cannoni; loro, venti per fiancata. Da qualunque punto di vista, era puro suicidio.||||
+caer106|Ma ho sempre avuto un certo... ((talento)) per la preveggenza. Sapevo che avrebbero impegnato il fianco di dritta, e così riuscimmo a sopraffarli.||||
+caer107|Prima che se ne rendessero conto, uno dei nostri cannoni puntava dritto alla loro poppa. Ma non era un cannone ((qualsiasi)) quello che avevamo: era uno dei cannoni di Caxton Frost. Un solo colpo di quell'affare trapassò l'intera nave e la incendiò.||||
+caer108|Nella confusione, la nostra squadra d'abbordaggio salì sul ponte. Eravamo in otto contro cento, ma dopo poche parole della Duchessa, le loro spade divennero... ((terribilmente)) pesanti. Orlaith ne falciò intere schiere, aprendosi un varco fino al capitano.||||
+caer109|Quando Vela gli puntò la spada alla gola, se l'era già fatta addosso. La nave era nostra e quella notte, con tutto il rum che avevano in cambusa, ci ((sbronzammo)) al punto che feci accidentalmente ((esplodere)) una Limaccia da seta. Povera creatura...||||
+p622|E allora che cosa andò storto?||||
+caer110|Dopo il Goblin Nero venne la Luce Accecante. Una compagnia mercenaria con un galeone fa impressione, ma con una ((fortezza)) della Guerra Divina? Nessuno poteva sconfiggerci.||||
+caer111|Fu più o meno allora che Vela e Orlaith si imbatterono in una ((mappa)), nel cuore di una rovina emberiana. Parlava della Culla, sepolta nelle profondità delle Terre di Sotto, che racchiudeva il potere di cambiare ((ogni cosa)).||||
+caer112|Vela era sempre stata ambiziosa. Pensavamo che ((potesse)) davvero dare forma alla sua fantasia: un paradiso creato da lei. Ma ora parlava di qualcosa di completamente diverso. Voleva diventare una ((dea)). Cambiare la trama stessa della realtà...||||
+p623|Ma perché? A quale scopo?||||
+caer113|Sostiene che riparerebbe a tutti i torti del mondo. Ristabilirebbe l'equilibrio, così che la gente comune possa vivere come i nobili e i sovrani non bramino più la guerra.||||
+p624|E che cosa accadde dopo?||||
+caer114|La ciurma si divise. Alcuni erano ansiosi di seguirla nelle Terre di Sotto, soprattutto se questo li avesse resi ancora più ricchi. Ma molti di noi pensavano che avesse oltrepassato il confine della ((follia)). ##La sua fama si era tramutata in infamia, e perfino l'Inquisizione ormai ci considerava criminali.||||
+caer115|Fin dall'infanzia avevo imparato ad ascoltare il linguaggio del cosmo. Il Cifro scorre in ogni cosa; la sua grammatica e la sua sintassi si intrecciano nei nostri corpi e nei nostri sogni. ((Cambiare)) quelle regole, per me, avrebbe costituito un'eresia più grave dell'uccidere mille dèi...||||
+caer116|Così, quando Orlaith levò la spada contro Vela e spinse la ciurma del Goblin Nero all'((ammutinamento))... ero pronta a versare il mio stesso sangue per la causa.||||
+caer117|...e lo avrei versato.||||
+caer118|In verità, sapevo che il Goblin Nero non aveva alcuna possibilità contro una fortezza della Guerra Divina. I cannoni della Luce Accecante squarciarono il nostro scafo in pochi istanti, facendoci precipitare verso le nuvole.||||
+caer119|Tra il fumo e il caos, vidi Vela abbordare la nostra nave. Era ((furiosa)). Lei e Orlaith erano come sorelle; non poteva sopportare il tradimento. Nella foschia della battaglia vidi le loro lame scontrarsi, poi vidi Orlaith, ormai senza difese, scagliata oltre la fiancata.||||
+caer120|Poi venne uno ((schianto)) come non ne avevo mai sentiti. La nave si era arenata. Quando rinvenni, proprio in questo punto, Vela era sopra di me e mi fissava. Ero insanguinata, ferita... ma Vela si voltò e se ne andò.||||
+caer121|Fu in quel momento... che ((io)) nacqui. Questa eco spettrale di ciò che ero stata. ##Cercai di urlare, cercai di piangere; ma non avevo ancora imparato a... condensarmi in un corpo, in una forma.||||
+caer122|Così guardai il mio corpo materiale, il mio io di un tempo, giacere lì... aggrappato a stento alla vita. Guardai arrivare gli agenti dell'Inquisizione, e la vidi urlare mentre la trascinavano via.||||
+caer123|Guardai mentre la gettavano in una cella e i loro strumenti di tortura le dilaniavano la carne. Guardai la sua volontà spezzarsi, e la vidi rivelare ogni segreto che conosceva. Guardai mentre la distruggevano.||||
+p625|Mi dispiace tanto.||||
+caer124|Non versate lacrime per me, straniero. Ho abbandonato da tempo l'autocommiserazione.||||
+p626|Questo significa che... un'altra versione di voi è ancora viva?||||
+caer125|<<Sorride.>> Naturalmente, straniero. Soltanto nelle vecchie fiabe del Medioevo bisogna ((morire)) per diventare un fantasma.||||
+caer126|In effetti, conoscete molto bene la mia controparte corporea. <<Strizza l'occhio.>> Sono certa che riuscirete a capire chi è.||||
+p627|Dunque cercate vendetta?||||
+caer127|Quando vidi Vela incombere su di me, nell'istante della mia creazione? Non provai odio. Sentii... il ((cuore spezzarsi)).||||
+caer128|Perché io l'amavo, straniero. L'amavo profondamente. E all'improvviso vidi tutti i futuri possibili che avevo scrutato, tutti quei sogni di felicità... dissolversi. ##La Vela che vidi era quella che avevo sempre temuto.||||
+caer129|Quindi no, straniero, non cerco vendetta; non serbo odio nel cuore, ammesso che si possa dire che ne abbia uno.||||
+caer130|<<Chiude gli occhi.>> Voglio soltanto che tutto questo finisca. Voglio vederla ((sorridere)) di nuovo...||||
+p628|Grazie per la storia.||||
+caer131|Sono lieta che mi abbiate ascoltata, straniero. Presto affronterete di nuovo Vela, e ora potreste avere un unico vantaggio su di lei...||||
+caer132|...potreste riuscire a ((comprenderla)) fino in fondo.||||
+chainedGod1|A quanto pare, Vela Callose vi ha trafitto il petto con la sua spada.||||
+chainedGod2|Eravate a pochi istanti dalla morte. Vi ho strappato a una morte certa e ho ricomposto il vostro cuore infranto, prima che il Vuoto potesse reclamarvi.||||
+chainedGod3|A dire il vero, vi osservo da tempo con grande interesse. La missione che avete intrapreso non è priva di pericoli, e da tempo sono pronto a salvarvi da una sconfitta certa.||||
+chainedGod5|Che siate sfuggito alla morte tanto a lungo senza il mio aiuto è a dir poco straordinario.||||
+chainedGod6|Ma ora sembra che abbiamo un nemico comune. ##Vela Callose, nella sua ((arroganza)), mi ha incatenato qui con ceppi d'Acciaio del Vuoto. Desidero essere libero, e dunque lei deve morire.||||
+chainedGod7|Un tentativo valoroso, umano. <<Le parole risuonano nella tua testa pulsante.>>||||
+p651|Vela... c'ero quasi...||||
+chainedGod8|Non scoraggiatevi. La lama di Vela ha abbattuto molti avversari più potenti di voi.||||
+p652|Eccoci di nuovo qui.||||
+chainedGod9|E ancora una volta vi ho strappato alle fauci della morte...||||
+chainedGod10|...ma le volte in cui l'ho fatto sono relativamente poche, umano. Finora siete stato abile nell'evitare la sconfitta. L'Alta Confessora è stata saggia ad affidarvi questo fardello.||||
+chainedGod11|...E l'ho fatto innumerevoli volte, in ogni angolo di queste Isole. ##Senza il mio aiuto, umano, non avreste avuto la minima possibilità di arrivare fin qui.||||
+chainedGod12|...Una volta fra tante, potrei dire, anche se non vi è vergogna in questo. Avete svolto il vostro compito in modo ammirevole.||||
+chainedGod13|Ma affrontare Vela ((di nuovo)) sarà una sfida formidabile. Non sarà altrettanto facile assalire una seconda volta il velivolo emberiano di cui si è impadronita. ##Per aprirvi la strada con la forza, avrete certamente bisogno del mio aiuto.||||
+chainedGod14|<<L'entità scuote le catene.>> Questi ceppi d'Acciaio del Vuoto sono vincolati dalla magia di Vela. Soltanto per mano sua o con la sua ((morte)) potrò essere liberato. Ripongo la mia ((fiducia)) in voi, umano.||||
+p653|Non vi deluderò.||||
+p654|Non ho scelta.||||
+chainedGod15|<<La divinità annuisce con le teste congiunte.>> ##Ora recatevi dall'[[Alta Confessora]]. Credo che desideri parlarvi...||||
+admiral1|<<Una voce autoritaria tuona dai diffusori della nave. Presumi che appartenga all'Ammiraglio Callose della Marina dell'Unione.>>||||
+admiral2|...è semplicemente ((fuori discussione.)) Alta Confessora Caer, devo forse ((ricordarvi)) che detenete una posizione di autorità in questo tribunale nonostante i numerosi crimini commessi contro l'Unione, perlopiù insieme alla stessa ((Vela)).||||
+admiral3|Non m'importa che abbiate mandato un'incorreggibile banda di criminali a cercare mia figlia; considerata la vostra ((storia)) con Vela, non posso in coscienza permettere né a voi né ai vostri ((lacchè)) di avvicinarvi a lei.||||
+admiral4|Pertanto userete quel decrepito relitto di Aeronave per ((coprire il fianco)). Non interferirete con questa operazione, che è affidata esclusivamente alla Marina dell'Unione Apostatica. Siete ((congedata)).||||
+hc171|Quell'insopportabile ((idiota.)) Tra tutte le persone responsabili di questo incubo, lui... non è certo innocente. Se fosse stato un ((padre)) per Vela, quando lei ne aveva bisogno...||||
+hc172|<<Dalla bara risuona un forte clangore.>> E ora vorrebbe batterla al suo stesso gioco perverso! Vogliono ((rubare)) la Culla, Confessore XVII. La Marina... la vuole per sé, affinché il dominio dell'Unione sui Regni Celesti... diventi assoluto.||||
+p551|Ehm, credevo che foste dalla parte dell'Unione.||||
+hc173|Mai. Io ((disprezzo)) questi ripugnanti bastardi. Ma canto ciò che vogliono sentire, pur di tenermi... fuori da una cella, proprio come voi.||||
+hc174|E poi, è l'unico modo in cui posso fermare Vela. Ormai... è l'unica cosa che conta per me.||||
+p552|E allora che cosa faremo?||||
+hc175|<<Risuona un sospiro.>> A quanto pare dovrò ((coprire il fianco))... proprio come pretende l'Ammiraglio Callose. È troppo tardi, e c'è troppo in gioco, per agitare le acque adesso.||||
+p553|Quindi ci arrendiamo e basta?||||
+hc176|Non ho ((detto)) questo, Confessore. Abbiamo ancora... una carta da giocare.||||
+p554|Dev'esserci un modo.||||
+hc177|C'è sempre un modo, Confessore. Abbiamo ancora... una carta da giocare.||||
+p555|Dovremmo lasciare che se la prenda l'Unione.||||
+hc178|Anche se glielo permettessimo, non riuscirebbero mai. Vela scatenerebbe un altro ((Squarcio del Mondo))... piuttosto che lasciare la Culla a suo padre. Uno scenario... che si fa più probabile a ogni istante.||||
+hc179|No, c'è un altro modo, Confessore. Abbiamo ancora... una carta da giocare.||||
+hc180|Mentre voi eravate impegnato a farvi ((ammazzare)), il resto della squadra è riuscito... a fuggire dalle Terre di Sotto a bordo della Navetta, grazie alle riparazioni di Frost.||||
+hc181|Come avrete senz'altro notato, la Culla... è salita fino ai Regni Celesti. La Marina dell'Unione, finalmente consapevole della ((gravità)) della situazione, si è presentata... in forze.||||
+hc182|Ma non riesce a sfondare... lo scudo difensivo della Culla. Una tecnologia Emberiana estremamente avanzata. Quindi, per il momento... le due parti sono in una situazione di stallo.||||
+hc183|Quindi ((noi)) dobbiamo soltanto... sgusciare oltre entrambi. Pilotare la Navetta... e far passare di nascosto la vostra squadra d'assalto oltre la flotta più grande del mondo e attraverso uno scudo Emberiano impenetrabile... per fermare la persona vivente più pericolosa. ##Che cosa potrebbe esserci di più semplice?||||
+p660|È impossibile.||||
+hc184|Nella situazione attuale... sarei d'accordo. Ma su queste isole sono disseminati segreti che potrebbero aiutarci.||||
+p661|Come potremmo superare la flotta?||||
+hc185|Nelle sue condizioni attuali, la Navetta verrebbe rilevata subito... dai maghi aeronautici della Marina. Ma Caxton Frost ha un'idea.||||
+hc186|Esistono leggende... su un antico velivolo emberiano. Un vascello fantasma, capace di infrangere qualsiasi barriera... o sfuggire a qualsiasi inseguimento. Si dice che sia precipitato durante lo Squarcio del Mondo... e non sia mai più stato visto.||||
+hc187|Molti hanno cercato... il [[velivolo precipitato]]. Senza successo. Gli scrutatori non vedono nulla, oppure... vengono colpiti da apoplessia. La Marina dell'Unione lo considera... soltanto un mito.||||
+hc188|Frost... non è dello stesso avviso. Circolavano voci... su una particolare isola alla deriva nei Regni Celesti, con un relitto emberiano. Quell'isola... è finita proprio nelle Isole Oniriche.||||
+hc189|Esplorate le [[isole più remote]] dell'arcipelago e trovate... qualunque [[potere]] impedisca alle menti degli scrutatori... di percepire il relitto. ##Allora... potreste superare il blocco della Marina.||||
+p662|Ma come faccio a ((raggiungere)) quelle isole?||||
+hc190|Non potete pilotare la Navetta, perché Frost... deve modificarla... prima del vostro assalto alla Culla.||||
+hc191|No... pare che vi servirà [[un'Aeronave tutta vostra.]]||||
+hc191b|...Naturalmente vi servirà una vostra [[Aeronave]]. Ricordate di usare l'[[Ordinanza di Permesso]] che vi ho dato.||||
+hc192|Prendete questa [[Ordinanza di Permesso.]] Vi aiuterà ad aggirare l'((incubo)) burocratico dell'acquisto di un velivolo presso la [[Gilda dei Mercanti Alati.]]||||
+hc193|Quanto alla somma considerevole che senza dubbio dovrete pagare... non posso aiutarvi. Le nostre casse... sono vuote, temo.||||
+hc194|E approfittate di questo tempo... per assicurarvi di essere [[pienamente preparato]] allo scontro che vi attende. Non credo che questa situazione... si risolverà presto, e assaltare la Culla... non sarà un'impresa facile.||||
+hc195|Ora dovreste andare. Ho... i miei ((problemi)) da risolvere.||||
+p663|Capito.||||
+hc196|Bene. Siete congedato.||||
+p664|Quali problemi?||||
+hc197|Oh, si tratta di una questione piuttosto... ((delicata)). Se devo essere sincera, il vostro aiuto... sarebbe gradito.||||
+hc200|Oh, Confessore XVII. Ho un altro... incarico per voi. Questo è di natura più... ((delicata)).||||
+hc201|Come avrete certamente notato, esistono tensioni tra questo tribunale... e il resto dell'Unione. Sia la Marina sia i miei superiori nell'Inquisizione... hanno iniziato a ((mettere in dubbio)) la mia lealtà alla causa.||||
+hc202|Così mi hanno chiesto... di impartire un ordine che sanno essere per me... <<Inspira con un rantolo.>> ((sgradevole)).||||
+hc203|C'è una [[piccola casa]] nella [[foresta occidentale di Hallowshire]], dove i nostri agenti si sono imbattuti in un certo [[Divinetto]].||||
+hc204|Questo dio minuscolo e avvizzito avrebbe poca importanza, se non fosse che... i miei superiori ((sanno)) che anni fa era affidato alle mie cure e che ero... ((affezionata)) a quella creatura.||||
+hc205|<<Tace per un momento.>> Non è il momento... di destare i loro sospetti. Dovete raggiungere questo Divinetto. Dovete... <<deglutisce lentamente.>> ...((ucciderlo)), su mio ordine. E poi... continueremo come se nulla fosse.||||
+p665|Va bene, lo ucciderò per voi.||||
+hc206|Grazie... Confessore. ##Ricordate: lo troverete nella [[foresta occidentale]] di Hallowshire.||||
+hc207|Prendete questo [[Bisturi del Vuoto]]. Soltanto l'Acciaio del Vuoto può ferire un dio. Usatelo per tagliargli la gola.||||
+p666|Parlatemi di questo Divinetto.||||
+hc208|<<Colpisce con forza l'interno della bara.>> Ha ((importanza)), Confessore? Sono le forme avvizzite e patetiche di dèi indeboliti. Migliaia di loro sono sparsi nei Regni Celesti... sin dalla Guerra Divina.||||
+hc209|L'Inquisizione ne distrugge altri... ogni giorno. ((Questo)) non fa eccezione.||||
+p667|Mi rifiuto di farlo.||||
+hc210|Se non avete lo stomaco per farlo... troverò qualcun altro.||||
+p667b|Per me va bene.||||
+p667c|Riguardo a quel Divinetto che volevate morto...||||
+hc211|Mi è giunto un rapporto... secondo cui il Divinetto è morto. ##<<Sospira.>> Grazie, Confessore.||||
+p668|Ho trovato...||||
+p669|Sono riuscito a...||||
+p670|Non ho...||||
+hc212|<<Abbatte un arto meccanico sul terreno.>> Non voglio sentire... i dettagli, Confessore. Vi sono grata per l'aiuto, e questo... è tutto.||||
+hc213|<<Lascia che il silenzio si prolunghi. Ma mentre ti volti per andartene...>>## Tranne... una cosa. Quel dannato ((fantasma)). Era lì?||||
+p671|Era lì.||||
+hc214|Quello spirito maledetto mi perseguita da anni. Sospettavo... che avrebbe cercato di fermarvi.||||
+p672|Ha lasciato intendere che siete... la stessa persona.||||
+hc215|I fantasmi non sono altro che... vestigia di traumi impresse a fuoco nella realtà. Lei è soltanto un'eco del mio io di un tempo. Intrappolata... nell'ingenuità e nell'idealismo.||||
+hc216|<<Sospira.>> Quando navigavo con Vela, volevo usare la mia magia Wikkan per guarire questo mondo spezzato. Pensavo che si potesse sempre trovare... un ((compromesso)) tra le parti.||||
+hc217|Ma ci vollero mesi di torture dell'Inquisizione, e molti altri mesi rinchiusa in una camera anti-Cifro, perché la mia mente distrutta... vedesse la ((verità)).||||
+hc218|C'è una sola cosa... su cui io e quello ((spirito)) concordiamo. Vela... deve essere fermata. Ma soltanto ((io)) ho il coraggio di andare fino in fondo.||||
+hc219|<<È scossa da un accesso di tosse che si placa in un respiro affannoso.>> Abbiamo fatto la cosa giusta, Confessore. Stiamo ((facendo)) la cosa giusta.||||
+hc220|<<La bara dell'Alta Confessora viene scortata via dai suoi stessi agenti.>> ##Lasciatemi andare, idioti! <<Tossisce senza controllo.>>||||
+hc221|<<Ti vede.>> ((Confessore))! Eccovi, ((traditore)). Sapete... che cosa avete fatto?||||
+hc222|Pensate che placare quel dannato ((spirito)) fermerà questa follia? Quella cosa non è nemmeno ((reale)). È soltanto un'ombra del mio io passato. Un vestigio di un trauma... impresso a fuoco nei cieli.||||
+p673|Mi dispiace.||||
+p674|Ve lo siete meritato.||||
+hc223|<<Emette un respiro profondo e raschiante.>> Ascoltate, Confessore XVII. Mi getteranno in una cella senza serratura, da cui non rivedrò mai la luce di una stella neurale. Ma non vi ((porterò rancore)) né maledirò il vostro nome. Purché... facciate ((una cosa)).||||
+hc224|((Vela.)) Spaccatele il cranio e spezzatele le ossa. Per ciò che... mi ((ha fatto))...||||
+hc225|<<La senti singhiozzare debolmente dentro la bara.>>||||
+hc226|Ah, pare che abbiate recuperato... tutti i componenti necessari, Confessore. Basalt mi informa... che la Navetta è pronta.||||
+hc227|Questa sarà la vostra... ((ultima)) missione. Dopodiché dichiarerò la vostra penitenza... compiuta. Sarete di nuovo libero di vagare per i Regni Celesti.||||
+hc228|Ma volevo offrirvi... un posto qui, in questo tribunale. Se desideraste... servire l'Inquisizione al mio fianco.||||
+p675|Grazie. Entrerei volentieri nell'Inquisizione.||||
+hc229|Mi fa... piacere sentirlo, Confessore. Sarete... un agente eccezionale.||||
+p676|Preferirei trovare la mia strada.||||
+hc230|Rispetto la vostra decisione, Confessore. Forse farei lo stesso, se non fossi legata... a questa bara.||||
+p677|Disprezzo questa istituzione. Preferirei vederla bruciare.||||
+hc231|<<Ridacchia con voce gutturale.>> In verità, non posso darvi torto, Confessore. Anche se dovrò... guardarmi le spalle.||||
+hc232|Ma... torniamo al compito che ci attende.||||
+hc233|Radunerete la vostra squadra d'assalto... per questo incarico finale. Vi avvicinerete alla [[Culla]] a bordo della [[Navetta]], e vi farete strada combattendo tra le difese di Vela.||||
+hc234|Non abbiamo osservato alcun comportamento anomalo da parte della Culla. Possiamo dunque soltanto supporre... che Vela non abbia ancora risvegliato la creatura al suo interno. Dovete ((ucciderla)) prima che possa fare del male.||||
+p678|Va bene.||||
+p679|Dovrei davvero ((ucciderla)) invece di catturarla?||||
+hc235|Voi non avete... navigato con lei, a quei tempi. Non l'avete ((amata)) come l'ho amata io. Non siete stato ((tradito)) da lei e abbandonato a morire!||||
+hc236|<<Ansima in cerca d’aria.>> Se le sarà permesso di attuare i suoi piani, Vela sarà la morte di tutti noi. Quella donna non merita altro che la morte.||||
+p680|Anzi, voglio aiutarla.||||
+hc237|<<Ride come una folle.>> Non credereste a quante persone ho sentito pronunciare quelle parole. Vela sa insinuarsi nella mente. Sa indurvi ad ((adorarla)).||||
+hc238|Ma non lasciatevi sedurre dalla sua retorica. Sarà la morte di tutti noi.||||
+hc239|Comunque non importa. Se voi non lo farete, Orlaith ((lo farà)).||||
+hc240|Fate attraccare la Navetta alla Culla, e il resto della squadra darà inizio all'assalto. Aspettatevi una feroce resistenza. Dei ((sacrifici)) potrebbero rendersi necessari... Potremmo non rivederci tutti.||||
+hc241|Ma sappiate questo, Confessore: ho imparato a... ((rispettarvi)) e confido che, quando verrà il momento... farete la cosa giusta.||||
+hc242|Grazie per ciò che avete fatto laggiù, straniero. Non tutti avrebbero agito come voi.||||
+hc243|Non versate lacrime per l'Alta Confessora. Non mi fa certo piacere vedere il mio vero io ridotto a questo, ma... si è scavata la fossa da sola schierandosi con quei ((bastardi autoritari)).||||
+hc244|<<Sorride con malizia.>> Oh, non preoccupatevi: non possono vedermi né sentirmi. Sarò anche un fantasma, ma so ancora tessere un semplice incantesimo di occultamento.||||
+p681|Quindi devo obbedire agli ordini dell'Inquisitore Ignavius?||||
+hc245|Non mi preoccuperei di ((lui)); quell'idiota pasticcione non ha la minima idea di che cosa stia accadendo.||||
+p682|Che cosa dovrei fare?||||
+hc246|A prescindere dai miei sentimenti ((personali)) per l'Alta Confessora, il suo piano resta la vostra migliore possibilità di avvicinarvi a Vela.||||
+hc247|Dovete soltanto trovare la [[nave emberiana precipitata]] e il suo [[motore]], così potrete intrufolarvi a bordo della Culla.||||
+p683|Come trovo questo motore?||||
+hc248|L'Alta Confessora ha detto che si trovava a bordo della nave precipitata su un'isola da qualche parte, giusto?||||
+hc249|Cercatelo navigando verso le [[isole più remote]] e potreste poi usare questo congegno per far passare di nascosto la Navetta attraverso il blocco della Marina dell'Unione.||||
+p684|Grazie, Caer.||||
+hc250|Buona fortuna, straniero.||||
+hc251|Bentornato, Confessore.||||
+hc252|Ricordate: lo troverete nella [[foresta occidentale]] di Hallowshire. ##Usate il [[Bisturi del Vuoto]] che vi ho dato. Soltanto l'Acciaio del Vuoto può ferire un dio. Usatelo per tagliargli la gola.||||
+hc253|Avete cambiato idea, eh?||||
+p684b|Riguardo alla mia missione...||||
+caer200|A quanto pare ce l'avete fatta, straniero. La Navetta è stata equipaggiata con quei sofisticati congegni, e ora siete pronto a salire di nascosto a bordo della Culla senza che nessuno se ne accorga.||||
+caer201|Se riuscirete davvero nell'impresa, dubito che l'Inquisizione noterà la scomparsa di un singolo Confessore nel caos. <<Strizza l'occhio.>> ##Ditemi, straniero: se ne uscirete vivo, che cosa farete dopo?||||
+p685|Non ho alcuna intenzione di andarmene. Resterò con l'Inquisizione.||||
+caer202|<<Aggrotta la fronte.>> La libertà vi chiama, eppure preferireste restare un ((prigioniero))? Per ((questi)) idioti?||||
+caer203|Beh, a ciascuno il suo, straniero, ma proprio da ((voi)) mi aspettavo di meglio.||||
+p686|Vedrò dove mi porterà il vento.||||
+caer204|Ah, uno spirito libero, eh? Non ho dubbi che diventerete un ((gran)) avventuriero.||||
+p687|Mi vendicherò di quegli stronzi dell'Inquisizione.||||
+caer205|<<Ridacchia.>> Ora sì che parlate la mia lingua. Se avessi un corpo di carne e sangue, mi unirei volentieri a voi, straniero.||||
+caer206|Ma... non conviene contare le sacche d'uova prima che si schiudano, eh? La Culla non si assalterà da sola.||||
+caer207|Sembra che i vostri compagni siano pronti per lo scontro. Dovete solo prendere la [[Navetta]] e partire per la [[Culla]]. Se qualcuno può raggiungere Vela, siete proprio voi.||||
+caer208|E se qualcuno può fermarla... beh. Non lo so. I grandiosi sogni di Vela hanno già traviato molte menti sagge. Temo che possano sedurre anche voi.||||
+caer209|Non vi dirò che cosa fare quando incontrerete Vela faccia a faccia. Spetta a ((voi)) decidere, straniero. Ma confido che, quando verrà il momento... farete ciò che è ((giusto)).||||
+caer210|Bastardi! Avete per amici questa ((feccia)) dell'Inquisizione, straniero? O dovrei dire ((Confessore)), adesso?||||
+p688|Mi hanno mandato qui per uccidere un Divinetto.||||
+p689|Mi è stato affidato un compito che non voglio svolgere.||||
+caer211|Vi ha mandato a uccidere Danu, vero?||||
+caer212|<<I suoi occhi ardono di furia.>> Quella ((stronza))! ##Dunque ci tradirebbe, rinnegando tutto ciò che un tempo avevamo caro, soltanto per arrivare a ((Vela))?||||
+p690|Conoscete questo posto?||||
+caer213|Se ((conosco)) questo posto? È la mia ((casa)). L'ultimo luogo in cui vissi con i miei genitori, prima che loro... <<Le parole le muoiono in gola.>>||||
+p691|Toglietevi di mezzo.||||
+caer214|Ascoltate, straniero. Non siete obbligato a farlo. All'Alta Confessora non... non ((dovete)) nulla! Si sta ((servendo)) di voi!||||
+caer215|<<Lacrime spettrali le rigano il volto, scintillando nella luce mentre svaniscono.>> ##((Vi prego)), straniero. Usate quel [[coltello]] per recidere i suoi legami, non per... per...||||
+caer216|<<Tira su col naso e deglutisce, ma non aggiunge altro.>>||||
+caer217|<<Il Divinetto emette un suono sommesso e triste, che sembra riecheggiare nelle tue ossa.>>||||
+caer218|Il suo nome... è Danu. ##Nel Medioevo era la dea protettrice di un potente regno; una profetessa capace di predire e ((cambiare)) il destino degli imperi...||||
+caer219|Ma dopo la Guerra Divina era soltanto... mia ((amica)).||||
+caer220|I miei genitori avevano ricevuto l'incarico di proteggerla dall'Inquisizione. Danu, riconoscente, mi insegnò a padroneggiare la magia cifrata: a leggere i fili delle possibilità che sgorgano da ogni cosa e a intravedere i futuri più probabili.||||
+caer221|E... quando i miei genitori scomparvero? Rimanemmo soltanto io e Danu.||||
+caer222|Quando Vela mi trovò e divenni una mercenaria della Stella Oscura, lasciai Danu qui, protetta da amuleti e sigilli. Perfino ora, in ((questa)) forma, continuo a vegliare su di lei...||||
+p692|Perché l'Alta Confessora la vuole morta?||||
+caer223|Perché è molto importante per me... per ((lei)). ##È... una prova di lealtà.||||
+p693|Basta con questa storia strappalacrime.||||
+caer224|((Vi prego)), ((ascoltatemi)), straniero.||||
+caer225|Sono il fantasma di [[Caer]], mercenaria della Stella Oscura. Nacqui dal trauma che provò quando precipitò verso la morte durante l'ammutinamento. ##Ma Caer non ((morì)); il suo cuore batte ancora.||||
+caer226|Gli agenti dell'Inquisizione la torturarono per mesi. La spinsero alla follia con strumenti e congegni inenarrabili e poi, quando ebbero finito con lei, la gettarono in una cella isolata dal Cifro. Per la prima volta nella sua vita, non riuscì a udire il linguaggio del cosmo.||||
+caer227|Per ((Caer)), fu come essere privata dell'((aria)). Non... che io possa saperlo con certezza, perché eravamo già separate. ##Qualunque cosa abbiano fatto a me — a Caer — in quegli anni, l'ha trasformata nell'Alta Confessora che conoscete.||||
+p694|Aspettate... ((voi siete)) il fantasma dell'Alta Confessora?||||
+caer228|Se state pensando che sembriamo due persone completamente diverse, beh... lo prenderò come un complimento.||||
+p695|Se siete la stessa persona, non potete fermarla?||||
+caer229|((Non)) siamo la stessa persona. Una volta provai a parlarle, a farla ragionare. Fu... inutile.||||
+p696|Almeno l'Alta Confessora ha un piano.||||
+caer230|Forse, ma è prigioniera in più di un senso. I suoi padroni le lasciano ben poca libertà d'azione, e ormai è mossa soltanto dalla vendetta.||||
+caer231|Ascoltate, straniero. La Caer dentro quella bara? È soltanto l'ombra di ciò che era, un cadavere avvizzito che si aggrappa a stento alla vita.||||
+caer232|Questo Divinetto è l'ultimo residuo di ciò che era un tempo. Se ucciderete Danu qui, non resterà ((nulla)) di Caer, nient'altro che un ((fantasma)).||||
+p697|((Uccidere il Divinetto.))||||
+caer233|<<Ti avvicini al Divinetto con il Bisturi del Vuoto. La creatura strilla; un suono alieno ed etereo che sembra propagarsi attraverso tutti i tuoi sensi.>>||||
+caer234|<<Affondi il pugnale nella sua gola. Un lamento di dolore sembra riverberare in tutto il tuo essere, e sia il Divinetto sia il coltello si dissolvono nel nulla.>>||||
+caer235|<<Il fantasma di Caer lancia un urlo; un grido terribile che si spezza in singhiozzi.>> ##Straniero...||||
+caer236|<<Si asciuga le lacrime eteree.>> Dunque scegliete una vita da burattino dell'Inquisizione? ##<<Tira su col naso.>> E sia.||||
+caer237|Non vi abbandonerò. A differenza di quella ((Alta Confessora)), io non serbo rancore; e ciò che è in gioco... è troppo importante.||||
+caer238|Ma sappiate che la mia fiducia in voi è andata in frantumi, straniero. ##Ora... ((lasciatemi sola)).||||
+p698|((Liberare il Divinetto. ))||||
+caer239|<<Ti avvicini al Divinetto con il Bisturi del Vuoto. Il Divinetto strilla; un suono alieno ed etereo che sembra propagarsi attraverso tutti i tuoi sensi.>>||||
+caer240|<<Il coltello recide i suoi legami con un unico colpo deciso, e la lama si frantuma in mille pezzi. Il Divinetto è libero. Trilla, e un'ondata di calore si diffonde nel tuo corpo.>>||||
+caer241|<<Il fantasma di Caer ti fa un cenno d'assenso.>> Vi ringrazio di cuore, straniero. Danu non meritava un destino tanto crudele.||||
+caer242|Ci vedremo di nuovo alla Luce Accecante. Qualcosa mi dice che l'Inquisizione non vedrà di buon occhio l'Alta Confessora dopo quanto è successo.||||
+p699|((Andarsene.))||||
+caer243|Una cosa terrificante, non trovate? È difficile concepire che sia stata creata da mani umane. Nelle sue arterie pulsano macchine letali d'ogni sorta.||||
+caer244|<<Deglutisce.>> Ascoltate, straniero... Vedo che questo scontro non sarà facile. La strada che vi attende non si percorre senza spargere sangue.||||
+caer245|Sappiate soltanto che, qualunque cosa accada, la colpa non sarà vostra. Come sempre, danziamo al ritmo di Vela.||||
+caer246|Che cosa abbiamo qui? A quanto pare, una povera anima sputata fuori da un'umida cella è riuscita in qualche modo a imbattersi nel momento più decisivo a memoria d'uomo. <<Sorride.>>||||
+caer247|Straniero, l'[[Angelo]] vi ((osserva)) e, per la sua mente incomprensibile, non siete che un insetto che striscia sulla merda.||||
+caer248|Eppure qui, su questo piano dell'esistenza, non ha alcun potere senza qualcuno come voi. È una creatura nata dal Vuoto; può pensare e sentire soltanto nel Cifro, e le manca la ((prospettiva)) di un semplice mortale. Per agire in questo luogo, deve fondersi con un altro essere.||||
+caer249|Questa creatura sfugge alla preveggenza, straniero. Nei fili della profezia, questo momento è un abisso oltre il quale non riesco a vedere. Per anni ho creduto che fosse Vela a trovarsi sull'orlo del precipizio; ma ora vedo che siete... ((Voi)).||||
+p700|Ho dimostrato il mio valore.||||
+caer250|Il vostro ((valore)), straniero? È l'eterna follia dei mortali: scambiare il caso e il privilegio per ((provvidenza divina)).||||
+p701|È stato soltanto un tiro di dado.||||
+caer251|<<Sorride maliziosa. >> Molti, al vostro posto, si attribuirebbero ogni merito dei propri successi. Sono lieta che abbiate il buon senso di vedere le cose diversamente.||||
+caer252|Queste isole sono da tempo dimora di sognatori e visionari. Le loro illusioni hanno permeato il tessuto della terra, in attesa di essere reclamate. La gente di qui vi ha caricato sulle spalle i propri desideri, nulla di più.||||
+caer253|Ma fareste bene a ricordare che il vostro potere, ((ogni)) potere, è preso in prestito. Non siamo altro che tramiti.||||
+caer254|E ora, per caso o per abilità, avete più potere di chiunque vi abbia preceduto. L'ultima volta che questo Angelo fu destato, il mondo intero venne distrutto. Potreste bandirlo, oppure potreste ((fondervi)) con esso e riuscire dove i vostri predecessori hanno fallito.||||
+caer255|Che cosa farete, mi domando?||||
+p702|Questo Angelo potrebbe causare un altro Squarcio del Mondo?||||
+caer256|Mi ((piacerebbe)) dirvi che gli Emberiani, quattrocento anni fa, usarono l'Angelo con malvagità e stoltezza, condannando così il mondo a un simile destino...||||
+caer257|Ma la verità è che nessuno sa davvero che cosa accadde allora, né che cosa potrebbe accadere adesso. Vela era certa di potersi fondere con l'Angelo senza innescare una cascata sintattica; io non sono tanto arrogante da pronunciarmi in un senso o nell'altro.||||
+caer258|Per una persona che ha trascorso la vita a predire il futuro, è quasi una novità ammetterlo: non ne ho idea.||||
+p703|Che cosa dovrei fare?||||
+caer259|<<Sospira.>> Ho creduto a lungo che cambiare le regole del Cifro, alterare radicalmente la ((trama)) stessa dell'esistenza, fosse un peccato più vergognoso di quanto potessi immaginare.||||
+caer260|Lo credevo con tutto il cuore quando cercai di fermare Vela; ma la sua volontà si dimostrò più forte, e sfidandola persi tutto ciò che avevo di più caro.||||
+caer261|E se l'ho amata davvero, non posso anche riconoscere che era spinta dall'amore e dalla bellezza quanto dalla rabbia e dall'ambizione?||||
+caer262|<<Ti sorride debolmente.>> La verità è che non sono più una persona, soltanto l'eco di una persona. Non ho il diritto di interferire con i vivi. ##Fate ciò che desiderate, straniero.||||
+p704|Be', ora o mai più.||||
+caer263|Buona fortuna, straniero. <<Sorride con calore.>> ##O forse dovrei chiamarvi... ((amico.))||||
+caer264|Buona fortuna, straniero. Ammesso che esista.||||

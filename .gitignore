@@ -1,0 +1,7 @@
+/dist/
+/resources.assets
+/*.zip
+*.backup
+*.italian-backup-*
+.DS_Store
+Thumbs.db

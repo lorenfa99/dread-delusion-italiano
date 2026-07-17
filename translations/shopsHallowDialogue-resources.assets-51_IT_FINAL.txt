@@ -1,0 +1,126 @@
+NPC Name:|Shops||||
+ID|English|French|German|Spanish|Italian
+p1|Vorrei dare un'occhiata alla vostra merce.||||
+p2|Voglio creare qualcosa con l'alchimia.||||
+p3|È tutto, grazie.||||
+p4|Fatemi vedere cos'avete in vendita.||||
+p5|Voglio potenziare il mio equipaggiamento.||||
+p6|Addio.||||
+p7|Vorrei affittare una stanza.||||
+p8|La prendo.||||
+p9|Anzi, ho cambiato idea.||||
+p10|Posso farvi qualche domanda?||||
+p11|Sapete se c’è qualche lavoro da fare?||||
+p12|Grazie, era tutto quello che volevo sapere.||||
+p13|Avrei un'altra domanda...||||
+p14|Era tutto quello che volevo chiedere.||||
+p15|È tutto, grazie.||||
+p16|Prendo un grimaldello.||||
+p17|Prendo cinque grimaldelli.||||
+p18|Sto bene così, grazie.||||
+p19|E quel teschio?||||
+p20|Cosa potete dirmi di Hallow Town?||||
+ps1|Prego, date pure un'occhiata alla nostra selezione di pozioni. Ah, e se vi serve un preparato su misura, posso aiutarvi con l'alchimia.||||
+es1|Vendiamo armi ed equipaggiamento. Se avete portato del minerale, posso anche modificare il vostro equipaggiamento.||||
+ik1|Benvenuto al Boccale Barcollante. Se avete bisogno di riposare, qui non mancano né letti né birra.||||
+ikBedTaken|Ehm... avete già affittato la stanza.||||
+ik2|La suite del teschio è libera. Per due monete è vostra.||||
+ik3|Grazie. È proprio lì, su per le scale: cercate il muro d'ossa. Non potete sbagliarvi.||||
+ik4|Mi spiace, amico. A quanto pare non ne avete abbastanza.||||
+ik5|Nessun problema. Posso aiutarvi con qualcos'altro?||||
+ik6|Chiacchierare non costa nulla, amico.||||
+ik7|Mmh. Be’, ho sentito che Vernon Berwig cerca avventurieri. Non so che cosa abbia in mente, ma è l’uomo più ricco della città, quindi direi che vale la pena provarci. Se vi interessa, andate alla Gilda dei Mercanti Alati sulla strada principale.||||
+ik8|Be', qui siamo quasi tutti semplici contadini. Da queste parti c'è gente fin dallo Squarcio del Mondo, e da allora tiriamo avanti come possiamo. Dopo la Guerra Divina siamo entrati nell'Unione Apostatica, ma perlopiù ci hanno lasciato badare ai fatti nostri... fino a poco tempo fa.||||
+ik9|L'Unione ha pensato bene di mettere mano ai nostri affari in modo più... diretto, capite. Sostengono che i nostri raccolti crescano grazie a una magia divina illegale. Che il culto organizzato dilaghi. Ma, nel tentativo di stroncarlo, hanno scatenato una carestia maledetta dagli dèi.||||
+ik10|A dirla tutta, quasi tutti pensiamo che staremmo meglio senza quella dannata Unione.||||
+ik11|Oh, l'avete notato? Eh. Bello grosso, vero?||||
+ik12|È una reliquia della Guerra Divina. Uno degli antichi dèi: si è beccato una lancia d'Acciaio del Vuoto dritta in un occhio. Gli ha traballato la zucca, poi è piombato su questa taverna.||||
+ik13|Volete sapere la cosa buffa? La taverna si chiamava già Boccale Barcollante. Per via di come... ehm... barcollava la maggior parte degli avventori.||||
+p20a|Vorrei comprare da bere.||||
+ik14|Certo. Di recente ci è arrivata una grossa fornitura di [[Vino Pregiato]] da Riova, quindi posso farvi un buon prezzo per una bottiglia. ##Se invece cercate del [[Vino Cifrato]], ne siamo a corto da quando il [[Regno Meccanico]] ha chiuso i confini.||||
+lp1|Salute, amico. Vendo... chiavi alternative, se capite cosa intendo. Due monete d'oro l'una.||||
+lp2|Un affare onesto. E ricordate: qui non ci siete mai stato.||||
+lp3|Mi sa che non avete abbastanza monete, amico.||||
+npc1|Negli ultimi mesi la carestia si è fatta davvero grave. La gente comincia ad avere paura.||||
+gd1|Ave, popolano. Possa l'Unione Apostatica risplendere in tutto il suo fulgore.||||
+p21|Cosa potete dirmi dell'Unione?||||
+p22|Potete aiutarmi a orientarmi in città?||||
+p23|Ehm, sarà meglio che vada.||||
+gd2|L'Unione è l'ultimo baluardo della ragione in questo mondo infranto. Siamo votati a estirpare ogni residuo del culto degli dèi e del settarismo. Nell'Unione è consentita soltanto la magia creata dall'uomo.||||
+gd3|Se vedete qualcosa di sospetto — un santuario illegale o un testo proibito — denunciatelo immediatamente. Il settarismo dilaga in questa città.||||
+gd4|Certo. Nella parte bassa della città c'è una taverna con un teschio gigante. È il Boccale Barcollante: potete riposarvi lì.||||
+gd5|Più avanti troverete la via principale, con alcuni negozi ben forniti. Diversi vicoli scendono verso i moli, oppure potete proseguire dritto fino alla torre dell'orologio.||||
+gd6|Poco oltre la torre dell'orologio c'è l'edificio del Consiglio dell'Unione. È lì che risiede la Polimate locale. Se cercate lavoro, potete sempre farle visita.||||
+rest1|Benvenuto al Boccale Barcollante, amico. Avete l'aria di uno che va in cerca d'avventure, quindi date retta a un vecchio sciocco: se esplorate la campagna, tornate qui a [[riposare spesso]].||||
+pRest1|Ehm, domanda stupida: perché dovrei riposare spesso?||||
+rest2|Sul momento potreste non accorgervene, ma quasi tutto ciò che fate [[aumenta l'affaticamento]]. La vostra soglia di Vigore si abbasserà e vi ritroverete più debole. ##Non sarete soltanto meno abile con la spada: farete pasticci perfino con lo [[Scasso]] e con altre abilità.||||
+rest3|Ma trovare un [[luogo sicuro in cui riposare]] vi farà recuperare del tutto dalla fatica. Perciò valutate sempre se fermarvi in una locanda.||||
+p24|Grazie del consiglio.||||
+day1|Tenete d'occhio la stella neurale, amico. Ha un ciclo di pulsazione di dodici ore e la maggior parte dei negozi chiude quando fa buio.||||
+day2|Se siete abituato ai giorni e alle notti più lunghi di alcuni paesi continentali dell’Unione, questo ciclo potrebbe sembrarvi strano.||||
+pDay1|Cosa potete dirmi delle stelle neurali?||||
+day3|Be', non so da dove veniate, ma molte persone trascorrono tutta la vita nel ciclo di una sola stella neurale, convinte che tutti i giorni e tutte le notti siano uguali.||||
+day4|Ma il mondo è avvolto da una coltre di stelle neurali interconnesse, ognuna diversa dalle altre. Tutte, però, si muovono secondo traiettorie regolari e in certi momenti «pulsano» con una luce più intensa.||||
+day5|La stella di Hallowshire compie il giro di tutte le isole circostanti ogni dodici ore. A mezzogiorno pulsa al massimo della luminosità, mentre di notte si contrae e si oscura. ##Qui si dorme più spesso e per meno tempo che nei luoghi con un ciclo più lungo.||||
+day6|Naturalmente, esistono luoghi così lontani da una stella neurale da essere intrappolati in una notte perpetua, e altri in cui un solo giorno può durare centinaia di ore.||||
+pDay2|Cosa succede qui di notte?||||
+day7|Be', di notte in città [[i negozi chiudono]] e quasi tutti gli abitanti dormono. ##Potreste scoprire che, in campagna, anche [[altre cose]] accadono soltanto in determinati momenti.||||
+scope1|Ah, la vista da qui è superba, non trovate? ##Se solo avessi un [[Telescopio]], scommetto che riuscirei perfino a vedere le creature nella foresta...||||
+scope2|Probabilmente ne vendono uno in città. Ma con questa carestia, tutti i miei soldi se ne vanno per comprare il pane.||||
+scope3|Ah, la vista da qui è superba, non trovate? Basterebbero una [[Bussola]] e una [[Mappa]] per vivere una gran bella avventura, scommetto.||||
+pScope1|Sapete dove potrei trovare una bussola?||||
+pScope3|Sapete dove potrei trovare un telescopio?||||
+scope4|L'[[Emporio delle Stranezze]] qui in città vende ogni genere di articolo per aspiranti esploratori. Io stesso ci ho comprato un [[Telescopio]].||||
+pScope2|Sapete dove potrei trovare una mappa?||||
+scope5|Guarda caso, sì. ##Ho sentito che l’[[Accademia Erudita]] è in città e che annovera diversi cartografi. Al posto vostro, durante i viaggi terrei d’occhio una delle loro [[tende rosse]].||||
+scope6|A quanto ho sentito, a Hallow Town le bussole sono esaurite. Troppi avventurieri e mercanti di passaggio, immagino.##Se vi serve una [[Bussola]], avrete più fortuna in un villaggio di campagna come [[Pwyll]]...||||
+walk1|Un tempo questo posto era così tranquillo. Da quando l'Unione Apostatica ha rafforzato la propria presenza, le guardie pattugliano le strade giorno e notte.||||
+docks1|Da quando è iniziata la carestia, sempre meno navi mercantili fanno scalo a Hallow Town. Abbiamo meno merci da vendere e il grano rincara di giorno in giorno.||||
+use1|[[La Pozione Spumeggiante]] vi dà il benvenuto! Vendiamo un'ampia gamma di articoli utili, dalle pozioni curative agli ingredienti alchemici. ## Nell'angolo c'è anche una [[Stazione Alchemica]]: se avete un po' di dimestichezza con l'alchimia, potete usarla gratuitamente e posso assistervi nel procedimento.||||
+pUse1|Cosa potete dirmi dell'alchimia?||||
+use2|L'alchimia è l'arte di trasmutare due ingredienti di base in qualcosa di completamente nuovo. Per iniziare, vi basta una [[Stazione Alchemica]].||||
+use3|Quando provate una nuova combinazione di ingredienti, non saprete quale sarà il risultato. Conviene sperimentare per scoprirne di nuove.||||
+use4|Alcune combinazioni falliranno inevitabilmente, producendo una sorta di spirito alchemico; anche questi spiriti, però, possono rivelarsi utili in altri esperimenti.||||
+wpn1|La campagna brulica di goblin e creature poco raccomandabili: solo uno sciocco si avventura là fuori senza una lama affilata. Qui da [[Una Lama Onesta]] ne abbiamo in abbondanza, e potete usare la nostra [[Stazione di Creazione]] per modificare il vostro equipaggiamento.||||
+wpn2|Usate la [[Stazione di Creazione]] nell'angolo per potenziare armi ed equipaggiamento. ##Per potenziare l'equipaggiamento da combattimento vi serviranno [[Minerali metallici]]; per gli abiti, invece, vi servirà del [[Filo di Seta]].||||
+wpn3|In campagna ci sono molte miniere. Da quando è iniziata la carestia, parecchie sono state abbandonate. Potreste trovarci ancora qualche frammento di minerale.||||
+tailor1|Ah, benvenuto da [[Vesti Gloriose]]! Vedo subito che siete un cliente dal gusto esemplare; ho una selezione di abiti raffinati tra cui scegliere. ##Se vi interessa, posso anche spiegarvi come funziona la [[Sartoria]].||||
+pTailor1|Come faccio a potenziare i miei abiti?||||
+tailor2|Per prima cosa dovrete trovare una [[Stazione di Creazione]]. Ce n'è una nel negozio d'armi qui vicino, [[Una Lama Onesta]]. ##Potete usarla per modificare sia l'equipaggiamento metallico sia gli abiti.||||
+tailor3|La maggior parte dei nostri articoli è realizzata con il [[Filo di Seta]] prodotto dalla [[Limaccia da seta]] autoctona di questa regione. È una creatura davvero meravigliosa: produce una seta dalla resistenza e dalla durevolezza ineguagliabili.||||
+tailor4|Sulla parete accanto a voi c'è l'immagine di una limaccia da seta. Se vi capitasse di incontrarne una in campagna, dovreste provare a raccoglierne la seta. ##È un procedimento piuttosto sporco, però. Portatevi degli stracci per il muco in eccesso...||||
+cult1|<<Il cultista ti guarda, la stanchezza negli occhi.>>##Così, alla fine qualcuno mi ha trovato. Era solo questione di tempo. Me ne stavo nascosto proprio sotto il naso dell'Unione.||||
+cult2|Vi prego, vi supplico: non ditelo alle guardie. Non sarò soltanto io a finire in cella. Il sarto andrà in rovina e... è stato così gentile. ##Ci sono alcune mie cose sparse qui attorno. Prendete pure ciò che trovate.||||
+book1|Ah, benvenuto all'[[Emporio delle Stranezze]]. Abbiamo incantesimi ed equipaggiamento per aspiranti avventurieri, e siete libero di consultare i libri sparsi qua e là.||||
+pBook1|Ditemi di più sul vostro negozio.||||
+book2|Dopo essermi laureato all'università di Byonne, ho viaggiato a lungo per i Regni Celesti. Gran parte di ciò che vendo l'ho raccolto durante i miei viaggi, e gli incantesimi cifrati li ho scritti di mio pugno.||||
+book3|Pago profumatamente i mercanti perché importino da Riova i trattati e gli scritti più recenti, e invito la gente del posto a consultare la mia selezione. È una specie di piccola biblioteca, diciamo.||||
+thief1|<<La donna ti squadra da capo a piedi.>> ##Avete l'aria di uno che sa cavarsela. Un consiglio, se vi va di ascoltarlo...||||
+thief2|In campagna la gente muore di fame, ma qui i mercanti sono ricchi come sempre. Di giorno non vi lasceranno rovistare nelle loro case, ma di notte... be', è tutta un'altra storia.||||
+thief3|Assicuratevi solo di fare scorta di [[Grimaldelli]] se avete in mente attività poco raccomandabili. I grimaldelli si rompono di continuo, quindi non sono mai troppi. ##Ci sono posti dove comprarli, se conoscete le persone giuste.||||
+thief4|Ho sentito che le guardie sanno di questo posto, ma chiudono un occhio. Di sicuro qualcuno le paga per farlo.||||
+lostPurse|Benvenuto alla Borsa Perduta.||||
+lostPurse1|<<L'oste ti fulmina con lo sguardo.>> ##Benvenuto alla [[Borsa Perduta]]. Le guardie non scendono fin quaggiù, quindi vendiamo roba che non troverete in locali più... ((rispettabili)). Fate casino — o andate in giro a spifferare quello che vedete qui — e non finirà bene per voi.||||
+pPurse2|Com'è che le guardie non sanno di questo posto?||||
+pPurse1|Vediamo cos'avete in vendita.||||
+lostPurse2|Oh, sanno benissimo che ci siamo. Diciamo solo che hanno tutto l'interesse a chiudere un occhio. Fermiamoci qui, ((amico)).||||
+outCold|<<Sembra aver perso i sensi.>>||||
+barSleep|<<Ha alzato un po' troppo il gomito.>>||||
+thiefSleep|<<Per fortuna, ha il sonno pesante.>>||||
+sleep|<<Dorme profondamente.>>||||
+tutRest1|Benvenuto al Boccale Barcollante, amico. Avete l'aria di uno che va in cerca d'avventure, quindi date retta a un vecchio sciocco: se esplorate la campagna, tornate qui a [[riposare spesso]].||||
+pTutRest1|Ehm, domanda stupida: perché dovrei riposare spesso?||||
+pTutExit|Grazie del consiglio.||||
+tutRest2|Sul momento potreste non accorgervene, ma quasi tutto ciò che fate [[aumenta l'affaticamento]]. La vostra soglia di Vigore si abbasserà e vi ritroverete più debole. #Non sarete soltanto meno abile con la spada: farete pasticci perfino con lo [[Scasso]] e con altre abilità.||||
+tutRest3|Ma trovare un [[luogo sicuro in cui riposare]] vi farà recuperare del tutto dalla fatica. Perciò valutate sempre se fermarvi in una locanda.||||
+tutStar1|Tenete d'occhio la stella neurale, amico. Ha un ciclo di pulsazione di dodici ore e la maggior parte dei negozi chiude quando fa buio.||||
+tutStar2|Se siete abituato ai giorni e alle notti più lunghi di alcuni paesi continentali dell’Unione, questo ciclo potrebbe sembrarvi strano.||||
+pTutStar1|Cosa potete dirmi delle stelle neurali?||||
+tutStar3|Be', non so da dove veniate, ma molte persone trascorrono tutta la vita nel ciclo di una sola stella neurale, convinte che tutti i giorni e tutte le notti siano uguali.||||
+tutStar4|Ma il mondo è avvolto da una coltre di stelle neurali interconnesse, ognuna diversa dalle altre. Tutte, però, si muovono secondo traiettorie regolari e in certi momenti «pulsano» con una luce più intensa.||||
+tutStar5|La stella di Hallowshire compie il giro di tutte le isole circostanti ogni dodici ore. A mezzogiorno pulsa al massimo della luminosità, mentre di notte si contrae e si oscura. ##Qui si dorme più spesso e per meno tempo che nei luoghi con un ciclo più lungo.||||
+tutStar6|Naturalmente, esistono luoghi così lontani da una stella neurale da essere intrappolati in una notte perpetua, e altri in cui un solo giorno può durare centinaia di ore.||||
+pTutStar2|Cosa succede qui di notte?||||
+tutStar7|Be', di notte in città [[i negozi chiudono]] e quasi tutti gli abitanti dormono. ##Potreste scoprire che, in campagna, anche [[altre cose]] accadono soltanto in determinati momenti.||||
+lightHouse1|Ah, la vista da qui è superba, non trovate? ##Se solo avessi un [[Telescopio]], scommetto che riuscirei perfino a vedere le creature nella foresta...||||
+lightHouse2|Ho sentito che ne vendono uno all'[[Emporio delle Stranezze]], in città. Ma con questa carestia, tutti i miei soldi se ne vanno per comprare il pane.||||

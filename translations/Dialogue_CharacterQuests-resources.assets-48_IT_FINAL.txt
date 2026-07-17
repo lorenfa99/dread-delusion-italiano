@@ -1,0 +1,883 @@
+|||||
+ID|English|French|German|Spanish|Italian
+p0|Addio.||||
+pq1|Posso farvi qualche domanda?||||
+pq2|Va bene, credo di aver capito.||||
+pq3|Capito.||||
+pq4|A dire il vero, avevo altre domande.||||
+pq5|Era tutto ciò che volevo sapere.||||
+pq6|Sto cercando qualcuno.||||
+pq7|Avete mai sentito parlare dell’Emberiana?||||
+pq8|Che cosa sapete di Vela Callose?||||
+pq9|Grazie per l'aiuto.||||
+mentor1|Ah, la [[Luce Accecante.]] Ricordo quando strappammo questo posto ai ((custodi dell'Unione.)) ##<<Sogghigna.>> Quando ancora credevamo di poterla passare liscia con ((qualsiasi cosa.))||||
+mentor2|C’era qualcos’altro?||||
+mentor3|<<L'uomo tamburella le dita sul tavolo, mentre lo sguardo gli guizza tutt'intorno. Non ti guarda mentre parla.>>||||
+mentor4|Andatevene. Sto aspettando qualcuno.||||
+p1|Quel qualcuno sono io. Sono con l’Inquisizione.||||
+p2|Siete il quartiermastro di Vela? Vi stavo cercando.||||
+p3|Allora me ne vado.||||
+mentor5|<<I suoi occhi scattano verso di te.>> Mh. Quindi siete ((voi)) l'agente? Devo ammetterlo, mi aspettavo qualcuno di un po' più... <<Sputa.>> ((inquisitorio.))||||
+p4|Le apparenze ingannano.||||
+mentor6|<<Socchiude gli occhi.>> Merda di calamaro. Vedo i segni delle catene sui vostri polsi. Siete un ((Confessore)), vero? Poco più che un prigioniero.||||
+p5|Sono un Confessore. Più ((prigioniero)) che agente.||||
+mentor7|<<Ride, ma non ti toglie gli occhi di dosso.>> ##Ah, dunque siete della ((Divisione Confessori.)) Questo spiega tutto.||||
+p6|Potrei dire lo stesso di voi, vecchio.||||
+mentor8|<<Gli sfugge un sorriso sottile.>> È vero, queste vecchie ossa dolgono. Ma almeno sono un ((uomo libero,)) eh? Vedo i segni delle catene sui vostri polsi: non siete un agente. Siete un ((Confessore)).||||
+mentor9|Quei bastardi... vogliono ((insultarmi)) mandandomi uno della loro ((plebaglia sacrificabile)). Mi danno la caccia da anni, e ora non si degnano nemmeno di mandare un agente. ##<<Si guarda intorno.>> Almeno, non davanti a me.||||
+mentor10|<<Sibila a denti stretti.>> Allora, sputate il rospo, Confessore. L'ha già trovato? È... ((vivo?))||||
+p7|E ((chi)) l'ha trovato?||||
+mentor11|((Vela)), razza di ((idiota ubriaco!)) Di chi altro potrei parlare?||||
+p8|Di che cosa state parlando?||||
+mentor12|<<Per un momento si limita a fissarti, con la fronte aggrottata.>>||||
+mentor13|Ah, non vi hanno davvero detto ((niente)), vero? Tanto varrebbe parlare con una limaccia da seta. ##Almeno sapete dove Vela ((si trovi))?||||
+p9|È fuggita su uno Sloop.||||
+mentor14|<<Annuisce.>> Direi che quadra.||||
+p10|Ho cercato di catturarla, ma... ho fallito.||||
+mentor15|Be', ((certo)) che avete fallito. Vela Callose, temibile comandante dei mercenari della Stella Oscura, contro... ((voi.)) Non era certo uno scontro alla pari, eh?||||
+mentor16|Sarà andata nelle [[Terre di Sotto]], per ricongiungersi con i mercenari della Stella Oscura rimastile fedeli. ##<<Guarda oltre il vetro della finestra.>> Naturalmente, la domanda è ((dove)). Le Terre di Sotto sono molto più vaste dei Regni Celesti; potrebbe essere ovunque...||||
+p11|Che cosa sono le Terre di Sotto?||||
+mentor17|<<Ti guarda accigliato.>> State scherzando, spero. Che cosa sono le ((Terre di Sotto?)) Adesso mi chiederete anche delle stelle neurali?||||
+p12|No, sul serio: che cosa sono le Terre di Sotto?||||
+mentor18|<<Si acciglia ancora di più.>> Sono le terre. Che stanno ((sotto.)) Ai Regni Celesti. In quella cella vi hanno forse estratto il cervello con un uncino?||||
+mentor19|<<Vedendo la tua espressione vuota, sospira.>> Quando il mondo fu distrutto dallo Squarcio del Mondo, più di quattrocento anni fa, la sua superficie divenne un inferno inospitale. ((Quelle)) terre sono le Terre di Sotto.||||
+p13|Ehm, che cos’è una stella neurale?||||
+mentor20|Dunque l’Inquisizione intende schernirmi mandandomi un imbecille, è così? Be’, non mi abbasserò al livello delle vostre sciocchezze.||||
+p14|Sì, una... bella battuta. Andiamo avanti.||||
+mentor21|<<Annuisce, ancora accigliato.>>||||
+p15|Come sapete che Vela è andata laggiù?||||
+mentor22|Laggiù cerca qualcosa; lo fa da anni. Qualcosa... dal potere terribile.||||
+mentor23|Non posso dirvi ((esattamente)) che cosa sia. So soltanto che intende usarlo per alterare ((la realtà stessa)), e questo potrebbe condannarci tutti.||||
+p16|Quindi mi aiuterete a trovare Vela?||||
+mentor24|È l'accordo che ho stretto con la vostra ((Inquisizione)), no? Dare la caccia alla mia ex compagna e ai miei vecchi compagni della Stella Oscura in cambio della Grazia del Polimate. Dopo questo, sarò un traditore per ((tutti)).||||
+mentor25|<<Sospira, appoggiandosi allo schienale.>> Ebbene, Confessore. Tanto vale conoscerci un po'. Che cosa... <<Agita una mano.>> ((facevate)), prima di marcire in una cella?||||
+p17|Ero un soldato.||||
+mentor26|Hmph, un semplice fantaccino, eh? Avrete certo visto scorrere parecchio sangue, tutto al servizio di qualche damerino dell’Unione.||||
+p18|Ero un mercenario.||||
+mentor27|Ah, un tagliagole della mia stessa pasta. I nobili di Riova possono blaterare quanto vogliono di ((onore)) e ((unità)), ma sappiamo entrambi che, alla fine, è il denaro nella borsa a farvi tirare avanti.||||
+p19|Ero un inquisitore.||||
+mentor28|<<Socchiude gli occhi.>> Dunque ((eravate)) davvero un agente, eh? Ah! Tradito e umiliato dai vostri padroni. Ditemi: in quella cella umida, avete assaporato l’((ironia)) della vostra prigionia?||||
+p20|Ero un assassino.||||
+mentor29|<<Socchiude gli occhi.>> Dunque dovrò tenervi d'occhio, eh? Lo ammetto: anche quando siamo stati costretti a servirci di gente come voi, non ho mai amato ((quel)) mestiere. Uccidere un uomo nel sonno... non c'è alcuna decenza.||||
+p21|Ero uno sgherro.||||
+mentor30|Capisco. Probabilmente trasportavate droghe e pozioni per i cartelli, giusto? O spaccavate qualche cranio quando qualcuno non pagava? Non che possa giudicarvi: avevamo parecchi contatti nel vostro ambiente.||||
+p22|Ero un ladro.||||
+mentor31|Non è una vita facile, eh? Certo, si sentono storie di chi sottrae tesori con facilità e svanisce nella notte, ma più spesso si finisce con i denti rotti e un mese in cella, vero? Sì, vedo che lo sapete fin troppo bene.||||
+p23|Ero un intermediario di Sapere.||||
+mentor32|Un custode di segreti? Interessante. Quando il lavoro scarseggiava, andavamo spesso a saccheggiare luoghi antichi e oscuri, e ci assicuravamo sempre di portare con noi uno della ((vostra risma)).||||
+p24|Ero un faccendiere.||||
+mentor33|La conoscenza è ((potere)), già. Siete senz'altro una persona utile da conoscere. Più di una volta, un sussurro qui o una soffiata là si sono rivelati più utili di un galeone pieno di cannoni.||||
+p25|Ero un avventuriero.||||
+mentor34|Ah, uno spirito libero: che ((delizia.)) Dev'essere bello partire da solo e andare dove vi porta il vento, eh? Certo, ne ho conosciuti molti che hanno fatto proprio così e sono finiti in qualche fosso a tenersi in mano le budella. Direi che dovreste considerarvi fortunato.||||
+p26|Ero un eterista.||||
+mentor35|Uno studioso del Cosmo? Devo ammettere che quelli come voi mi hanno sempre affascinato. Che qualcuno leghi insieme un mucchio di legno, ci intessa un incantesimo e si lasci trasportare nel vuoto infinito? Che ardimento! Che ((stupidità!))||||
+p27|Ero uno studioso.||||
+mentor36|Ah, preferite stare dietro una scrivania piuttosto che impugnare una spada, eh? Non c'è nulla di male. E poi, quei libri devono essere piuttosto pesanti: se vi trovaste nei guai, potreste sempre usarne uno per fracassare il cranio a qualcuno, no?||||
+p28|Ero un politico.||||
+mentor37|Devo dire che non amo chi si nasconde dietro dispute meschine e assurdità legali. Sono stato a Riova più volte di quante avrei voluto, e ogni volta avrei preferito trovarmi in un covo di briganti ubriachi.||||
+p29|Ero un Consigliere-Guerriero.||||
+mentor38|Ah, dunque combattevate nelle campagne elettorali? Più estenuanti di quelle militari, scommetto. Ne ho vista una a Byonne: il partito sconfitto fu fatto a pezzi. Volevano solo imposte più eque.||||
+p30|Ero un nobile, poi... un ladro.||||
+mentor39|Ah, tempi duri, vero? Dal privilegio alla miseria si può precipitare senza preavviso. Almeno avete avuto il buon senso di trarne il meglio.||||
+p31|Ero un occultista.||||
+mentor40|<<Sogghigna.>> Un occultista al servizio dell'Inquisizione? Ora sì che le ((ho)) sentite tutte. Mi stupisce che non vi abbiano cavato gli occhi per aver scambiato qualche cortesia con uno spirito del giardino.||||
+p32|Ero un mondano.||||
+mentor41|Ah, una giornata di duro lavoro era ((al di sotto)) della vostra dignità, vero? Be’, sembra proprio che le parti si siano invertite. Scommetto che quella lingua d’argento non vi è servita a molto in quella cella umida, eh?||||
+mentor42|Comunque, ormai non importa, vero? Avete perso tutto. Avete toccato il fondo. ((Questo)) sì che lo rispetto. <<Sogghigna e solleva il boccale verso di te.>>||||
+p33|Preferirei non dirlo.||||
+mentor43|Vi piace tenere le carte coperte, eh? Lo rispetto. Almeno vuol dire che un po' di cervello ce l'avete.||||
+mentor44|Quanto a me, mi chiamo Jack Basalt. Immagino abbiate sentito parlare di me. <<Beve un sorso dal boccale.>>||||
+p34|No, non ho mai sentito parlare di voi.||||
+mentor45|<<Gli va di traverso il sorso e tossisce.>>##Be', io... immagino che non ((tutti)) conoscano le storie, eh?||||
+p35|Capitano Basalt? La vergogna della Marina dell’Unione...||||
+mentor46|Proprio lui.||||
+p36|Ha importanza?||||
+mentor47|Il nome? Immagino di no. ##Ma se dobbiamo rintracciare Vela, è bene che sappiate un paio di cose.||||
+mentor48|Per un certo periodo fui il capitano più rispettato della Marina dell’Unione. Ricevevo ordini direttamente dall’[[Ammiraglio Callose]] — ((il padre di Vela.)) ##E per cinque anni addestrai Vela a bordo della mia nave.||||
+mentor49|Quando Vela sfidò suo padre e fuggì per diventare mercenaria, io la seguii. Rinunciai al grado, alla posizione e alla mia ((nave)), per passare gli anni a far baldoria con Wikkan e pirati. Mi marchiarono come la ((vergogna)) della Marina dell’Unione...||||
+mentor50|<<Fissa il proprio boccale.>>##Ma l'ho tenuta ((al sicuro)). Non era ((anche)) quello il mio dovere?||||
+p37|Quindi avete ((addestrato)) Vela?||||
+mentor51|Già, Vela e... l'Emberiana. Anche se avevano studiato all'Accademia, il loro padre voleva che appendessero le amache e imparassero i nodi come comuni lupi di mare.||||
+mentor52|E così fecero, tra bufere, tempeste di Cifro e salve di cannone. Le due sorelle prosperarono, finché... ##finché non ci fu il ((Massacro di Dyshaan.))||||
+mentor53|<<Fa scorrere il pollice sul bordo del boccale.>> Non ne parlerò qui. Non qui. Ma fu quel giorno che Vela decise di lasciare la marina e suo padre. Fu quel giorno che diventammo mercenari.||||
+p38|Allora perché le date la caccia?||||
+mentor54|Dovete capire: amo quella ragazza come se fosse mia figlia. L’ho vista crescere, da bambina testarda a capitana feroce, e ci fu un tempo, quando navigavamo insieme come mercenari della Stella Oscura, in cui pensavo potesse diventare la ((più grande)) di tutti loro.||||
+mentor55|Perciò, vederla sprofondare nella barbarie e nella malvagità... è stato ((difficile)). Non posso tollerare ciò che ha fatto né ciò che ((farà)). Vuole salvarci, ma probabilmente finirà per ((condannarci)) tutti.||||
+mentor56|Quindi devo fermarla, capite? Per il ((suo)) bene.||||
+p39|Bene, allora come troveremo Vela?||||
+mentor57|Ah, lo chiedete a ((me))? Come ho detto ai vostri padroni, posso offrirvi soltanto brandelli d’informazione. Il resto dovrete farlo voi.||||
+mentor58|Ho per voi [[tre nomi]]. I nomi di ex mercenari della Stella Oscura che abbandonarono l'equipaggio di Vela dopo [[l'ammutinamento]]. Insieme, forse riusciremo a rintracciarla.||||
+p40|Che storia è questa dell’ammutinamento?||||
+mentor59|Qualche anno fa, Vela trovò una mappa. Una mappa che indicava qualcosa di... ((impossibile)).||||
+mentor60|Disse che l'avrebbe usata per trasformare i Regni Celesti in una sorta di ((paradiso)) dove la gente non avrebbe più conosciuto povertà, ingiustizia e nemmeno la ((morte.))||||
+mentor61|Sono certo che ci credesse. E ci crede ((ancora)). Ma molti di noi della Stella Oscura ne erano terrorizzati. Non ci si ((immischia)) in cose del genere, a meno di non voler morire urlando.||||
+mentor62|Cercammo di convincerla, di farla ragionare. Ma ci condusse comunque nelle Terre di Sotto, in quella folle ricerca... ##Così ci ammutinammo, e i mercenari della Stella Oscura versarono il proprio sangue su quelle Aeronavi.||||
+mentor63|Alla fine Vela fuggì con chi le era rimasto fedele; noi altri ci disperdemmo a leccarci le ferite. Furono tempi terribili.||||
+p41|Va bene, parlatemi di questi mercenari.||||
+mentor64|Per prima c’è l’[[Emberiana]]. La chiamano così perché la gente dice che sia l’((ultima)) della sua stirpe. Naturalmente sono tutte stronzate di calamaro: se fosse davvero Emberiana, avrebbe quattrocento anni. Ho sentito dire che si trova da qualche parte a [[Hallowshire.]]||||
+mentor65|Poi c'è la [[Duchessa Eterna]], una potente maga del Cifro. È tornata alla dimora ancestrale nel [[Regno Eterno]] e, come tutti quelli che troverete laggiù, è condannata a non morire mai davvero. ##<<Sogghigna.>> Il che significa che ((lei)) ((ha)) davvero centinaia d'anni.||||
+mentor66|Infine c’è [[Caxton Frost]]. Un genio del [[Regno Meccanico]]; quell’uomo saprebbe costruire un’Aeronave con un sacco di rottami. L’ultima volta che ne ho sentito parlare, era tornato in patria.||||
+p42|E siete certo che ci aiuteranno?||||
+mentor67|Sono ((certo)) che vi seguiranno verso una morte certa? Certo che no, idiota! Probabilmente cercheranno di tagliarvi la testa.||||
+mentor68|Ma se volete trovare Vela, dovrete semplicemente ((chiederglielo con gentilezza.))||||
+p43|E se ((accettassero)) di aiutarci?||||
+p44|Capito.||||
+mentor69|Voi dell'Inquisizione dovete aver conquistato la fortezza di Vela chiamata [[Luce Accecante]] — giusto? Ho sentito i colpi di cannone fin da qui. ##Facciamo così: dopo questa chiacchierata, ci andrò di persona. E se trovate uno di quei mercenari della Stella Oscura, mandatelo là.||||
+mentor70|<<Ti inchioda con uno sguardo cupo.>> E quella ((cosa)) che Vela sta cercando?||||
+mentor71|Non deve usarla. Nessuno deve ((mai)) usarla. Avete capito? Se avete un briciolo di senno, farete in modo che resti ((sepolta)) laggiù.||||
+mentor72|<<Si agita, improvvisamente nervoso.>> Bene. Direi che abbiamo finito.||||
+p45|Posso chiedervi una cosa?||||
+mentor73|E che cosa sarebbe?||||
+p46|Riguardo ai mercenari della Stella Oscura che sto cercando...||||
+mentor74|Bene. Volete qualche altra informazione?||||
+p47|Parlatemi ancora dell'Emberiana.||||
+mentor75|L'Emberiana: così la chiamano tutti, ma io la conoscevo come [[Orlaith]]. È stata vicina a Vela per anni, ed è una delle poche in grado di tenerle testa con una lama.||||
+mentor76|Fu una delle prime mercenarie della Stella Oscura. Un tempo eravamo soltanto io, Vela e Orlaith, partiti su uno Sloop traballante. Alla fine, Orlaith comandava la [[SHIP]], ed era seconda soltanto a Vela.||||
+mentor77|Indossa un'antica armatura Emberiana e, per questo, alla gente piace dire che anche ((lei)) avrebbe quattrocento anni. Naturalmente sono tutte sciocchezze...||||
+mentor78|Dopo l'ammutinamento, se ne andò per conto proprio. Ho sentito dire che si sarebbe accampata da qualche parte a [[Hallowshire]], ma non so dirvi altro.||||
+p48|Parlatemi ancora della Duchessa Eterna.||||
+mentor79|La [[Duchessa Eterna]] è una potente maga del Cifro. È tornata alla dimora ancestrale nel [[Regno Eterno]] e, come tutti quelli che troverete laggiù, è condannata a non morire mai davvero.||||
+p49|Parlatemi ancora di Caxton Frost.||||
+mentor80|Frost si definiva un «tecno-archeologo» e, se vi mettevate a ridere, vi impartiva una lezione a suon di botte. Per questo lo soprannominammo il Professore.||||
+mentor80b|È sempre stato un tipo strano. Distante, malinconico. Non si riusciva mai a capire che cosa pensasse. Ma nessuno ne sapeva più di lui sulle antiche macchine Emberiane, né su quelle moderne, del resto.||||
+mentor80c|Quanto a come trovarlo... be', parla come un damerino altezzoso, ma impreca come un marinaio. Non ha pazienza per gli sciocchi. Anzi, non ne ha affatto. Ha [[difficoltà a camminare]].##Ah, e ha un [[tatuaggio di falena]] sulla chiappa sinistra.||||
+mentor80d|Ora, secondo il passaparola della Stella Oscura, Frost è morto. Due compagni lo videro gettarsi fuori bordo una notte, in pieno cielo. In seguito trovarono un biglietto. Durante l'ammutinamento si schierò con Vela, capite, e non riuscì a lasciarsi alle spalle ciò che aveva fatto.||||
+mentor80e|Ma io? No. Non ci crederò finché non avrò spento il mio sigaro nel suo occhio freddo e morto. ##Frost è sempre stato un patriota fino al midollo. Se è vivo, probabilmente è tornato nel [[Regno Meccanico]].||||
+p49b|Come fate a sapere del suo tatuaggio?||||
+mentor80f|<<Basalt sogghigna.>> Questo lo lascio alla vostra immaginazione, Confessore.||||
+p49c|Grazie per le informazioni.||||
+p50|È tutto.||||
+mentor81|D'accordo, allora.||||
+p51|Riguardo al vostro passato...||||
+mentor82|Hmph, vogliamo proprio riesumarlo, eh?||||
+p52|Raccontatemi di quando eravate Capitano.||||
+p53|Raccontatemi dell'ammutinamento della Stella Oscura.||||
+p54|Riguardo a Vela Callose...||||
+mentor83|Che cosa volete sapere di lei?||||
+p55|Quindi avete ((addestrato)) Vela?||||
+p56|Perché le date la caccia?||||
+p57|Che cosa sta cercando nelle Terre di Sotto?||||
+p58|Riguardo a qualcos'altro...||||
+mentor84|E che cosa sarebbe, adesso?||||
+p59|Va bene, è tutto. Me ne vado.||||
+mentor85|Bene. Sarò alla [[Luce Accecante]].||||
+mentor86|Solo che... qualcosa mi dice che non riuscirete a trovarli tanto presto. Chiamatelo presentimento.||||
+mentor87|Ah, la [[Luce Accecante.]] Ricordo quando strappammo questo posto ai ((custodi dell'Unione.)) ##<<Sogghigna.>> Quando ancora credevamo di poterla passare liscia con ((qualsiasi cosa.))||||
+mentor88|D’accordo. Sarò qui, se avrete bisogno di me.||||
+mentor89|D'accordo. C’è altro?||||
+mentor90|<<Annuisce.>> Confessore. ##Che cosa posso fare per voi?||||
+p101|Che cosa sapete di Vela Callose?||||
+innkeep0|Oh. E chi sarebbe?||||
+innkeep1|<<Ridacchia.>> Per che razza di locandiere mi avete preso? Ho sentito più storie su Vela di quante ne possa raccontare...||||
+innkeep2|I suoi mercenari della Stella Oscura combatterono nell'Ammutinamento di Slev, nella Battaglia dei Maghi Piangenti e da ((entrambe le parti)) della rivolta Wikkan di Hawkney. Hanno accettato denaro tanto dai consiglieri di Riova quanto dai villaggi di occultisti...||||
+innkeep3|<<Si appoggia al bancone.>>##E quando la gente non si scannava a vicenda, loro andavano a saccheggiare: rovine Emberiane, santuari Wikkan... Conoscete la tomba del Re Dinasta Immortale? Furono ((loro)) a rubargli la faccia.||||
+innkeep4|<<Si sporge tanto vicino che puoi sentirgli l'alito.>>##Alcuni dicono che sia una santa destinata a porre rimedio ai torti dell'Unione. Altri dicono che sia un ((demonio)), e che lasci una scia di caos dietro di sé. Ma sapete una cosa?||||
+innkeep5|<<Colpisce il tavolo con un dito, gli occhi spalancati.>>##È stata qui, una volta. Due anni fa, lei e un bel po' della sua ciurma. Cacciarono fuori tutti gli altri; saranno stati ((cinquanta)) bastardi, ubriachi fradici come dei Pescecielo.||||
+innkeep6|E vidi che non era una santa. Non era un demonio. Era...||||
+innkeep7|((Completamente sbronza.))||||
+innkeep8|<<Scoppia in una risata fragorosa, asciugandosi una lacrima.>> Io l'((avevo)) avvertita di quel rum di Typhos. Quella notte incassammo più monete che in quasi tutte le altre settimane.||||
+p102|Grazie per l'aiuto.||||
+innkeep9|Non c’è di che.||||
+p103|Sto cercando qualcuno. La chiamano l’((Emberiana))...||||
+innkeep10|<<Aggrotta la fronte.>> Ah, sì? E chi lo chiede?||||
+p104|Sono con l’Inquisizione.||||
+innkeep11|<<La sua espressione si incupisce ancora.>> Sentite, forestiero. Non ((gradiscono)) che si faccia il nome di... ((quelli lì)) da queste parti.||||
+innkeep12|Di solito, quando arrivano i cagnolini dell'Unione, succede tutto in fretta e con brutalità. Bevande rovesciate, nasi rotti, e qualcuno viene trascinato via urlando.||||
+innkeep13|E voi di certo non ((sembrate)) uno dei loro agenti. Quindi ve lo chiedo di nuovo: ((chi lo vuole sapere?))||||
+p105|Dico sul serio. Sono con l’Inquisizione.||||
+innkeep14|<<Ti fissa per diversi istanti.>> Be'. Non dico di credervi. Però...||||
+p106|Sono solo curioso di sapere se le storie sono vere.||||
+innkeep15|Hmph. Da queste parti la gente non sa proprio tenere la lingua a freno...||||
+innkeep16|Ogni tanto, da circa un anno, passa di qui una ragazza con un’enorme armatura arrugginita.||||
+innkeep17|Appena spalanca quella porta, tutti tacciono. Forse per il suo sguardo torvo, o forse per quello spadone più grande di ((lei))...||||
+innkeep18|O forse per le storie. Vedete, la gente dice che un tempo navigasse con la ciurma di Vela: la ((Stella Oscura)). ##Dicono che fosse capitana di una delle loro navi e indossasse un'antica armatura Emberiana completa...||||
+innkeep19|Ma la gente dice che non sia soltanto l'((armatura)) a essere Emberiana. Dicono che ((lei)) percorra i Regni Celesti fin dallo Squarcio del Mondo, vagando da ((centinaia d'anni...))||||
+innkeep20|<<Ridacchia.>> Ma la gente dice un sacco di cose, no?||||
+p107|Sapete dove posso trovarla?||||
+innkeep21|C’è chi dice che viva in un castello. Altri, in una caverna umida. Ma non credo che qualcuno sia mai andato davvero a ((chiederle)) dove viva...||||
+innkeep22|Ma sapete una cosa? Arriva spesso tutta infangata e con addosso una puzza d'erba spinosa. Quindi scommetterei che si trovi da qualche parte nella [[foresta a ovest...]]||||
+p108|Grazie dell'informazione.||||
+innkeep23|Be’, tenetelo tra noi, chiaro? Non voglio mettermi contro quella ragazza...||||
+innkeep24|Certo. Che cosa volete?||||
+innkeep25|Allora, c’è qualcos’altro?||||
+p121|Sto cercando qualcuno.||||
+odd1|Oh? Be’, posso certamente provare ad aiutarvi.||||
+p122|Avete mai sentito parlare dell’Emberiana?||||
+odd2|Ah, sì, certamente. È sulla bocca di tutti; in molti l'hanno vista aggirarsi con quell'antica armatura.||||
+odd3|Anzi, è passata da questo negozio non molto tempo fa. Ho cercato di scoprire dove avesse trovato quell’equipaggiamento Emberiano, ma non ha voluto sbottonarsi.||||
+p123|Sapete dove posso trovarla?||||
+odd4|Be', le ((ho)) chiesto dove alloggiasse — devo ammettere che sono piuttosto ficcanaso — e ha confessato che gli agi della città non erano di suo gusto, ma non ha voluto aggiungere altro.||||
+odd5|Dopo che se ne fu andata, però, la vidi dalla finestra mentre faceva ritorno. Si inoltrò nella [[foresta]], a [[ovest]] di Hallowshire.||||
+odd6|Naturalmente, dato il suo interesse per tutto ciò che è Emberiano, scommetterei che quella piccola rovina nella foresta abbia attirato la sua attenzione. Quella con la [[vecchia turbina arrugginita]], che si vede spuntare tra gli alberi...||||
+odd7|Oh, ma non dovrei proprio raccontarvi tutto questo, vero? Riservatezza dei clienti e via dicendo. Magari teniamocelo tra noi, mh?||||
+p124|Grazie per l’informazione.||||
+odd8|Non c’è di che. Ora, c’è qualcos’altro?||||
+p125|Sto cercando una Chiave Emberiana.||||
+odd9|Cercate antichità Emberiane, eh? Be’, siete capitato nel posto giusto.##Ho una piccola collezione di cianfrusaglie, dalle relativamente modeste... <<solleva un rottame arrugginito,>> alle decisamente ((squisite.)) <<Solleva un altro rottame.>>||||
+p126|Che cos’è tutta questa ferraglia arrugginita?||||
+odd10|<<Balbetta, offeso.>> Ma... sappiate che questi sono ((manufatti inestimabili)), creati dalle leggendarie fabbriche-fucine Emberiane prima dello Squarcio del Mondo. Non vedremo mai più una simile maestria!||||
+p127|Sì, ma in concreto che cosa ((sono?))||||
+odd11|Be', questo è... una specie di... componente? E questo, invece, è chiaramente un'elaboratissima... asta di metallo! Come dicevo: ((inestimabili!))||||
+p128|Oh, ora capisco. Sì, davvero squisiti.||||
+odd12|Sono lieto che sappiate riconoscere la qualità!||||
+p129|Mi serve una chiave per aprire una rovina qui vicino.||||
+odd13|Ah, sì, ricevo spesso richieste di chiavi.##Ci sono molte antiche rovine Emberiane che, pur avendo centinaia d’anni, si sono dimostrate impenetrabili per speleologi e razziatori. Così gli aspiranti cacciatori di tesori ripongono le speranze in una chiave...||||
+odd14|...ma esistono innumerevoli vecchie chiavi e innumerevoli vecchie porte. Come dico alla maggior parte degli aspiranti predatori di tombe, riuscire davvero ad aprirne una richiederebbe una fortuna sfacciata! ##Anche se...||||
+odd15|Non molto tempo fa è passata una donna che sembrava sapere ((esattamente)) che cosa cercava.||||
+p130|Questa donna... chi era?||||
+odd16|In città pare sia conosciuta come l’[[Emberiana]]. La gente sembra credere che ((lei stessa)) sia una reliquia di quell’epoca, cosa che naturalmente è pura diceria.||||
+odd17|Sembra però una collezionista appassionata.##L’armatura che indossa? Non ho mai visto una reliquia conservata tanto bene. Fa impallidire qualsiasi pezzo della mia umile collezione, questo è certo.||||
+p131|Che cosa ha comprato?||||
+odd18|Ha comprato una chiave. Ha descritto il tipo che cercava fin nei minimi dettagli.||||
+p132|Sapete che cosa apre quella chiave?||||
+odd19|Ah! Se lo sapessi, avrei chiuso bottega e sarei andato a usarla molto tempo fa!||||
+odd20|A dire il vero, però, ho spesso desiderato provare la mia collezione di chiavi su quella [[struttura Emberiana]] a [[est]] di Hallowshire; se solo la [[città]] circostante non pullulasse di banditi.||||
+p133|Potete parlarmi di questa rovina Emberiana?||||
+odd21|Be’, naturalmente si trova lì da prima dello Squarcio del Mondo. Per quanto ne so, la città di [[Rustburg]] sorse tutt’intorno, mentre la gente cercava di forzarla e saccheggiarne i tesori...||||
+odd22|...ma non ci riuscirono mai. Il metallo Emberiano, dopotutto, è inciso con il Cifro, che lo rende quasi impenetrabile.||||
+odd23|Alla fine la città fu distrutta durante la Guerra Divina, perché dava rifugio ai Wikkan. Da allora è diventata la tana di ogni sorta di furfanti e canaglie, ma dubito sinceramente che abbiano avuto più fortuna con le rovine Emberiane.||||
+p134|Avete un’altra chiave? Vorrei comprarne una.||||
+odd24|<<Fruga in una scatola piena di pezzi di metallo assortiti.>> Ah! Siete fortunato, amico mio. Questa [[Chiave Emberiana]] sembra straordinariamente simile a quella che ho venduto non molto tempo fa.||||
+p135|A proposito di quella Chiave Emberiana...||||
+odd25|Ah, sì: questa [[Chiave Emberiana]] sembra straordinariamente simile a quella che ho venduto non molto tempo fa a quella donna in armatura Emberiana.||||
+odd26|Naturalmente, dato che questa è così ((richiesta)), non potrei cederla per meno di [[venti monete.]]||||
+p136|Va bene, ecco le monete.||||
+odd27|Splendido, splendido! Eccola qui: in condizioni eccezionali, ne converrete.||||
+odd28|Personalmente, ho sempre voluto provarla in quelle [[rovine Emberiane]] di [[Rustburg,]] a est.##Ho il sospetto che la mia cliente ((precedente)) avesse la stessa idea...||||
+p137|@@ Venti? Avete detto voi stesso che probabilmente non funzionerà...||||
+odd29|%% Hmph, forse avete ragione. Facciamo così: solo per questa volta, potete averla gratis. ##Ma se per qualche ((miracolo)) doveste davvero trovarci un tesoro, lasciate che ve ne liberi io... a un ((prezzo equo)), naturalmente.||||
+odd30|Personalmente, ho sempre voluto provarla in quelle [[rovine Emberiane]] oltre [[Rustburg.]] Ho il sospetto che la mia cliente ((precedente)) avesse la stessa idea...||||
+odd31|&& Comunque, per quanto forse inutili, queste chiavi sono reliquie insostituibili. Venti monete, dunque.||||
+p138|Ci penserò.||||
+odd32|Fate pure. Ora, c'era altro?||||
+p139|Grazie per l’informazione.||||
+odd33|Non c’è di che.||||
+odd34|Ah... mi dispiace terribilmente, ma pare che non abbiate abbastanza denaro.||||
+odd35|Ora, c’era qualcos’altro?||||
+p151|Avete mai sentito parlare dell’Emberiana?||||
+alch1|Oh, l'ho vista una volta: attraversava la città come se fosse sua. Non dico che tutte le storie siano vere, ma c'è senz'altro qualcosa di ((strano)) in quella donna...||||
+alch2|Qui non è mai entrata, ma ho sentito che ha comprato qualcosa all’[[Emporio delle Stranezze]], in fondo alla strada. Quello con la guglia di cristallo.||||
+tailor1|Ah, quella mercenaria della Stella Oscura? Non le ho mai parlato, ma una volta l'ho vista passare davanti alla bottega.||||
+tailor2|Ve lo giuro, tutti in strada si immobilizzarono, perfino le guardie. C’è qualcosa nel suo ((incedere)) e in quell’((armatura.)) Non vorrei incontrarla dopo il tramonto, ve lo assicuro!||||
+poly1|<<Emette un sospiro esagerato.>> Purtroppo ((ho)) sentito parlare di queste sciocchezze. Una guerriera di quattrocento anni, giusto? Sopravvissuta allo Squarcio del Mondo e da allora sempre in giro a colpire tutto con la spada?||||
+poly2|Per favore, non importunatemi con simili chiacchiere oziose; non ne ho davvero il tempo.||||
+wpn1|Se ne ho ((sentito)) parlare? È entrata in questa bottega più di una volta!||||
+wpn2|Mi ha fatto gelare il sangue, ve lo dico. Quello sguardo e quell’((armatura)). C’è qualcosa di strano. Faccio manutenzione all'equipaggiamento da quando ero un moccioso, ma non ho mai visto ((nulla)) di simile fattura.||||
+wpn3|L’ultima volta chiese di usare il banco da lavoro. La vidi togliersi uno di quegli spallacci e armeggiarci. Era zeppo di meccanismi intricatissimi, e lei sapeva ((esattamente)) che cosa stava facendo.||||
+wpn4|Secondo me le storie sono vere, e lei ((ha)) davvero quattrocento anni. Dopotutto, quegli Eterni vivono per sempre, no? Chi può dire che anche gli Emberiani non abbiano scoperto come fare?||||
+rustburg1|Ora state a sentire. Questo è il ((mio)) albero e quello è il ((mio)) bottino. Quindi sparite, chiaro?||||
+rustburg0|Di nuovo voi?||||
+p201|Ehm, vivete qui?||||
+rustburg2|Già, sono qui da ((sessant'anni,)) da prima che quei dannati ((apostati)) facessero saltare tutto in aria.||||
+p202|Che città è questa?||||
+rustburg3|Un tempo questa città si chiamava [[Rustburg]], per via di tutti i mercanti che vendevano ferraglia Emberiana.||||
+rustburg4|Vedete, lassù c'è un'antica [[rovina Emberiana]] e un mucchio di detriti. Eppure, da quando esiste la città, non sono ((mai riusciti)) ad aprire quei grandi portoni. Parte di quel metallo magico resiste ancora, per quanti colpi di cannone gli spariate contro.||||
+p203|Perché questo posto è ridotto così?||||
+rustburg5|Be', circa quarant'anni fa ci fu la Guerra Divina. Gli apostati — ((o quelli dell'Unione, come dovremmo chiamarli)) ((ormai)) — scoprirono che qui si nascondevano ancora dei Wikkan e bombardarono l'intera città con una nave-fortezza.||||
+rustburg6|Hallow Town era intatta, così quasi tutti si trasferirono là. Nessuno ricostruì mai Rustburg.||||
+p204|Grazie per la storia.||||
+rustburg7|Di niente.||||
+p205|Conoscete un modo per entrare in città?||||
+rustburg8|Dovete entrare in quella grande torre di pietra laggiù. Ma ci sono due modi, capite. Potete fare il giro lungo, con tutti i goblin e le falene, oppure prendere la via ((speciale)) di cui parlo.||||
+p206|@@Potete indicarmi la via ((speciale)) per entrare?||||
+rustburg9|%%Be’, mi sembrate un tipo a posto.||||
+rustburg10|Quando qui vivevano i Wikkan, nascosero con la magia il [[ponte]] qui vicino. È proprio là, ma potete usare una [[Pozione della Verità]] per vederlo. Così potrete sgattaiolare oltre tutti quei goblinacci.||||
+rustburg11|&&Be’, se andassi a raccontarlo a ogni maledetto idiota, non sarebbe più così ((speciale)) — no? Quindi andate al diavolo.||||
+p207|Va bene, grazie.||||
+rustburg12|<<Grugnisce.>>||||
+p208|Vi lascio in pace.||||
+EmbCamp0|Non vi avevo detto di sparire?||||
+EmbCamp1|<<La donna, in armatura completa, armeggia con un assortimento di rottami. Quando ti avvicini, gira di scatto la testa.>>||||
+EmbCamp2|Sembra che vi siate ((perso)), viandante. Se tenete alla pelle, fareste meglio a perdervi da qualche ((altra parte.))||||
+p251|Aspettate: siete l'Emberiana, vero?||||
+p252|Sto cercando una mercenaria della Stella Oscura.||||
+p253|Allora tolgo il disturbo.||||
+EmbCamp3|<<Si volta verso di te con una smorfia e si assesta lo spadone sulla spalla con un clangore.>> ##Hmph. Un altro cacciatore di taglie?||||
+EmbCamp4|Come ho detto agli ultimi stronzi venuti qui, non navigo più con la Stella Oscura, ma posso comunque spaccarvi in due.||||
+p254|Mi manda Basalt. Siamo dalla stessa parte.||||
+EmbCamp5|Basalt? Quindi quel vecchio bastardo vi ha messo sulle mie tracce, eh? Quel vecchiaccio non ha mai ((saputo)) tenere la bocca chiusa.||||
+p255|Ehi, voglio il vostro aiuto, non la vostra testa.||||
+p256|È Vela che sto cercando.||||
+EmbCamp6|<<Senti il suo sguardo addosso mentre stringe la spada.>>||||
+EmbCamp7|Ah sì? E perché mai avreste bisogno proprio di una poveretta come ((me?))||||
+p257|Sto cercando Vela. Dobbiamo fermarla.||||
+EmbCamp8|<<Al nome di Vela, sussulta.>> ##((Vela?)) Con quel demonio ho ((chiuso)) per sempre, mi avete sentito?||||
+EmbCamp9|Se volete fermarla, accomodatevi. Fatela a pezzi, schiantate un’Aeronave contro il suo cadavere! Avrete la mia benedizione, ma io non voglio averci nulla a che fare.||||
+p258|Sto cercando Vela. Voglio aiutarla.||||
+EmbCamp10|E se volete aiutarla nel suo folle piano, siete peggio di quei miserabili cacciatori di taglie. Seguirla nell'oblio vi ucciderà con più certezza di quanto potrei fare io.||||
+p259|Se non trovo Vela, sono morto.||||
+EmbCamp11|E se credete che la rintraccerò soltanto per salvare il vostro misero collo, vi sbagliate di ((grosso)).||||
+p260|Ma credevo che voi e Vela foste compagne d'armi.||||
+EmbCamp12|((Compagne?)) Ah! Vela era più di una compagna. ##<<Pianta la lama nel terreno.>> Era per me una ((sorella)) e le devo la ((vita)) ancora oggi.||||
+p261|A me sembra che abbiate ((paura)) di lei.||||
+EmbCamp13|Pah! ((Paura!?)) ##<<Si china verso di te, mentre la spada raschia contro l’armatura.>>||||
+EmbCamp14|Eccome se ho paura. E dovreste averne anche voi.||||
+EmbCamp15|Credete che si sia fatta quella reputazione con ((parole dure))? L'ho vista sbaragliare una taverna intera piena di furfanti tenendo il braccio buono dietro la schiena. L'ho vista mozzare la testa a una bestia del Vuoto senza neppure sudare. L'ho vista affrontare un ((dio)).||||
+EmbCamp16|Ma... era anche ((più)) di tutto questo. Per me era una sorella. Devo la ((vita)) a quella ragazza.||||
+p262|Se è un tale demonio, perché la idolatravate?||||
+EmbCamp17|<<Si muove e distoglie lo sguardo.>> ##Un tempo credevo davvero che potesse rendere migliore il mondo. Poco a poco, con sangue, sudore e tenacia, credevo che ci stessimo ((riuscendo)) davvero...||||
+EmbCamp18|<<Inspira.>> ##Ma poi lo trovò.||||
+p263|Che cos'è successo tra voi?||||
+EmbCamp19|<<Sospira.>> Trovò qualcosa. Prima di allora pensavo... che forse ((potessimo)) davvero rendere il mondo un posto migliore. Ma poi... lo trovammo, intatto da centinaia d'anni...||||
+EmbCamp20|Una mappa. Sepolta in una tomba Emberiana, indicava qualcosa d'impossibile. Le dissi di ((lasciarla)) lì. Di non riporre fede in cose antiche e maledette. ##Me lo ((promise)).||||
+EmbCamp21|Eppure ci condusse comunque alla rovina. Vela trascinò i mercenari della Stella Oscura sotto le nuvole con le nostre navi migliori, l'ammiraglia e il galeone, alla ricerca di un manufatto Emberiano che aveva più probabilità di ((distruggere)) il mondo che di salvarlo.||||
+EmbCamp22|Quel giorno non era mia sorella.||||
+EmbCamp23|Come capitana del ((Goblin Nero)), ordinai al mio equipaggio di sparare sui propri compagni. Frantumammo a cannonate lo scafo della nave di Vela, poi la abbordammo e incrociammo le spade.##Fu un ammutinamento. ((Fratricidio))...||||
+EmbCamp24|<<Stringe i pugni, tremando.>> Quel giorno riuscii a rallentare i suoi piani, ma non a fermarla. ##<<Le labbra le si torcono in un sorriso cupo.>> Non ci sono mai riuscita.||||
+p264|Che cosa sta cercando Vela?||||
+EmbCamp25|Qualcosa chiamato [[Culla]], sepolto nelle profondità delle Terre di Sotto. Non sappiamo che cosa ((sia)), ma se Vela ha ragione, potrebbe servire ad alterare il ((linguaggio)) stesso del Cosmo. Potrebbe porre fine alla povertà, alla sofferenza, perfino alla ((morte)) stessa...||||
+EmbCamp26|...ma è più probabile che ponga fine al ((mondo.)) Gli Emberiani erano noti per armeggiare con forze che non sapevano controllare. È una dannata idiota a inseguire i loro sogni maledetti.||||
+p265|Dovete finire ciò che avete iniziato.||||
+EmbCamp27|<<Ride.>> Non sono riuscita a sconfiggerla con un galeone pieno di mercenari temprati. Che cosa vi fa pensare che ci riproverei adesso? Con nessun altro se non ((voi?))||||
+p266|Se tenete a lei, dovete trovarla.||||
+EmbCamp28|((Devo)) davvero trovarla? E voi che cosa ne sapete? Ho navigato con Vela per anni; voi, invece, vi conosco da pochi istanti. Che cosa potreste mai sapere del nostro legame?||||
+p267|State solo scappando.||||
+EmbCamp29|<<Rimane in silenzio per un istante.>> C'è da vergognarsi a fuggire, quando non resta altro da fare che leccarsi le ferite?||||
+EmbCamp30|No, quel capitolo della mia vita è finito. Non inseguirò più il sogno di quella donna, né per aiutarla né per ostacolarla. Ho un pellegrinaggio tutto mio da compiere e risposte ((mie)) da trovare.||||
+EmbCamp31|Se siete venuto a chiedermi aiuto per trovare Vela, la risposta è ancora no. Ho un pellegrinaggio tutto mio da compiere e risposte ((mie)) da trovare.||||
+p268|Forse posso aiutarvi.||||
+EmbCamp32|Ah! E che cosa vi fa credere che mi serva il vostro aiuto? Me la cavo benissimo da sola.||||
+p269|Risponderete almeno alle mie domande?||||
+EmbCamp33|Le ascolterò. Non prometto di rispondere.||||
+p270|Che cosa state cercando?||||
+EmbCamp34|<<Ridacchia tra sé.>> Da molto tempo faccio sogni stranissimi. Città impossibili, che nessun muratore potrebbe costruire, scintillanti di mille piccole stelle...||||
+EmbCamp35|Voglio sapere se i miei sogni sono ((reali.))||||
+p271|Non capisco.||||
+EmbCamp36|<<Sogghigna.>> Non capireste.||||
+p272|E dove trovereste la risposta?||||
+EmbCamp37|Qui, nelle Isole Oniriche, c’è un’altra rovina Emberiana, persino più grande di questa. Ma senza la chiave giusta è sigillata.||||
+p273|@@E... dove si potrebbe trovare una chiave simile?||||
+EmbCamp38a|%%Questo tipo di chiave è raro. Ho pagato una bella somma per la mia in quel negozio con la [[guglia di cristallo,]] a Hallow Town.||||
+EmbCamp38b|Ma se state pensando di seguire le mie tracce, rifletteteci bene. Quell'antica rovina Emberiana vicino a [[Rustford]] sarà piena di pericoli. Finireste soltanto per farvi ammazzare.||||
+EmbCamp38c|&&Non ci casco. Se intendete seguire le mie tracce, finirete soltanto per farvi ammazzare.||||
+p274|Lasciate perdere, avevo altre domande...||||
+EmbCamp39|<<Grugnisce.>> E sia.||||
+p275|È vero che siete una vera Emberiana?||||
+EmbCamp40|<<Abbozza un sorriso cinico.>> ##Se mi state chiedendo se sono un'immortale di quattrocento anni che si trascina dietro la spada per i Regni Celesti, dovrò deludervi.||||
+EmbCamp41|Ma in quelle voci c'è un fondo di verità. So orientarmi in quelle antiche rovine Emberiane; in alcune mi sento persino a ((casa.))||||
+EmbCamp42|E sì, questa ((è)) un’autentica armatura Emberiana, con i sistemi pneumatici ancora intatti. Questa corazza ha fermato in pieno una palla di cannone durante l’assedio di Molavia... anche se ((ho)) cagato sangue per una settimana.||||
+p276|Ho incontrato Basalt. Mi sta aiutando a trovare Vela.||||
+EmbCamp43|Quel vecchio lupo di mare è ancora vivo, eh? Pensavo si fosse affogato nel grog ai funghi.||||
+EmbCamp44|A dire il vero, ho sempre rispettato quell’uomo. Era con noi fin dall’inizio, e non credo che la Stella Oscura sarebbe andata lontano senza di lui.||||
+p277|Va bene, è tutto.||||
+EmbCamp45|<<Annuisce.>>||||
+p278|Va bene, vi lascio in pace... per ora.||||
+EmbCamp46|<<Sogghigna.>> Qualcosa mi dice che non vi arrenderete facilmente, ma non resterò qui a lungo.||||
+EmbCamp47|E per il vostro bene, non provate a seguirmi. Il luogo verso cui sono diretta non è per i deboli di cuore, e se cercaste di rintracciarmi avrei soltanto un’altra morte insensata sulla coscienza.||||
+EmbCamp48|Inoltre, senza una di ((queste...)) <<Solleva un'antica Chiave Emberiana>> ...non andrete molto lontano.||||
+EmbCamp49|Quindi andate al diavolo e lasciatemi in pace.||||
+EmbBattle1|<<L’Emberiana respira affannosamente, appoggiata alla spada.>>||||
+EmbBattle2|Avevo capito che eravate un tipo ostinato. Devo però ammettere che non credevo che sareste riuscito a entrare qui.||||
+EmbBattle3|Siete comunque fortunato che sia arrivata prima io. Quei sintetici vi avrebbero fatto a pezzi. <<Sogghigna.>>||||
+p291|Sono venuto ad aiutarvi.||||
+EmbBattle4|<<Ridacchia.>> Non mi serve il vostro aiuto, e so che è il mio che volete. Quindi la risposta è ancora ((no.))||||
+p292|Non mi arrenderò finché non mi aiuterete.||||
+EmbBattle5|Ah! Allora la vostra ostinazione vi costerà la vita.||||
+p293|Che sorpresa! È una ((pura)) coincidenza.||||
+EmbBattle6|Oh, ne sono ((certa.)) Questo posto è rimasto sigillato per centinaia d'anni e, all'improvviso, due persone con una chiave lo aprono nello ((stesso momento?))||||
+EmbBattle7|Ora non intralciatemi. Dietro quella porta ci sono le risposte che cerco; devo soltanto riprendere fiato...||||
+EmbVats1|<<L'Emberiana è in ginocchio, il capo chino, curva sotto il peso dell'armatura. Il suo corpo è scosso da spasmi. Dopo un momento, ti accorgi che sta singhiozzando in silenzio.>>||||
+EmbVats2|<<Sentendoti avvicinare, tace.>>||||
+p301|Che posto è questo?||||
+EmbVats3|<<Si guarda attorno, osservando le bare di vetro e i corpi al loro interno.>> ##Bella domanda. Ho... cercato la risposta... per tutta la vita.||||
+p302|Quello è... un cadavere?||||
+EmbVats4|<<Sospira.>> Sì. Non so dire se un tempo fossero ((vivi)), se respirassero la nostra stessa aria.||||
+p303|Ehm, state bene?||||
+EmbVats5|<<Scorgi un debole sorriso.>> Non proprio.||||
+EmbVats6|Sapete... fu lei a ((trovarmi)) in uno di questi posti. In una di quelle... bare.||||
+EmbVats7|Fu Vela. Aveva otto anni.##Quando mi tirò fuori da quella macchina, mentre sputavo liquidi antichi, non potevo essere molto più grande di lei.||||
+EmbVats7b|Nulla che spiegasse chi fossi. Come fossi arrivata lì. Soltanto un'iscrizione sulla vasca che diceva «Orlaith»; così mi chiamarono.||||
+EmbVats8|E così nacqui in questo mondo. Fui fortunata: il padre di Vela mi accolse e mi fece istruire come una figlia. Ma non trovai mai nessuno capace di spiegare la mia strana nascita. Non trovai mai nessuno... come ((me.))||||
+EmbVats9|Pensavo che questo posto potesse essere diverso dagli altri, che potesse ((spiegare)) qualcosa. Ma è soltanto un altro vicolo cieco.||||
+p304|Siete nata da una di... ((quelle)) cose?||||
+p305|Quindi ((siete)) davvero un'Emberiana.||||
+EmbVats10|Chi può dirlo? ##Forse, prima dello Squarcio del Mondo, sono cresciuta in una famiglia amorevole che pensava che qui sarei stata al sicuro. Oppure sono soltanto figlia di macchine e magia?||||
+p306|Non ricordavate nulla... di ((prima))?||||
+EmbVats11|((Sogno)) luoghi perduti da tempo, ma non ricordo una... famiglia. Forse un tempo ne avevo una? O forse sono stata... ((creata)), non nata.||||
+EmbVats12|Non lo saprò mai con certezza; ora lo capisco. Ma sebbene nessuna di queste tombe arrugginite mi abbia dato risposte, ognuna ha alimentato la mia ((rabbia)).||||
+EmbVats13|Gli Emberiani hanno infilato il loro ago nel mondo, riplasmandone l'arazzo a proprio piacimento. E per che cosa? Più imparo, più vedo la loro avidità, il loro egoismo, la loro brama di ((potere)).||||
+EmbVats14|E alla fine questo li distrusse. Distrusse ((il nostro mondo.)) Gli studiosi possono discutere per secoli su prove esigue, ma chi non sente la verità nelle viscere? Quattrocento anni fa, gli Emberiani causarono lo [[Squarcio del Mondo]] con la loro ambizione sconsiderata.||||
+EmbVats15|((Questa)) è la loro eredità, e io sento il peso dei loro peccati.||||
+p307|Ma come potreste ((voi)) cambiare tutto questo?||||
+EmbVats16|Che cosa si può fare per epoche ormai trascorse, se non tentare di scacciarne i fantasmi?||||
+EmbVats17|Perché l’epoca Emberiana ci perseguita ancora. L’Unione Apostatica, l’Inquisizione, il Regno Meccanico... tutti cercano di imbrigliare quell’antico male. ##Non possiamo ripetere quegli errori. Credevo che Vela avesse ((capito)) tutto questo...||||
+p308|Quindi Vela ha tradito ciò in cui credevate.||||
+p309|Quindi vi siete rivoltata contro i vostri compagni.||||
+p310|Gli Emberiani sono scomparsi da tempo; non spetta a voi farvi carico della loro colpa.||||
+EmbVats18|Avete ragione. La colpa non dovrebbe essere soltanto ((mia)) ma gravare su ((tutti noi)). Perché possiamo vedere, chiaramente come alla luce delle stelle, l'ingiustizia inflitta al mondo. Quando vicende tanto putride si ripetono, non abbiamo forse il ((dovere)) di agire?||||
+EmbVats19|Dissi tutto questo a Vela, ancora e ancora.||||
+p311|Quindi è per ((questo)) che vi siete rivoltata contro Vela.||||
+EmbVats20|Avete ragione.||||
+EmbVats21|<<Sospira.>> All’inizio pensavo che Vela avrebbe semplicemente ((ascoltato)) le mie ragioni. Avevamo spesso saccheggiato reliquie Emberiane innocue, lasciando stare quelle che sembravano instabili o pericolose. Perché questa volta avrebbe dovuto essere diverso?||||
+EmbVats22|Ma la mappa che trovammo e il manufatto che prometteva riaccesero qualcosa dentro di lei. Una passione, un’((ambizione)) impossibile da soffocare. Era decisa a cambiare il mondo, anche se ciò significava ((condannare)) il mondo stesso.||||
+EmbVats23|<<Dischiude le mani e le fissa.>> Quale altra scelta mi restava, se non la spada? Ho versato il sangue dei miei amici. Della mia ((famiglia.))||||
+EmbVats24|Eppure ho fallito.||||
+p312|Non avete fallito, non ancora. Insieme porteremo a termine ciò che avete iniziato.||||
+EmbVats25|<<Sospira. Per un momento rimane immobile.>>||||
+EmbVats26|<<Ma poi ti guarda, con il fuoco negli occhi.>> Avete ragione.||||
+EmbVats27|Per troppo tempo sono rimasta aggrappata al passato. Sentivo di ((dovere)) qualcosa a Vela. Ma questo è più grande di noi due. Più grande di ((qualsiasi)) altra cosa...||||
+EmbVats28|Se dovrò uccidere mia sorella per salvare il mondo, così sia.||||
+EmbVats29|Promettetemi soltanto una cosa: ##se, contro ogni probabilità, riusciremo ad aprirci la strada fino a Vela, lasciatela a ((me)), d'accordo?||||
+p313|Forse possiamo fermare Vela senza altro spargimento di sangue.||||
+EmbVats30|E allora? Volete navigare fino alla tagliagole più famigerata dei Regni Celesti e ((chiederle con gentilezza di fermarsi?))||||
+EmbVats31|<<Ridacchia.>> Mi piace.||||
+EmbVats32|Sono sopravvissuta a piani più stupidi, e comunque ho finito di rovistare nelle tombe arrugginite.||||
+EmbVats33|Forse... forse, se davvero ((riusciamo)) a fermarla, tutto questo non sarà stato inutile.||||
+p314|Vela sta cercando di ((salvare)) il mondo. Aiutiamola insieme.||||
+EmbVats34|<<Ti guarda con determinazione, i pugni serrati.>> ##No. Io ((non)) la aiuterò...||||
+EmbVats35|<<Inspira.>> ...ma ho finito di scappare.||||
+EmbVats36|Sembra che ci troviamo in un bel guaio. Sono l’unica altra persona nei Regni Celesti ad aver visto la mappa che sta seguendo. ((So)) dov’è andata, ma non posso arrivarci da sola. Non senza la nave giusta e un pilota...||||
+EmbVats37|Quindi, per ora, forse possiamo aiutarci a vicenda. Mi unirò alla vostra piccola spedizione finché non l'avremo trovata. Ma dopo? Be', immagino che lo scopriremo...||||
+p315|Allora è deciso.||||
+EmbVats38|<<Annuisce.>> Vi aiuterò. ##Sono l’unica altra persona nei Regni Celesti ad aver visto la mappa che Vela sta seguendo, quindi so dove trovarla. Ma avremo bisogno di altri.||||
+EmbVats39|Oh, e... ## ...grazie.||||
+EmbVats40|Ho sentito che avete conquistato la vecchia fortezza di Vela, la [[Luce Accecante]]. Mi dirigerò là.||||
+EmbFort1|Ah, la [[Luce Accecante.]] Sapete, credevo che non avrei mai più rivisto questo posto.||||
+p351|Come vi state ambientando?||||
+EmbFort2|Mi fa accapponare la pelle vedere gli agenti dell'Inquisizione scorrazzare in giro. Continuo a pensare che mi afferreranno e mi getteranno in una cella...||||
+EmbFort3|Ma se schierarmi con questa gente è l’unico modo per arrivare a Vela, mi toccherà abituarmici.||||
+p352|Volevo chiedervi una cosa.||||
+EmbFort4|Vi ascolto.||||
+p353|Riguardo al compito che ci attende...||||
+EmbFort5|Ho sentito che state radunando un gruppo di ex mercenari della Stella Oscura, giusto? Be’, vi aiuterò come posso.||||
+EmbFort6|Prima di tutto, fareste meglio a trovare il vecchio quartiermastro di Vela, Jack Basalt. Se è in città, sarà senz'altro al [[Boccale Barcollante]] in centro. Ha ((sempre avuto)) un debole per la roba forte, dopotutto.||||
+EmbFort7|Se cercate la Duchessa, probabilmente sarà tornata al maniero di famiglia nel [[Regno Eterno.]] Non saprei dirvi con certezza dove si trovi, però.||||
+EmbFort8|Quanto a Caxton Frost, mi è sempre sembrato un tipo un po' strano. Anche se immagino che la cosa fosse reciproca. Forse è tornato nel [[Regno Meccanico?]]||||
+p354|Riguardo al vostro passato...||||
+EmbFort9|<<Non dice nulla.>>||||
+p355|Quindi vi hanno davvero trovata in una vasca Emberiana?||||
+EmbFort10|È quello che ho detto, no? ##Vela mi trovò in una vasca piena di liquido, in una rovina Emberiana, quando eravamo bambine.||||
+EmbFort11|Non c'era alcun indizio su chi fossi o da quanto tempo mi trovassi lì, tranne una targa metallica con scritto «Orlaith». Così mi chiamarono.||||
+EmbFort12|Mi svegliai con la testa piena di conoscenze: sapevo parlare l’Emberiano Antico, sapevo ((combattere)), sapevo usare macchine antiche e inutili... ##Ma non avevo ((ricordi)) miei. Soltanto sogni sbiaditi di città scintillanti.||||
+EmbFort13|Il padre di Vela era furioso con lei, naturalmente, perché si era intrufolata da sola nelle rovine. Gettò Vela in cella insieme a me. <<Sorride.>> Non che a Vela importasse. Era entusiasta. Aveva un'amica ((Emberiana)) tutta sua...||||
+p356|Avete detto che Vela era come una sorella per voi.||||
+EmbFort14|Dopo avermi trovata, Vela alla fine convinse suo padre ad... ((adottarmi)) e, naturalmente, lui mi fece stare con i servi. Ma era meglio che essere sbolognata all'Accademia Erudita come una ((curiosità)).||||
+EmbFort15|E mi fece istruire, proprio come sua figlia. Quando non studiavamo, giocavamo per tutto il maniero. Era ((enorme)) e allora pensavo che ((tutti)) nei Regni Celesti vivessero come re.||||
+EmbFort16|Il padre di Vela era un ammiraglio della marina dell'Unione Apostatica, capite. E quando fummo pronte, fece addestrare Vela al comando. Servimmo sulla stessa nave militare con il Capitano Basalt, anche se la ((mia)) amaca era tra quelle dei marinai. ##<<Sospira.>> Fu allora che vidi i Regni Celesti per ciò che erano davvero.||||
+EmbFort17|E poi... ci fu il ((Massacro di Dyshaan)). Fu il giorno... in cui Isabet morì.||||
+EmbFort18|Quel giorno qualcosa si spezzò in Vela. Non riusciva più a fidarsi dell'Unione, né di suo padre. Così decise di ((andarsene)). Ci imbarcammo di nascosto come disertrici, ma all'ultimo momento ci sorprese lo stesso Capitano Basalt.||||
+EmbFort19|Credevo che fosse finita, che ci avrebbero gettate in qualche segreta a marcire. ##Ma Basalt? Credo fosse sconvolto quanto noi. Prese il timone senza dire una parola e ce ne andammo tutti insieme. Direi che la Stella Oscura nacque quel giorno.||||
+p357|Raccontatemi di quando eravate una mercenaria della Stella Oscura.||||
+EmbFort20|Sapete, qualche anno fa, se ci aveste trovati in una taverna con le pance piene di grog, vi avremmo cantato canzoni capaci di farvi ridere. E piangere. E vomitare la cena.||||
+EmbFort21|Ma... adesso non me la sento di cantarle.||||
+EmbFort22|Ho navigato con Vela per anni. Io, Vela e Basalt: all’inizio eravamo solo ((noi)), ma alla fine non riuscivo più a tenere il conto di quanti fossimo.||||
+EmbFort23|Vela ci sapeva fare con la gente, capite? Aveva quel bagliore negli occhi. Vi rivolgeva un sorriso sottile e vi fissava dritto in faccia. Come se vi ((conoscesse)) davvero. E vi diceva esattamente, ((esattamente)) quello che avevate bisogno di sentirvi dire.||||
+EmbFort24|<<Sorride tra sé.>> Aveva convinto l’intera compagnia che avremmo cambiato i Regni Celesti. Che avremmo fatto la ((differenza)) o almeno saremmo diventati schifosamente ricchi nel tentativo.||||
+EmbFort25|Ma a volte mi chiedo se ci credesse davvero anche lei. Quasi nessuno se ne accorgeva, ma io capivo che soffriva. Quando sentimmo parlare della Culla, vi si aggrappò come... come se potesse riparare quella parte ((spezzata)) dentro di lei.||||
+EmbFort26|Spero solo di aver fatto la cosa giusta cercando di fermarla. Perché, gli dèi lo sanno, penso ancora... penso ancora a chi abbiamo perso in quell’ammutinamento.||||
+p358|Va bene, era tutto ciò che volevo sapere.||||
+EmbFort27|D’accordo.||||
+p359|È proprio grossa, quell'armatura.||||
+EmbFort28|Ah, questa vecchia corazza? ##<<Solleva un braccio. Mentre le piastre dell'armatura tintinnano e si assestano, noti intricati meccanismi muoversi al di sotto.>>||||
+EmbFort29|Già, non ne fanno più così. Gli Emberiani incidevano il metallo con iscrizioni in Cifro troppo intricate per essere viste a occhio nudo, rendendo il materiale molto più resistente di quanto dovrebbe essere.||||
+EmbFort30|All’inizio razziavamo rovine Emberiane, spesso soltanto io e Vela. Molte erano già state ripulite dai predoni, o almeno così ((pensereste)), ma... io in qualche modo ((sapevo)) che c’erano ancora cose nascoste. Una leva lì, un interruttore qui, qualche tocco su una tastiera...||||
+EmbFort31|La gente si chiedeva spesso come riuscissimo a fare bottini tanto ricchi. Dicevano che eravamo fortunate o che usavamo amuleti Wikkan proibiti, o qualcosa del genere. ##<<Alza le spalle.>> Forse nascere da un tubo ha ((qualche)) vantaggio.||||
+p360|Anzi, lasciamo perdere.||||
+EmbFort32|Nessun problema.||||
+EnGate1|<<L'Eterno pulisce una manciata di denti con uno straccio sporco.>> ##((Come thta andando)), Rethpirante?||||
+p371|Ehm, scusate?||||
+p372|Che cosa state facendo con quei denti?||||
+EnGate2|<<L’uomo prende i denti uno a uno e li infila nelle gengive con uno schiocco umido.>> ##Ah, scusate, Respirante. Mi stavo pulendo i denti.||||
+EnGate3|<<Ti sorride. Nonostante i suoi sforzi, i denti non sembrano molto puliti.>>||||
+EnGate4|Non capita spesso che uno della vostra specie venga a ficcanasare intorno al [[Mastio dei Cadaveri.]] Che cosa posso fare per voi?||||
+p373|Che posto è questo?||||
+EnGate5|Ma questa è la roccaforte dei [[Cadaveri]], Respirante! ##Vedete, anni fa, quando le [[Crociate dei Cadaveri]] erano al culmine, usavamo questa fortezza per lanciare i nostri assalti contro i vivi.||||
+EnGate6|I nostri cavalieri trascinavano qui carri pieni di mortali che si contorcevano e si agitavano nella propria sporcizia. A quei tempi banchettavamo con la carne ogni sera, e i calici traboccavano di sangue caldo!||||
+EnGate7|<<Ti sorride, apparentemente ignaro del fatto che tutto questo potrebbe metterti a disagio.>>||||
+p374|Ma... i mortali non li mangiate ((più)). Vero?||||
+EnGate8|Oh, ((certo)) che no, Respirante. Per decreto della Regina, mangiamo soltanto la carne priva di coscienza prodotta da Penitente D'Isgelo nelle [[Fattorie della carne.]]||||
+EnGate9|Ora, se sentite un Eterno vantarsi di mangiare la roba ((pensante)), sappiate che non l'ha presa da ((noi)), chiaro? Nossignore, non abbiamo niente a che vedere con quei traffici da mercato nero...||||
+p375|Da dove viene quella carne del mercato nero?||||
+EnGate10|La carne pensante? Ora, non che ((io)) ne sappia qualcosa, Respirante, ma se dovessi formulare un’((ipotesi azzardata)) direi che al giorno d’oggi si può trovare carne viva un po' ovunque.||||
+EnGate11|Un Eterno ((furbo)) stringerebbe accordi con ogni genere di mortale senza scrupoli. Tratterebbe con contrabbandieri e canaglie per procurarsi cadaveri, oppure con impresari di pompe funebri che abbiano un... ((esubero)) di clienti.||||
+EnGate12|Naturalmente, visto che la Regina ha messo fuori legge ogni commercio di carne, salvo le Fattorie della carne, non saprei davvero nulla di tutto questo. ((Naturalmente.))||||
+p376|Lasciate che vi chieda qualcos’altro.||||
+EnGate13|Certo, Respirante.||||
+p377|Potete abbassare il ponte levatoio per me?||||
+EnGate14|Il ponte levatoio è già abbassato, Respirante.||||
+EnGate15|<<Si agita, improvvisamente nervoso.>> Ah, e perché vorreste andare ((là dentro)), Respirante? Dietro quel ponte non c’è nulla per i mortali, ve lo assicuro!||||
+p378|@@Credete che, solo perché sono mortale, non possa condividere i vostri... interessi?||||
+EnGate16|%% <<L’Eterno ti squadra da capo a piedi.>> Hmph, questa poi. Un mortale dai gusti... ((devianti)). Ora sì che le ho viste tutte...||||
+EnGate17|Molto bene. Non abbiamo motivo di rifiutare le vostre monete. Chiamerò qualcuno perché abbassi il ponte.||||
+EnGate18|&& Mi dispiace, Respirante, ma non posso lasciar entrare nel Mastio mortali come voi. Andrebbe contro ogni sorta di tradizione.||||
+p379|Va bene, vi credo sulla parola.||||
+EnGate19|Scelta saggia, Respirante.||||
+p380|Vi lascio ai vostri... affari.||||
+EnDung1|<<L'Eterno dall'aspetto brutale sbatte le palpebre guardandoti.>> ##Fermatevi lì. Non mi è permesso far scendere nessuno nella [[lavorazione della carne.]] E non mi è permesso dire a nessuno che si chiama [[lavorazione della carne]].||||
+p381|Ehm... state facendo davvero un ottimo lavoro.||||
+EnDung2|<<L’Eterno sorride, senza alcuna vergogna.>>||||
+p382|Vorrei entrare da quella porta, per favore.||||
+EnDung3|<<Il bruto scuote la testa.>> Nossignore. Laggiù può scendere soltanto ciò che è [[carne]] per davvero.||||
+p383|@@La carne ((sono)) io. Guardatemi! Bello e carnoso...||||
+EnDung4|%% Non avevo mai incontrato carne tanto ((amichevole)) in vita mia. Ma va bene, potete scendere.||||
+EnDung5|&& <<Il bruto ti squadra a occhi socchiusi.>> Se siete ((carne)), perché parlate e sorridete? Nossignore, qui c’è qualcosa che non torna.||||
+p384|Scenderò, che vi piaccia o no.||||
+EnDung6|<<Il bruto estrae la spada.>>||||
+p385|Vi lascio al vostro lavoro.||||
+EnDung7|Allora potete scendere.||||
+EnGroundkp1|<<L’Eterno spazza il terreno con il rastrello, anche se sembra limitarsi a spostare la terra qua e là.>>||||
+EnGroundkp2|<<Quando ti avvicini, sussulta.>> Ah, Respirante, non vi avevo notato. Non capita spesso di vedere gente della vostra specie da queste parti.||||
+p391|Chi siete?||||
+EnGroundkp3|Chi sono? Be’, bella domanda. Ultimamente me lo chiedo anch’io. Pare che abbia dimenticato il mio nome qualche decennio fa...||||
+EnGroundkp4|Era Yhem? O forse Gluppus? Ah, è tutto confuso...||||
+EnGroundkp5|Comunque, sono il custode della tenuta della [[Duchessa]]. Almeno, ((credo)) di esserlo. Non vedo la ragazza da un buon secolo e comincio a chiedermi se non mi sia inventato tutto...||||
+p392|Che posto è questo?||||
+EnGroundkp6|Molto tempo fa, prima che ci chiamassimo Eterni, queste isole erano note come [[Verdante.]] Le nostre case erano fatte di legno splendido, non quelle enormi tombe di pietra che vedete oggi.||||
+EnGroundkp7|Questa parte dell'isola è l'unico luogo rimasto dove si può vedere una traccia di com'erano le cose un tempo. Tutto il resto è marcito.||||
+EnGroundkp8|È qui che vive anche la [[Duchessa]], sebbene non lasci mai il suo maniero.||||
+p393|Posso far visita alla Duchessa?||||
+EnGroundkp9|Potete certamente ((provare.)) Il suo [[maniero di famiglia]] è laggiù, ma ormai è quasi tutto in rovina, e lei ne ha nascosto l’ingresso con un incantesimo. Dovrete trovare un modo per arrivarci...||||
+EnGroundkp10|Ha anche incantato un mucchio di [[scheletri]] perché pattuglino il posto, quindi guardate dove mettete i piedi. Non sanno davvero ((pensare)) perché è soltanto un incantesimo a tenerli insieme, quindi non esiteranno a colpirvi.||||
+p394|Grazie. Ora me ne vado.||||
+Duchess1|<<Sospesa nell'oscurità, la donna Eterna è assorta in un rituale. Sibila parole violente e sconosciute, mentre le mani tracciano scintille di luce nell'aria, illuminando i libri e la polvere intorno a lei.>>||||
+p401|Ehm, salve?||||
+p402|((Fare un inchino cortese.))||||
+p403|((Congedarsi.))||||
+Duchess2|<<La donna sembra ignara della tua presenza, il volto indecifrabile dietro la maschera. Continua a mormorare frasi esoteriche mentre plasma glifi di luce.>>||||
+p404|Che cosa state facendo?||||
+p405|Siete, ehm... chiaramente occupata, ma...||||
+Duchess3|<<Urla, e dalla sua voce prorompe un'ondata di energia magica che fa precipitare i libri a terra.>>||||
+Duchess4|Sapete quanto sia ((difficile)) intessere una sintassi parallela in Cifro mentre un ((idiota)) vi blatera all'orecchio?||||
+Duchess5|<<Geme per la frustrazione.>> ##Perdonatemi. Sono alle prese con una... [[crisi familiare]], e mi avete sorpresa mentre cercavo di coniugare una coppia di superlativi. A volte ((odio)) davvero la semiotica del Cifro.||||
+Duchess6|Be', suppongo che, se avete superato le mie misure di sicurezza, siate venuto qui per un ((motivo.)) <<Ti studia per un momento.>> ##Non siete un assassino dei Cadaveri, vero? Mandato da quell'infernale Rhydder a mozzarmi la testa o qualcosa del genere?||||
+p406|No, non sono un assassino.||||
+Duchess7|<<Ti studia per un momento.>> Be', è esattamente ciò che direbbe un assassino. Devo esserne ((certa...))||||
+p407|<Menzogna> Sì, sono un assassino.||||
+Duchess8|<<Ti studia per un momento.>> Un Cadavere ((mortale))? Ho visto cose più strane... ##Ma devo esserne certa.||||
+p408|Ehm... che cos’è un Cadavere?||||
+Duchess9|<<Ti studia per un momento.>> Be', la vostra ignoranza ((sembra)) convincente... ##Ma devo esserne certa.||||
+Duchess10|Darò solo una sbirciatina nella vostra mente. Potreste avvertire un certo... ((formicolio)) nel cervello, ma non preoccupatevi: solo di rado si riportano danni ((permanenti)) al cervello.||||
+p409|Aspettate, non osate--||||
+p410|Avete detto ((perma))--||||
+Duchess11|<<Un dolore ti lacera la testa, seguito da una moltitudine di sensazioni sgradevoli. I tuoi sensi si confondono: ascolti gli odori, assapori le immagini, respiri i suoni. Tutto si deforma e ti assale la nausea.>>||||
+Duchess12|<<Poi ti ritrovi sotto la luce tagliente della tua stella natale. La tua mano stringe un ramo insanguinato. Un bambino si rannicchia davanti a te, piangendo nel fango.>>||||
+Duchess13|<<Sì, ricordi: fu il primo vero scontro che vincesti, quando avevi appena sei anni...>>||||
+Duchess14|<<La sua voce squarcia il tuo sogno.>> ##Dunque siete sempre stato un tipo ((violento)), eh, mortale?||||
+Duchess15|<<Poi ti ritrovi nella casa della tua famiglia; la luce calda della tua stella neurale filtra dalle alte finestre e fa scintillare gli ornamenti. Siedi a giocare mentre la tua bambinaia sorride.>>||||
+Duchess16|<<Sì, ricordi: il conforto di casa, prima di conoscere gli orrori del mondo...>>||||
+Duchess17|<<La sua voce squarcia il tuo sogno.>> ##Ah, mortale: siete nato nobile? Conosco fin troppo bene quella gabbia dorata.||||
+Duchess18|<<Poi ti ritrovi rannicchiato nella sporcizia di un vicolo, piccolo e terrorizzato. Un uomo incombe su di te con un ghigno, sollevando la spada. Hai appena il tempo di stringere un frammento di vetro rotto e affondarglielo nel ventre...>>||||
+Duchess19|<<Sì, ricordi: avevi appena sei anni. Soltanto un altro moccioso senza valore nella sterminata città. Le cose che facesti per sopravvivere... >>||||
+Duchess20|<<La sua voce squarcia il tuo sogno.>> ##Avete avuto una vita dura, mortale. Mi... dispiace.||||
+Duchess21|<<Poi ti ritrovi curvo su un enorme libro alla luce delle candele, pregando che il tuo maestro non ti scopra con quel tomo proibito. Passi la mano sull'inchiostro e pronunci qualche parola. La gola crepita di energia magica e all'improvviso hai molta paura...>>||||
+Duchess22|<<Sì, ricordi: avevi appena sei anni. Un piccolo studioso che muoveva i primi passi esitanti nelle arti arcane.>>||||
+Duchess23|<<La sua voce squarcia il tuo sogno.>> ##Una giovinezza dedicata allo studio, mortale? Io e voi siamo spiriti affini.||||
+Duchess24|Ma non basta. Mi serve ((altro)).||||
+Duchess25|<<Un’altra ondata di nausea. La realtà ribolle intorno a te, finché non ti risvegli in una cella dell’Inquisizione, con l’odore di ruggine e merda che ti riempie le narici.>>||||
+Duchess26|Dunque è così, eh? Siete con quei bastardi dell'Inquisizione. Ma non siete tra chi muove le pedine: siete soltanto una pedina nei loro intrighi, ricattato con la minaccia dell'oblio. Davvero ((patetico.))||||
+Duchess27|<<Ancora una volta sprofondi nei ricordi. Vedi la nave di Vela allontanarsi e, con essa, la tua unica speranza di salvezza.>>||||
+Duchess28|Ah, dunque è ((Vela)) che cercate. Ho navigato con lei per dieci anni e mi feci persino chiamare mercenaria della Stella Oscura. Ma immagino che lo sapeste.||||
+p411|((Tossire.)) Basalt... mi manda.||||
+Duchess29|Ah, dunque quella vecchia lumaca di mare è ancora fra noi? Devo ammettere che ho sempre pensato che l'alcol l'avrebbe ucciso. ##Ma sapere che collabora con l'((Inquisizione,)) dopo tutto quello che abbiamo passato...?||||
+p412|((Tossire.)) Avevo... un presentimento.||||
+p413|((Tossire.)) Non ne avevo... idea.||||
+Duchess30|Be’, questo non fa che accrescere i miei sospetti. ##Ditemi: ((uccidete)) per i vostri padroni? Togliete la vita agli altri per salvare la vostra vita?||||
+p414|Ucciderò chiunque... mi ostacoli.||||
+Duchess31|Oh, ((naturalmente.)) Sono certa che siate terribilmente forte, che io debba tremare di paura e tutto il resto. Ma vediamo la verità, d'accordo?||||
+p415|Sguaino la spada... soltanto per difendermi.||||
+Duchess32|Oh, che nobiltà! Che valore! Mi sento ((umiliata)) da tanta cavalleria, eccetera. Ma vediamo la verità, d'accordo?||||
+p416|Evito lo scontro... ogni volta che posso.||||
+Duchess33|Dunque siete un pacifista, un codardo o un bugiardo. Vediamo la verità, d'accordo?||||
+Duchess34|<<La testa torna a girarti ancora. Vedi gli uomini e i mostri che ti hanno sbarrato il cammino; ogni volta li hai superati senza sguainare la spada.>>||||
+Duchess35|Mh, dunque avete detto la verità, mortale? Davvero ((non avete)) tolto neppure una vita. Devo ammetterlo: sono colpita.||||
+Duchess36|Ah, dunque avete mentito! Non siete affatto un assassino. In realtà non avete tolto una ((sola)) vita. Eppure siete arrivato fin qui: devo ammetterlo, sono colpita.||||
+Duchess37|<<La testa torna a girarti ancora una volta. Vedi gli uomini e i mostri che hanno sbarrato il tuo cammino, e come li hai superati ogni volta che era possibile. ##Nelle poche occasioni in cui sei stato costretto ad agire, ricordi la sensazione della lama che affonda nella carne e quelle ultime, strazianti grida di morte...>>||||
+Duchess38|Mh, siete un tipo sincero, mortale. Le vite che avete tolto sono poche; sembra che sguainiate la lama soltanto quando è strettamente necessario. Devo ammettere che vi rispetto per questo.||||
+Duchess39|Ah, dunque non siete sanguinario quanto volete far credere! È solo una ((recita.)) Avete tolto pochissime vite. ##Devo ammettere che vi rispetto per questo.||||
+Duchess40|<<La testa torna a girarti ancora. Vedi gli uomini e i mostri che ti hanno sbarrato il cammino; come hai incrociato le spade, schivato i loro colpi, affondato l’acciaio nella loro carne. Hai assaggiato il sangue più volte di quante tu voglia ricordare, e le tue mani sono macchiate per sempre.>>||||
+Duchess41|Avete mentito, mortale. Siete un ((assassino)) fino al midollo. Il sangue che avete versato impregna queste isole ancora oggi.||||
+Duchess42|Almeno siete sincero. Siete un ((assassino)) fino al midollo. Il sangue che avete versato impregna queste isole ancora oggi.||||
+Duchess43|<<La testa torna a girarti di nuovo. Vedi gli uomini e i mostri che ti hanno sbarrato la strada; come hai incrociato le spade, schivato i loro colpi e affondato l'acciaio nella loro carne. Ricordi il caos, l'ebbrezza, la ((sete di sangue.)) La verità è che ti ((piace)) farlo.>>||||
+Duchess44|<<Sembra sconcertata.>> Mortale, voi... voi siete un ((mostro.)) Il sangue che avete versato? Nessuno potrebbe mai espiare una violenza tanto gratuita... ##Anche se forse non ho il diritto di giudicarvi. La mia coscienza è... ((tutt'altro che)) pulita.||||
+Duchess45|Mh, ma che cos'è questo? <<Un dolore bruciante; vedi la Fattoria della carne urlare in agonia. Vedi Rhydder, il suo sguardo crudele, e ricordi l'accordo che hai stretto...>>||||
+Duchess46|Ah, dunque ((siete)) in combutta con i Cadaveri! Le vostre azioni, compiute per dispetto o per follia, hanno gettato un'ombra oscura su quest'isola... ##...eppure non vedo nulla che indichi che vogliate fare del male a ((me)).||||
+Duchess47|Be’, dopo aver rovistato nel vostro cranio, sembra che nulla suggerisca che vogliate la mia testa.||||
+Duchess48|E da ciò che ho visto, nulla suggerisce che vogliate la mia testa.||||
+Duchess49|<<Sospira.>> ##Vi risparmierò il tormento di altre sonde mentali, mortale. Un'altra e il vostro cervello potrebbe scoppiare, e non ho intenzione di ripulire ((quello)) schifo.||||
+Duchess50|Ah, ma dove sono finite le mie buone maniere? Abbiamo scoperto tutto di ((voi)), ma io non mi sono presentata. ##((Finge un inchino pomposo.)) La [[Duchessa]], al vostro servizio.||||
+Duchess51|Be', ((in realtà)) sono Philomena Caveridge, Duchessa di Vestalshire, ma è piuttosto lungo da dire, eh?||||
+Duchess52|Se foste arrivato circa sei secoli fa, vi avrei accolto in una dimora brulicante di vita, piena di musica e allegria. I miei servitori vi avrebbero offerto ristoro e vi avrei presentato i miei cinque adorati figli...||||
+Duchess53|<<Ridacchia stancamente.>> Ah, com’è possibile che seicento anni passino tanto ((in fretta?)) ##Ora fluttuo in questa tomba gelida mentre la mia tenuta cade in rovina...||||
+p417|Sembra che vi manchi la vostra vita di un tempo.||||
+Duchess54|Non c'è Eterno a cui non manchi la vita di un tempo. Ma per la maggior parte di noi è difficile pensare alle nostre vite mortali senza aprire la porta ai nostri... ((demoni)).||||
+p418|Una simile ricchezza ereditaria è ripugnante.||||
+Duchess55|Sono propensa a darvi ragione, mortale. In gioventù detestavo il mio diritto di nascita; essendo la primogenita, ci si aspettava che mi sposassi e generassi eredi, mentre io desideravo soltanto dedicarmi agli studi.||||
+Duchess56|Ma se il privilegio di quegli anni comportava una sorta di ((debito)), l'ho ripagato mille volte.||||
+Duchess57|Vedete, divenni Duchessa il giorno in cui mio padre morì, durante [[la Grande Divorazione.]] Sapete che cosa fu?||||
+p419|Sì.||||
+Duchess58|Allora saprete che è la macchia più oscura nella storia del mio popolo. Gli Eterni nacquero con una fame insaziabile. Per decenni ((banchettammo)) con le carni di chi un tempo chiamavamo famiglia.||||
+p420|No.||||
+Duchess59|Seicentotrentacinque anni fa, gli Eterni nacquero dalla superbia e dalla follia del nostro re. Il suo miserabile incantesimo deformò metà del regno in questa forma maledetta. Rinascemmo, frenetici e ((affamati)).||||
+Duchess60|Così il regno di Verdante, perché allora si chiamava così, ((divorò)) se stesso. ## Amici e familiari che al mattino sedevano allegramente a tavola insieme, alla sera si ((mangiavano)) a vicenda.||||
+Duchess61|E la mia famiglia non fu diversa. ##Avevo trentacinque anni quando accadde. Avevo un marito. Cinque splendidi figli...||||
+Duchess62|Sapete qual è la cosa più crudele? Una parte di noi ((sapeva)) che cosa stava succedendo. Mentre laceravo con i denti la carne di mio marito, non urlavo di rabbia, ma di dolore. Mentre mia figlia si abbuffava delle viscere di suo fratello, vidi le lacrime scorrerle sul viso...||||
+Duchess63|E quando sollevai mio figlio, che non aveva ancora tre mesi, volevo stringerlo. Volevo ((baciarlo)) e non intendevo... ##<<La sua voce si spezza e rimane in silenzio per un momento.>>||||
+p421|Mi dispiace tanto.||||
+Duchess64|Risparmiate le lacrime, mortale. Ci sono cose che non riuscirete ((mai)) a capire.||||
+p422|Siete un mostro.||||
+Duchess65|Non lo negherò.||||
+p423|((Non dire nulla.))||||
+Duchess66|Essere un Eterno significa convivere con un senso di colpa terribile. È così per ((tutti)) noi. Ma mentre la maggior parte trova conforto nei rituali e nelle tradizioni di un tempo, io li trovo ((soffocanti))...||||
+Duchess67|<<Ridacchia.>> Ah, eccomi di nuovo a riesumare il passato. Credo sia per questo che hanno smesso di invitarmi a tutti quei balli nei mausolei.||||
+Duchess68|Ditemi, mortale: questa... ((caccia)) a Vela. Che cosa sperate di ottenere?||||
+p424|Non potete semplicemente leggermi la mente?||||
+Duchess69|Be', naturalmente ((potrei)), ma sarebbe terribilmente scortese. E ora che so che non volete la mia testa, potete mentire quanto vi pare; non me ne importa.||||
+p425|Devo impedirle di distruggere il mondo.||||
+Duchess70|Mh. Il mondo è in pericolo e voi vorreste salvarlo? ##Ammirevole. Ma naturalmente non è così che ((lei)) vede la questione.||||
+p426|Voglio aiutarla a salvare il mondo.||||
+Duchess71|Ah, dunque vi siete lasciato sedurre dal suo fervore rivoluzionario?||||
+p427|Lei muore, io ottengo la libertà. Semplice.||||
+Duchess72|Ah, l’istinto di conservazione: non esiste motivazione più sincera. Eppure, quando arriverà il momento, potreste dover compiere una... scelta.||||
+Duchess73|Mi chiedo se comprendiate che cosa ci sia ((davvero)) in gioco.||||
+Duchess74|Esiste un linguaggio nascosto dell’universo, mortale. Una rete di segni e significanti che stabilisce le regole stesse secondo cui viviamo. ##E Vela? Vuole cambiarlo. Vuole cambiare la ((realtà)) stessa per creare un mondo nuovo.||||
+p428|Come funzionerebbe?||||
+p429|Non sono mai stato portato per la semiotica del Cifro. Possiamo arrivare al punto?||||
+Duchess75|Quando lanciamo un incantesimo di Cifro, parliamo nel linguaggio nascosto dell’universo.||||
+Duchess76|Ma le ((regole?)) La grammatica, la sintassi, i segni stessi? Tutti noi, dall'umile scriba alla potente maga del Cifro, dobbiamo rispettare questi vincoli. E quando non lo facciamo? Ci sono spesso conseguenze... ((terribili)) da affrontare.||||
+p430|Come gli Eterni.||||
+Duchess77|<<Annuisce.>> Esatto. L'incantesimo lanciato dal nostro re tanti anni fa era davvero ambizioso. Gli errori erano probabilmente minori, ma applicati a un intero ((regno?)) Il risultato fu catastrofico.||||
+p431|Come il Regno Meccanico.||||
+Duchess78|<<Annuisce.>> Ho visto con i miei occhi ciò che sta facendo il loro monarca. Riscrive menti, materia, intere ((porzioni)) di realtà. Per loro non finirà bene.||||
+p432|Come lo Squarcio del Mondo.||||
+Duchess79|<<Annuisce.>> Non so con ((certezza)) che cosa accadde allora, ma vi assistetti con i miei occhi. Lo ((percepii)) con la mente. Fu l’incantesimo più potente a cui avessi mai assistito, e rimase intrappolato in una cascata sintattica. Un ciclo infinito...||||
+Duchess80|Ma se il piano di Vela funzionasse, renderebbe l’impossibile... ((possibile.)) Con uno schiocco di dita potrebbe far sorgere un impero. Rendere chiunque ((davvero)) immortale... perfino riportare in vita qualcuno.||||
+p433|Sembra incredibile.||||
+p434|Sembra pericoloso.||||
+Duchess81|Infatti. Ho riflettuto spesso su questo dilemma. Sarebbe un bene o un male?||||
+Duchess81b|Molto bene. Il nocciolo della questione è questo...||||
+Duchess82|Il mio popolo vive nel tormento; i nostri corpi in decomposizione e le nostre menti infestate sono prigioni da cui non esiste fuga. ##Ma... il piano di Vela potrebbe essere la nostra salvezza? O condannerebbe l’intero ((mondo)) a un tormento analogo?||||
+Duchess83|Non ho ancora preso una decisione. Ma, a essere sincera, vorrei essere presente... quando si deciderà.||||
+p435|Allora aiutatemi a trovare Vela.||||
+p436|Sembra che i nostri interessi coincidano.||||
+Duchess84|Purtroppo sono alquanto ((impegnata)) al momento. Credo di aver menzionato una... crisi familiare? ##[[Mia figlia]] mi è stata sottratta.||||
+Duchess85|<<Chiude gli occhi.>> Si chiama Ellyn. Di tutti i miei figli, è l’unica che mi rimane. ##La vedo ancora, a nove anni, mentre mi tiene la mano nell’erba rigogliosa di Verdante. Tutti nel villaggio conoscevano quel sorriso radioso.||||
+Duchess86|Ha ancora nove anni, e sentire la sua mano nella mia è l'unica cosa che mi tiene aggrappata a questa miserabile esistenza. ##E ora quei ((maledetti)) [[Cadaveri]] l'hanno rapita.||||
+p437|Non potete salvarla da sola?||||
+Duchess87|Oh, ci sto provando, ma i Cadaveri nutrono un odio ossessivo nei miei confronti. Devo muovermi lentamente e con cautela. ##<<Riflette per un momento.>>||||
+Duchess88|Ma ((voi?)) Essendo estraneo all'intera faccenda, potreste avere un certo vantaggio...||||
+p438|Potrei provare a salvare vostra figlia.||||
+Duchess89|Lo fareste, mortale? Se la salvaste, sarei davvero in debito con voi.||||
+Duchess90|I Cadaveri sono gente riservata, ma ho sentito dire che uno di loro frequenta la [[Bara Putrida]] a [[Sepolcro.]] Indossa un'[[armatura completa]], e possiede una [[chiave]] che permette di accedere ai livelli superiori del Mastio dei Cadaveri.||||
+Duchess91|Di certo non parlerà con me né con i miei tirapiedi. Ma ((voi?)) Siete un estraneo. E soprattutto siete un ((mortale.)) E i Cadaveri sono ((molto)) interessati ai mortali...||||
+p439|Va bene, cercherò di trovarla.||||
+Duchess92|Grazie, mortale.||||
+p440|Aspettate... perché sono interessati ai mortali?||||
+Duchess93|Oh, avrò forse... dimenticato di dirvelo?||||
+Duchess94|Mentre la maggior parte degli Eterni mangia la carne priva di coscienza delle Fattorie della carne di Penitente D'Isgelo, i Cadaveri credono ancora di avere il diritto di banchettare con carne senziente... come ((voi.)) ##Ma non preoccupatevi. Sono certa che andrà tutto bene.||||
+Duchess95|Mia figlia porta un [[anello con sigillo]] al dito. Trovatela, e vi aiuterò a rintracciare Vela. Avete la mia parola.||||
+Duchess96|Salve, mortale. Come state?||||
+p441|Ricordatemi: come posso trovare vostra figlia?||||
+p442|Dove si trova esattamente il Mastio dei Cadaveri?||||
+Duchess97|Il mastio è la struttura [[più a nord]] del Regno Eterno. Continuate a camminare verso nord, oltre [[Sepolcro]], e non potete non vederlo.||||
+Duchess98|L'ingresso del [[Mastio dei Cadaveri]] è pesantemente sorvegliato, ma le fortificazioni sono vecchie e consunte, quindi potreste riuscire a introdurvi da qualche punto delle mura...||||
+Duchess99|Ma ricordate: certe sezioni del mastio richiedono una [[chiave]] che non possiedo. Dovrete procurarvene una dal [[Cadavere]] nella taverna [[Bara Putrida]] per esplorarlo tutto.||||
+p443|A proposito di vostra figlia...||||
+Duchess100|L’avete trovata, mortale?||||
+Duchess101|Devo ammettere che ho seguito i vostri progressi con interesse. <<Con un movimento del polso, crea un piccolo specchio scintillante. Sembra mostrarti mentre entri nel Mastio dei Cadaveri.>>||||
+Duchess102|Ma i miei incantesimi di voyeurismo non riuscivano a penetrare l’isola sopra il mastio, quindi ho atteso il vostro ritorno con il fiato sospeso...||||
+p444|Mi dispiace, Duchessa. Non porto buone notizie.||||
+Duchess103|<<All'improvviso diventa immobile come la morte.>> Lei... non era lì?||||
+p444b|Ho la sua mano. Nient’altro.||||
+Duchess160|<<Presenti la mano alla Duchessa. Sul suo volto si apre un sorriso raggiante.>>||||
+Duchess161|Ah, mia Ellyn, finalmente sei tornata da me! ##<<La Duchessa preme teneramente la mano contro il viso. La mano di Ellyn sembra ricambiare, rilassandosi e accarezzando la guancia di sua madre.>>||||
+p444c|Ehm, era ciò che vi ((aspettavate)) di trovare?||||
+Duchess162|Perdonatemi, mortale, ho forse dimenticato di dirvelo? Di mia figlia resta soltanto la mano.||||
+p445|Dov’è il resto di vostra figlia?||||
+Duchess104|Il resto di lei andò perduto molti secoli fa. Dove? Non so dirlo, ma non è un destino insolito per la mia specie.||||
+Duchess105|È molto difficile ((uccidere)) davvero un Eterno. Ma questo non significa che i nostri corpi non possano essere spezzati. Recisi. ((Separati.)) Molti della mia stirpe non riposano in pace, ma in pezzi, sparsi per il regno come foglie cadute.||||
+Duchess106|Persi Ellyn a causa di questo destino abominevole circa trecento anni fa. <<Tocca delicatamente la mano.>> ##Ho accettato da tempo che non rivedrò mai più il suo volto.||||
+Duchess107|Ma non è ((morta.)) È cosciente e ((riconosce)) il tocco di sua madre. Che altro posso fare, se non starle accanto?||||
+p446|È... commovente.||||
+p447|È... orribile.||||
+Duchess108|<<Sospira.>> Naturalmente non è il destino che avrei scelto per mia figlia. Spesso mi chiedo se non sarebbe più misericordioso lasciarla... ((davvero)) riposare in pace.||||
+Duchess109|Forse è per questo che ho seguito Vela tanto a lungo. Nel bene o nel male, prometteva il ((cambiamento)).||||
+p448|Con Vela potreste concedere agli Eterni una vera morte.||||
+Duchess110|<<Accarezza la mano di sua figlia.>> Forse avete ragione. Forse la mia gente si trascina nella miseria da troppo tempo.||||
+Duchess111|<<Chiude gli occhi.>> Questa non è vita. Siamo soltanto fantasmi aggrappati a sogni che svaniscono. Non voglio questo per mia figlia.||||
+p449|Con Vela potreste rendere gli Eterni davvero immortali.||||
+Duchess112|<<Accarezza la mano di sua figlia.>> Forse avete ragione. Dovrei lottare perché mia figlia abbia una vita ((migliore)), affinché possa sentire ancora una volta il vento sul viso...||||
+p450|Vela maneggia poteri che non sa controllare; dobbiamo imparare ad accettare il nostro destino.||||
+Duchess113|<<Accarezza la mano di sua figlia.>> Forse avete ragione. Questa maledizione è il fardello che dobbiamo portare. Rischiare una catastrofe totale per una speranza da folli? Non sarebbe giusto.||||
+Duchess114|<<Rimane in silenzio per un momento.>> Grazie, mortale, per avermi riportato mia figlia. Spero che l'intera faccenda non sia stata troppo... travagliata.||||
+p451|No, nessun problema.||||
+p452|Quella torre era piuttosto alta. C’erano ((molte)) rampe.||||
+Duchess115|<<Sorride.>> Siete troppo modesto, mortale. Non crediate che non abbia notato il vostro dito mancante.||||
+p453|Be', un dito l'((ho)) perso.||||
+Duchess116|<<Sorride.>> L’ho notato, mortale.||||
+Duchess117|Ma non è nulla che un po' di Cifro non possa sistemare. Su, porgetemi la mano...||||
+Duchess118|<<La Duchessa pronuncia alcune consonanti dal suono aspro, e la sua voce sembra risucchiare il calore dall'aria. Per un momento, un calore insopportabile sembra incendiarti la mano.>>||||
+Duchess119|<<Ma quando abbassi lo sguardo, al posto del dito mancante ne trovi uno spettrale. Brilla e scintilla di un colore innaturale, ma al tatto è solido.>>||||
+Duchess120|Ecco fatto, mortale. Potreste perfino considerarlo un ((miglioramento)). Pochi possono eguagliare la mia abilità con i facsimili di Cifro.||||
+Duchess121|E ora onorerò la mia parte dell'accordo. ##Quando ho sondato la vostra mente, ho visto che avete conquistato la [[Luce Accecante]], giusto? Mi recherò lì, così potremo pianificare la prossima mossa.||||
+Duchess122|Per ora, addio, mortale.||||
+Duchess123|Ah, è bello essere di nuovo nei Regni Celesti! A passare l’eternità in vecchie tombe polverose ci si può annoiare terribilmente.||||
+p454|Come vi state ambientando?||||
+Duchess124|Ho quasi finito di trasferire la mia collezione di grimori indispensabili. Non è un brutto posto per loro, vero?||||
+Duchess125|Devo ammettere che è emozionante vedere tutti questi mortali correre qua e là. Nella vita mortale c'è un'((urgenza)) che la mia specie ha perduto. Ora capisco che, da quando ho rinunciato a questa vita... mi è mancata.||||
+p455|Volevo chiedervi una cosa.||||
+Duchess126|Dite pure, mortale.||||
+p456|Riguardo al compito che ci attende...||||
+Duchess127|<<Annuisce.>> Mi pare di capire che stiate ancora cercando i miei ex compagni.||||
+Duchess128|Be', dovreste cominciare da [[Jack Basalt.]] Probabilmente troverete quel vecchio lumacone di mare nella taverna più vicina, che a quanto ho capito è il [[Boccale Barcollante]] di [[Hallow Town.]]||||
+Duchess129|Ora, se cercate Vela, dovrete rintracciare Orlaith, o come la chiama la maggior parte della gente, [[l’Emberiana.]] Se qualcuno sa dove si trova Vela, è lei. ##L’ultima volta che ne ho sentito parlare, cercava rovine Emberiane a [[Hallowshire]].||||
+Duchess130|Se volete rimettere in funzione questo posto, la scelta migliore è trovare [[Caxton Frost]], uno dei migliori ingegneri che abbia mai conosciuto. Probabilmente è tornato nel [[Regno Meccanico.]]||||
+p457|Riguardo al vostro passato...||||
+Duchess131|Ce n’è parecchio. Che cosa volete sapere?||||
+p458|Raccontatemi di nuovo della Grande Divorazione.||||
+p459|Raccontatemi di quando eravate una mercenaria della Stella Oscura.||||
+Duchess132|Be’, ho trascorso gran parte della mia misera esistenza cercando di sottrarmi ai doveri di duchessa. Se potete, provate a immaginare ((seicento anni)) di etichetta e cerimonie tediose. Bastano a far impazzire chiunque...||||
+Duchess133|Così lasciai il mio seggio, il mio regno e i miei doveri. Vagai per i Regni Celesti, spingendomi in luoghi che non avrei mai immaginato, finché non mi unii a una giovane mortale ambiziosa di nome ((Vela.))||||
+Duchess134|<<Un sorriso sottile le si allarga sulle labbra.>> ## Sapete, quando mi unii a loro, pensavo che sarebbe stato un passatempo di poco conto osservare un gruppo tanto incongruo di mortali farsi ammazzare...||||
+Duchess135|E invece fu molto di più. Stare in compagnia di quei mercenari della Stella Oscura significava vivere in mezzo a un ((cambiamento)) incessante. Non marcivo più in una tomba, prigioniera della tradizione: ogni giorno il mondo si increspava al nostro passaggio.||||
+Duchess136|<<Sospira.>> E mi lasciai perfino travolgere dalla sua retorica. Credetti che potesse esserci... ((speranza)), per me e per la mia gente...||||
+Duchess137|Ma, come ogni impresa mortale, non poteva durare. La fiamma di Vela cominciò a vacillare; l’ottimismo cedette alla paura e alla disperazione. Alla fine Orlaith guidò l’ammutinamento che fece a pezzi la Stella Oscura.||||
+Duchess138|Dopo, molti di noi si dispersero. Personalmente non avevo alcun interesse ad attardarmi attorno alla carcassa di qualcosa un tempo grandioso, così tornai a casa, a un mucchio d’ossa più familiare.||||
+p460|Che cosa spinse tanti mercenari della Stella Oscura ad andarsene?||||
+Duchess139|Be', tutto cominciò con quel [[contratto dell'Ammazzadèi.]] Era l'apice dell'infamia della Stella Oscura, quando tutti i Regni Celesti sembravano sussurrare i nostri nomi a mezza voce. Fummo contattati da un nobile di Riova, che voleva farci assassinare un potente [[dio]]...||||
+Duchess140|Vela ne era entusiasta. Un'impresa simile avrebbe consolidato la nostra reputazione, ma non tutti ne furono felici.##La [[Wikkan]] — una veterana della Stella Oscura e un'amica ((molto)) cara a Vela — lo considerava un tradimento della propria gente.||||
+Duchess141|Vela sosteneva che, per far parte della Stella Oscura, dovevamo lasciarci alle spalle le vecchie alleanze. Nel [[nuovo mondo]] che stavamo plasmando non c’era spazio per quelle ideologie vecchie e rancorose. Ma per la Wikkan, uccidere quel dio? Era troppo. Andava troppo oltre. Significava varcare un ((limite.))||||
+Duchess142|Così, quando giunse il momento, quando avevamo messo quella divinità alle strette e Vela era pronta a sferrare il colpo mortale, la Wikkan le sbarrò la strada.##In preda alla collera, Vela la scaraventò oltre il bordo. Vidi la Wikkan precipitare dalla nave, sotto le nuvole...||||
+Duchess143|E in quel momento qualcosa cambiò. Vela fu divorata da un terribile senso di colpa. Cominciò ad accettare incarichi sempre più ((discutibili)) e pericolosi. Fu allora che i suoi sogni divennero più radicali e puntò gli occhi su quel manufatto Emberiano...||||
+Duchess144|Quella volta fu Orlaith, o meglio, l'Emberiana, a risentirsi. Guidò molti di noi nell'ammutinamento contro Vela. ##Se volete saperne di più, dovreste chiederlo a ((lei)).||||
+p461|Va bene, era tutto ciò che volevo sapere.||||
+Duchess145|C'era altro, mortale?||||
+p462|Come sta vostra figlia?||||
+Duchess146|<<Sorride.>> Benissimo, grazie. Qui l’aria è più limpida; le piace sentire la brezza sulla pelle...||||
+p463|Allora me ne vado.||||
+Duchess147|Addio, mortale.||||
+Duchess148|<<Accarezza la mano di Ellyn.>> Tuttavia, se il piano di Vela dovesse realizzarsi... non ho ancora deciso da che parte schierarmi.||||
+Duchess149|Mi avete dato molto su cui riflettere, mortale... ##Ma per ora dovreste congedarvi. Vi incontrerò alla [[Luce Accecante.]]||||
+FleshBroker1|<<L'Eterno si acquatta in un angolo, tenendo d'occhio gli altri avventori.>>||||
+FleshBroker2|Sparite, Respirante. Non vi interessa ciò che vendo.||||
+p464|Sto cercando di entrare nel Mastio dei Cadaveri. Ho sentito che avrei dovuto parlare con voi.||||
+FleshBroker3|<<Soffoca una risata.>> Un ((mortale)) che chiede di entrare nel [[Mastio dei Cadaveri]], di sua spontanea volontà? Ora sì che le ho viste tutte.||||
+FleshBroker4|Avete sentito le ((voci)), Respirante? Su ciò che accade là dentro? Su ciò che fanno a quelli della... ((vostra)) specie?||||
+p465|Naturalmente.||||
+p466|Ehm... quali voci?||||
+FleshBroker5|<<Ridacchia.>> Be', ((alcuni)) dicono che i Cadaveri non abbiano ancora perso l'appetito per la carne pensante. Che nelle profondità del Mastio dei Cadaveri esista un commercio illegale di [[carne senziente]], proprio sotto il naso della Regina...||||
+FleshBroker6|<<Ti fa l’occhiolino.>> Ma naturalmente sono tutte sciocchezze. Rispettiamo le leggi della Regina come chiunque altro.||||
+FleshBroker7|Comunque, non posso lasciarvi entrare nel Mastio dei Cadaveri come se nulla fosse. Noi Cadaveri siamo gente... ((riservata)) e dovete capirlo.||||
+p467|Deve esserci qualcosa che posso fare per farvi cambiare idea.||||
+FleshBroker8|<<Ti squadra da capo a piedi.>> Be’, forse ((una)) cosa ci sarebbe...||||
+FleshBrokr9|Un pezzo della vostra carne. Ancora caldo, appena staccato dall’osso. Dimostrerebbe la vostra lealtà.||||
+p468|La mia carne? Siete impazzito?||||
+FleshBroker10|Be’, ((siete voi)) il Respirante che cerca di entrare in una roccaforte di noti divoratori di carne. E non sto chiedendo molto...||||
+p469|Ehm, quale ((parte)) della mia carne?||||
+FleshBroker11|Solo un boccone. Diciamo... <<si lecca le labbra.>> Un dito?||||
+p470|Va bene. Fate in fretta.||||
+FleshBroker12|<<Estrae un coltello molto grande.>> Oh, non preoccupatevi, finirà prima che ve ne accorgiate. Ora porgetemi la mano...||||
+FleshBroker13|<<Con un solo gesto netto, ti mozza un dito. La mano brucia di dolore, ma lui versa subito una pozione maleodorante sul moncherino e te la fascia con uno straccio.>>||||
+FleshBroker14|Con il compratore giusto, ci ricaverò una bella somma. Avete dimostrato il vostro valore, e anche più del necessario, Respirante.||||
+FleshBroker15|Tenete, prendete questa [[chiave.]] Aprirà l'ascensore in cima al Mastio dei Cadaveri, che vi porterà all'isola sovrastante. È lì che troverete la [[Figlia della Duchessa]].||||
+p471|Ehm, non vi ho mai detto che cercavo sua figlia.||||
+FleshBroker16|<<Sogghigna.>> Abbiamo occhi e orecchie in molti luoghi, Respirante.||||
+p472|Grazie... credo.||||
+FleshBroker17|Naturalmente, quella [[chiave]] non vi garantisce un passaggio sicuro attraverso il mastio. ((Questo)) non fa parte dell'accordo. Non appena metterete piede in quella roccaforte, sarete solo.||||
+FleshBroker18|Quindi buona fortuna, Respirante.||||
+p473|Non vi darò la mia carne. Addio.||||
+p474|Va bene, lasciamo perdere.||||
+p475|@@ Forse ((sono)) interessato a ciò che vendete.||||
+FleshBroker19|%%<<Ti studia per un momento.>> Bene, bene... un mortale dall'appetito ((deviante)) davanti a me?||||
+FleshBroker20|Bene, ascoltate, perché lo dirò una volta sola: se ne farete ((parola)) con uno qualsiasi dei lacchè della Regina, farò in modo che ((siate voi)) il prossimo piatto del menù.||||
+FleshBroker21|Dunque. Sono un mercante di carne senziente. Quella roba ((pensante)) di cui parlavo.||||
+FleshBroker22|Vedete, la maggior parte degli Eterni si nutre della carne priva di coscienza delle Fattorie della carne di Penitente D'Isgelo. Nutrirsi di quella carne è considerato più ((etico)) che mangiare... ((quelli come voi)). Ma, dannazione, sa proprio di brodaglia, quindi è ovvio che esista un mercato nero.||||
+FleshBroker23|Allora, che ne dite, Respirante? Vi va un assaggio della vostra stessa specie?||||
+p476|Ehm... anzi, ho cambiato idea.||||
+p477|È disgustoso. Siete un mostro!||||
+FleshBroker24|<<Ridacchia.>> Come immaginavo. Ma ricordate, Respirante: se direte qualcosa al riguardo, sarà l'((ultima)) cosa che direte.||||
+FleshBroker25|&& Fidatevi, mortale: quelli della vostra specie non riuscirebbero a ((digerire)) la mia merce, e andreste a spifferarlo a ogni dannato idiota, il che non fa bene agli affari. Quindi sparite.||||
+p478|Me ne vado.||||
+hand1|<<La mano di un Eterno giace sul cuscino, completamente recisa poco sopra il polso.>>||||
+hand2|<<Un [[anello con sigillo]] cinge una delle sue dita sottili. Non ci sono dubbi: è la mano di Ellyn, la figlia della Duchessa.>>||||
+pHand1|((Prendere la mano.))||||
+pHand2|((Andarsene.))||||
+hand3|<<Quando tocchi la mano, questa si ritrae di scatto, come se fosse viva. Esiti per un momento, mentre la mano trema davanti a te.>>||||
+hand4|<<Quando finalmente trovi il coraggio di raccoglierla, si contorce mentre la riponi tra i tuoi averi.>>||||
+hand5|<<La mano di Ellyn si muove dolcemente quando ti avvicini. Ti sembra contenta, anche se, a dire il vero, sai ben poco di mani senzienti.>>||||
+hand6|<<Hai già preso la mano.>>||||
+frost1|Accidenti. Perbacco. Zucchero. Benedetto, bislacco, bisunto, f-f-f-f-((frollino)).||||
+p501|Avete ancora problemi a imprecare?||||
+frost2|Ahimè, temo che la musa delle oscenità mi abbia abbandonato per sempre.||||
+p502|Ripetete con me: Fica. Fi-ca.||||
+frost3|Fi... fi... ((fibbia)). Ugh, è davvero indecoroso.||||
+p503|Forse vi farà bene. Vi costringerà a essere creativo.||||
+frost4|Oh, andate a fare gargarismi con la vostra urina.||||
+frost5|Avete un motivo per importunarmi? Come ho già detto, riportare questa montagna di ruggine al suo antico splendore mi tiene piuttosto occupato.||||
+frost6|Ma basta così. Mi disturbate per un motivo? O tenete davvero in così poco conto il vostro tempo da sprecarlo in ((benedette)) chiacchiere?||||
+frost7|<<Frost si acciglia.>> Non arriverei a tanto. È tutto?||||
+frost8|Bene. È tutto?||||
+frost9|È tutto?||||
+p504|Volevo vedere come vi state ambientando.||||
+frost10|Oh, come un pidocchio in un’ascella. Chi ((cavolo)) credete abbia restaurato questa fortezza, tanto per cominciare?||||
+frost11|Considerata la mia brusca partenza dalla Compagnia della Stella Oscura, devo dire che è piacevole portare a termine il lavoro. Se soltanto quei ((benedetti)) cretini dell'Unione smettessero di cercare di "aiutarmi".||||
+frost12|Si dà il caso che mio padre abbia contribuito a costruire questi mostri durante la Guerra Divina. Le parti in legno sono di Lundel, ma i cannoni, le tubature e quasi tutto ciò che è di metallo furono fabbricati a Kardova. Mi faceva addormentare recitando componenti e procedure di assemblaggio.||||
+p505|Questo spiega molte cose.||||
+frost13|Touché.||||
+p506|Dunque questa fortezza fu costruita nel Regno Meccanico?||||
+frost14|Corretto, anche se allora si chiamava Repubblica di Kardova. Da qualche parte nelle viscere di questo affare ci sarà una targa: «Costruita nell’anno tal dei tali, Progresso, Kardova. Né dèi né padroni».||||
+p507|Buffo com'è andata a finire.||||
+p508|Be’, sono lieto che vi sentiate a casa.||||
+p509|Volevo chiedervi una cosa.||||
+p510|Questo esoscheletro meccanico è nuovo. Vi aiuta a camminare?||||
+frost15|Ma guarda quanto siete perspicace. In realtà, il sostegno alla deambulazione è soltanto una delle sue funzioni. La prima versione era assai meno potente; ma, a onor del vero, io ero assai più piccolo.||||
+frost16|Volete tutta la storia, vero? Dopotutto, è così terribilmente ((edificante.))||||
+p511|Vi prego, continuate.||||
+p512|Potete saltarla.||||
+frost17|Vi risparmierò la cronistoria completa dei miei molteplici disturbi; basti dire che ero un bambino cagionevole. L'unica cosa su cui i miei medici concordavano era che dovessi sottomettermi completamente ai loro umilianti «rimedi», per quanto dolorosi o inefficaci fossero.||||
+frost18|Non ero d'accordo e, col tempo, si scoprì che con un po' d'ingegno tecnologico sapevo curarmi meglio di loro. Le macchine, vedete, ascoltano davvero ciò che si dice loro.||||
+frost19|Quanto la gente ((adorava)) ascoltare quella storia, quando diventai adulto. I Macchinisti la adoravano in modo particolare. Venite nel Regno Meccanico, dove perfino un invalido di umili origini può solcare i cieli ed essere celebrato come campione del regno!||||
+frost20|È vero, fui tenace e ingegnoso. Ma a quale scopo? Sì, migliorai le mie capacità, ma a beneficio di chi? Certo, compii grandi imprese. Ma per chi? Per me stesso? ##<<Sogghigna.>> Che pensiero confortante.||||
+frost21|A volte quasi vorrei non essermi dato tanta pena. Almeno non sarei stato così ((utile)).||||
+p513|È tutto. Buona fortuna con la fortezza.||||
+frost22|La fortuna è roba da dilettanti, mio caro.||||
+frost23|<<Proprio mentre stai per voltarti, senti un colpo di tosse imbarazzato.>> Un momento, se permettete. ##Desidero... cioè, mi corre l'obbligo... ((accidenti)) a tutto, non meniamo il can per il cespuglio.||||
+frost24|Avevate perfettamente ragione a rimproverarmi, nel Regno. Quello che facevo era ((crogiolarmi)). Per la precisione, nella rabbia infantile e nell'autocommiserazione.##<<Fa una pausa, apparentemente incerto su come proseguire.>>||||
+p514|Forse la frase che cercate è «grazie»?||||
+frost25|((Accidenti)) e che altro starei cercando di dire? Andate a ((farvi friggere)) prima che mi penta di un simile spreco di sentimentalismo!||||
+p515|Non c'è di che. Abbiamo tutti le nostre giornate storte.||||
+frost26|Mmh. Sì, certo. Molto bene. ##Be', che cosa aspettate? Una medaglia? Andate a ((ramengo)) prima di rompere qualcosa di costoso.||||
+frost27|Vediamo se riuscite a formulare una domanda che non abbia già sentito.||||
+p516|A proposito del compito che ci attende...||||
+frost28|Ah, sì, la ricerca dei miei vecchi compagni. O dovrei dire dei miei ex bersagli? In ogni caso, questa rimpatriata sarà ((interessante))...||||
+frost29|[[Jack Basalt]] avrà già calcolato che la sua migliore speranza di fermare Vela è collaborare con l’Unione. È ricercato nel Regno e ha una fobia degli Eterni, il che significa che si trova a Hallowshire, molto probabilmente al [[Boccale Barcollante]].||||
+frost30|Vedo che avete richiamato il vecchio [[Jack Basalt]] in servizio. Al momento il poveretto mi evita, il che è adorabile. Certo, non ci siamo lasciati proprio nel migliore dei modi, ma prima o poi dovremo fare una chiacchierata.||||
+frost31|[[La Duchessa]] è molto legata alla famiglia e, quando la conoscevo, i Regni Celesti l'avevano già annoiata a morte, si fa per dire. Immagino dunque che sia tornata nella sua tenuta di campagna nel [[Regno Eterno]], a non fare nulla di particolare.||||
+frost32|Ahimè, avevo dimenticato quanto [[la Duchessa]] riesca a esasperarmi. Ciò che lei chiama "magia" non è che il gergo di un'epoca più primitiva. Recitare a memoria incantesimi cifrati, per pietà! È come portarsi un carro sulle spalle dopo l'invenzione della ruota.||||
+frost33|[[L'Emberiana]] è un tipo singolare. Una volta mi confidò che cercava di svelare un antico mistero, ma non volle dirmi quale. La maggior parte dei siti precedenti allo Squarcio ancora esistenti in questo arcipelago si trova a [[Hallowshire]]. Ergo, è lì che dovreste cercare per prima cosa.||||
+frost34|Vado piuttosto d'accordo con [[Orlaith]] — o [[l'Emberiana]], ma fareste bene a non chiamarla così in sua presenza. All'inizio ci detestavamo, poi facemmo una gara di braccio di ferro e tutto andò a meraviglia. Poiché ero troppo ubriaco per ricordarmene, scelgo di credere di aver vinto.||||
+p517|A proposito del vostro passato...||||
+p518|Anzi, non ho altre domande.||||
+frost35|((Nul points)) per l’originalità, temo. Ma almeno ci avete provato.||||
+frost36|È proprio necessario?||||
+frost37|Era davvero questo il vostro miglior tentativo di formulare una domanda originale? Credo possiate fare di meglio.||||
+frost38|Dovete proprio?||||
+p519|Com’era la vostra vita prima di unirvi a Vela?||||
+frost39|Sono nato e cresciuto a [[Progresso]], quando ancora la chiamavano Istriksburg. Mia madre fabbricava munizioni, mentre mio padre sgobbava nei Cantieri delle Fortezze. Era pericoloso, ma molto meglio della servitù della gleba a Lundel. Per la prima volta nella storia, la mia famiglia possedeva più del fango sotto i piedi.||||
+p520|Sapete, non parlate affatto come un popolano.||||
+frost40|Nemmeno voi avreste quell'accento, se il vostro maestro vi avesse estirpato dalla lingua ogni traccia della parlata dell'infanzia. ##L'ultima volta che vidi i miei genitori, sembrava che venissimo da pianeti diversi.||||
+p521|Nascondete molto bene le vostre umili origini.||||
+frost41|<<Sorride senza allegria.>>##Horace Metcalfe non fu certo il primo dei miei travestimenti.||||
+frost42|Dopo la Guerra Divina, studiai a Byonne. Una borsa di studio finanziata dalla nuova Repubblica di Kardova. I miei compagni dell’Unione erano rampolli di baroni o ricchi mercanti e mi tormentavano terribilmente. Eppure ((io)) fui punito soltanto per aver dato loro fuoco ((un pochino)).||||
+p522|Non c’è giustizia in questo mondo.||||
+p523|Almeno gli avete lasciato un ricordo di voi.||||
+p524|Va bene, credo di aver sentito abbastanza.||||
+frost43|Infatti. Alla fine i miei studi furono interrotti dalla separazione di Kardova dall'Unione, e tornai a casa per iniziare la mia carriera archeologica. Che ci crediate o no, a quei tempi somigliavo più a Horace Metcalfe che allo spietato mercenario che avete davanti.||||
+frost44|Furono senza dubbio gli anni migliori della mia vita. Seguii la mia curiosità fino ai confini del cielo, e perfino nelle Terre di Sotto, conquistando grande fama e compensi tutt'altro che modesti. Eppure avevo sempre l'impressione che tutto potesse essermi strappato via al primo fallimento.||||
+frost45|Forse è per questo che mi sentii molto più a casa fra gli emarginati, gli eccentrici e i reprobi della Compagnia della Stella Oscura.||||
+p525|Raccontatemi di quando eravate un mercenario della Stella Oscura.||||
+frost46|Da dove si comincia? Combattevamo. Facevamo baldoria. Banchettavamo e pativamo la fame. Ci amavamo e ci disprezzavamo. Ci ferivamo, poi ci curavamo a vicenda. Eravamo una famiglia, con tutto il meglio e il peggio che quella parola comporta.||||
+frost47|Il Caxton Frost che avete davanti è il prodotto di quei giorni. Doveva essere scaltro. Spietato. Doveva vendicare ogni insulto tre volte tanto, perché gli altri non fiutassero il sangue. A quanto mi hanno detto, sono stato addirittura l’ispirazione per le storie di Cadish Rakehill, anche se non le ho mai lette.||||
+frost48|Vela capiva che era una facciata, ma era abbastanza magnanima, o abbastanza astuta, da non smascherarmi davanti all'equipaggio. ##Tranne quando era ((davvero)) furiosa. Un momento vi faceva sentire immerso nella luce delle stelle; un attimo dopo, il più infimo dei vermi.||||
+p526|Ha mai sospettato che foste una spia?||||
+frost49|Me lo sono chiesto spesso. Di certo le nostre spedizioni contribuirono molto al progresso del Regno. A volte avevo l'inquietante sensazione che conoscesse il mio vero scopo e mi tenesse comunque con sé.||||
+frost50|Perché lo facesse, non saprei dirlo. Forse era semplicemente la nostra passione condivisa per gli Emberiani. ##Una volta mi disse che le ricordavo qualcuno che le era stato caro, molto tempo prima. Però non scoprii mai chi fosse.||||
+p527|Come siete riuscito a mantenere la vostra identità di copertura?||||
+frost51|<<Frost sbuffa.>> Be', lo facevo da tutta la vita. L'unica differenza era la paga extra.||||
+frost52|A dire il vero, sospetto che il Re Meccanico possa aver dato una mano. All'epoca ignoravo che Sua Maestà potesse alterare le menti. Ma ricordo di essermi stupito di quanto rapidamente entrai nella parte. Naturalmente, non posso provare nulla.||||
+p528|Vorrei chiedervi qualcos'altro.||||
+p529|Continuo a non capire perché abbiate dovuto cancellare la vostra memoria.||||
+frost53|<<Frost sospira.>> Francamente, non ne sono del tutto certo neppure io. Ma considerate ciò che aveva condotto a quel momento...||||
+frost54|Otto anni sotto copertura. Riuscite a immaginare che cosa significhi? Per essere credibili, non basta fingere. Una parte di voi deve davvero ((diventare)) il falso sé, mentre un’altra osserva dall’esterno e ricorda la missione.||||
+frost55|Sapevo che, se avessi tradito il Re Meccanico, non avrebbe mai smesso di darmi la caccia. Eppure non sopportavo di vivere nella menzogna un solo giorno di più. Da qui l'inevitabile conclusione: la migliore identità di copertura è quella che persino chi la porta crede autentica.||||
+frost56|Non ho ancora deciso se mi piaccia essere di nuovo Frost. Un tempo mi sembrava un'armatura; ora mi sembra... una gabbia. Resta comunque indiscutibilmente l'uomo adatto al compito. E devo ammettere che è più facile quando non devo essere due persone nello stesso momento.||||
+p530|Vorrei passare a tutt'altro argomento.||||

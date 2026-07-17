@@ -1,0 +1,5 @@
+translations/** -text
+tools/** -text
+*.dll binary
+*.png binary
+*.tpk binary

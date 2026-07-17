@@ -1,0 +1,379 @@
+NPC Name:|Endless||||
+ID|English|French|German|Spanish|Italian
+p1|Arrivederci.||||
+p0|Addio.||||
+pq1|Posso farvi qualche domanda?||||
+pq2|D'accordo, credo di aver capito.||||
+pq3|Capito.||||
+pq4|A dire il vero, avevo altre domande.||||
+pq5|Era tutto ciò che volevo sapere.||||
+pVela|Che cosa sapete di Vela Callose?||||
+door1|<<La maschera incantata è immobile come la morte, ma i suoi occhi impassibili ti seguono mentre ti avvicini.>> ##L'[[Accademia Erudita]] è chiusa a tutti tranne che a pochi eletti. Presentate la vostra Lettera di Raccomandazione, oppure andatevene.||||
+p6|Ecco la mia Lettera di Raccomandazione.||||
+door2|<<La maschera tace a lungo. Proprio mentre stai per dire qualcosa, risponde.>> ##Lettera di Raccomandazione accettata. Potete entrare.||||
+p7|Come posso procurarmi una Lettera di Raccomandazione?||||
+door3|Questo incantesimo cifrato non può rispondere alle domande. Siete pregato di inviare le vostre richieste per iscritto all'Ufficio Amministrativo dell'Accademia Erudita di Riova. Il tempo medio di risposta è attualmente di... ##<<Una pausa.>> Sette anni, tre mesi e due giorni.||||
+p8|Lasciamo perdere.||||
+explorer1|<<Lo studioso sembra assorto nelle sue osservazioni al cannocchiale. Scruta attraverso la lente, annota qualcosa sul taccuino, poi torna a osservare. Non ti guarda.>> ##Un viaggiatore, mh? Perdonatemi: sono qui per conto dell'Accademia, e questa mappa non si farà da sola...||||
+explorer2|<<Lo studioso sembra immerso nei suoi studi.>> ##Ah, siete il cartografo alle prime armi, giusto? Non vi sarete mica ((perso)), spero?||||
+p10|Posso avere una copia della vostra mappa?||||
+explorer3|Sentite, non ho tempo di assecondare ogni vostro capriccio. Il Cartografo Capo ne ha urgente bisogno... ##<<Si volta a guardarti, poi si ferma, come se avesse appena capito qualcosa.>>||||
+explorer4|Anzi, sapete che c'è? Forse ((potete)) averne una copia. Purché siate disposto a lavorare per ottenerla.||||
+p11|Posso farlo. Che cosa vi serve?||||
+explorer5|Stiamo creando un nuovo tipo di mappa. Una mappa magica che segue gli spostamenti di queste isole e... si ((corregge)) da sola.||||
+explorer6|Il grosso del lavoro sta nell'incantesimo cifrato che stiamo intrecciando. Ma mi serve qualcuno che vada sul campo e ancori l'incantesimo a punti di riferimento ben precisi.||||
+explorer7|Prendete questo [[Taccuino Cartografico]]. Quando raggiungete un punto di riferimento, [[equipaggiatelo]], quindi [[usatelo]] per creare una Mappa Cartografica cifrata. La Mappa apparirà nel vostro Diario.##((Se ottenete una ))[[Bussola]]((, potrete vedere sulla Mappa anche la vostra posizione.))||||
+p12|A proposito delle Mappe Cartografiche cifrate che sto preparando...||||
+explorer8|Quando raggiungete un punto di riferimento, [[equipaggiate]] il Taccuino Cartografico e [[usatelo]] per creare una Mappa Cartografica cifrata. La Mappa apparirà nel vostro Diario.##((Se ottenete una ))[[Bussola]]((, potrete vedere sulla Mappa anche la vostra posizione.))||||
+explorer9|Siamo quattro studiosi a lavorare a questa mappa, me compreso. Insieme copriamo [[Hallowshire]], il [[Regno Eterno]], il [[Regno Meccanico]] e [[Pwyll]]. Dovreste fare visita anche ai miei colleghi, per scoprire di quali punti di riferimento hanno bisogno.||||
+p13|Allora, quali punti di riferimento vi servono per questa regione?||||
+explorer10|Hallowshire è molto vasta. Al centro ci servirà la [[torre dell'orologio di Hallow Town]] nel cuore della città. Poi, a est, vogliamo [[la fattoria più grande]].||||
+explorer11|Poi c'è una [[rovina avviluppata da un albero]] a ovest. Infine, a sud, trovate il punto in cui il [[fiume si divide in due]].||||
+p14|E c'è qualche ricompensa?||||
+explorer12|Be', avrete accesso alla [[Mappa]] stessa. Ma potremmo aggiungere anche qualche moneta per ogni Mappa Cartografica cifrata.||||
+explorer13|E se riusciste a mappare la [[regione di Hallowshire]], potrei pensare di darvi [[una Lettera di Raccomandazione]] per l'[[Accademia Erudita]]. La vedete lassù, sospesa nel cielo? Essere ammesso è un vero privilegio, credetemi.||||
+p15|D'accordo, ho capito.||||
+explorer14|Ne siete certo? Molto bene.||||
+p16|Anzi, passo.||||
+explorer15|Come preferite.||||
+p17|Ho delle Mappe Cartografiche cifrate da consegnare.||||
+explorer16|Eccellente. Sì, andranno benissimo. Il livello di dettaglio è notevole, considerata la vostra... limitata esperienza. ##Vi prego, accettate questo come ricompensa.||||
+explorer16b|Ah, davvero notevole. Vi state rivelando una risorsa preziosa per questa impresa. ##Vi prego, accettate questo come ricompensa.||||
+explorer16c|Altre Mappe Cartografiche cifrate perfette. Non mi aspetterei nulla di meno da una persona con le vostre capacità. Non so proprio che cosa faremmo senza di voi.||||
+explorer17|Direi che avete messo insieme una bella collezione di Mappe Cartografiche cifrate, non vi pare? Devo ammetterlo, sono colpito. ##Prendete: è una [[Lettera di Raccomandazione]] che vi consentirà di entrare nell'[[Accademia Erudita]].||||
+explorer18|Dovreste parlare con il [[Cartografo Capo]]. Sono certo che avrà del lavoro per uno come voi.||||
+p18|Che cos'è l'Accademia di cui parlavate?||||
+explorer19|L'[[Accademia Erudita]]? È soltanto l'istituzione accademica più prestigiosa dell'Unione Apostatica. La vedete lassù, nel cielo: è un'isola volante che si sposta per tutta l'Unione Apostatica, là dove ce n'è più bisogno.||||
+explorer20|Siamo di stanza su queste Isole Oniriche da circa un anno. Una piattaforma elevatrice vi porterà sull'isola, ma non potete entrare senza [[una Lettera di Raccomandazione]] rilasciata da uno studioso come me.||||
+p19|Potete parlarmi di quest'isola?||||
+explorer21|Questo arcipelago, noto come le [[Isole Oniriche]], si trova all'estrema periferia del territorio dell'Unione Apostatica. La maggior parte della gente considererebbe questo posto una sorta di ((landa sperduta)), ma ha un certo fascino rustico, non trovate?||||
+explorer22|Attorno a queste isole orbita una piccola [[Stella neurale]] dalla luce rossastra. Piuttosto singolare, non vi pare? Ben diversa dalle stelle gemelle della mia terra natale, Vena, che danzano inondando le terre di raggi dorati.||||
+explorer23|Vi trovate sull'isola centrale di [[Hallowshire]]. Proprio laggiù — <<fa un vago gesto con la mano>> — sorge il principale insediamento, [[Hallow Town]]. Fu fondato da alcuni profughi dopo lo Squarcio del Mondo, circa quattrocento anni fa.||||
+explorer27|All'epoca, la gente adorava un dio della fertilità chiamato... ((Paeguth)), credo. Ma dopo la Guerra Divina, l'Unione Apostatica piombò qui e mise fine a tutto quanto. Ora è tutto bello e laico.||||
+explorer28|...O almeno, è quello che l'Unione vorrebbe farvi credere. In realtà, da queste parti sono ancora in molti a seguire le ((antiche)) usanze. ##Un consiglio: io mi guarderei le spalle, amico.||||
+p20|Posso farvi qualche domanda?||||
+p21|Era tutto ciò che volevo sapere.||||
+explorer24|Ma certo.||||
+explorer25|È stato un piacere.||||
+explorer26|Ah, e a quanto pare avete completato un'intera regione della Mappa. Ben fatto; aggiungerò qualche moneta in più per i vostri sforzi.||||
+expEndless1|<<La studiosa tiene un occhio incollato al cannocchiale, il volto contratto in una smorfia.>> ##Che posto miserabile, eh? Persino gli alberi si aggrappano a stento alla vita...||||
+expEndless2|Non riesco a capire perché, fra tutti i posti, mi abbiano mandato proprio ((qui)) a realizzare questa dannata mappa. Perché dobbiamo cartografare queste isole? L'Accademia pensa forse di mettersi a scavare tombe? Non c'è altro da fare!||||
+expEndless3|Dèi, vorrei essere ovunque tranne che qui. Persino ((Slev)) andrebbe bene.||||
+expEndless4|Ho individuato alcuni punti d'interesse con il cannocchiale, ma non ho alcuna voglia di lasciare la mia postazione. La fauna locale sembra... ((poco raccomandabile)).||||
+expEndless5|Vedete quell'ammasso di edifici in pietra laggiù? È [[Sepolcro]], l'unico insediamento del Regno Eterno che si trovi in superficie. Tanto per cominciare, dobbiamo perlustrarlo.||||
+expEndless6|Poi, all'estremo sud dell'isola, c'è un [[Mausoleo]] che dovrebbe fare al caso nostro. Infine, a nord, ho avvistato un'enorme vasca di carne informe. Dev'essere una di quelle [[Fattorie della carne]] di cui ho sentito parlare.||||
+expEndless7|Siete nel [[Regno Eterno]], un luogo abbandonato dagli dèi. Prima dello Squarcio del Mondo, era solo un altro angolo sperduto dei Regni Celesti, finché il suo monarca non sbagliò un incantesimo e trasformò tutti in cadaveri ambulanti.||||
+expEndless8|Per molto tempo gli Eterni furono in guerra con i vivi; sono certa che avrete sentito le vecchie filastrocche sulle [[Crociate dei Cadaveri]]. Non erano semplici storielle da vecchie comari: un tempo gli Eterni mangiavano davvero le persone. <<Rabbrividisce.>>||||
+expEndless9|Ma i tempi sono cambiati. Gli Eterni sostengono di essersi ravveduti e di mangiare soltanto ((carne priva di coscienza)), qualunque cosa significhi.||||
+expEndless10|E siccome gli Eterni sono tanto miserabili che perfino i loro ((dèi)) li hanno abbandonati, questo li rende alleati di comodo dell'Unione Apostatica.||||
+expEndless11|Comunque, il fatto che qui ci tollerino non significa che dobbiamo per forza ((apprezzare)) questo posto. La prima persona che ho incontrato qui... giuro di averle sentito ((brontolare lo stomaco.)) Alla prima occasione tornerò all'Accademia.||||
+mapHinter1|Oh cielo, che cos'è tutto quel trambusto laggiù? A quanto pare mi sono proprio ((perso.))||||
+mapHinter2|Ho comprato una mappa di queste [[Isole Oniriche]] a Riova, ma pare vecchia di decenni. <<Brontola.>> Questo è il problema delle isole di confine: nel giro di pochi decenni si ritrovano in posizioni completamente diverse...||||
+mapHinter3|Ascoltate il mio consiglio, viaggiatore: se volete esplorare, procuratevi una [[Mappa!]] precisa.||||
+p24|Sapete dove posso trovare una mappa?||||
+mapHinter4|Be', ho notato che l'[[Accademia Erudita]] sta sorvolando [[Hallowshire]], a sud di qui. La vedete lassù, nel cielo? Ho sentito dire che viaggia per tutta l'Unione Apostatica...||||
+mapHinter5|Ho incontrato uno dei loro studiosi in una [[tenda rossa]] nel bosco sotto [[Pwyll]], e ne ho incontrati anche in [[altri luoghi]] qua intorno. Che ci crediate o no, proprio ora stanno lavorando a una mappa della regione, solo che... non è ancora pronta.||||
+mapHinter6|Comunque, io proverei a chiedere a loro. Tentar non nuoce, no?||||
+p25|Dove state cercando di andare?||||
+mapHinter7|Oh, sto cercando di raggiungere il [[Regno Eterno.]] Si dice che laggiù la gente non muoia mai, anche quando la carne si stacca dalle ossa!||||
+mapHinter8|Da bambino, mia madre mi spaventava con i racconti delle Crociate dei Cadaveri, quando gli Eterni davano la caccia ai vivi e banchettavano con i loro corpi ancora caldi. Mi terrorizzavano, eppure... ho sempre sognato di andarci, un giorno.||||
+mapHinter9|E so da fonti affidabili che si sono ravveduti. Mangiano soltanto carne non senziente e sono in buoni rapporti con l'Unione Apostatica. Così mi sono detto: che cosa ho da perdere?||||
+mapHinter10|<<Deglutisce.>> Be', potrebbero comunque comunque mangiarmi.||||
+mapHinterEnd1|Dopo un viaggio lungo e faticoso, sono finalmente ((qui!)) L'antico regno di Verdante, ora stravolto da un crudele Cifro e trasformato nella terra degli ((Eterni))...||||
+mapHinterEnd2|Ma a quanto pare le voci sono vere: chiudono ((davvero)) bottega quando la [[Stella neurale brilla più intensamente]] nel cielo.||||
+mapHinterEnd3|Ahimè, speravo di procurarmi una pozione di Eliminazione delle Vesciche. Mi fanno malissimo i piedi...||||
+mapHinterEnd4|A quanto pare le voci sono vere: gli Eterni chiudono ((davvero)) bottega quando la [[Stella neurale brilla più intensamente]] nel cielo.||||
+expCwk|text5||||
+wannabe1|<<Il giovane armeggia con una tazza da tè, un cucchiaio e un assortimento di altri oggetti, tutti apparentemente sospesi a mezz'aria.>> ##Quei maledetti maghi non riconoscerebbero un buon incantesimo nemmeno se... mh? <<Gli oggetti precipitano a terra con gran fracasso.>>||||
+wannabe2|State cercando di entrare anche voi nell'Accademia? Lasciate perdere. Potreste incantare una Limaccia da seta perché caghi oro e vi ignorerebbero comunque. Non vi faranno entrare senza una Lettera di Raccomandazione.||||
+p31|Che storia è questa dell'Accademia?||||
+wannabe3|L'Accademia Erudita. Non ne avete mai sentito parlare? Be', è proprio sopra di noi: quell'enorme pezzo di roccia sulle nostre teste.||||
+wannabe4|L'Accademia vola per tutta l'Unione Apostatica soltanto perché i suoi maghi impomatati possano gongolare davanti a tutti i poveri fessi ((di talento)) che non fanno entrare.||||
+p32|Ehm, faranno anche dell'altro, no?||||
+wannabe5|<<Sbuffa con disprezzo.>> Be', a quanto pare creano gli incantesimi cifrati più avanzati dell'Unione Apostatica. Riova concede loro carta bianca per praticare magie che farebbero rinchiudere la maggior parte degli studiosi in una prigione dell'Inquisizione.||||
+p33|E quindi, come si entra?||||
+wannabe6|Be', a quanto pare, essere uno scriba ((eccezionale)) del Cifro non conta nulla, per loro. Per visitare l'Accademia serve una Lettera di Raccomandazione di uno studioso accreditato.||||
+wannabe7|Ho visto alcuni dei loro studiosi esplorare le isole qui intorno. Potreste provare a chiedere loro una Lettera di Raccomandazione, ma io mi rifiuto di lisciare il pelo a quei pomposi accademici.||||
+p34|D'accordo, ho capito.||||
+wannabe8|Nessun problema. <<Torna a giocare con il suo assortimento di oggetti.>>||||
+p35|Ehm... perché state giocando con tutta quella ((roba))?||||
+wannabe9|Ma queste sono dimostrazioni dei miei più sofisticati incantesimi cifrati! Vedete questo cucchiaio? <<Ti ficca il cucchiaio in mano. È umido, fradicio.>> ##Ho creato un incantesimo capace di far sì che qualsiasi oggetto ((sudi)). Incredibile, no? Le applicazioni sono... ((illimitate.))||||
+p36|Non mi viene in mente un solo uso per dei cucchiai sudati.||||
+wannabe10|Be', questo la dice lunga soprattutto sulla vostra mancanza d'immaginazione.||||
+p37|Aspettate, questo è... sudore umano?||||
+wannabe11|Ben osservato. L'incantesimo trasferisce liquidi e sali dal ((corpo dell'incantatore stesso)) all'oggetto in questione. L'unico inconveniente è che fa venire una gran sete.||||
+wannabe12|Ma questo è soltanto ((uno)) dei miei incantesimi. Vedete questa tazza da tè? Accostatela all'orecchio e sentirete un uomo piangere. È un uomo vero, anche se non ho idea di dove si trovi. Oh, e questo martello? È il martello più sicuro del mondo, perché non riesce a colpire proprio nulla...||||
+wannabe13|<<Continua così per un po'. Alla fine, cogli l'occasione per interrompere il suo monologo.>>||||
+wannabe14|Vi ho visto entrare e uscire dall'Accademia. Non è giusto! Avete incantato una roccia perché cantasse, o qualcosa del genere?||||
+wannabe15|Tsk, be', ((voi)) ci siete stato, lassù.||||
+p38|Io vado. Sembrate... occupato.||||
+inq1|<<L'agente dell'Inquisizione ti squadra dall'alto in basso con un ghigno sprezzante.>> ##Una faccia nuova? Non sarete mica un altro di quegli studiosi piagnucolosi, vero?||||
+inq2|Questo posto mi disgusta. Un branco di idioti egocentrici che giocano con poteri che non comprendono e non sanno controllare.||||
+inq2b|Ma ultimamente ho fiutato qualcosa che potrebbe finalmente segnare la loro rovina. Questo posto cela un oscuro segreto, e io intendo scoprirlo.||||
+inq3|<<Ti lancia uno sguardo indecifrabile.>> ##Mh. Siete tornato.||||
+p41|Che segreto state cercando?||||
+inq4|Sono mesi che cerco qualcosa con cui incastrare l'Accademia. Gioca col fuoco e viola di continuo i regolamenti dell'Unione Apostatica, mentre il Consiglio, nella sua inettitudine, chiude sempre un occhio.||||
+inq5|Ma di recente i miei strumenti hanno rilevato qualcosa: ((un'entità divina di classe D)). Il segnale era debole, perciò i miei superiori l'hanno attribuito a un guasto. Ma se ((fosse)) vero? Il culto degli dèi è un reato gravissimo. Il Consiglio ((sarebbe costretto)) a intervenire!||||
+inq5b|Se davvero nascondono una qualche divinità minore, dev'essere ben celata. Un estraneo come voi mi farebbe davvero comodo.||||
+inq6|L'unico vantaggio è che questi vecchi imbecilli pasticcioni, per la maggior parte, non si sopportano. Parlare con loro non mi ha portato lontano: sembrano odiarmi quanto io odio loro. Ma facendo qualche domanda potreste scoprire qualcosa che mi è sfuggito.||||
+p42|Ho fatto qualche domanda. Un sacco di battibecchi, ma niente di concreto.||||
+inq7|Mh, non basta. Ci servono prove concrete.||||
+inq8|Potreste provare con quell'Eterna, quella che sembra un cadavere ambulante. È all'Accademia da più tempo di chiunque altro: chissà che cosa ha visto qui dentro.||||
+p43|Uno degli studiosi teneva nascosto un dio. Ho le prove.||||
+inq9|<<Ti strappa il taccuino di mano. Lo sfoglia in silenzio, mentre la sua espressione impassibile si trasforma lentamente in un ghigno folle.>>||||
+inq10|E questo dio... l'avete visto? Sì. ((Sì.)) Questo andrà benissimo. ##Ecco, prendete questo bottino come ricompensa. Avete reso un grande servizio all'Inquisizione.||||
+inq11|Farò arrestare questo farabutto e ben presto tutta la forza dell'Inquisizione si abbatterà su questo posto. Non potranno nemmeno ((starnutire)) senza che noi ne ispezioniamo le secrezioni.||||
+p44|Perché odiate tanto l'Accademia?||||
+inq12|La magia cifrata: sapete che cosa ((sia?)) È l'atto di alterare il linguaggio stesso dell'universo. Sì, in certe circostanze può essere utile, ma se usata male può distruggere il fottuto mondo. ((Di nuovo.))||||
+inq13|A mio avviso, è già abbastanza grave che nelle università dell'Unione Apostatica si permetta un simile scempio della realtà, ma almeno l'Inquisizione può tenere in riga ((quegli)) idioti. Ma ((questo)) posto?||||
+inq14|Il Consiglio di Riova ha revocato tutte le restrizioni sulle ricerche dell'Accademia Erudita, salvo le più severe. Altro che Wikkan: questo posto maledetto è la più grave minaccia che l'Unione Apostatica si trovi ad affrontare.||||
+p45|D'accordo, terrò gli occhi aperti.||||
+inq15|Ah, siete davvero un vanto per l'Unione Apostatica. ##Vi prego di tornare da me se trovate qualcosa d'interessante.||||
+p46|Preferirei di no.||||
+inq16|Tsk. Non posso costringervi ad aiutarmi. Ma vi chiedo comunque di restare all'erta, per il bene dell'Unione Apostatica.||||
+carto1|<<Mentre ti avvicini, il volto dell'uomo si contorce in una smorfia cadaverica.>> ##Davvero, al giorno d'oggi ((questo)) sarebbe uno studioso? Evitate, per cortesia, di sporcare il pavimento con le vostre calzature infangate.||||
+carto2|<<Si volta e sospira.>> Be', visto che siete qui, forse potreste rendervi utile. A Vena avevo dodici servitori; in questo posto dannato, invece, non c'è anima viva disposta a muovere un dito. Forse voi farete eccezione, mh?||||
+carto3|Sono Giovanni Borri, della famiglia Borri. Sono destinato a grandi cose, lo dice mio padre, ma per ora non sono che il Cartografo Capo di questo posto miserabile.||||
+carto4|Ah, siete tornato. Vedo che anche stavolta avete portato con voi altro... ((fango)).||||
+carto5|Sapete, tutti questi Inquisitori mi fanno sentire stranamente a casa. È proprio come essere di nuovo a Riova. E perché no? Non ho nulla da nascondere.||||
+p51|Vorrei aiutarvi a cartografare l'isola.||||
+carto6|Ah, eccellente! Ci serve tutto l'aiuto possibile. È imperativo che i nostri sforzi facciano colpo sul Consiglio, così da accrescere il mio... volevo dire, ((il prestigio dell'Accademia)) ai suoi occhi.||||
+carto7|I nostri studiosi stanno già cartografando le isole con Mappe Cartografiche cifrate dinamiche del territorio. Ma voglio anche alcuni punti di riferimento prestigiosi con cui impreziosire la Mappa. Questo dimostrerà davvero al Consiglio che facciamo sul serio, mh? Che ne dite?||||
+carto8|Prendete un taccuino e visitate i seguenti luoghi: /LOCATIONS||||
+carto9|loc2||||
+carto10|loc3||||
+carto11|Tornate da me quando avrete finito. Vi pagherò per ciascun luogo, ma vi attende una ricca ricompensa se li troverete tutti.||||
+p52|Quali erano i luoghi che vi servivano?||||
+p53|Ho delle Mappe Cartografiche cifrate da consegnare.||||
+carto12|Ah, splendido! Sì, lasciatele pure sulla scrivania; le esaminerò quando avrò un momento. ##<<Sparge alcune monete sul tavolo.>> Ecco! Contento, ora? Per cortesia, lasciatemi in pace.||||
+p54|Ho trovato tutti i vostri ((punti di riferimento prestigiosi)).||||
+carto13|<<Proprio mentre stai per andartene, ti fa cenno di fermarti.>> ##Aspettate un momento. A quanto pare avete trovato ((tutti)) i punti di riferimento!||||
+carto14|È davvero meraviglioso. Sapevo di poter contare su di voi. Appena siete entrato, ho capito che eravate una persona di ((classe)).||||
+carto15|Vi prego, accettate questo come ricompensa. Mi assicurerò di inserire il vostro nome nella mia relazione al Consiglio, magari in una nota a piè di pagina.||||
+p55|Che cosa se ne fa l'Accademia della cartografia?||||
+carto16|Tradizionalmente, ben poco. È un lavoro piuttosto umile, da navi militari e cartografi mercantili. Ma il problema di vivere su pezzi di roccia fluttuanti è che tendono a spostarsi, e le vecchie mappe diventano inutili. Perciò l'Accademia sta lavorando a una soluzione più ((ingegnosa)) per tenerle aggiornate.||||
+p56|Cioè... mappe magiche?||||
+carto17|Ah, vedo che siete un passo avanti. ##Dato che le isole centrali dell'Unione Apostatica sono tenute saldamente in posizione da potenti magie, fino a poco tempo fa non c'era grande bisogno di cartografia incantata.||||
+carto18|Vedete, queste Isole Oniriche si trovano ai margini del territorio dell'Unione Apostatica. Vanno alla deriva, si scontrano tra loro... arrivano perfino a spezzarsi. Si producono e distribuiscono continuamente nuove mappe, ma anche così i capitani non possono farvi affidamento da queste parti.||||
+carto19|Perciò l'Accademia sta sviluppando una rete di incantesimi cifrati che segua gli spostamenti delle isole e aggiorni le mappe ((all'istante)). Piuttosto ingegnoso, non trovate? Naturalmente, gli studiosi qui svolgono tutti i calcoli più complessi. Io fornisco... l'impulso.||||
+p57|Come siete diventato Cartografo Capo?||||
+carto20|Be', è una storia curiosa. Prima di ottenere questo incarico, le mappe non mi interessavano affatto. Cose macchinose, non trovate? Tutti quei disegnini minuscoli, e basta un attimo per metterli al contrario...||||
+carto21|Ehm. Ma quando mio padre decise che mi serviva un po' di esperienza accademica per proseguire la carriera politica, l'unico incarico che riuscì a procurarmi fu quello di Cartografo Capo di questo posto desolante.||||
+carto22|A dire il vero, avrei preferito di gran lunga essere Comandante Eterista. Almeno le Stelle neurali sono un po' più divertenti.||||
+carto23|Comunque, tanto vale trarne il meglio, mh? Ho mandato i nostri studiosi più giovani a cartografare queste Isole Oniriche. Sarà anche una landa sperduta e deprimente, ma almeno c'è ancora qualcosa da scoprire.||||
+p58|D'accordo, credo di aver capito.||||
+carto24|Mi fa piacere.||||
+p59|Avete assistito a qualcosa di strano o... ((proibito)) negli ultimi tempi?||||
+carto25|Mmh, che cosa abbiamo qui? Un improvviso interesse per... l'integrità della nostra istituzione? Se non sapessi come stanno le cose, direi che quell'agente dell'Inquisizione vi tiene in pugno...||||
+carto26|<<Sfoggia un sorriso.>> Poco importa. Detto tra noi, la mia lealtà va più al Consiglio e alla sua Inquisizione che ai vecchi parrucconi impolverati di questo posto. Scommetto che violano i regolamenti dell'Unione Apostatica a destra e a manca!||||
+carto27|Io controllerei quell'idiota di Eterista nella torre. Non fa che blaterare dell'importanza del Cosmo e di quando volava nel cielo notturno prima ancora che quasi tutti noi fossimo nati. Se c'è un trasgressore qui dentro, è lui.||||
+newCarto1|La regione più importante da cartografare è [[Hallowshire]]. Annoterò quei luoghi nel vostro [[Diario]] — sono certo che chiunque li registri verrà [[ricompensato.]]||||
+cwkCarto1|<<Lo studioso sembra nervoso quando ti avvicini.>> ##Grazie alle stelle, credevo foste uno degli sgherri del Re. Nessuno vi ha visto venire qui, vero?||||
+cwkCarto2|Come avrete senz'altro già intuito, la mia presenza su quest'isola è un segreto assoluto. L'Inquisizione ha un disperato bisogno di informazioni aggiornate sul Regno Meccanico, mentre l'Accademia possiede competenze cartografiche e un bisogno inesauribile di finanziamenti...||||
+cwkCarto3|Così è stato stretto un accordo, ed eccomi qui a fare del maledetto ((spionaggio)). Sarà meglio che per questo mi diano un posto di ruolo.||||
+cwkCarto4|Non dovete far sapere a ((nessuno)) che siamo qui, chiaro?||||
+cwkCarto5|Una cosa ve la dico: le nostre vecchie mappe di Kardova sono ((terribilmente)) obsolete. È cambiato tutto, e non oso lasciare questa piattaforma per timore di rivelare al Re la mia presenza.||||
+cwkCarto6|Il punto di partenza più ovvio è la città di [[Ferropolis]], proprio al centro dell'isola. Cinquant'anni fa era soltanto un avamposto minerario, e ora sembra poggiare su ((palafitte)). Almeno questo ne fa un buon punto di riferimento.||||
+cwkCarto7|Poi c'è un [[complesso recintato]] all'estremità settentrionale dell'isola. Con tutti questi alberi non sono riuscito a capirne la funzione, ma potrebbe essere una specie di polveriera o un deposito militare.||||
+cwkCarto8|Infine, ho avvistato una grande [[torre di segnalazione]] all'estremità orientale dell'isola. Procedete con cautela, però: laggiù c'è qualcosa di ((strano)) nell'aria. Giurerei di aver visto, a un certo punto, la foresta ((pulsare))...||||
+cwkCarto9|Vi trovate nel dominio del [[Re Meccanico]] — un colossale congegno di magia cifrata che governa con il pugno di ferro. Non ci avrei creduto neanch'io, se non avessi visto ciò che è capace di fare.||||
+cwkCarto10|Prima della Guerra Divina quest'isola era nota come [[Kardova]]. Prestammo agli abitanti montagne d'oro perché ripudiassero il loro dio e costruissero un cantiere navale. E che cosa ricevemmo in cambio? Una marmaglia di fanatici tecno-monarchici che si rifiuta di ripagare il suo dannato debito.||||
+cwkCarto11|Da allora non hanno fatto altro che creare problemi. È ovvio che l'Unione Apostatica non possa ignorare un simile livello di potere arcano: è come lasciare che un bambino di sette anni vada in giro con un barile di polvere da sparo. A un certo punto sembravano perfino intenzionati ad annettere Hallowshire.||||
+cwkCarto12|Il problema è che niente resta fermo. A intervalli di pochi anni il Re riconfigura il paesaggio con la stessa facilità con cui un bambino riordina dei blocchi di legno. È per questo che l'Inquisizione ci ha coinvolti.||||
+cwkCarto13|Solo che... nessuno mi aveva avvertito che sarebbe stato un simile ((caos)). Avete visto quelle macchine impazzite che sferragliano là fuori? O questa neve fuori stagione? E tutte le ((persone)) dove sono finite?||||
+cwkCarto14|Insomma, che diavolo sta ((succedendo)) qui?||||
+aeth1|<<Il vecchio è accasciato sulla sedia e ansima pesantemente. Ogni respiro riecheggia come una macchina guasta. All'improvviso si interrompe del tutto. Attendi un momento, poi un altro...>||||
+p71|Ehm... salve?||||
+p72|((Allungare una mano per controllargli il polso))||||
+aeth2|HEEEUUURGH! <<Si ridesta di scatto, gli occhi che fanno capolino da un ammasso di rughe.>> ##Qual è l'integrità dello scafo? Siamo fuori orbita?||||
+p73|Ehm, credo che l'integrità dello scafo sia... nella norma?||||
+p74|Di che cosa state parlando?||||
+aeth3|<<Resta immobile per un istante, sbattendo le palpebre.>> ##Ah, perdonatemi. Per un attimo pensavo di essere di nuovo nel Cosmo, ehehe.||||
+aeth4|Sono Jerome Verrier, il Capo Eterista di questo posto. Piacere di conoscervi. Allora, volete andare nel Cosmo o no?||||
+aeth5|Ah, siete di nuovo voi! ##...aspettate, ((chi)) siete, dicevamo?||||
+p75|Ehm, vorrei andare nel Cosmo. Moltissimo.||||
+aeth6|t1||||
+aeth7|t2||||
+aeth8|t3||||
+aeth9|t4||||
+aeth10|t5||||
+p76|Potete ricordarmi come si raggiunge l'avamposto del Cosmo?||||
+p77|Sono arrivato in nave all'avamposto del Cosmo.||||
+aeth11|t1||||
+aeth12|t2||||
+aeth13|t3||||
+p78|Allora, che cos'è l'eterologia?||||
+aeth20|L'eterologia è lo studio dell'etere. È un'arte nobile, una delle più antiche. Seguiamo le Stelle neurali, contempliamo la bellezza del Cosmo infinito e arriviamo perfino a viaggiarvi di persona.||||
+aeth21|Ma questa Unione Apostatica nuova di zecca preferisce investire denaro in magie più rudimentali: incantesimi cifrati utili al commercio, alla guerra, all'espansione. I giovani d'oggi pensano al borsello, non alle stelle.||||
+p79|Da quanto tempo siete un Eterista?||||
+aeth22|<<Ridacchia.>> Questa sì che è una domanda. ##Prima della Guerra Divina, prima ancora che nascesse l'Unione Apostatica, ero un Eterista a Byonne. Ero già capitano della mia prima nave cosmica prima dei vent'anni, ci credereste?||||
+aeth23|Visitare il Cosmo è un'attività pericolosa. L'aria è molto rarefatta; i sigilli cifrati devono tenere unita la nave e impedire perdite d'aria. Magie complesse provvedono a riciclarla. Basta un incantesimo difettoso, una sola falla nel Cifro, e l'intero equipaggio potrebbe morire.||||
+aeth24|Ma che bellezza! Che maestosità! Trovarsi là fuori e assistere in prima persona al fremito e al pulsare della rete neurale. Non c'è niente di simile.||||
+p80|Che cosa potete dirmi del Cosmo?||||
+aeth25|Quando lasciate l'atmosfera del pianeta, eccola: la rete neurale. ((Il Cosmo.))||||
+aeth26|Su questo pianeta abbiamo centinaia di Stelle neurali, come sapete. Quella che orbita attorno a queste isole compie un giro ogni dodici ore e risplende di rosso. Altre brillano di blu, giallo o viola; hanno dimensioni e traiettorie orbitali diverse e si trovano in ogni parte del globo...||||
+aeth27|E sono tutte collegate da sinapsi. Ma quelle sinapsi si estendono anche verso la rete neurale, verso il Cosmo. E quando lo vedete? Le Stelle neurali non sono soltanto centinaia, no! Riempiono tutto il campo visivo. Non finiscono mai.||||
+aeth28|Con mezzi magici abbiamo scrutato la materia stessa racchiusa nei nostri crani. Le nostre menti somigliano in tutto e per tutto al Cosmo. Un riflesso inquietante. Discutiamo da secoli su che cosa significhi, ma in tutta sincerità ne sapete quanto me.||||
+p81|Avete notato segni di... ((corruzione)) nell'Accademia?||||
+aeth29|Corruzione? Ah! Giovanni Borri è corrotto fino al midollo. È qui soltanto perché ha amici potenti.||||
+aeth30|L'hanno nominato Cartografo Capo, ma quel giovane idiota non saprebbe riconoscere una mappa nemmeno se l'avesse davanti agli occhi. Probabilmente ci si pulirebbe il culo. E ora ha mandato tutti i nostri studiosi più giovani in una missione senza senso...||||
+engi1|<<La donna armeggia con un piccolo cristallo, le sopracciglia aggrottate. Lo picchietta con uno stilo, finché il cristallo ribolle di energia magica e lei lo lascia cadere imprecando.>>||||
+engi2|Maledetti dèi! ((Voi)) mi avete fatto perdere la concentrazione. Ci vorranno ore per ricalibrarlo.||||
+engi3|<<Ti fulmina con lo sguardo per un momento.>> Ma già che siete qui, tanto vale che vi rendiate utile.||||
+engi4|Sono Natalya, l'Ingegnere Capo. ##Ora ditemi: vi piacerebbe poter viaggiare ovunque, all'istante?||||
+engi5|<<Natalya sembra assorta in un complicato congegno di cristallo.>> ##Bentornato. Facciamo in fretta, ho molto da fare.||||
+p91|Viaggio istantaneo? Contate su di me.||||
+engi6|Questo è lo spirito giusto. Vedete questa grande camera? L'ho fatta portare quassù dalle isole sottostanti. È una camera del Portale.||||
+engi7|È una tecnologia dell'Accademia, ma in realtà è piuttosto vecchia. L'Accademia Erudita si sposta spesso e sembra che, molto tempo fa, uno dei miei predecessori abbia tentato di creare una rete di Portali proprio su queste isole.||||
+engi8|A quanto pare non sono mai riusciti a farla funzionare, ma credo di aver trovato l'anello mancante. Ho calibrato un cristallo perché faccia da chiave, in un certo senso. Dovrebbe attivare i Portali e consentire viaggi sicuri. Mi serve solo qualcuno che lo metta alla prova...||||
+p92|Sembra pericoloso.||||
+engi9|Pericoloso? Pff. Le probabilità che il Portale vi faccia a pezzi e spedisca i vostri arti in continenti completamente diversi sono, ehm, piuttosto basse. Credo.||||
+p93|Certo, lo farò.||||
+engi10|Era proprio quello che volevo sentire! Vedete questa chiave di cristallo?## <<Mostra un dispositivo scintillante, un incrocio di ingranaggi e cristallo, e te lo porge.>>||||
+engi11|Vi consentirà di attivare le camere dei Portali. Una volta attivate, potrete teletrasportarvi a qualsiasi altro Portale abbiate trovato.||||
+engi12|L'unico problema è che ne ho trovato soltanto ((uno)). Ma secondo gli archivi dell'Accademia dovrebbero essercene molti altri sparsi per l'isola.||||
+engi13|Non serve trovarli ((tutti.)) Se riuscirete a collegare [[questo]] a una camera del Portale nel [[Regno Eterno]] e a un'altra nel [[Regno Meccanico]], ricompenserò i vostri sforzi.||||
+p94|Passo, grazie.||||
+engi14|È una vostra scelta, ma vi state perdendo la possibilità di fare la ((storia)), amico.||||
+p95|Potete ricordarmi come funzionano questi Portali?||||
+engi15|Nessun problema. Quella chiave di cristallo che vi ho dato?||||
+p96|Ho attivato quei Portali per voi.||||
+engi16|Davvero? Ottimo lavoro! E siete ancora tutto intero, vero? Niente arti o appendici mozzati? Accidenti, chi avrebbe mai detto che questi vecchi rottami avrebbero davvero ((funzionato?))||||
+engi17|...ehm, cioè, ((ovviamente)) hanno funzionato. E non vi ringrazierò mai abbastanza per averli trovati. Ecco, prendete questo: è il minimo che possa fare.||||
+p97|Come siete finita all'Accademia?||||
+engi18|Che c'è, non vi sembro adatta a questo posto? <<Sogghigna.>>||||
+engi19|Be', non siete proprio il primo a pensarlo. Sono cresciuta nei bassifondi di Slev, tirando avanti con mezzi... poco raccomandabili. Ho sempre avuto un talento per la tecnologia cifrata e, da adolescente, costruivo bombe e trappole per una banda locale.||||
+engi20|Be', un giorno abbiamo tentato di rapinare un mago. È andato tutto a puttane e la banda se l'è data a gambe, ma il mago mi ha acchiappata. Mi ha buttata nel suo carro; ero convinta che mi avrebbe portata dall'Inquisizione per farmi impiccare...||||
+engi21|...Invece mi ha portata qui. Ci ho messo un po' ad abituarmi: mi sono cacciata in parecchi guai e ho rischiato un mucchio di volte di farmi cacciare. Ma non mi hanno mai mollata, e ora questa è casa mia.||||
+p98|E tutti questi cristalli?||||
+engi22|L'Accademia armeggia con i cristalli da sempre. Tecnicamente si chiamano Cristalli d'Epoca e si trovano sottoterra. Sono particolarmente utili per il teletrasporto, la levitazione e per tutto ciò che è troppo potente per un normale incantesimo.||||
+p99|Aspettate, che cosa ((sono)) esattamente i Cristalli d'Epoca?||||
+engi23|Si formano nel sottosuolo nel corso di centinaia d'anni. Sono proprio loro a far levitare tutte queste isole: i Cristalli d'Epoca naturali sono incastonati nelle profondità della roccia.||||
+engi24|Si formano nei luoghi dove sono esistite grandi società umane, o almeno così vuole la teoria. Pensateli come una sorta di sedimento lasciato dalla società. Tutte quelle speranze, quei sogni, quelle paure, quelle emozioni: una loro traccia rimane impressa nel cristallo.||||
+engi25|In ogni caso, possono fungere da tramite per la magia cifrata. Qualunque cosa passi per la mente di un incantatore mentre intesse un incantesimo può riecheggiare cento volte in un Cristallo d'Epoca. Amplificano la magia.||||
+p100|Che cosa potete dirmi dei Portali?||||
+engi26|I Portali sono complicati; l'Unione Apostatica non li ha vietati del tutto, ma l'Inquisizione li sorveglia attentamente. Dopotutto, se aprite un Portale nell'oceano... o dentro una Stella neurale... siete davvero nella merda.||||
+engi27|Senza contare che la maggior parte degli incantesimi di Portale è instabile e spesso pericolosa. Chiedete a una capitana mercantile se preferirebbe trasportare le merci con un'Aeronave o attraverso ((un Portale)): sceglierebbe sempre l'Aeronave.||||
+engi28|Ma stiamo cercando di cambiare le cose. Sappiamo che gli antichi Emberiani potevano teletrasportare merci e persone in sicurezza in tutto il loro impero. Quindi è ((possibile)). Dobbiamo soltanto perfezionare il Cifro... stabilizzare la magia. Ce la faremo.||||
+p101|D'accordo, credo di aver capito.||||
+engi29|Bene. C'è altro che volete chiedermi?||||
+p102|Avete assistito a qualcosa di strano o... ((proibito)) negli ultimi tempi?||||
+engi30|Se c'è qualcuno di sospetto, è quel Dohn Ghee al piano di sotto. È un vecchio lealista Wikkan, non lo sapevate? ##Come sia riuscito a sfuggire alle purghe del dopoguerra non ne ho idea, ma scommetto che nel sonno borbotta ancora invocazioni agli antichi dèi.||||
+ghlem1|<<La carne della donna le pende molle dalle ossa. Squarci nella pelle lasciano intravedere muscoli, tendini e chiazze d'osso scoperto. Ti osserva con occhi velati.>>||||
+ghlem2|Sapete che è maleducato fissare la gente, mortale. ##Mi chiamo Ghlem e sono lo Storico Capo di questa Accademia.||||
+ghlem3|<<Ghlem ti osserva con i suoi occhi velati.>> ##Di nuovo qui, mortale?||||
+p111|Non siete proprio come... gli altri studiosi.||||
+ghlem4|Le vostre capacità deduttive sono davvero esemplari, mortale. Sono un'Eterna e quindi, a differenza del resto di questa banda, sembro un cadavere in putrefazione.||||
+ghlem5|Ma sono anche qui da più tempo di chiunque altro. In effetti, ero già all'Accademia prima ancora che uno solo di questi studiosi nascesse.||||
+p112|Come siete finita qui?||||
+ghlem6|Lasciai la mia terra natale più di due secoli fa. All'epoca, la mia gente dava sfogo alla propria fame insaziabile muovendo guerra senza sosta ai vivi: le Crociate dei Cadaveri. Era ripugnante, così me ne andai.||||
+ghlem7|Vagai a lungo, mezza affamata, finché l'Accademia Erudita non mi trovò. Credo che mi abbiano accolta più come esemplare da studiare, ma divenne presto evidente che avevo più cervello della maggior parte di loro.||||
+ghlem8|Divenni storica perché ero più vecchia della maggior parte dei loro libri. Col tempo, tutti i miei superiori morirono, ed eccomi qui: Storico Capo.||||
+p113|E gli altri studiosi vi accettano?||||
+ghlem9|Dipende. Molti nell'Unione Apostatica pensano che noi Eterni dovremmo essere bruciati sul rogo; qui all'Accademia, invece, la vostra gente sembra più tollerante. ##Anche se quel buffone di Giovanni vorrebbe chiaramente vedermi buttata fuori insieme ai liquami della latrina.||||
+ghlem10|Quando arrivai qui, avvolgevo la carne in sete e bende per celare la mia vergogna. Ma con gli anni smisi di preoccuparmene. Se la gente vuole fissarmi a bocca aperta, che lo faccia.||||
+p114|Grazie per aver soddisfatto la mia curiosità.||||
+ghlem11|Non c'è di che, mortale. La maggior parte della vostra gente scappa appena mi vede. Pensa che sia contagiosa o qualcosa del genere.||||
+p115|Posso farvi qualche domanda di storia?||||
+ghlem12|Certo, mortale. Ho letto ogni libro di questo posto e, lasciate che ve lo dica, la maggior parte è piena di errori. Dovrei saperlo, visto che sono più vecchia dello Squarcio del Mondo.||||
+p116|Potete parlarmi dell'Unione Apostatica?||||
+ghlem13|L'Unione Apostatica è un insieme di stati relativamente giovane. Nacque quarant'anni fa, quando i vincitori della [[Guerra Divina]] si unirono sotto un'unica bandiera.||||
+ghlem14|Ma la storia delle terre che la compongono risale a quattrocento anni fa, quando i sopravvissuti allo Squarcio del Mondo fuggirono nei Regni Celesti. All'epoca erano regni feudali, alleati dei Wikkan e dei loro dèi.||||
+ghlem15|[[Vena]] è sempre stata un centro diplomatico, e la sua città principale, [[Riova]], è oggi la capitale dell'Unione Apostatica. ##[[Lundel]] è una terra nobile, ricca di castelli e pianure battute dal vento.||||
+ghlem16|[[Byonne]] è una terra di cultura e sapere. Le migliori università, i migliori teatri, i migliori vini. ##Infine, [[Slev]] è la terra più settentrionale, ed è fredda e spietata. Le sue città pullulano di corruzione e bande criminali.||||
+ghlem17|Ma mezzo secolo fa i sovrani di queste terre scelsero di liberarsi dalle congreghe Wikkan. Incredibilmente, decisero di combattere i loro stessi dèi e, cosa ancora più incredibile, vinsero... così nacque l'Unione Apostatica.||||
+p117|((Continuare ad ascoltare))||||
+p118|D'accordo, credo di aver sentito abbastanza.||||
+ghlem18|D'accordo, mortale. Dove eravamo rimasti?||||
+p120|Potete parlarmi di queste isole?||||
+ghlem19|Questo arcipelago, con [[Hallowshire]] al centro, è noto come le [[Isole Oniriche]].||||
+ghlem20|A est di Hallowshire si trova Kardova, oggi nota come il [[Regno Meccanico.]] A ovest si estende il [[Regno Eterno]], da cui proviene la mia gente.||||
+ghlem21|Ma queste isole non hanno sempre fatto parte dello stesso arcipelago. Nei Regni Celesti le isole vanno alla deriva seguendo le correnti e, tornando indietro di un centinaio d'anni, né Kardova né il Regno Eterno ne facevano parte.||||
+p121|E Hallowshire?||||
+ghlem22|Per molti anni Hallowshire è esistita come territorio indipendente, alleato con il culto Wikkan del Verme, che adora il dio della fertilità [[Paeguth]].||||
+ghlem23|Ma di recente è stata annessa all'Unione Apostatica, diventandone il territorio più meridionale.||||
+ghlem24|Come avrete senz'altro notato, c'è molto attrito fra gli abitanti del luogo e i soldati dell'Unione Apostatica. Quando la popolazione confida in un dio da tanto tempo, non reagisce bene se quel dio viene messo al bando da un giorno all'altro.||||
+p122|D'accordo, credo di aver capito.||||
+ghlem25|Proprio così.||||
+p123|Potete parlarmi dell'Accademia Erudita?||||
+ghlem26|L'[[Accademia Erudita]] ha più di duecento anni. A differenza delle altre università dell'Unione Apostatica, non è legata a un singolo stato: è un'istituzione indipendente.||||
+ghlem27|Per gran parte della sua storia fu un'istituzione marginale, che si rifiutava di schierarsi con gli dèi o con le congreghe Wikkan. In effetti, molti dei trattati e degli scritti polemici che prepararono il terreno alla Guerra Divina nacquero proprio qui.||||
+ghlem28|Non dovrebbe quindi sorprendere che l'Unione Apostatica, fin dalla propria nascita, abbia affidato all'Accademia Erudita incarichi prestigiosi e progetti segreti.||||
+ghlem29|Come potete vedere, l'Accademia si trova su un'isola volante. Si sposta fra i territori, ovunque ce ne sia più bisogno. Siamo di stanza su queste Isole Oniriche da circa un anno.||||
+p124|Potete parlarmi del lontano passato?||||
+ghlem30|Be', questa sì che è una domanda. Cercherò di essere breve.||||
+ghlem31|Per gran parte della storia umana, la civiltà prosperò molto più in basso, sulla superficie del mondo. I regni feudali fiorivano sotto il patrocinio di potenti dèi, e i Wikkan facevano da intermediari fra i mortali e il divino.||||
+ghlem32|Ma i progressi nella magia e nella tecnologia portarono all'ascesa dell'Impero Emberiano. Enormi città sorsero in tutto il mondo, collegate da incantesimi insondabili, e i Wikkan fuggirono nei Regni Celesti.||||
+ghlem33|Poi, naturalmente, avvenne lo Squarcio del Mondo, quattrocento anni fa. Non possiamo dire con esattezza ((che cosa)) sia stato: sappiamo soltanto che distrusse la superficie del mondo e costrinse gli esseri umani a fuggire in questi Regni Celesti.||||
+ghlem34|Che ci crediate o no, ero viva durante lo Squarcio del Mondo. Ricordo un lampo accecante, un calore bruciante e un suono terribile, simile a mille urla. Nel caos, la nostra isola si schiantò contro un'altra. Non ho mai vissuto nulla di simile.||||
+p125|Era tutto ciò che volevo sapere.||||
+ghlem35|È stato un piacere, mortale.||||
+p126|Avete sentito parlare di qualcosa di... ((losco)) da queste parti?||||
+ghlem36|Oh, questo posto nasconde dei segreti, questo è certo. Sotto l'edificio c'è una [[Camera]] accessibile dal giardino esterno; ho visto qualcuno entrarvi nel cuore della notte.||||
+ghlem37|Non c'è alcuna porta, ma ho notato diversi [[candelieri sospetti]] sparsi per l'Accademia. I maghi mortali ((adorano)) nascondere i loro sordidi segretucci con candele incantate!||||
+herb1|<<L'uomo borbotta tra sé mentre usa mortaio e pestello. Sembra non accorgersi della tua presenza, finché non mormora...>>##Solo un momento, giovanotto.||||
+herb2|<<Fissa accigliato il miscuglio d'erbe. All'improvviso raschia la gola, sputa un grumo di catarro nella ciotola, pesta ancora e la mette da parte, soddisfatto.>>||||
+herb3|Dunque. Sono Dohn Ghee, Alchimista Primario di questa vecchia Accademia. Che cosa posso fare per voi?||||
+herb4|<<Gli occhi di Dohn Ghee scintillano sotto le sopracciglia cespugliose.>> Di nuovo qui, eh?||||
+herb5|<Dohn Ghee ti fissa torvo da dietro le sbarre.>> ##Maledetti bastardi dell'Inquisizione. Non facevo male a nessuno, mi sentite?||||
+p131|Potete insegnarmi qualcosa sull'alchimia?||||
+herb6|Meglio di molti altri, oserei dire. ##Con gli strumenti alchemici potete combinare ingredienti per creare nuovi intrugli. Usate pure l'attrezzatura nel mio studio.||||
+herb7|L'Accademia fluttua sopra queste Isole Oniriche da circa un anno e ho imparato a conoscere bene le erbe che crescono da queste parti.||||
+herb8|Preparate due [[Occhi di Paeguth]] per ottenere una potente pozione che ripristina la [[Salute]] perduta. Allo stesso modo, il [[Paradoxicus]] ripristina il [[Mana]] e il [[Seme Frenetico]] restituisce [[Vigore]]. ##Ma esistono molte altre combinazioni potenti, parola mia.||||
+p132|Esistono erbe... più rare?||||
+herb9|<<Sul suo volto compare un sorriso scaltro.>> ##Ah, be', dipende da chi lo chiede. Quella dannata Inquisizione ha vietato l'uso di alcune fra le erbe alchemiche più potenti, con grande disappunto di chi se ne intende davvero.||||
+herb10|<<Si sporge verso di te.>> ##Ma chi sa dove cercare può ancora trovare il [[Velo della Morte]] da queste parti. È un fungo che cresce dai resti maledetti di un cadavere. Roba macabra, ma estremamente utile.||||
+herb11|Combinatelo con un [[Occhio di Paeguth]] per creare un [[Elisir di Ristorazione]]. Potreste essere in punto di morte, ma uno di quelli vi rimetterebbe subito in sesto.||||
+p133|È possibile preparare del veleno?||||
+herb12|Ma certo. Mescolate un [[Occhio di Paeguth]] con un [[Seme Frenetico]]. Il secondo inverte gli effetti curativi del primo e produce un intruglio capace di corrodere la pelle. Spalmatelo sulle armi e i vostri nemici se ne pentiranno.||||
+p134|Si possono combinare ingredienti diversi dalle erbe?||||
+herb13|Certo. Quando un esperimento alchemico non produce nulla di utile, spesso si ottiene una sostanza alcolica chiamata [[Spirito]]. Mescolate questi Spiriti alle erbe e potrete creare bevande di ogni genere. E vi faranno ubriacare per bene.||||
+herb14|Gli antichi alchimisti descrivevano metodi per trasmutare i metalli comuni in oro, ma quell'arte è perduta per sempre, cancellata dall'esistenza stessa. Simili poteri furono giudicati troppo pericolosi e instabili.||||
+p135|Grazie per le informazioni.||||
+herb15|Quando volete.||||
+p136|Come siete diventato Alchimista Primario?||||
+herb16|<<Rimane in silenzio per un momento, lo sguardo perso oltre di te.>> ##Vengo da Lundel. Una terra bella e selvaggia, dove il vento e la pioggia forgiano un uomo.||||
+herb17|Mio padre era l'alchimista di corte del Re. Collaborava con i Wikkan e gli dèi locali per garantire la prosperità del regno. Era una posizione nobile, che ereditai a ventidue anni.||||
+herb18|<<Sospira.>> Ma la Guerra Divina pose fine al mio incarico. Lundel precipitò nella guerra civile e il mio signore venne ucciso. I Wikkan divennero traditori, e i miei dèi divennero reietti.||||
+herb19|Mi rifugiai in questa Accademia, e fu un bene. Questa Unione Apostatica nuova di zecca mi avrebbe fatto impiccare per le mie... vecchie fedeltà, se questo posto non mi avesse protetto. Scommetto che ancora oggi c'è chi vorrebbe vedermi fare quella fine.||||
+p137|Sapete se all'Accademia ci sono... ((losche)) faccende in corso?||||
+herb20|Be', se c'è qualche illecito, la colpa sarà di quella dannata ingegnera al piano di sopra. La sento sempre battere e sferragliare. Ditemi, che cosa può mai essere tanto importante da giustificare tutto quel maledetto rumore?||||
+p150|Ho trovato il dio che tenete nascosto.||||
+god1|<<Fa una smorfia.>> È evidente che non l'ho nascosto ((abbastanza bene)). ##Si chiama Xanarrib. Dev'essere uno degli ultimi dèi rimasti sul suolo dell'Unione Apostatica.||||
+p151|Che cosa ci facevate?||||
+god2|Oh, cielo. È una ricerca davvero ((affascinante)), se posso dirlo. ##Come certamente saprete, gli dèi traggono potere dalla fede umana. Un seguace devoto è come una fonte di ((nutrimento)) per loro.||||
+god3|È proprio questo processo che sto studiando. Gli dèi non possiedono organi, ma soltanto un nucleo circondato da una materia insolita. Tale struttura si rivela sorprendentemente simile alla mente umana, piena di sinapsi neurali. Le implicazioni sono straordinarie!||||
+p152|È ((sicuro)) ospitare un dio?||||
+god4|Ah, del tutto sicuro, ve lo assicuro. Prima della Guerra Divina, Xanarrib era il dio della vendetta di un villaggio vicino, ma ho attenuato il suo potere con protezioni cifrate.||||
+god5|Proprio la settimana scorsa, quell'idiota di Giovanni ha perso la mia penna preferita. Non appena l'ho scoperto, Giovanni ha sbattuto l'alluce e si è fatto parecchio male. Se Xanarrib fosse al massimo della sua forza, sono certo che Giovanni sarebbe precipitato da una finestra, morendo sul colpo, o qualcosa del genere.||||
+god6|Anzi, a pensarci, forse sono stato un po' ((troppo)) zelante nell'attenuarne il potere...||||
+p153|Ho trovato il vostro Diario. È piuttosto... ((compromettente)).||||
+god7|Tsk. Sì, è vero. L'Unione Apostatica ha vietato categoricamente questo tipo di ricerca, perfino in questa Accademia. ##Stolti! Si rendono conto di che cosa si potrebbe ottenere se non ((fuggissero)) da ciò che temono?||||
+god8|Vi prego di restituirmi il Diario e di dimenticare tutta questa faccenda. Se l'Inquisizione mettesse le mani su quel Diario, punirebbe l'intera Accademia per le mie azioni.||||
+p154|D'accordo, prendete il Diario.||||
+god9|<<Afferra in fretta il libro.>> ##Vi sono sinceramente grato. Farò in modo che Xanarrib venga trasferito, non appena avrò concluso questa ricerca.||||
+p155|Anzi, credo che lo terrò io.||||
+god10|Spero davvero che ci ripensiate. L'Accademia non dovrebbe essere punita ingiustamente.||||
+p156|D'accordo, ho sentito abbastanza.||||
+god11|Già. Ma vi prego di essere discreto su questa faccenda. ##Ora, c'era altro?||||
+god12|<<Jerome ti fissa torvo.>> ##Dannati bastardi dell'Inquisizione. Non mi lasciano neppure ((pisciare)) senza mandare una guardia lì dentro con me.||||
+god13|Mi hanno messo a sorvegliare questo vecchio imbecille finché non verrà processato. ##Ma che cosa ((fa)) con tutta questa robaccia?||||
+god14|Un dio, proprio qui, in un'istituzione dell'Unione? Per tutti i ((Regni Celesti)), che cosa passava loro per la testa?||||
+god15|Questa Accademia è ora sotto occupazione dell'Inquisizione. Vi teniamo d'occhio.||||
+pwyllCarto1|<<Lo studioso tiene un occhio incollato al cannocchiale. Quando ti avvicini, socchiude gli occhi, inspira profondamente e all'improvviso si immobilizza.>> ##Aaaah...||||
+p181|Ehm, state bene?||||
+p182|Piacere di conoscerv-||||
+pwyllCarto2|((-ETCIÙÙÙ!))##<<Starnutendo, lo studioso spruzza un denso grumo di muco sulla lente del cannocchiale. Si pulisce il viso, turbato.>>||||
+pwyllCarto3|Queste... <<tira su col naso,>> ((maledette)) spore di fungo! Perché, fra tutti i posti, dovevano mandarmi proprio a Pwyll a realizzare questa [[dannata mappa]]?||||
+pwyllCarto4|<<Lo studioso si asciuga il naso con la manica.>> Se solo quella creatura dagli occhietti lucidi non fosse scappata con il mio fazzoletto...||||
+p183|Allora, quali punti di riferimento vi servono per questa regione?||||
+pwyllCarto5|<<Tira su col naso, se lo pulisce con la manica, poi indica l'imponente fortezza alle tue spalle.>> ##Be', il primo luogo che avrei dovuto cartografare è la vecchia fortezza della Guerra Divina laggiù, chiamata [[Luce Accecante.]] Solo che... ho sentito dire che è infestata da ((pirati)) e ((contrabbandieri)), quindi... pensavo di aspettare di sentirmi meglio... <<Ha un'aria mortificata.>>||||
+pwyllCarto6|Poi c'è ((un'altra)) fortezza a sud-est dell'isola, ma... <<tira su col naso.>> Avete visto l'[[enorme creatura]] che fluttua sopra la fortezza? No, no: quella dovrà aspettare.||||
+pwyllCarto7|Infine, a nord-ovest, c'è il [[Fungo Sacro]], come lo chiamano gli abitanti del posto. Solo che... è il fungo più grande che abbia mai visto, quindi mi ((distruggerebbe)) senz'altro i seni nasali...||||
+p184|Potete parlarmi di quest'isola?||||
+pwyllCarto8|<<Deglutisce e si strofina gli occhi iniettati di sangue.>> Oh, intendete [[Pwyll]]? Be'... è l'isola più settentrionale delle Isole Oniriche. ##La Stella neurale locale, che orbita attorno a tutte le isole ogni dodici ore circa, raggiunge la massima luminosità quando passa sopra Pwyll.||||
+pwyllCarto9|Decenni fa, gli abitanti avevano un dio particolarmente feroce, perciò furono ben felici di prendere le armi durante la Guerra Divina. <<Tira su col naso.>> Questo posto divenne uno dei fronti del conflitto: ecco perché ci sono così tante vecchie fortezze.||||
+pwyllCarto10|Naturalmente, dopo la guerra tornò a essere un posticino tranquillo. Anche se tecnicamente fa parte dell'Unione Apostatica, scoprirete che ben pochi nelle regioni centrali hanno mai sentito parlare di Pwyll, a meno che non apprezzino particolarmente il [[Tè di Fungoscrutatore]] prodotto qui.||||
+pwyllCarto11|Se volete conoscere gli abitanti del posto, io salirei fino a [[Pwyll]] sopra di noi. Ma se preferite la ((civiltà)) a questo posto — e non posso certo ((darvi torto)) per questo — prendete la strada verso nord, in direzione di [[Hallowshire]] dove l'Unione Apostatica è molto più presente.||||
+pwyllCarto12|E soprattutto, come avrete certamente notato, Pwyll è ((ricoperta)) di maledetti funghi! Le spore si attaccano ai vestiti, si infilano nei capelli, nel naso: bastano a far venire a chiunque...||||
+pwyllCarto13|<<Si interrompe e all'improvviso rimane immobile.>> ##...((Mi sa che sto per starnutire...))||||

@@ -1,0 +1,196 @@
+NPC Name:|EndlessMines||||
+ID|English|French|German|Spanish|Italian
+lord1|Devo ammetterlo: essere un lord può essere una vera maledizione!||||
+lord2|Possiedo l'Atto di proprietà delle [[miniere]] a sud-ovest. Detto tra noi, vale una fortuna.##Ma qualche mese fa hanno semplicemente smesso di produrre! Di punto in bianco!||||
+lordp1|Mi dispiace davvero.||||
+lordp1alt|Sono stato di recente in quelle miniere.||||
+lordp2|Le vostre preoccupazioni borghesi non mi interessano.||||
+lord3alt|Ah, allora le conoscete? Splendido!||||
+lord3|Ebbene, ho mandato un [[paio di servitori]] giù alle miniere per capire quale fosse il problema.##Come c'era da aspettarsi, mi hanno piantato in asso entrambi: si sono intascati la paga e sono spariti!||||
+lord4|Ogni giorno che le mie [[miniere]] restano ferme, perdo oro!##Che disastro!||||
+lordp3|Ditemi di più sulle [[miniere]].||||
+lordp4|Parlatemi di voi.||||
+lordself|Ah, perdonatemi. Sono [[Romulous Chairon VII]], lord ed erede del [[Territorio Sudoccidentale]].##Le mie terre abbondano di risorse. Le migliori al mondo. Ho alle mie dipendenze dei mercanti che le vendono per me. Persino la Corona compra i miei minerali.||||
+lordp5|Sono stato alle miniere: ecco che cosa ho visto.||||
+lordp6|Devo andare.||||
+lord5|Le mie miniere si trovano a sud-ovest.##I minerali sono una preziosa merce d'esportazione. Il Minerale Pregiato si vende a prezzi da capogiro nel [[Regno Meccanico]].||||
+lord6|Probabilmente possiedo quelle miniere da prima che nasceste! D'altronde, non mi occupo granché della loro gestione. Ho dei sottoposti incaricati di sbrigare sul posto simili inezie.##Respirante, potreste indagare per mio conto?||||
+lord7|Ah, sareste così gentile? Mi fareste un favore inestimabile.||||
+lordp8|Sarei lieto di aiutarvi.||||
+lordp9|@@Dietro compenso, s'intende!||||
+lord8fail|&&<<Si acciglia.>>##Sarete pagato alla consegna.||||
+lord8succ|%%<<Si acciglia.>>##Temo che mi fermerò a 20 monete d'oro: al momento sono un po' a corto...||||
+lord9|Meraviglioso! Ho avuto un buon presentimento appena vi ho parlato.||||
+lord10|Le miniere si trovano all'estremità sudoccidentale della regione.##Probabilmente l'ascensore è fuori uso, ma potete scendere servendovi di una serie di ponti.||||
+lord11|Tornate quando avrete risolto questo fiasco e vi darò una ricompensa adeguata. Avete la mia parola, Respirante!||||
+lord12|<<Dopo aver ascoltato metà del tuo racconto, ti interrompe.>>##State solo complicando le cose, dando retta a tutto quel baccano sui cristalli. La verità è semplice: quegli avidi minatori mi hanno rubato le miniere!||||
+lord13|Respirante! Tornate da loro e diteglielo immediatamente! Queste miniere sono mie!##Vi ricompenserò profumatamente, parola d'onore!||||
+lord14|Amico mio, aspettavo il vostro ritorno! Sono già stato informato del vostro successo.##Una promessa è una promessa: ecco la vostra ricompensa.||||
+lord14alt|Dunque siete voi ad aver liberato le mie miniere! È un onore conoscervi.##Ho preparato una ricompensa per voi.||||
+lordp10|Grazie, mio signore.||||
+lordp11|@@Questa somma è tutt'altro che adeguata.||||
+lord15fail|&&Hmph. Sono già stato fin troppo generoso.##Un po' di tatto e dignità non vi farebbero male!||||
+lord15succ|%%Un negoziatore, eh, Respirante? Ah, e sia! Ammiro un giovane intraprendente.##Prendete. È di un'ottima annata.||||
+lord16|Mio caro amico! Che piacere vedervi.##Forse lo sapete già: le mie miniere riprenderanno presto l'attività. Ho pagato un gruppo di giovanotti perché sistemassero la faccenda. Dicono che ormai sia questione di giorni.||||
+lord17|Il minerale si vende a prezzi esorbitanti nel [[Regno Meccanico.]] Rifarò fortuna in men che non si dica.||||
+lordp12|Che cosa ne sarà dei cultisti del cristallo?||||
+lord18|Gli ammutinati, vorrete dire? Chiunque sia rimasto sarà squartato.||||
+lord19|Sto radunando una truppa di mercenari proprio a quello scopo.##Dovrebbero essere pronti entro la settimana.||||
+lordp13|Le miniere appartengono a [[noi]] adesso.||||
+lord20|<<Sembra sconvolto e incredulo in egual misura.>>##Ma che diavolo state dicendo, sacco di carne!? Possiedo l'Atto di proprietà di quella terra da prima che nascesse il vostro bisnonno!||||
+lord21|Ehi, voi! Fuori il rospo! Che cosa sapete delle mie miniere?##Possiedo l'Atto di proprietà di quella terra da prima che nascesse il vostro bisnonno!||||
+lordp14|Mi dispiace.||||
+lord22|<<Alza gli occhi al cielo.>>##Siete ((dispiaciuto))!? Di voi non m'importa proprio niente!||||
+lordp15|Lasciate perdere le miniere.||||
+lord23|Dovete scherzare! Le mie miniere costituiscono gran parte della mia fortuna! Vorreste vedermi avvizzire e morire, un vagabondo cencioso alla deriva nelle lande selvagge?||||
+lordp16|<<[Uccidere]>> Contemplate il [[potere]] della nostra dea!||||
+lord24|<<A questa invocazione, il corpo del nobile si cristallizza rapidamente. Ha appena il tempo di emettere un grido prima che i polmoni gli si solidifichino.>>||||
+lordp17|Non ho altro da dirvi.||||
+res0|<<L'abitante si gratta la dolorosa escrescenza cristallina che gli spunta dall'occhio sinistro...>>||||
+res1|Voglio solo che quest'incubo finisca.||||
+resp1|Che cos'è successo?||||
+res2|Aaargh! La sento nel viso. [[Lei]] è dentro di me, sta strisciando fuori!||||
+resp2a|C'è una donna... dentro di voi?||||
+res3a|Pezzi di tante persone, tutti insieme. Mi sta riempiendo il volto di spigoli aguzzi.||||
+res4|State lontano dalle [[miniere]].##Lei vuole crescere...||||
+resp2b|State parlando dei cristalli nelle miniere.||||
+res3b|Sapete da dove vengono quei cristalli? Gridano tutti dal dolore...||||
+resp3|Chi siete?||||
+res5|<<La domanda lo turba profondamente; lui comincia a piagnucolare.>>##Chi ero? Forse... no, non può essere...||||
+res6|Credo di essere stato un caposquadra... o forse un minatore? Oppure ero un soldato?##Ricordo di essere stato un ragazzino quando arrivarono i Crociati e... No. Devo essere stata sua madre... Ma non posso essere stata neanche lei...||||
+res7|Alcuni di questi ricordi non sono miei...||||
+resp4|Vedrò cosa posso fare...||||
+res8|Credo che questa volta stia morendo davvero. Ho tanta paura.||||
+resLaw1|<<Piange di gratitudine. I cristalli sul suo volto si sono ritratti.>> Grazie infinite... Non riesco a credere che stia finendo.||||
+resLaw2|Vi prego, prendete questo! Anche se so che non è molto...||||
+resp5|Abbiate cura di voi.||||
+resChaos1|Ora capisco. Che cosa significa esistere senza le linee e i confini dell'io.||||
+resChaos2|Non importa di chi fosse quel dolore: appartiene a tutti.||||
+serv1|Questo è un luogo sacro. Non dovreste trovarvi qui. I miei fratelli vi uccideranno.||||
+serv2|Fareste meglio ad andarvene. [[Lei]] sa che cosa siete e che cosa intendete fare qui.||||
+servp1|Che cosa sospettate che farò?||||
+serv3|Non sospettiamo. Sappiamo e basta.##La nostra signora svela la verità con assoluta perfezione.||||
+servp2|Che cos'è successo a queste [[miniere]]?||||
+serv4|Miniere? Una maledizione oscura vi ha forse accecato? Queste non sono miniere. Somigliano piuttosto all'interno di un uovo fecondo.||||
+servp3|Chi è la vostra [[signora]]?||||
+serv5|La mia signora è colei che salverà questa regione maledetta.||||
+serv6|Ci guarirà dal peso che portiamo da tanto tempo.||||
+servp4|Chi siete?||||
+serv7|Chi sono... io?##...Temo di non seguire il vostro ragionamento.||||
+servp5|Devo andare.||||
+servLaw1|<<Si abbandonano a lamenti di dolore incontenibile. Non hanno più la forza di combattere.>>||||
+servChaos1|Siete diventato parte di noi! Il Suo potere è davvero miracoloso.##Oh, giubilo! Oh, jouissance!||||
+servChaos2|Andrete al di là di quest'uovo? Vi avventurerete fuori dal Suo grembo per diffondere la Sua verità?##Vi prego, portate questo con voi.||||
+wrkr1|Prodigioso. Ora tutto diventa chiaro. Che meraviglia. Lo vedo.||||
+wrkrp1|Chi siete?||||
+wrkr2|Un tempo ero una bambina. Molti bambini. Abbiamo commesso mali imperdonabili. Ma ormai tutti quei ricordi appartengono a Lei.||||
+wrkr3|Mille prospettive, rifratte attraverso di Lei.##Ricordiamo di essere stati divorati; ricordiamo di essere morti. Ma ricordiamo anche di aver divorato.||||
+wrkr4|Ecco cosa c'è davvero dentro questi cristalli, sapete: vecchie ferite.||||
+wrkr5|Ma Lei è misericordiosa: mostra la verità persino a una miserabile come me.||||
+wrkrp2|Che cosa vedete?||||
+wrkr6|Un corpo amalgamato. Geometria e struttura astratte.##Perfetto nella forma, intriso di un dolore senza pari.||||
+wrkr7|La vera forma del divino; il grande continuum di tutto ciò che esiste.||||
+wrkrp3|[[Lei]] è una dea?||||
+wrkr8|Un giorno lo sarà. Presto, forse.||||
+wrkrp4|Che cosa vuole [[Lei]]?||||
+wrkr9|<<Fa una pausa, come se ascoltasse la risposta.>>##Non... è così semplice. Di Lei... ce ne sono così tante.||||
+wrkr10|Vuole salvarci dal nostro crudele destino.##Noi Eterni siamo tutti intrappolati in questa grande miseria, costretti a faticare in un luogo senza dèi. Un lutto eterno su un'isola di tombe.||||
+wrkr11|La tragedia delle Crociate incombe su quest'isola come una condanna immane.||||
+wrkr12|Ma... c'è dell'altro. È difficile da spiegare.||||
+wrkr13|Anche Lei vuole guarire... Più ancora: vuole fuggire.##In Lei c'è una rabbia, quasi quella di un animale messo alle strette o di un uomo in gabbia.||||
+wrkr14|<<Rimane rapita dalle visioni che ha davanti.>>||||
+wrkrLaw1|Non riesco più a vederlo. L'arazzo della creazione mi è di nuovo celato.||||
+wrkrLaw2|La nostra luce divina: dov'è andata?##Queste caverne sono così buie senza di Lei...||||
+keyb1|<<Si ridesta dalla preghiera meditativa.>>||||
+keyb1b|Che siate benedetto.||||
+keybp1|@@Sono qui per mostrare la mia devozione.||||
+keyb2fail|&&<<Ti guarda e chiude gli occhi. Dopo una lunga pausa, scuote il capo in segno di rifiuto, senza dire una parola.>>||||
+keyb2succ|%%<<Ti guarda e chiude gli occhi. Dopo una lunga pausa, fa un cenno d'assenso.>>##<<Sblocca in silenzio il cancello della [[camera degli inni]].>>||||
+keybp2|Chi siete?||||
+keyb3|Sono il levatore del nostro nuovo dio.||||
+keyb4|[[La scultrice]] mi ha affidato la custodia della [[camera degli inni]].||||
+keybp3|Parlatemi della [[camera degli inni]].||||
+keyb5|La camera degli inni si trova oltre questo cancello. È un luogo di rituali sacri.||||
+keyb6|La nostra fede rende possibile il Suo sogno.##E il Suo sogno rende possibili tutti i sogni.||||
+keybp1alt|Sono qui per mostrare la mia devozione.||||
+keybp4|Addio.||||
+keyblaw1|Avete rovinato tutto, miserabile parassita. Ora niente può più aiutarci...||||
+keyblaw2|Che una grande sventura si abbatta su di voi.||||
+keyblawp1|@@Siete stato sconfitto. Fatemi passare.||||
+keyblawsucc|%%...In ogni caso, per me non cambia nulla.##<<Apre il cancello, con aria sconfitta.>>||||
+keyblawfail|&&<<Ti sputa in faccia.>>||||
+keybchao1|Benvenuto, fratello. Che siate benedetto.||||
+keybchao2|Certo, fratello.##<<Ti apre il passaggio.>>||||
+pris1|Grazie di avermi liberato! Credevo di essere spacciato!||||
+prisp1|Chi siete?||||
+pris2|Sono l'Inquisitore MCCXVII dell'Unione Apostatica. Al vostro servizio.||||
+prisp2|Che ci fa un Inquisitore in queste miniere?||||
+pris3|Eravamo in quattro, inviati a indagare su una possibile entità divina di classe C.||||
+pris4|Ma sono stato separato dal resto del tribunale e fatto prigioniero.||||
+pris5|Non sono certo di che fine abbiano fatto i miei compagni...||||
+pris6|Non siamo riusciti a neutralizzare l'entità divina. La nostra missione è stata un fallimento clamoroso...||||
+prisp3|Posso aiutarvi.||||
+prisp4|Mi dispiace...||||
+pris7|Sì, perfetto! [[Prendete questo!]]##È un [[Prisma Terminus]]. Può uccidere un'entità divina come questa.||||
+pris8|Potete rimediare a tutto questo!||||
+prisp5|@@Mi servono le provviste che avete messo da parte.||||
+prissucc|%%Certo! Tengo nascoste queste pozioni difensive per le emergenze.||||
+prisfail|&&Io... temo che mi abbiano preso tutto quando sono stato catturato.##E poi devo ancora trovare il modo di uscire da qui...||||
+prisp6|Questo [[Prisma Terminus]]... può uccidere un dio?||||
+pris9|Soltanto le entità divine appena nate, come questa, che stanno attraversando l'[[apoteosi]].##Il [[Prisma]] non ha effetto su un'entità divina più antica.||||
+pris10|Prima che ci separassero, il mio tribunale ha stabilito che questa [[entità cristallina]] si trova attualmente in uno stadio avanzato dell'apoteosi.||||
+pris11|In questa fase, un'entità divina è ancora plasmabile dall'immaginazione dei suoi seguaci.##È così che il [[Prisma]] riesce a ucciderla.||||
+prisp7|Che cosa farete adesso?||||
+pris12|Mi dirigerò verso la superficie non appena se ne presenterà una buona occasione.##Non sono in condizioni di combattere, quindi dovrò sgattaiolare via in qualche modo...||||
+scul1|Io sono la [[scultrice]], e mi chiamo Lucia.##La [[Dea di Cristallo]] m'aveva detto che sareste arrivato.||||
+scul2|Allora. Che intenzioni avete?||||
+sculp1|L'avete scolpita voi?||||
+scul3|Sì, sono stata io la prima a sentirla attraverso le pareti di roccia.##Il più grande giacimento di cristallo puro che avessimo mai visto.||||
+scul4|Sapevo quale forma dovesse assumere. Era come se fossi nata portandomela dentro. Così ho cominciato a scolpirla di nascosto...||||
+sculp2|Sono qui per giurare fedeltà alla [[Dea di Cristallo.]]||||
+scul5|<<Sorride.>>##Mi fa piacere sentirlo.||||
+scul6|Per completare il vostro legame, andate al cospetto di [[Lei]] e fatele voto di devozione.##<<Lucia ti insegna una serie di>> [[gesti rituali]] <<necessari a completare il patto.>>||||
+scul7|Quando sarete pronto, andate al cospetto della [[Dea di Cristallo]] e giuratele fedeltà.||||
+sculp3|Dovete porre fine a questa follia!||||
+scul8|Ma che diavolo state dicendo, Respirante? «Follia»!? State scherzando!||||
+scul9|Secoli in questa terra senza dèi, a sgobbare nelle miniere senza via d'uscita. A mangiare carne finta, come fossimo bestiame. Questa è follia.##Le maledette [[Crociate]]! QUELLA sì che era follia!||||
+scul10|Da ragazzina m'hanno insegnato a fare la scultrice. Prima delle Crociate. Per sopravvivere, sono diventata minatrice.##Quei sogni morti non sono mai spariti. Me lo porto dentro da allora, quel peso marcio.||||
+scul11|Ogni Eterno sa cosa si prova. È per questo che [[Lei]] è venuta da noi.##Se sapeste, vi si seccherebbe la lingua prima di chiamarla follia.||||
+sculp4|Perdonatemi. Voglio seguire la [[Dea di Cristallo.]]||||
+scul12|<<Lucia ti guarda negli occhi, cercando di capire se sei sincero.>>||||
+scul13|Sì. E sia.||||
+scul14|<<Lucia ti osserva con cautela.>>||||
+scullaw|[[No!]] Come avete potuto!?##Maledetto bastardo! [[Vi macellerò!]]||||
+scullawp1|Non avete alcuna possibilità contro di me.||||
+scullaw1|<<Lucia strilla di rabbia. La sua voce riecheggia, carica della magia infusa nel suo corpo.>>##Uccidetemi, allora! Tanto non importa!||||
+scullawp2|Non avevo scelta. Sto cercando di salvarvi.||||
+scullaw2|Salvarmi!? Vi ammazzo!!||||
+scullawp3|Perdonatemi! È stato un incidente.||||
+scullaw3|<<Lucia sputa verso di te.>>##Verme bugiardo!||||
+sculchao1|Benvenuto, fratello.||||
+sculchao2|Avete cambiato idea? Perdonatemi per le parole dure. Ora siamo fratelli.||||
+sta1|<<Ti trovi sotto un'elaborata statua di cristallo. Esercita un'inconfondibile pressione psichica.>>||||
+stap1|<<Frantumare la statua...>>||||
+sta2|<<Le tue armi e la tua magia scalfirebbero a malapena il cristallo massiccio della statua.>>##<<Ti chiedi se esista un modo diverso dalla forza bruta e se non sia il caso di esplorare ancora le miniere.>>||||
+stap2|<<Usare il>> [[Prisma Terminus]] <<per purificare la statua...>>||||
+sta3|<<Tieni il >>[[Prisma Terminus]]<< in mano, ma prima di sollevarlo ti domandi:>>##<<Sei sicuro di voler fare questa scelta? La dea >>[[non può essere ricostruita.]]||||
+stap3|<<Sollevare il prisma e>> [[uccidere la dea...]]||||
+sta4|<<La stanza sembra piombare nel silenzio assoluto. Poi un suono lancinante risuona nei cristalli.>>##<<La statua comincia a sgretolarsi.>>||||
+stap4|<<Riconsiderare le proprie opzioni...>>||||
+stap5|<<Ammirare la statua...>>||||
+sta5|<<È scolpita con maestria: la posizione di ogni braccio e di ogni gamba ha chiaramente un significato profondo per l'artista.>>||||
+sta6|<<Il volto inferiore, identico all'altro, fa capolino tra le Sue gambe come se stesse nascendo. La parola «autogenerata» ti affiora alla mente.>>||||
+sta7|<<Più a lungo la osservi, più cresce la tua ammirazione. Non soltanto per l'artista e per ciò che ha realizzato, ma per la Dea di Cristallo stessa e per tutte le profondità che racchiude.>>||||
+stap6|<<Giurare fedeltà alla Dea di Cristallo...>>||||
+sta8|<<Prima di eseguire il>> [[rituale]] <<che Lucia ti ha insegnato, ti chiedi:>>##<<Sei sicuro di voler fare questa scelta?>>##<<Un patto simile>> [[non può essere infranto.]]||||
+stap7|<<Eseguire i [[gesti rituali]] e consacrarsi alla [[Dea di Cristallo...]]||||
+sta9|<<La tua mente è attraversata da visioni di fili geometrici che convergono nel cuore della statua.##Reti immacolate si estendono in ogni direzione, intrecciandosi nelle vene della roccia circostante.>>||||
+sta10|<<Attraverso di Lei, vedi la totalità cosmica ricondotta all'unità.>>||||
+sta11|<<Anche la dea ti vede, con quel suo sguardo che ti accarezza.##Lei vede ogni cosa.>>||||
+sta12|Mio splendido figlio.##Conserverete il vostro io, perché avete un altro scopo. Nell'arazzo ho riservato per voi un ruolo ancora più prezioso.||||
+sta13|Ora vi guiderò. Portate questo con voi.##<<Senti qualcosa muoversi dentro la tua borsa...>>||||
+sta14|<<Guardando dentro, trovi un piccolo pacchetto, avvolto con cura in petali di fiori.>>||||
+sta14alt|<<Guardando dentro, scopri che il >>[[Prisma Terminus]]<<, che ti aveva dato l'Inquisitore prigioniero, è stato ridotto in frantumi.##In mezzo ai frammenti giace un piccolo pacchetto, avvolto con cura in petali di fiori.>>||||
+stap8|Grazie.||||
+stap9|<<Allontanarsi...>>||||
+stachao1|<<Ti trovi ai piedi della guardiana cui hai giurato fedeltà, la >>[[Dea di Cristallo.]]<< Ora è Lei a guidare il tuo destino.>>||||

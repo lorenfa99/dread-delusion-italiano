@@ -1,0 +1,721 @@
+Dialogues:|Clockwork||||
+ID|English|French|German|Spanish|Italian
+p1|Arrivederci.||||
+p0|Addio.||||
+pq1|Posso farvi qualche domanda?||||
+pq2|Va bene, credo di aver capito.||||
+pq3|Capito.||||
+pq4|A dire il vero, avevo altre domande.||||
+pq5|Era tutto ciò che volevo sapere.||||
+lludd1|<<Il giovane ti guarda con cautela, gli occhi sgranati in un volto smunto.>> Oh, un nuovo arrivato! Ehm, b-b-benvenuto al [[villaggio di Pwyll]]. Io sono Lludd. Eravate... ehm... coinvolto in tutto quel ((trambusto)) al vecchio forte?||||
+p10|Certo. Ho appena ucciso più gente di quanta ne possiate contare.||||
+lludd2|<<Il giovane resta a bocca aperta, cercando le parole.>> ##Oh cielo. Oh, accidenti. Immagino che ci sia stato... ehm... <<Deglutisce.>> ...un sacco di sangue e cose del genere?||||
+p11|Sì, certo che c'era del fottuto ((sangue)).||||
+lludd3|<<Ha un sussulto evidente.>> Ah. Sì. Certo. Lo immaginavo. ##<<Si guarda intorno, come se cercasse qualcosa da dire.>> Vi ho già detto... che il nostro paese si chiama [[Pwyll]]?||||
+p12|No, li ho uccisi a colpi di parole crudeli.||||
+lludd4|<<Annuisce in fretta, come se fosse un'affermazione del tutto ragionevole.>> Ah. Sì. Certo. ##<<Si guarda intorno, come se cercasse qualcosa da dire.>> Vi ho già detto... che il nostro paese si chiama [[Pwyll]]?||||
+p13|State bene? Avete l'aria di stare per svenire.||||
+lludd5|<<Annuisce in fretta, ma da quando hai iniziato a parlare sembra ancora più pallido.>> Ehm, sto bene, grazie. Volevate... sapere qualcosa di [[Pwyll]]?||||
+p14|Sono un agente dell'Inquisizione: do la caccia ai criminali dell'Unione Apostatica.||||
+lludd6|<<Rabbrividisce e ti squadra da capo a piedi.>> Oh! Scusatemi, non me n'ero accorto. Non avete proprio l'((aspetto)) di uno di quegli agenti: dovete essere... ((sotto copertura)), vero? <<sussurra:>> ##Be', se può esservi utile... potrei parlarvi del nostro p-p-paese?||||
+p15|Sono solo di passaggio; non vi causerò problemi.||||
+lludd7|<<Le spalle del ragazzo si rilassano e lui appare sinceramente sollevato.>> Oh, va bene. Posso raccontarvi qualcosa del nostro paese, se vi va?||||
+lludd8|Siamo solo un umile villaggio. <<Deglutisce.>> Avete mai sentito parlare del [[Fungoscrutatore?]] È un fungo che mostra il f-f-futuro. Lo coltiviamo e lo vendiamo. Solo che... ehm... ultimamente le cose non vanno molto bene. La gente è preoccupata.||||
+p16|Che cosa non va, esattamente?||||
+lludd9|Be', il raccolto è... scarso. Ogni anno coltiviamo sempre meno Fungoscrutatore. ##<<Si gratta la testa.>> Alcuni cominciano a preoccuparsi...||||
+lludd10|<<Si guarda intorno, poi si avvicina.>> Ho sentito che alcuni stanno pensando di tornare alle ((antiche usanze)). ##<<Ha gli occhi quasi fuori dalle orbite.>> Sapete, avere a che fare con i ((Wikkan)) e con gli ((dèi))?||||
+p17|È davvero stupido da parte loro.||||
+lludd11|<<Il ragazzo annuisce furiosamente.>> Ma ((certo)). È molto illegale! Però è anche un po' ((emozionante)), non trovate? ##<<Sembra pentirsi delle parole appena scelte.>> Oh, ehm, volevo solo dire che... a volte è così ((noioso)) stare qui...||||
+p19|E allora?||||
+lludd12|Be', facciamo parte dell'Unione Apostatica, capite? Quindi adorare gli dèi è molto... ((illegale)). <<Deglutisce.>>||||
+p20|Anzi, lasciamo perdere.||||
+lludd13|<<Sembra nervoso.>> Oh, mi sono rimesso a blaterare, vero? Volevate sapere altro?||||
+lludd14|Comunque, [[Culwych, il Mastro Pesatore locale]], è parecchio in allarme per tutta la faccenda. Pesa chiunque passi di qui, giusto per assicurarsi che non sia un Wikkan.||||
+lludd15|Ma mia madre si chiama [[Olwen]] e, oh, ehm, a proposito, è lei il sindaco. Non sembra troppo turbata da tutto questo: è fin troppo preoccupata per qualcos'altro. Ultimamente l'ho sentita borbottare di [[una specie di mostro]] o qualcosa del genere...||||
+lludd16|<<Sbatte le palpebre.>> Oh, scusatemi, tendo proprio a blaterare, vero? C'è... qualcosa che vorreste sapere?||||
+p21|Potete indicarmi i luoghi principali del paese?||||
+lludd17|Oh, ehm, credo di sì. <<Indica alle proprie spalle.>> Qui in paese troverete la [[casa della pesa]]. Il Mastro Pesatore C-C-Culwych è molto rispettato da queste parti. Lì vicino c'è la [[Compagnia del Fungoscrutatore]], che vende Fungoscrutatore, ovviamente. E, ehm, altre cose.||||
+lludd18|Più in alto sulla collina c'è la [[casa del sindaco]]. È lì che vive mia madre... ehm, cioè, il ((sindaco)) che a volte offre qualche lavoretto. ##E ancora più su c'è il vecchio [[Fungo Sacro]]. Solo che, ehm... è morto.||||
+p22|Che cosa fa il Mastro Pesatore?||||
+lludd19|Oh, Culwych? È molto importante. È andato fino a Riova, la capitale dell'Unione Apostatica, che è ((davvero)) lontanissima, per ottenere il titolo di Mastro Pesatore.||||
+lludd20|Pesa le merci per compratori e mercanti, per assicurarsi che il prezzo sia giusto. Può non sembrare granché, ma per un paesino come il nostro significa poter commerciare con regni come Vena, Byonne e L-L-Lundel.||||
+lludd21|<<Si avvicina, con gli occhi sgranati.>> Ma pesa anche le ((persone)). Ultimamente è molto preoccupato per i [[simpatizzanti Wikkan]], e possiede bilance magiche cifrate che sanno ((dire)) se siete ((malvagio)).||||
+lludd22|<<Ha un'aria imbarazzata.>> Però non ha pesato me. Immagino che non mi ritenga abbastanza d-d-duro per essere un criminale.||||
+p23|Parlatemi della Compagnia del Fungoscrutatore.||||
+lludd23|Be', la gestisce Dwynn, la cui famiglia coltiva Fungoscrutatore da generazioni. Senza la sua compagnia il paese praticamente non esisterebbe: qui intorno ci sono quasi soltanto funghi.||||
+lludd24|Mamma non mi lascia bere il Tè di Fungoscrutatore, anche se ((lei)) lo beve di continuo. D-d-dice che è troppo intenso. Che bisogna essere adulti responsabili per vedere il futuro.||||
+lludd25|Però non vedo quale sia il problema. Perlopiù ha soltanto allucinazioni in cui il suo giardino è più grande.||||
+p24|Quindi vostra madre è il sindaco?||||
+lludd26|<<Annuisce.>> Non va a genio a tutti, perché viene da molto lontano, da Lundel. È un posto remoto, pieno di castelli e brughiere battute dal vento, nel cuore dell'Unione.||||
+lludd27|Io sono nato qui, quindi non ci sono mai stato. <<Tira su col naso.>>||||
+p25|Perché il Fungo Sacro è morto?||||
+lludd28|Oh! Beh, perché Culwych ha ucciso il nostro dio, naturalmente.||||
+p26|Naturalmente.||||
+lludd29|<<Annuisce.>>||||
+p27|Ehm, vi andrebbe di spiegare meglio?||||
+lludd30|Oh, ehm, scusatemi, dimentico sempre che non tutti conoscono la storia! <<Ridacchia timidamente.>> ##Il nostro vecchio dio era Aenguin, ed era davvero cattivo. Voleva che la gente si sacrificasse nei Funghi Sacri perché il Fungoscrutatore crescesse bene.||||
+lludd31|Così, durante la Guerra Divina, Culwych e alcuni altri salparono a bordo di un'enorme Aeronave kardovana e trafissero Aenguin in un occhio. Siccome faceva parte del Fungo Sacro sulla collina, anche il fungo morì insieme a lui.||||
+lludd32|<<Tira su col naso.>> Ma è anche per questo che i raccolti vanno male. A dire il vero, se abbiamo mai avuto il Fungoscrutatore è stato soltanto grazie al nostro dio. È rimasto un solo Fungo Sacro e, se muore anche quello, siamo... be'... ((non posso dire quella parola.))||||
+p28|Era tutto ciò che volevo sapere.||||
+lludd33|<<Annuisce.>> Spero di non aver b-b-blaterato troppo.||||
+p29|Devo andare, ragazzo.||||
+lludd34|Oh, ehm, certo. C-c-ciao.||||
+lludd35|Oh, salve di nuovo. Volevate che vi i-i-indicassi i luoghi principali di Pwyll? Oppure... non sarete mica... qui per aiutarci con i nostri problemi?||||
+lludd36|Oh, salve di nuovo. C'era q-q-qualcosa che volevate chiedere?||||
+p30|Sapete qualcosa di questi simpatizzanti Wikkan?||||
+lludd37|<<Lludd impallidisce all'improvviso.>> Oh, intendete persone che ((si trastullano)) con il ((culto degli dèi))? ##<<Una goccia di sudore gli scivola sul viso.>> D-d-dicono che sia un ((reato)), vero? Che potrebbero rinchiudervi per sempre?||||
+lludd38|<<Scuote la testa.>> Mi dispiace, ma non ne so nulla. Potreste provare a chiedere a [[Nudd]], che di solito si trova nella [[sede della Compagnia del Fungoscrutatore]]. Era un mercenario e cose così. Sono certo che ne sappia qualcosa.||||
+lludd50|<<Il nauseante fetore della bile invade la camera di carne. Davanti a te, un enorme tubo digerente pulsa e freme, colmo di acido corrosivo. ##A quanto pare questo fungo possiede degli ((organi.))>>||||
+lludd51|<<Lludd si contorce dietro la membrana digestiva, chiaramente in preda all'agonia. Quando ti vede, resta sconvolto.>> ##V-v-voi!||||
+p41|Dobbiamo tirarvi fuori.||||
+lludd52|((No))! <<Un'espressione risoluta si impadronisce di Lludd.>> Se non ((lo faccio)), il villaggio p-p-((perirà))!||||
+lludd53|E se mi liberate, taglierete gli organi del fungo. Potreste [[ucciderlo]]!||||
+p42|Ma voi ((morirete)).||||
+lludd54|N-n-non credete che lo ((sappia)) già?||||
+p43|Come volete.||||
+lludd55|Nemmeno ((v-v-voi)) mi prendete sul serio!||||
+p44|Chi vi ha fatto questo?||||
+lludd56|((Nessuno))! <<Un'espressione risoluta si impadronisce di Lludd.>>||||
+lludd57|Tutti pensano che io sia soltanto uno stupido r-r-ragazzino. L'idiota figlio del sindaco. Nessuno mi prende ((sul serio))! ##Ma ora posso dimostrare che v-v-valgo qualcosa. Posso ((salvare)) il villaggio, tutto da solo.||||
+lludd58|Ho trovato gli antichi riti del contratto Wikkan, nascosti nella cantina di mia madre. Ho convinto Emyr ad aiutarmi a preparare tutto, ma sono stato ((io)) a sussurrare ad Aenguin e a sentire la sua risposta echeggiare nelle mie o-o-ossa.||||
+p45|Non vale la pena di ((morire)) per questo villaggio, ragazzo.||||
+lludd59|E-e-e chi lo ((dice))? Culwych parla sempre dei suoi compagni d'armi, morti per liberare Pwyll. Ma p-p-perché questo dovrebbe essere diverso? Solo perché non siamo in ((guerra))?||||
+p46|Vi tirerò fuori di lì, che vi piaccia o no.||||
+lludd60|N-n-nessuno mi lascia prendere le mie ((decisioni)). È da m-m-mesi che preparo tutto! È una mia scelta!||||
+p47|Almeno il coraggio non vi manca.||||
+lludd61|Pwyll sta ((morendo)). Lo dicono tutti. Da quando Aenguin è stato ucciso, il terreno si sta i-i-inaridendo. Fra una generazione non resterà più ((nulla)). Questo è l'((unico)) modo per salvare il villaggio.||||
+p48|A volte i paesi si inaridiscono. È così che va.||||
+lludd62|È f-f-facile per voi dirlo, visto che non siete di qui. Pwyll è l'unico posto che abbia mai conosciuto. Non ((sopravvivrò)) da nessun'altra parte.||||
+p49|@@ Non potete saperlo. I Regni Celesti sono pieni di luoghi impossibili, oltre i sogni più ((sfrenati)) che possiate concepire.||||
+lludd63|&& Degli altri posti non m'((importa)) proprio nulla. Ho una sola casa, ed è ((Pwyll)).||||
+lludd64|%% <<Tira su col naso.>> Una volta ho provato del Tè di Fungoscrutatore mentre mia madre non c'era. Ho visto... ho visto me stesso su una nave, mentre volavo in mezzo a un banco di Pescecielo, con le scaglie scintillanti di mille colori...||||
+lludd65|Mamma dice sempre che le visioni possono essere ((sbagliate)). Così pensavo che anche quella lo ((fosse)). Ma forse... forse potrebbe avverarsi davvero?||||
+lludd66|Va bene. ((Sniff.)) Allora tornerò indietro.||||
+lludd67|<<Recidi la membrana e ne sgorga un torrente di acido fetido. Lludd scivola fuori dalla melma, tossendo e sputacchiando.>>||||
+lludd68|Grazie, nuovo arrivato. Lasciatemi riprendere fiato e... tornerò in paese da solo.||||
+lludd69|<<Mentre ti volti per andartene, un violento tremito scuote l'intero fungo e i suoi organi si contorcono per il dolore. Ti rendi conto che, incidendone le viscere, potresti aver appena [[ucciso]] questa antica creatura.>>||||
+p50|Adesso basta. <Liberarlo.>||||
+p51|Quindi volete ((davvero)) farlo?||||
+lludd70|<<Recidi la membrana e ne sgorga un torrente di acido fetido. Lludd scivola fuori dalla melma, tossendo e sputacchiando.>>||||
+lludd71|Non n-n-ne avevate il diritto! ##<<Rabbrividisce.>> È la prima cosa che abbia fatto davvero ((da solo)), e voi me l'avete rovinata. Non ne avevate il ((diritto))...||||
+p52|C'è chi tiene a voi, ragazzo. Non potete buttare via la vostra vita.||||
+lludd72|Pensavo... che mamma sarebbe ((fiera di me))... ##<<Il ragazzo rabbrividisce e non dice altro.>>||||
+p53|Un giorno mi ringrazierete.||||
+p54|Mi piace rovinare i piani altrui.||||
+lludd73|<<Il ragazzo rabbrividisce e non dice nulla.>>||||
+p55|Quindi volete ((davvero)) farlo? Pur sapendo che morirete?||||
+lludd74|Non sono mai stato così sicuro di ((nulla)) in vita mia. Voglio salvare il villaggio. Voglio che Pwyll continui a vivere, anche se dovrò morire.||||
+p56|Beh, rispetto la vostra decisione.||||
+lludd75|Grazie. Sono felice che almeno qualcuno mi abbia preso sul serio, alla f-f-fine. Posso chiedervi un ultimo favore?||||
+p57|Certo.||||
+lludd76|<<Una mano emerge dalla membrana, viscida di melma.>> Volete... tenermi la mano? ##<<Annuisci e stringi la sua mano nella tua. L'acido ti brucia la pelle e lo senti tremare.>>||||
+lludd77|<<Rimani così per qualche istante, in silenzio, finché la sua mano non si affloscia. Ti rendi conto che Lludd è morto.>>||||
+p58|No.||||
+lludd78|Va bene. Allora potreste almeno... restare qui con me?||||
+lludd79|<<Annuisci e aspetti in silenzio per qualche istante, finché non ti accorgi che il ragazzo non si muove più. Sì, non c'è modo di negarlo: Lludd è morto.>>||||
+lludd79b|<<Non c'è modo di negarlo: Lludd è morto.>>||||
+p59|Eppure non posso lasciarvelo fare.||||
+lludd80|Oh, siete voi. ##Volevo ringraziarvi per quello che avete fatto nel Fungo Sacro. Mi avete salvato la vita.||||
+lludd81|Non so che cosa accadrà a Pwyll. Mi rattrista pensare che in futuro potrebbe non esistere più... ma forse troveremo un altro posto da chiamare casa.||||
+lludd82|Oh, siete voi. ##Non riesco ancora a perdonarvi per aver interrotto la digestione. Ma, vedendo quanto mia madre fosse sollevata di riavermi... forse non valevo così poco come pensavo.||||
+lludd83|Non so che cosa accadrà a Pwyll. Mi rattrista pensare che in futuro potrebbe non esistere più... ma forse troveremo un altro posto da chiamare casa.||||
+cul1|<<L'uomo ti segue con lo sguardo, sospettoso. I capelli brizzolati e la pelle segnata dalle intemperie fanno pensare che sia più anziano della maggior parte degli abitanti, e una cicatrice sbiadita gli attraversa il volto.>>||||
+cul2|Siete nuovo in paese, mi pare. Be', io sono Culwych, il Mastro Pesatore di queste parti. E sappiate che, prima di fare affari qui a Pwyll, vi peserò.||||
+cul3|Quindi, senza tante storie, salite sulla bilancia. <<Indica l'enorme congegno alle sue spalle.>> Ve ne sarei ((grato)).||||
+p100|Aspettate, perché volete ((pesare)) proprio me?||||
+cul4|<<Socchiude gli occhi.>> Per decreto dell'Unione Apostatica, chiunque voglia commerciare nei suoi territori deve dimostrare di essere di natura ((ordinaria)) e dunque di non essere stato alterato fisicamente dalla magia cifrata o dalla devozione a un dio, né di portare il peso di crimini rimasti impuniti.||||
+p101|E potete capirlo soltanto dal mio ((peso))?||||
+cul5|Salite su quella maledetta bilancia, d'accordo?||||
+p102|E va bene.||||
+cul6|<<Annuisce.>> Avanti, allora.||||
+p103|Non salirò mai su quell'affare.||||
+cul7|Be', siete libero di rifiutare; ma questo villaggio non vorrà avere nulla a che fare con voi finché non salirete su quella dannata bilancia.||||
+cul8|Come vi ho già detto, salite sulla bilancia. <<Indica l'enorme congegno alle sue spalle.>>||||
+cul9|<<Studia i quadranti e i simboli sulla sommità della macchina, annotando varie cose su una pergamena.>> ##Interessante. ((Molto)) interessante.||||
+p104|Ehm... ho superato la prova?||||
+p105|((Non dire nulla.))||||
+cul10|Il glifo principale dice che siete un... ((criminale)). <<Ti lancia uno sguardo severo.>> I glifi minori sono più difficili da interpretare. Vediamo un po'...||||
+cul11|Dicono che avete ((ucciso un uomo)). Ci sono più testimoni. E questo cos'è... ((Trauma Marziale)). ##<<Sospira.>> Mi spiace dirlo, ma ho conosciuto fin troppi soldati che hanno perso il senno.||||
+cul12|Qui dice che siete un ((Disertore)). Non dice da che cosa: questi glifi sanno essere parecchio vaghi. Comunque, non posso dar torto a chi fugge da una battaglia.||||
+cul13|Mmh, questo credo sia... ((Errore di Lancio Fatale)). Ah, quindi vi dilettate con la magia cifrata, eh? Un'arte pericolosa, senza dubbio. <<Fa una pausa.>> Assicuratevi solo di tenere ben ((chiusi)) i libri d'incantesimi, d'accordo? Non voglio che vi facciate saltare le dita qui vicino.||||
+cul14|Mmh, mercante illegale. Le merci sembrano... vediamo... di natura ((bellica)) e quindi eravate un Trafficante d'Armi, eh?||||
+cul15|Qui dice che eravate un criminale da quattro soldi. Gli altri glifi dicono... mmh, vediamo... che vi hanno trovato tutto pesto. Immagino vi abbiano tradito quelli della vostra risma, eh? Ben vi sta.||||
+cul16|Dicono che eravate un criminale da quattro soldi. Altri glifi indicano che vi hanno dato la caccia per anni. Chissà se lo sapevate. Vivevate guardandovi continuamente alle spalle?||||
+cul17|Crimini di natura... ((magica)) a quanto pare. Qui dice che vi siete introdotto con la forza su una nave dell'Inquisizione, attraverso un... ((portale))? Siete il mago più intelligente o più stupido di cui abbia mai sentito parlare.||||
+cul18|Mmh, qui ci sono parecchi glifi compromettenti. Pare foste una specie di capobanda criminale. Non c'è da stupirsi che vi abbiano preso.||||
+cul19|Mmh, che cos'è questo? ((Predatore)) di... ((tombe))? Ah, quindi vi occupavate di saccheggiare antiche reliquie, eh? Molto pericoloso, oltre che illegale.||||
+cul20|((Cifro proibito)), eh? Ah, quindi vi siete imbattuto in una di quelle parole ((illegali))? Un crimine strano, senza dubbio, ma vietato a ragion veduta. Non vorrete far saltare in aria una città solo perché ne avete pronunciata male una.||||
+cul21|Qui dice che avete provocato uno ((squarcio cifrato)). Non riesco a immaginare con quale lurida arte cifrata steste armeggiando, ma sono ben contento che la vostra stoltezza non abbia fatto a pezzi i Regni Celesti.||||
+cul22|Mercante di ((merci illegali)). Vediamo un po', commerciavate in... ((libri))? Hmph, potranno sembrare innocui, ma certi vecchi tomi impolverati sono più pericolosi di una bordata di cannoni.||||
+cul23|Mmh... ((corruzione)). E questo glifo dice... politica? Ah, quindi probabilmente avete truccato un'elezione, vero? Ho sentito che possono essere faccende brutali e sanguinose, quindi capisco perché qualcuno accetti di prendersi la colpa al prezzo giusto.||||
+cul24|Qui dice che avete sangue ((nobile)) e questo è un glifo strano: credo significhi ((disgrazia))? Ah, quindi probabilmente siete fuggito da una di quelle famiglie nobili corrotte.||||
+cul25|Be', questa è una sequenza di glifi davvero strana. Svariati... denudamenti... tramite Cifro? <<Riflette un momento, poi scoppia in una fragorosa risata.>> ##Oh, ho sentito parlare di voi. Siete quell'idiota che ha denudato un'intera città, vero?||||
+cul26|Dicono che eravate un mercante, e anche ricco. Ma questo glifo significa... ((reliquie proibite))? Ah, quindi trafficavate nell'((occulto)). Non mi stupisce che vi abbiano preso.||||
+cul27|Ah, ma c'è un altro glifo. Inquisizione... ((agente))? ##<<Alza lo sguardo dalla pergamena, con un'espressione perplessa.>>||||
+cul28|Chiedo venia: a prima vista pensavo foste uno di quei mercenari della Stella Oscura in fuga dall'incursione dell'Inquisizione. Ma voi stavate ((combattendo)) quei farabutti, vero?||||
+p106|Sì, quei crimini erano solo... ehm... una ((storia di copertura)).||||
+cul29|<<Fa un rapido saluto dell'Unione.>> Le mie scuse, amico. Questo umile Mastro Pesatore non intendeva rallentare gli affari dell'Inquisizione con la sua misera burocrazia. ##Ho autorizzato la vostra permanenza a Pwyll; nessuno vi darà problemi.||||
+p107|Sì, sono un Confessore e sto espiando i miei crimini.||||
+p108|Non per mia scelta, ve l'assicuro.||||
+cul30|Be', non sarò certo io a rallentare gli affari dell'Inquisizione. ##Ho autorizzato la vostra permanenza a Pwyll; nessuno vi darà problemi.||||
+cul31|<<Riflette un momento.>> Ma, ehm, sentite... vista la vostra ((professione)) potreste dare una mano a questo umile servitore dell'Unione Apostatica? In cambio ci sarebbe un [[Passaporto dell'Unione Apostatica]] per voi...||||
+cul32|Vedete, l'incursione dell'Inquisizione non è l'((unico)) motivo per cui ultimamente teniamo tanto a pesare la gente. Tra gli abitanti serpeggia anche quel maledetto ((culto degli dèi)). Dopo tutto quello che abbiamo passato! <<Appare decisamente seccato.>>||||
+cul33|Ah, bentornato. Che cosa può fare per voi il vecchio Culwych?||||
+p109|Cerco alcuni mercenari della Stella Oscura e devo esplorare le Isole Oniriche.||||
+cul34|<<Culwych si picchietta il naso.>> Ah, sono affari dell'((Inquisizione)) dunque? Non temete, il vecchio Culwych sa mantenere un segreto.||||
+cul35|Be', potreste provare a chiedere a [[Nudd]], che fa da sgherro della [[Compagnia del Fungoscrutatore]]. Devo ammettere che è un tipo scorbutico e non siamo mai andati molto d'accordo, ma so che un tempo lavorava per la Stella Oscura.||||
+cul36|Ma, a essere sincero, dubito che scoprirete molto qui a Pwyll. Dovrete raggiungere [[Hallow Town]] in [[Hallowshire]], a sud. Là c'è una sede del Consiglio dell'Unione e un porto affollato dove attraccano Aeronavi di ogni tipo.||||
+cul37|Ma per attraversare il Ponte del Cancello dell'Unione vi servirà un [[Passaporto dell'Unione Apostatica]]. Ognuno permette di superare un solo ponte.||||
+cul38|In qualità di Mastro Pesatore certificato, ne ho uno che non uso; ma, Inquisitore o meno, dovrete [[guadagnarvi la mia fiducia]] prima che ve lo consegni su due piedi.||||
+p110|Che cosa potete dirmi di questo paese?||||
+cul39|Be', al giorno d'oggi Pwyll è un villaggio pittoresco. Coltiviamo e vendiamo [[Fungoscrutatore]] fin dagli albori dei Regni Celesti, e lo spediamo dappertutto.||||
+cul40|Dopo la [[Guerra Divina]] gli affari forse non vanno altrettanto bene — ((uccidere la propria divinità fa questo effetto)) — ma stiamo meglio nell'Unione Apostatica. Preferisco mille volte le imposte dell'Unione a un contratto di sangue Wikkan.||||
+p111|Aspettate: avete ucciso il vostro stesso dio?||||
+cul41|Già, quarant'anni fa. Prima di allora Pwyll era prospera... e ((miserabile)). Eravamo intrappolati in un contratto di sangue con il nostro dio tiranno Aenguin, e le condizioni erano ((abissali)).||||
+cul42|Oh, il raccolto era abbondante, ma il prezzo di sangue era alto. Ogni anno decine di abitanti sparivano nei [[Funghi Sacri]] per placare quel ((bastardo)) di un dio, e nessuno li vedeva mai più.||||
+cul43|Così, quando gli Apostatici vennero a chiederci di rinnegare la fede e unirci alla lotta contro i Wikkan, prendemmo le armi ((volentieri)). Io combattei nella divisione di Pwyll, e ne porto ancora le cicatrici.||||
+p112|Che cosa accadde dopo?||||
+p113|Va bene, ho capito.||||
+cul44|Volevate sapere altro?||||
+cul45|Eravamo l'equipaggio di un'Aeronave lanciera kardovana e trafiggemmo la nostra stessa divinità con una lancia del Vuoto. Per tutto il dolore che aveva inflitto alla mia gente, quel farabutto non oppose poi molta resistenza.||||
+cul46|Ma la guerra infuriava ancora, così gli Apostatici costruirono quell'enorme [[fortezza]] sulla collina per respingere i contrattacchi Wikkan. Naturalmente, quando la polvere si posò e la guerra finì, la neonata [[Unione Apostatica]] la lasciò cadere in rovina...||||
+cul47|...finché la mercenaria nota come ((Vela Callose)) non se ne impossessò, naturalmente. Negli ultimi anni Pwyll si è fatta una certa fama per il contrabbando e gli affari loschi, grazie a quei dannati mercenari della [[Stella Oscura]]. Verrebbe da pensare che l'Unione sarebbe intervenuta prima, ma più grandi sono gli ingranaggi, più lentamente girano, immagino.||||
+cul48|...finché la mercenaria nota come ((Vela Callose)) non se ne impossessò, naturalmente. Negli ultimi anni Pwyll si è fatta una certa fama per il contrabbando e gli affari loschi, grazie a quei dannati mercenari della [[Stella Oscura]].||||
+cul49|Verrebbe da pensare che l'Unione sarebbe intervenuta prima, ma più grandi sono gli ingranaggi, più lentamente girano, immagino.||||
+p114|Che cos'è un contratto Wikkan?||||
+cul50|Hmph, nell'Unione si sta così comodi che la gente ha dimenticato la propria ((storia?)) Che io sia dannato.||||
+cul51|Da che si ha memoria, i Wikkan fanno da intermediari fra gli dèi e i loro fedeli. ##<<Si accarezza il mento.>> Una specie di ((avvocati)) del ((divino)), direi.||||
+cul52|A quanto pare agivano nell'interesse sia dei mortali ((sia)) degli dèi, vincolandoli a un contratto magico che impediva a una parte di fregare l'altra. Solo che qui a Pwyll i nostri Wikkan ci hanno ((fottuti)) in pieno: le condizioni erano tutte a favore di Aenguin.||||
+cul53|Non possiamo essere stati gli unici: quarant'anni fa gli Apostatici diedero inizio alla Guerra Divina, e vi assicuro che Pwyll non fu l'((unico)) posto dove gli abitanti uccisero il proprio dio.||||
+p115|Siete contento di far parte dell'Unione Apostatica?||||
+cul54|Più di tanti altri. Ho incontrato viaggiatori che rimpiangono la scomparsa degli dèi e sostengono che l'Unione abbia sostituito la maestà divina con nient'altro che politica e scartoffie.||||
+cul55|Ma qui a Pwyll? Chiunque sia abbastanza vecchio ricorda i ((brutti tempi.)) Abbiamo tutti perso amici e parenti: quel terreno maledetto dagli dèi era concimato col loro sangue.||||
+cul56|Certo, per molto tempo far parte dell'Unione non significò granché. Qui nelle [[Isole Oniriche]] siamo ai margini, capite, e per decenni queste isole pullularono di fuorilegge, criminali e profughi Wikkan.||||
+cul57|Solo di recente l'Unione ha rafforzato la propria presenza e costruito una sala del Consiglio in [[Hallowshire]]. Da allora il commercio a Pwyll è esploso: a quanto pare un sacco di gente vuole comprare il nostro Fungoscrutatore. Se solo i raccolti riuscissero a stare al passo con la domanda...||||
+p116|Che cos'è questo Fungoscrutatore che coltivate?||||
+cul58|Be', è un fungo che permette di scrutare il futuro, capite? Mostra visioni di ciò che ((potrebbe)) accadere.||||
+cul59|Solo che non ha sempre ragione. Certo, ogni tanto qualcuno vede una visione che si avvera immancabilmente e in modo irrevocabile, e tutti cantano le lodi dell'umile Fungoscrutatore. Ma il più delle volte si tratta soltanto di un brutto sogno.||||
+cul60|<<Alza le spalle.>> Comunque, la gente di tutti i Regni Celesti vuole comprarlo, quindi non mi lamento: dopotutto mi mette il pane in tavola.||||
+p117|Era tutto ciò che volevo chiedere.||||
+cul61|E sia. C'era altro?||||
+p118|Come fate a capire così tante cose da quelle bilance?||||
+cul62|Queste sono [[Bilance della Moralità]]. Vedete che ce n'è una sola visibile; è perché il suo fulcro è collegato per magia, tramite un vincolo di Cifro, a una bilancia che contiene lo ((Standard Morale)).||||
+p119|Che cos'è lo Standard Morale, una specie di peso?||||
+cul63|<<Sorride.>> Oh, no, sarebbe assurdo! Come potreste scoprire tanto su una persona confrontandone il peso con un ((peso morto))? No, no, non siate sciocco!||||
+cul64|Lo Standard Morale è una ((persona)). Una persona scelta con cura, dotata delle qualità considerate l'apice della moralità dell'Unione Apostatica. Confrontando il vostro peso con quello di una persona dalla rettitudine così perfetta, possiamo stabilire in che ((misura)) il vostro carattere sia carente.||||
+cul65|Credo che l'attuale Standard Morale risieda lontano, all'Università di Byonne. Naturalmente deve riposare e dormire tra una pesatura e l'altra, ed è per questo che le case della pesa aprono solo in certi orari.||||
+p120|Perché un paese così piccolo ha bisogno di pesare le persone?||||
+cul66|Be', dato che ci troviamo ai ((margini)) del territorio dell'Unione Apostatica, in passato certi individui poco raccomandabili si sono approfittati di Pwyll. Mercenari come quelli della Stella Oscura nel forte laggiù, che ci hanno usati per contrabbandare merci di provenienza illecita in [[Hallowshire]] e oltre.||||
+cul67|Così, avere un Mastro Pesatore certificato aiuta Pwyll ad attirare mercanti rispettabili che comprino il nostro [[Tè di Fungoscrutatore]]. Dimostra che ci si può fidare di noi quando si tratta di pagare le tasse, capite?||||
+cul68|E non pesiamo ((soltanto)) le persone. Possiamo pesare anche funghi e grano. O, beh, praticamente qualsiasi cosa.||||
+p121|Basta parlare di pesature.||||
+cul69|C'era altro?||||
+p122|Allora me ne vado.||||
+cul70|Già, alla prossima.||||
+p123|Quindi vi serve aiuto per rintracciare gli adoratori degli dèi?||||
+cul71|<<Si sporge in avanti e abbassa la voce.>> ((Già.)) Ultimamente la gente ha paura, capite. Il terreno sta morendo e i raccolti calano. I mercanti vogliono comprare il nostro Fungoscrutatore più che mai, ma non riusciamo a soddisfare la domanda. Così alcuni hanno cominciato a flirtare con... le ((antiche)) usanze.||||
+p124|Che cosa rende tanto terribili le ((antiche)) usanze?||||
+cul72|<<Sospira.>> Sono passati quarant'anni dalla Guerra Divina. Quarant'anni da quando gli Apostatici dissero ai Wikkan e ai loro dèi di andare a ((farsi fottere)). ##Quarant'anni da quando io e i ragazzi conficcammo una lancia del Vuoto nell'occhio del nostro ((stesso dio)): Aenguin, quel crudele e violento ((bastardo)) di un dio.||||
+cul73|E in questi quarant'anni la gente ha dimenticato quanto si stesse ((male)) sotto quel tiranno divino e i suoi tirapiedi Wikkan. Certo, avevamo raccolti abbondanti e borse gonfie di monete. Ma ci portavano via figli e figlie, e il terreno veniva fertilizzato col loro ((sangue)).||||
+cul74|Ormai il nostro vecchio dio Aenguin è ((morto)) da parecchio. Ma dicono che, finché la gente continua a ((credere)), una parte di un dio possa sopravvivere. Così si ((mormora)) che qualcuno stia cercando di... riportarlo ((in vita,)) e noi altri ce la stiamo facendo sotto.||||
+p125|Sentite, ditemi soltanto che cosa vi serve.||||
+cul75|D'accordo, vado dritto al punto. Come sapete, adorare gli dèi e avere a che fare con i Wikkan o con le loro divinità è un crimine efferato; ma ho motivo di credere che qualcuno tra noi vi si stia rivolgendo per rimediare ai magri raccolti.||||
+cul76|Il guaio, in un paese così piccolo, è che ci conosciamo tutti e i colpevoli non parleranno con ((me)). Ma con ((voi))? Siete un forestiero e, per giunta, un ((agente)) dell'Inquisizione.||||
+cul77|Ho bisogno che [[facciate domande in giro]], cercando eventuali [[simpatizzanti Wikkan]] nascosti tra noi, così potremo risolvere la faccenda in modo ((discreto)) prima che gli abitanti comincino a mozzarsi la testa a vicenda in preda alla frenesia. ##Scoprite qualcosa e vi consegnerò un [[Passaporto dell'Unione Apostatica]] che vi consentirà di raggiungere Hallowshire.||||
+p126|D'accordo, vedrò che cosa posso fare.||||
+cul78|<<Sospira, sollevato.>> Vi sono ((grato)), nuovo arrivato. Solo... appena scoprite qualcosa che non quadra, fatemelo sapere, chiaro?||||
+p127|Ho capito tutta la faccenda che riguarda il ((dio)), ma che cosa ((è)) esattamente un Wikkan?||||
+p128|Ci penserò.||||
+cul79|<<Sospira.>> Sentite... se venite a sapere qualcosa che non quadra, fatemelo sapere, chiaro?||||
+p129|A proposito di questi adoratori degli dèi...||||
+cul80|<<Si avvicina.>> Avete scoperto qualcosa?||||
+p130|Che cosa rende tanto terribili le antiche usanze, esattamente?||||
+p131|Sapete a chi dovrei chiedere?||||
+cul81|<<Si accarezza il mento.>> Be', potreste provare con il nostro sindaco, Olwen, ma... a essere sincero, ha così spesso la testa fra le nuvole che dubito sappia che cosa succede ai suoi concittadini.||||
+cul82|Ma visto che l'intera faccenda è legata al commercio di funghi, proverei a fare domande alla [[Compagnia del Fungoscrutatore]] vicino al molo. Il proprietario, [[Dwynn]], avrebbe senz'altro molto da ((guadagnare)) con raccolti migliori...||||
+p132|A proposito di questi Funghi Sacri...||||
+p133|È tutto.||||
+cul83|Va bene.||||
+p134|Ho trovato prove del culto degli dèi a Pwyll.||||
+cul84|<<Si avvicina.>> Ah sì? ((Ditemi)) allora, su.||||
+p135|Ho visto qualcuno con indosso una veste, che si aggirava di notte.||||
+cul85|Mmh, è senz'altro molto sospetto, ma con una prova del genere, da sola, non posso fare nulla. Potete cercare di scoprire ((dov’era diretto?)) Se ((fosse)) davvero un Wikkan, dovrebbe esserci una specie di... ((rituale)), forse. Qualche segno che qualcuno stia cercando di riattivare il contratto...||||
+p136|Nelle caverne sotto Pwyll c'erano strumenti occulti.||||
+cul86|<<Per un momento fissa il vuoto oltre le tue spalle, perso nei pensieri.>> ##Può voler dire una cosa sola.||||
+cul87|Se qualcuno sta compiendo rituali attorno al cadavere di Aenguin, significa che cerca di riaprire il contratto di sangue. ##Ma fra quelle clausole si celava un ((costo terribile))... nientemeno che un [[sacrificio umano]].||||
+cul88|Ecco, prendete [[questa chiave]]. Aprirà la camera superiore del [[Fungo Sacro a ovest]].||||
+cul89|Quella [[chiave]] che avete trovato? Aprirà la camera superiore del [[Fungo Sacro a ovest]].||||
+cul90|Non ho alcun dubbio. Qualcuno viene portato al Fungo Sacro per essere metabolizzato, come impongono i termini del contratto. ##Dovete [[andare laggiù e ((salvarlo!))]]||||
+p137|Avete detto ((metabolizzato))?||||
+cul91|Un tempo c'erano Funghi Sacri in tutta Pwyll. Ognuno generava un'intera foresta di Fungoscrutatore, ma soltanto... soltanto se aveva metabolizzato di recente un essere umano.||||
+cul92|Non so se il Fungoscrutatore ((usi)) parte del corpo umano per produrre il proprio effetto, o se fosse tutto soltanto parte della ((beffa)) divina di Aenguin; ma so che un tempo era più potente.||||
+cul93|Ora è rimasto un solo Fungo Sacro, nel cuore della foresta di funghi a ovest. Tutti gli altri si sono avvizziti e sono morti quando abbiamo smesso di nutrirli con la carne.||||
+p138|Come faccio a entrare in questo... fungo?||||
+cul94|Be', dovrete attraversare la foresta di funghi. Non potrete non vederlo: probabilmente è il fungo più grande che abbiate mai visto.||||
+cul95|Visto che in passato lo usavano i Wikkan, ci sono porte e sentieri che salgono tutt'intorno al fungo. Le [[porte principali]] vi condurranno attraverso il gambo centrale, ma potrebbe esserci un'intera schiera di mostri feroci pronta a farvi a pezzi.||||
+cul96|Perciò potreste cercare un [[passaggio sul retro]]. Probabilmente sarà ben chiuso, ma da quella parte potreste dover combattere di meno.||||
+p139|D'accordo, farò del mio meglio.||||
+cul97|Conto su di voi, chiaro?||||
+p140|Sono stato al Fungo Sacro e ho scoperto che cosa sta succedendo.||||
+cul98|Avevo ragione? Era un ((sacrificio)) quello in corso?||||
+p141|Era Lludd. Si è sacrificato perché Pwyll prosperasse.||||
+cul99|<<Culwych indietreggia, sconvolto.>> Oh, no... non il povero ((Lludd))! Ero presente ((quando gli diedero il nome)), mi sono preso cura di quel ragazzo come se fosse... <<Le parole gli muoiono in gola.>>||||
+cul100|Oh, che ragazzo ((sciocco))! I raccolti non valgono il ((prezzo di sangue)) di Aenguin... non gliel'ho sempre insegnato?||||
+cul101|<<Sospira profondamente.>> Comunque, immagino che siate venuto a capo di ciò che stava succedendo, e per questo vi ringrazio.||||
+p142|Era Lludd. Ha cercato di sacrificarsi, ma sono riuscito a dissuaderlo.||||
+cul102|<<Culwych sussulta.>> Oh, che ragazzo ((sciocco))! I raccolti non valgono il ((prezzo di sangue)) di Aenguin... non gliel'ho sempre insegnato?||||
+cul103|Ma a quanto pare siete riuscito a ((fermarlo)) in tempo, nuovo arrivato, e per questo avete la mia più sincera gratitudine. Non è molto, ma come promesso...||||
+cul104|Ecco, prendete questo [[Passaporto dell'Unione Apostatica]]. Vi permetterà di attraversare il [[Ponte del Cancello a sud]], che conduce in [[Hallowshire]].||||
+cul105|Fate attenzione laggiù. Se pensate che i raccolti di Pwyll siano scarsi, non avete ancora visto ((nulla)) di simile. Hallowshire è in preda a una terribile carestia, e pare che i suoi abitanti e il nostro povero Lludd abbiano avuto certe... ((idee)) in comune.||||
+p143|Ho trovato antichità Wikkan nella cantina del sindaco Olwen.||||
+cul106|<<Si accarezza il mento e geme.>> State parlando di ((Olwen)) dunque? Possibile che...?||||
+cul107|<<Scuote la testa.>> Ma ci servirà qualcosa di più: in molte di queste vecchie case si trovano oggetti capaci di far arrossire un Wikkan. Non voglio trarre conclusioni affrettate, quindi ci serve ((altro.))||||
+cul108|Sapete, la gente da queste parti non è stupida. Scommetto che qualsiasi affare losco si svolga col [[favore delle tenebre]]. Perché non provate a [[riposare]] fino a notte? So che Dwynn [[affitta una stanza]] ai viandanti.||||
+olwen1|<<La donna siede a occhi chiusi, con un'espressione sofferente. Al collo porta vari medaglioni e collane, segno che ricopre una posizione importante qui a Pwyll.>>||||
+olwen2|<<Mormora tra sé:>> Le fiamme, oh, le ((fiamme))! Dobbiamo spegnere le ((fiamme))...||||
+p200|Ehm, va tutto bene?||||
+p201|((Non dire nulla)).||||
+olwen3|<<Continua a borbottare tra sé, scuotendo la testa da una parte all'altra, finché non si risveglia di soprassalto.>>||||
+olwen4|Ah! <<Ti fissa con frenetica intensità.>> ##Che cosa fate? Dovete ((andarvene)) subito! Il Nautilob vi ((brucerà vivo))!||||
+p202|Di che cosa state parlando?||||
+olwen5|Non riuscite a ((vederlo)) ergersi sopra le fiamme? Oh, che ((orrore...)) Dobbiamo...||||
+p203|Non c'è niente in fiamme, signora.||||
+olwen6|Sciocco, perfino ((voi)) state bruciando! Oh, la pelle che si scioglie dalle ossa! Dobbiamo...||||
+p204|Non il ((Nautilob))! E poi che cosa, il ((phlanganip))?||||
+olwen7|Voi ((scherzate)), ma il Nautilob Gigante non è affatto uno ((scherzo))! Che cosa credete abbia causato tutta questa devastazione? Dobbiamo...||||
+olwen8|<<Si interrompe a metà frase e sbatte lentamente le palpebre. Dopo un momento dice:>> ##...Non c'è niente in fiamme, vero?||||
+p205|No.||||
+p206|Scherzate? Sono carbonizzato.||||
+olwen9|Oh, che situazione ((imbarazzante))! Sono terribilmente dispiaciuta, mi avete sorpresa nel bel mezzo di una divinazione. ##Mi chiamo [[Olwen]], sindaco di questo umile villaggio di Pwyll. Lieta di conoscervi.||||
+p207|Avete detto ((divinazione))? Moriremo?||||
+olwen10|<<Ridacchia nervosamente.>> Oh, per i Regni Celesti, niente affatto! C'è soltanto una concreta ((possibilità)) di finire bruciati vivi.||||
+p208|Le droghe allucinogene rientrano nei vostri doveri di sindaco, oppure...?||||
+olwen11|<<Ti guarda sbattendo le palpebre.>> Beh... ma ((certo))! Le droghe allucinogene sono la nostra principale esportazione qui a Pwyll. Sarebbe negligente da parte mia non farne uso!||||
+p209|Piacere di conoscervi.||||
+olwen12|<<Fa un breve inchino.>> Grazie per la comprensione. Sono alquanto in ansia per il futuro, come avrete senz'altro notato...||||
+olwen13|Vedete, mi si è presentato un vero ((dilemma)). Non è davvero ((nulla)) di cui preoccuparsi, quindi vi prego di non fare storie! Ho tutto ((perfettamente)) sotto controllo.||||
+olwen14|Mi stavo semplicemente concedendo una meditazione col Fungoscrutatore per divinare quale minaccia questo [[mostro gigante]] potesse rappresentare. E, ehm, a quanto pare non è affatto un grosso problema. <<Deglutisce.>>||||
+p210|Aspettate, che storia è questa del ((mostro gigante))?||||
+olwen15|Oh, dunque non lo sanno tutti? <<Sembra sinceramente sollevata.>>##Pensavo che ormai ne parlasse tutto il paese...||||
+p211|Quanto sono ((affidabili)) queste divinazioni?||||
+olwen16|Oh, qui a Pwyll andiamo fieri del fatto che le nostre divinazioni col Fungoscrutatore siano ((sempre)) affidabili. Tranne, ehm, quando non lo sono. ##A volte la droga può esasperare le speranze e le paure di chi la usa, rendendo la visione più... ((fantastica)) che profetica.||||
+p212|Be', sembra che abbiate la situazione saldamente sotto controllo.||||
+olwen17|Aspettate! ##<<Urla la parola, poi ride nervosamente.>> Ecco, quando ho detto che non è un problema ((così)) grave, forse ho, ehm, indorato un po' la pillola...||||
+olwen18|Vedete, una piccola banda di mercenari ha avanzato certe, ehm, pretese. No, non intendo i mercenari della Stella Oscura di Vela: questi sono molto meno, ehm, ((capaci)) e ciò rende ancora più sconcertante che siano riusciti a procurarsi un [[Nautilob Gigante]].||||
+p213|Che cos'è esattamente un Nautilob?||||
+olwen19|<<Fa un gesto noncurante con la mano.>> Un semplice mollusco dei Regni Celesti, comune da queste parti: si riconosce facilmente dal guscio. Ma non avevo la minima idea che potesse diventare ((così grande))!||||
+p214|Quindi volete il ((mio)) aiuto?||||
+olwen20|Oh, ((no))! Non ho mai detto nulla del genere: da sindaco di questo luogo, ho tutto perfettamente sotto controllo. ##<<Socchiude gli occhi.>> Naturalmente, detto questo...||||
+olwen21|Quei mascalzoni di mercenari mi minacciano con il loro enorme Nautilob. Dicono che saccheggeranno il paese se non accetterò le loro assurde richieste. Non voglio ((davvero)) scatenare il panico tra gli abitanti, quindi non so proprio che pesci prendere.||||
+olwen22|Ma se ((qualcuno)) riuscisse a introdursi di nascosto nella loro fortezza a [[sud-est]], e a scoprire se questo [[Nautilob]] avesse qualche [[punto debole]] da sfruttare... be', diciamo soltanto che quella persona si guadagnerebbe senz'altro il mio favore.||||
+p215|Vedrò che cosa posso fare.||||
+olwen23|<<Ti rivolge un sorriso scaltro.>> Molto bene. ##Ora, c'era altro?||||
+p216|E se quei mercenari dovessero ((sparire?))||||
+olwen24|Oh! Be', sarebbe una vera tragedia. L'idea che altro sangue venga versato sul suolo di Pwyll è un ((orribile)) pensiero.||||
+olwen25|<<Socchiude gli occhi.>> Ma naturalmente ((risolverebbe)) piuttosto bene il nostro problema, non trovate? E con così pochi fondi per assoldare delle guardie sarebbe ((terribilmente)) difficile catturare l'autore di un simile crimine...||||
+olwen26|<<Sorride all'improvviso.>> Oh, ma non badate a me! Sto solo pensando ad alta voce. Ora, c'era altro?||||
+p217|Non voglio avere niente a che fare con tutto questo.||||
+olwen27|<<Fa l'occhiolino.>> Oh, ((certo)) che no. Non mi sognerei mai di proporvelo! ##Ora, c'era altro?||||
+olwen28|Ah, siete tornato. <<Sospira.>> Credo di avere qualche minuto per parlare.||||
+p218|I mercenari dicono che non li avete mai pagati.||||
+olwen29|Be', non ho mai versato loro l'intera somma, no. Ma soltanto perché hanno combinato un ((orrendo)) pasticcio!||||
+olwen30|Li avevo assunti per eliminare alcuni Nautilob dalla foresta circostante. Sono riusciti a ucciderne appena ((tre)), poi hanno dovuto ritirarsi perché uno dei loro uomini è inciampato ed è caduto sulla propria lancia. Insomma, che razza di idioti ((sono))?||||
+p219|Non dovrete più preoccuparvi di quel Nautilob Gigante.||||
+olwen31|Oh, davvero? Ma questa è una ((splendida)) notizia! Vi prego, raccontatemi i dettagli...||||
+p220|Beh, ho ucciso il loro capo. Dubito che vi daranno ancora fastidio.||||
+olwen32|Ah. Oh. Oh cielo.||||
+olwen33|Insomma, è un bene che il problema sia stato risolto. Davvero un gran bene. Ma, giusto per essere perfettamente chiara, io non vi ho mai ((chiesto)) di uccidere nessuno, vero?||||
+p221|A dire il vero, avete lasciato intendere molto chiaramente che potevo farlo.||||
+olwen34|Ahah. Ah. Be', questa, caro, è ((la vostra interpretazione)) e basta. Chiudiamola qui, d'accordo?||||
+p222|Beh, non avete detto che non ((potevo)).||||
+olwen35|È un'interpretazione interessante della mia richiesta. Non parliamone mai più, d'accordo?||||
+p223|Oh, e un'altra cosa: quel Nautilob Gigante? Era un'illusione.||||
+olwen36|<<Un sorriso folle le si allarga sulle labbra.>> Oh! Ma è meraviglioso. Abbiamo massacrato un gruppo di mercenari e ora scopriamo che erano ((innocenti)).||||
+olwen37|Facciamo così: vi darò questa [[ricompensa]]. Una ricompensa davvero meritata per un lavoro davvero ben fatto. E, come ((parte)) della ricompensa, da ora non ne parleremo mai ((più)) per nessun motivo, d'accordo?||||
+olwen38|<<Il suo volto si fa mortalmente serio.>> Non ditelo. A. ((Nessuno)).||||
+olwen39|<<Si apre in un sorriso gioviale.>> Bene, allora è deciso, sì?||||
+p224|Il Nautilob era soltanto un'illusione.||||
+olwen40|Oh! Oh cielo! ((Davvero?))||||
+olwen41|...Non posso credere di non averci pensato! Quindi il paese è salvo? Non bruceremo vivi? Urrà!||||
+olwen42|In ogni caso, accettate questa [[ricompensa]] insieme ai miei più sentiti ringraziamenti. Oggi avete reso un grande servizio a Pwyll.||||
+p225|A proposito di questo Nautilob Gigante...||||
+olwen43|Oh, sì... sarà ancora ((lì,)) vero?||||
+p226|Sto cercando dei mercenari della Stella Oscura.||||
+olwen44|Oh, ((vi prego.)) Se sento un'altra parola su quei maledetti ((mercenari della Stella Oscura...)) <<Scuote la testa.>>||||
+olwen45|Pwyll ha sempre attirato la sua bella dose di malfattori: a quanto pare non sono soltanto ((poeti e orticoltori)) ad apprezzare la solitudine della campagna...||||
+olwen46|Ma quando quella spregevole ((Vela Callose)) si trasferì qui con i suoi compari, non ((credereste)) che razza di farabutti si misero a pavoneggiarsi su e giù per le nostre idilliache strade acciottolate. ##<<Sospira.>> E ora, come se non bastasse, l'((Inquisizione)) sta assaltando l'isola!||||
+olwen47|Perciò mi dispiace, ma se avete affari con quei furfanti non posso proprio aiutarvi. Forse avrete più fortuna con qualcun altro in paese.||||
+p227|Sapete se si pratica qualche forma di ((culto Wikkan)) da queste parti?||||
+olwen48|Culto degli dèi? A ((Pwyll))? Sicuramente no. Quasi tutti gli abitanti abbastanza anziani da aver vissuto quei tempi ricordano di aver ((esultato)) per la morte del vecchio dio Aenguin, dopo tutte le atrocità che aveva commesso.||||
+p228|Ho incontrato vostro figlio, Lludd.||||
+olwen49|Oh! Sì, il mio ((adorato)) ragazzo. Stava di nuovo bighellonando lungo il sentiero? Non riesco mai a convincerlo a dedicarsi agli ((studi)), per quanto ci provi...||||
+olwen50|<<Sospira.>> Ma non dovrei essere troppo severa con lui. A Pwyll non ci sono altri ragazzi della sua età, e i miei doveri di sindaco mi tengono ((così)) occupata... ##((Oh, questo mi ricorda che è quasi l'ora delle mie intonazioni rinvigorenti...))||||
+p229|A proposito di vostro figlio...||||
+olwen51|Oh, quindi ((siete voi)) il premuroso forestiero che ha salvato mio figlio? Davvero ((non potrò mai)) ringraziarvi abbastanza. Non so che cosa avrei fatto se lui...||||
+olwen52|<<Tira su col naso, con le lacrime agli occhi.>> So di essere un po' ((distratta)) a volte, ma soltanto perché voglio che Pwyll sia una ((casa)) perfetta per Lludd. Forse mi sono spinta troppo oltre, visto ciò che ha cercato di ((fare))...||||
+olwen53|Vi prego, voglio che abbiate la cosa più preziosa che possiedo...||||
+olwen54|...queste [[erbe curative]], provenienti dal mio giardino. Non c'è davvero nulla di più prezioso dei ((doni della natura)),||||
+olwen55|Oh, quindi avete saputo della sua... dipartita? <<Tira su col naso, con le lacrime agli occhi.>>||||
+olwen56|Non avrei mai immaginato che potesse ((fare)) una cosa simile. Tutto quello che ho fatto qui a Pwyll era per ((lui)). Perderlo così è semplicemente...||||
+olwen57|<<Si asciuga le lacrime.>> Mi dispiace, ma ho bisogno di un momento... da sola...||||
+p230|Avevo alcune domande su questo paese.||||
+olwen58|<<Sospira.>> Come sindaco di Pwyll sono naturalmente impegnata ((fino allo sfinimento)) eppure... <<Mormora tra sé.>> ...((La mia danza meditativa può aspettare.))||||
+p230b|Qual è la storia di questo posto?||||
+olwen59|Beh, prima della [[Guerra Divina]], Pwyll venerava una divinità di nome Aenguin. Devo ammettere che avvenne tutto ben prima del mio tempo, ma ho sentito dire che fosse particolarmente ((crudele)) e probabilmente è per questo che gli abitanti commisero deicidio, trafiggendo quel farabutto con una lancia del Vuoto.||||
+olwen60|Dopo la guerra, la fortezza vicina cadde in rovina e si rivelò la base perfetta per briganti e mercenari. Pwyll rimase invischiata in affari ((illeciti)) di ogni sorta, finché il precedente sindaco non fu imprigionato con l'accusa di estorsione...||||
+olwen61|Vedete, aveva sottratto un artefatto Wikkan e gli erano cresciuti sei arti, proprio mentre l'Inquisizione stava intensificando la lotta contro l'((estorsione)).||||
+olwen62|E fu allora che ((io)) mi trovai a passare di qui. Gli abitanti di Pwyll avevano deciso di scegliere il nuovo sindaco con una gara di orticoltura. Coltivai un piccolo giardino di ortensie inniche capaci di cantare in tre ottave, e ((la cosa)) finì ((lì)).||||
+olwen63|Oh, Pwyll ha una storia lunga e avvincente. Sapevate che, in tutta l'Unione Apostatica, abbiamo vinto ((di gran lunga)) il maggior numero di competizioni agricole per la ((qualità)) dei nostri prodotti? O che, benché piccole, le nostre coltivazioni di Fungoscrutatore possono rivaleggiare per resa con i frutteti di Byonne?||||
+olwen64|<<Fa un gesto con la mano.>> Oh, e poi c'è anche il dramma del [[terribile dio]] di Pwyll, ucciso dai suoi stessi fedeli; ma è successo tutto ben prima del mio tempo, quindi temo che dovrete rivolgervi al [[Mastro Pesatore Culwych]] per saperne di più.||||
+olwen65|Vedete, sono diventata sindaco di questo luogo quasi per ((caso.)) Mi trovavo a passare di qui proprio mentre gli abitanti eleggevano un nuovo sindaco, perché il precedente era improvvisamente finito in prigione per estorsione, anche se non del tutto ((inaspettatamente)) a dire il vero.||||
+olwen65b|La gara per diventare sindaco era una competizione di orticoltura. Coltivai un piccolo giardino di ortensie inniche capaci di cantare in tre ottave, e ((la cosa)) finì ((lì)).||||
+p231|Aspettate, quindi non siete davvero ((di)) Pwyll?||||
+olwen66|Oh, niente affatto. Provengo da una famiglia davvero piuttosto importante di Lundel e viaggiavo per le Isole Oniriche soltanto per sfuggire ai cicli stellari spaventosamente ((tetri)) che abbiamo laggiù.||||
+olwen67|Non posso dire che per un villaggio come Pwyll sia tradizionale eleggere una forestiera, ma credo che abbiano accolto l'idea piuttosto bene. Solo di tanto in tanto mi lanciano un Nautilob attraverso la finestra o inchiodano alla porta un incantesimo lassativo.||||
+p232|Va bene, ho capito.||||
+olwen68|C'era altro?||||
+p233|Sembrate piuttosto infatuata di questo tè allucinogeno.||||
+olwen69|<<Arriccia il naso.>> Il Fungoscrutatore di Pwyll non è soltanto ((allucinogeno)); immerge la coscienza nella corrente temporale. In altre parole, permette di ((vedere il futuro)).||||
+p234|Se è vero, perché non lo bevono tutti?||||
+olwen70|Beh, il nostro terreno è arido e i raccolti sono scarsi, quindi non riusciamo a soddisfare la domanda! C'è poi la questione, ((ehm)), della sua efficacia variabile...||||
+p235|Sembra potente.||||
+olwen71|Oh, è ((estremamente)) potente! Le visioni sono tanto intense che non si può certo biasimare chi crede che stiano ((davvero)) accadendo. Tuttavia... è importante interpretarle con un pizzico di cautela.||||
+olwen72|Vedete, non ((tutto)) ciò che il Fungoscrutatore predice si avvererà. Il cosmo è una trama di infinite possibilità e il futuro non è inciso nella pietra. Anche le speranze e le paure di chi lo assume possono ((contaminare)) la visione in, ehm, ((rari)) casi.||||
+olwen73|È anche noto per causare... <<Si schiarisce la voce, poi borbotta rapidamente le parole.>> ...((svenimenti, nausea, deliri di grandezza, ansia estrema, sopracciglia insolitamente folte, arti dotati di coscienza autonoma e morte)).||||
+olwen74|Ma è una ragione in più per usare il Fungoscrutatore ((responsabilmente)), non trovate? E fa ((davvero)) molto bene alla digestione.||||
+p236|Sapevate che nel vecchio forte c'era una banda di mercenari?||||
+olwen75|Beh, non sarei un gran sindaco se ((non)) lo sapessi, vi pare? Secondo la legge dell'Unione, le compagnie mercenarie sono organizzazioni perfettamente legali. Il problema è che tendono a dedicarsi a occupazioni ((illecite)) quando non c'è guerra.||||
+olwen76|Essendo tanto lontana dalla capitale Riova, Pwyll ha attirato ogni sorta di furfante nel corso degli anni. Non hanno mai causato ((troppi)) problemi, almeno finché non sono arrivati i mercenari della [[Stella Oscura]] di Vela. A giudicare dal loro comportamento recente, nessuno immaginerebbe che un tempo fossero i soldati di ventura più rispettati dell'Unione!||||
+olwen77|Sono certa che abbiate notato tutto quel trambusto proveniente dalla vecchia fortezza della Guerra Divina. L'Unione Apostatica ne ha finalmente avuto abbastanza, vedete. Era ora che dessero una lezione a quella ((Vela)), ma tutte quelle esplosioni stanno davvero sconvolgendo la mia routine mattutina.||||
+p237|Pensate che qualche mercenario della Stella Oscura possa nascondersi a Pwyll?||||
+olwen78|Be', siamo piuttosto abituati a vedere qualche gruppo di mercenari della Stella Oscura barcollare in paese per bere un bicchiere o dieci. Ma oltre a questo, non ne ho davvero la minima idea.||||
+olwen79|So che [[Nudd]] ha svolto qualche incarico per loro. Di solito lo trovate nel [[negozio locale]] e potreste provare a importunarlo... ehm, a ((chiedergli)) della faccenda.||||
+p238|Grazie della dritta.||||
+olwen80|<<Sospira.>> C'era altro?||||
+p239|Addio.||||
+olwen81|Arrivederci. L'uscita la trovate da solo, vero?||||
+p240|Ho trovato antichità Wikkan nella vostra cantina. Quelle di tipo ((illegale)), per intenderci.||||
+olwen82|<<Aggrotta la fronte.>> Prima di tutto, che cazzo ci facevate nella mia cantina? Vi ho accolto in casa mia come ((ospite)), non perché vi metteste a frugare fra i miei averi!||||
+olwen83|Quanto a quelle ((antichità)), le ha semplicemente lasciate qui il sindaco precedente. Io non ho assolutamente ((nulla)) a che fare con loro!||||
+olwen84|Ora, se volete scusarmi, credo sia il caso che vi leviate di torno.||||
+dwynn1|Ah! Benvenuto, benvenuto; accomodatevi su uno sgabello. Se cercate Fungoscrutatore, siete nel posto giusto. ##<<Si appoggia al bancone e protende verso di te un occhio sporgente.>> Sapete quale effetto il Fungoscrutatore ((produce)), nuovo arrivato?||||
+p300|Sì.||||
+dwynn2|Allora avrete sentito che mostra il ((futuro)). Ma, capite, la prospettiva mette certa gente ((a disagio)), perché teme ciò che potrebbe vedere. Io sono qui per dirvi che non funziona ((così)).||||
+p301|No.||||
+dwynn3|Be', dove avete tenuto ficcata la testa? Il Fungoscrutatore vi mostra il vostro ((futuro)), in tutto il suo splendido fulgore!||||
+dwynn4|In tutta la Grande Biblioteca di Byonne non esiste incantesimo cifrato capace di fare ciò che fa il Fungoscrutatore. Vi immerge nel ((fiume)) del ((tempo)), così potete vedere le anse e le correnti che si precipitano verso di voi.||||
+dwynn5|Sapete come ho fatto crescere questa attività? Non con la ((fortuna)), amico mio, oh ((no)). Ho usato l'umile Fungoscrutatore per ((battere in astuzia)) i miei rivali, e ora la mia compagnia lo spedisce in ogni angolo dell'Unione Apostatica.||||
+dwynn6|Allora, che ne dite? Comprate?||||
+p302|Aspettate: queste visioni diventano sempre ((realtà))?||||
+dwynn7|<<Si agita un poco.>> Be', non posso dire che siano ((sempre)) esatte. Il futuro si può ((cambiare)), capite? E non mi riterrò responsabile delle sciocchezze che farete né dei fallimenti a cui andrete incontro dopo averne fatto uso.||||
+p303|Va bene, mi avete convinto: che cosa vendete?||||
+p304|A dire il vero, volevo farvi qualche domanda...||||
+dwynn8|<<Aggrotta la fronte, deluso.>> Hmph, d'accordo. Che cosa volete sapere?||||
+dwynn9|È sempre un piacere rivedere un cliente abituale. Che cosa posso fare per voi? Abbiamo del [[Tè di Fungoscrutatore]] in infusione e una [[stanza in affitto]] al piano di sopra.||||
+p305|Avete sentito le voci sugli ((adoratori degli dèi)) a Pwyll?||||
+dwynn10|<<Aggrotta la fronte.>> Sentite, è un'accusa bella pesante da lanciare così a casaccio. Che cosa state ((esattamente)) insinuando, ((nuovo arrivato))?||||
+p306|Fra tutti gli abitanti di Pwyll, siete ((voi)) quello che ha più da guadagnare con un raccolto migliore, no?||||
+dwynn11|Osate ((accusarmi)) di una cosa simile nel ((mio)) negozio? Statemi a sentire, nanerottolo: alcuni miei familiari si sono sacrificati a quel dio del cazzo perché noi potessimo essere qui oggi.||||
+dwynn12|Ricordo quando, da bambino, vidi mio zio, che mi aveva cresciuto come se fossi ((suo)) figlio, entrare nel Fungo Sacro e non tornare mai più. Se sapessi di ((qualcuno)) che si accompagna ai Wikkan, io... ((io...))||||
+p307|Non sto accusando nessuno; faccio soltanto una domanda innocua...||||
+dwynn13|E fate ((bene)) a non accusare nessuno. Sono abbastanza vecchio da aver perso parenti a causa di quel dio bastardo, come tanti altri qui attorno. Il solo pensiero che possa tornare mi gela il sangue.||||
+dwynn14|<<Sospira pesantemente.>> È vero, gli affari ((zoppicano)) da qualche tempo. Il terreno non è più quello di quando ero ragazzo, e ogni anno il raccolto si fa più scarso...||||
+dwynn15|Ma preferirei chiudere tutto e mendicare per le strade di Hallowshire piuttosto che sottomettere di nuovo Pwyll a quel dio tiranno.||||
+dwynn16|<<Abbassa la voce fino a un sussurro.>> Se da queste parti ((ci fosse)) davvero gente che prega Aenguin — e non sto dicendo che ce ne ((sia)) — agirebbe col [[favore delle tenebre]], scommetto.||||
+dwynn17|Proprio ieri notte ho visto qualcuno [[aggirarsi nel buio]] mentre chiudevo bottega. Ora, se qualcuno [[riposasse fino al calar della notte]], potrebbe riuscire a vedere meglio...||||
+dwynn18|Ma non dirò altro sull'argomento. Quindi non chiedetemelo di nuovo, chiaro?||||
+p308|Sapevate che dei mercenari tengono un ((mostro)) fuori dal paese?||||
+dwynn19|<<Borbotta qualche imprecazione sottovoce.>> Ho sentito la stessa cosa da uno dei nostri mercanti abituali. Ha detto qualcosa su una bestia che fluttua sopra il vecchio forte...||||
+dwynn20|Sono di nuovo quei ragazzi delle Cipolle Marce, vero? Sono sempre dietro a qualche piano strampalato e intanto spaventano i miei soci commerciali!||||
+p309|Vorrei dare un'occhiata ai vostri servizi.||||
+dwynn21|Questo sì che mi piace sentirlo. Ho una teiera di [[Tè di Fungoscrutatore]] in infusione e anche qualche altra cianfrusaglia, se vi servono provviste. ##Al piano di sopra ho inoltre una [[stanza in affitto]] per due monete, se avete bisogno di riposare.||||
+p310|Vediamo che cosa avete in vendita.||||
+dwynn22|D'accordo, ecco che cosa abbiamo...||||
+p311|Voglio affittare la stanza.||||
+dwynn23|Grazie. È proprio su per quelle scale. ##Cercherò di non fare troppo baccano al mattino, quando prepariamo la merce.||||
+dwynn23b|Sì, è vostra per due monete.||||
+dwynn24|A quanto pare non avete le monete. Tornate quando ne avrete racimolate un po'.||||
+p312|Anzi, lasciamo perdere.||||
+dwynn25|Avete cambiato idea, eh? Be', c'è altro?||||
+p313|Ho qualche domanda per voi.||||
+dwynn26|Be', se volete sapere qualcosa del Fungoscrutatore, dovete chiedere a me. Lo coltivo e lo commercio da quando ero alto appena ((così)).||||
+p314|Come va il commercio del Fungoscrutatore?||||
+dwynn27|Oh, la domanda non è mai stata così alta. Tengo aperto questo negozio solo per rispetto verso il villaggio; in realtà guadagno vendendo funghi all'ingrosso ai mercanti. E questa roba va davvero a ruba.||||
+dwynn28|Al giorno d'oggi piazzisti, poeti e Polimati bevono questa roba da Lundel a Vena. Nelle sale da tè di Byonne, dame e gentiluomini vedono il proprio futuro dispiegarsi davanti ai loro occhi...||||
+dwynn29|Ma mentirei se dicessi che sono ((tutte)) buone notizie. Ultimamente i raccolti sono calati e ogni anno ne coltiviamo sempre meno. ##<<Abbassa la voce, improvvisamente cupo.>> Se mio zio fosse qui, saprebbe che cosa fare...||||
+dwynn30|Sapete, è la cosa più strana. Nei campi il Fungoscrutatore ha iniziato all'improvviso a spuntare come mai prima d'ora! Forse la fortuna di Pwyll sta cambiando...||||
+p315|Ho sentito che Pwyll ha una certa reputazione per il ((contrabbando))...||||
+dwynn31|<<Ti lancia un'occhiata furiosa.>> In tanti ne parlano. In tanti non sanno di che cosa ((parlano)) quando lo fanno.||||
+dwynn32|Certo, parecchi mercenari si sono stabiliti da queste parti. E sì, commerciamo con loro. Ma qui a Pwyll paghiamo le tasse proprio come ((chiunque altro)) nell'Unione. È anche per questo che il vecchio Culwych è andato a Riova a imparare il mestiere di Mastro Pesatore.||||
+dwynn33|<<Stringe gli occhi.>> E se avete ficcato il naso in giro e visto qualcosa che non vi piace, vi consiglio di ((tenere la bocca chiusa)). Non pago Nudd laggiù solo per quel bel faccino, sapete? Lui ((protegge)) i miei interessi commerciali. Chiaro?||||
+p316|C'è un posto dove posso comprare un Passaporto dell'Unione Apostatica?||||
+dwynn34|Solo i funzionari dell'Unione e i commercianti certificati possono rilasciarli. Dovete rivolgervi a [[Culwych, il nostro Mastro Pesatore locale]], che trovate alla casa della pesa, ma lui non li consegna al primo che passa.||||
+p317|Sembrate un mercante intraprendente. Ho delle ((monete)), e sono disposto a pagare...||||
+dwynn35|<<Socchiude gli occhi.>> Fate attenzione. State proponendo un affare ((illegale)) e discorsi del genere potrebbero farci marcire ((entrambi)) in una cella dell'Inquisizione...||||
+p318|@@Non preoccupatevi, potete fidarvi di me.||||
+dwynn36|%%<<Rimane in silenzio per un momento, fissandoti negli occhi.>> ##...D'accordo. Ma se ne fate parola con qualcuno, Nudd laggiù aggiungerà un nuovo paio di ((rotule)) alla sua collezione.||||
+dwynn37|Andate al mulino; c'è una porta chiusa a chiave che conduce alla cantina. [[Questa chiave]] vi farà entrare, e laggiù troverete una mia [[socia d'affari]] pronta a pensare al resto...||||
+dwynn38|Ora sparite dalla mia vista. Questa conversazione non l'((abbiamo)) mai avuta, chiaro?||||
+dwynn39|&&((Merda di calamaro)). Non mi fido del primo che varca la mia porta.||||
+p319|D'accordo, lasciamo perdere.||||
+p320|D'accordo, grazie.||||
+dwynn40|<<Annuisce.>> Altro?||||
+p321|Addio.||||
+dwynn41|<<Annuisce.>> Tornate quando volete.||||
+nudd1|<<L'uomo sorseggia il tè e ti studia attentamente.>> Una faccia nuova, eh? Se avete affari qui, parlate con Dwynn al bancone. È il proprietario dell'attività; io sono pagato soltanto perché tutto fili ((liscio)).||||
+p350|Non avete l'aria di essere come gli altri abitanti.||||
+nudd2|<<Lascia affiorare un sorriso sottile.>> Ma guarda, siete ((perspicace)), eh?||||
+p351|E come fate, esattamente, a far filare tutto liscio?||||
+nudd3|Be', sono dettagli di natura tale che non mi sentirei a mio agio nel discuterne... <<Beve un sorso.>> ...davanti a una tazza di ((tè)).||||
+nudd4|Sono un mercenario, vedete. Ho combattuto con i Serpenti di Byonne, la Guardia Nera di Lundel e, per un certo periodo, perfino con la ((Stella Oscura)).||||
+nudd5|E ora... <<Sorseggia il tè.>> ...proteggo gli interessi commerciali di questo distinto gentiluomo, niente di più. Quindi, vi prego, non fate caso a me.||||
+nudd6|<<Sorseggia il tè in silenzio.>> C'era altro?||||
+p352|Sapete se qui ci sono... ((adoratori degli dèi)) nascosti?||||
+nudd7|Ah, dunque il vecchio Culwych vi ha messo a caccia di aspiranti Wikkan? <<Sogghigna.>>||||
+nudd8|Preferisco davvero non immischiarmi in simili questioni. Ciò in cui crede la gente, legale o meno che sia, non mi riguarda. Dopotutto, non sono un uomo di legge.||||
+nudd9|<<Fa roteare per un momento il tè nella tazza.>> Naturalmente, è quasi superfluo dire che, se ((stessi)) cercando persone coinvolte in attività ((illecite)), probabilmente terrei d'occhio ciò che accade [[dopo il calar della notte]]. ##Ma sarebbe soltanto un'ovvietà.||||
+p353|Alcuni mercenari minacciano Pwyll con un Nautilob Gigante.||||
+nudd10|<<Lascia sfuggire una breve risata.>> Intendete quel gruppo di idioti fra le rovine? Non fatemi ((ridere)).||||
+nudd11|Prima di tutto, sono a malapena degni di chiamarsi mercenari. Il sindaco li aveva assoldati per eliminare dei mostri dalla foresta, un incarico insignificante, e lo spettacolo che hanno messo in scena era più da compagnia comica che da soldati di ventura professionisti.||||
+nudd12|Secondo, [[i Nautilob Giganti non esistono]]. O almeno, io ho navigato in lungo e in largo e non ho mai sentito parlare di uno più grande di una Limaccia da seta. Quindi l'idea che quei buffoni siano riusciti a ((catturarne)) uno è assurda.||||
+nudd13|Immagino che il sindaco vi abbia chiesto di indagare, mmh? Be', al vostro posto userei [[l'ingegno]] prima di sguainare la spada. Ho l'impressione che qui ci sia qualche trucco.||||
+p354|Quello che state bevendo è Tè di Fungoscrutatore?||||
+nudd14|<<Rimane in silenzio per un momento e si limita a bere un sorso.>> ##Già.||||
+nudd15|Ditemi, il vecchio Dwynn laggiù vi ha già propinato la storia di come avrebbe ((battuto in astuzia)) i suoi rivali in affari bevendo quella roba?||||
+p355|null||||
+nudd16|null||||
+nudd17|null||||
+p356|Sì.||||
+nudd18|<<Sogghigna.>> Lo immaginavo.||||
+p357|No.||||
+nudd19|<<Sogghigna.>> Allora mi dispiace avervi ((rovinato)) la storia.||||
+nudd20|La cosa buffa è che non lo tocca. È più che altro una... tattica di vendita, potremmo dire. Ogni volta che beve ((davvero)) Tè di Fungoscrutatore, tende a diventare piuttosto emotivo e... <<Sorride.>> ...a svuotare prematuramente l'intestino.||||
+nudd21|Vedete, il Fungoscrutatore sarà anche una droga popolare, ma per la maggior parte delle persone è ((soltanto)) questo. Un giochetto da festa o uno sballo veloce. La verità è che quasi nessuno riesce a ((vedere il futuro)) bevendolo. L'effetto psichedelico del fungo è così potente che ogni premonizione si perde nella fantasia.||||
+nudd22|Ma le premonizioni ((ci sono)) eccome. Servono soltanto una dose bassa e un occhio... allenato. Ecco perché, se, per ((esempio)), cercaste di afferrare la spada proprio adesso, avrei il mio ((coltello alla vostra gola)) prima che ve ne accorgeste.||||
+nudd23|<<Sorride cordialmente.>> Ora, c'era altro?||||
+p358|Raccontatemi del periodo in cui eravate mercenario.||||
+nudd24|<<Nudd reclina la testa e tamburella con le dita sulla tazza.>> Beh, da giovane viaggiai con varie compagnie mercenarie nel cuore dell'Unione Apostatica; avrei una storia o due da raccontare. ##Alla fine mi unii alla Stella Oscura qui a Pwyll, un nome che avete ((sicuramente)) già sentito.||||
+nudd25|Ma ultimamente ho lavorato come indipendente in queste [[Isole Oniriche]]; ho accettato incarichi di ogni genere prima di stabilirmi qui con Dwynn. Fra tutti i regni che ho visitato, queste isole ospitano alcuni dei luoghi più strani.||||
+p359|Sto cercando alcuni ex mercenari della Stella Oscura.||||
+nudd26|Be', come vi ho detto, un tempo navigavo con quella gente, fino all'[[ammutinamento]] che spinse molti di noi a ribellarsi all'ambizione sfrenata di Vela.||||
+nudd27|<<Stringe gli occhi.>> Ah, ((davvero?)) ##Allora sarà meglio che le vostre intenzioni siano ((fottutamente)) pacifiche, perché non è certo un segreto che anch'io sia un ex mercenario della Stella Oscura.||||
+nudd28|Naturalmente, non navigo con loro da ((anni.)) Me ne andai dopo l'[[ammutinamento]], quando fu chiaro che le ambizioni di Vela, un tempo così ((inebrianti)), avrebbero probabilmente finito per farci ((ammazzare tutti)).||||
+nudd29|<<Si schiarisce la voce.>> Beh, allora ((sputate)) il rospo. ((Chi)) state cercando, esattamente?||||
+p360|Do la caccia a Vela Callose.||||
+p361|Parlatemi di Vela Callose.||||
+nudd30|<<Ride di gusto.>> Ah, questa sì che è ((bella)). Avete intenzione di presentarvi dalla grande capa in persona e riscuotere la taglia dell'Unione, vero?||||
+nudd31|Ora, non fraintendetemi. Non ho mai ((conosciuto)) davvero quella donna: ero troppo in basso nei ranghi per brindare con lei. Ma sono venuto a sapere di alcune sue imprese e, be'...||||
+nudd32|...diciamo soltanto che non vorrete ((mai)) incrociare le lame con ((Vela Callose)).||||
+nudd33|Quanto a dove sia andata, non ne ho la minima idea, e non ve lo direi nemmeno se lo ((sapessi)). ##Quella donna sta portando avanti piani che non potrei neppure cominciare a comprendere e, per salvarmi la pelle, non intendo farmi coinvolgere in un tentativo di ((ostacolarla)) che potrebbe costarmi la vita.||||
+p362|Devo incontrare Jack Basalt.||||
+p363|Voglio sapere qualcosa su Jack Basalt.||||
+nudd34|Ah, il buon vecchio Jack? <<Sogghigna.>> Nell'Unione lo chiamano ancora la ((vergogna della Marina)), dopo che abbandonò grado e incarico per unirsi all'((allegra)) banda di Vela.||||
+nudd35|Quell'uomo era un ((demonio)) in battaglia: quando la sua voce tuonava sul ponte di un'Aeronave, con la spada levata, vi conveniva ((darle ascolto)) senza esitare...||||
+nudd36|Ma sottocoperta trovava sempre il tempo di bere con gli uomini al suo comando. Imparava i loro nomi, ascoltava i loro problemi: non ((tutti)) i capitani mercenari lo fanno.||||
+nudd37|Naturalmente, non so se fosse merito di un cuore gentile o della sua debolezza per i ((liquori forti)). Lasciatemi indovinare... vi incontrerete in una taverna, vero? ##<<Sorride.>>||||
+p364|Sto cercando l'Emberiana.||||
+p365|Vorrei sapere qualcosa sull'Emberiana.||||
+nudd38|Ah, ho servito sotto di lei sul [[Goblin Nero]]. Credo che il suo vero nome fosse [[Orlaith]], ma noi la chiamavamo soltanto ((capitano.))||||
+nudd39|Indossava sempre quell'antica [[Armatura Emberiana]], ed era affascinata da qualsiasi cosa le somigliasse. Ci fermavamo spesso in qualche vecchia rovina arrugginita perché potesse dare un'occhiata. ##Alcuni ragazzi si erano perfino convinti che ((fosse)) davvero un'Emberiana, rimasta in qualche modo in vita per centinaia d'anni.||||
+nudd40|Ho sentito che si trovava da qualche parte in [[Hallowshire]] ancora intenta a setacciare la campagna in cerca di reliquie coperte di ruggine. È sempre stata un tipo misterioso, quindi dubito che alloggi in una taverna, ma vi conviene chiedere agli abitanti di [[Hallow Town]] se l'hanno vista.||||
+p366|Devo trovare la Duchessa.||||
+p367|Che cosa sapete della Duchessa?||||
+nudd41|Ah, quella donna [[Eterna]]? A essere sincero, ho avuto pochi rapporti con lei. Era di antichissima stirpe reale ((e)) una maga del Cifro, il che ai miei occhi la rendeva ((doppiamente)) pretenziosa.||||
+nudd42|Ho sentito dire che possedeva una sorta di [[dimora ancestrale]] nel [[Regno Eterno.]] Sono stato su quelle isole solo una o due volte, quindi dovrete chiedere in giro nella città di [[Sepolcro]] se volete saperne di più.||||
+p368|Conoscete Caxton Frost?||||
+nudd43|Oh, quell'eccentrico? Bello e ((chiaramente)) geniale? Faceva parte della cerchia ristretta di Vela, quindi gli parlai una sola volta, e di quella notte ho ricordi un po' ((confusi)).||||
+nudd44|Eravamo al Boccale Barcollante e parlò per ore delle sue teorie sull'ingegneria Emberiana. A fine serata si mise a cantarmi canzoni della sua Kardova natale, vale a dire il nome con cui il [[Regno Meccanico]] era noto in passato.||||
+nudd45|Non ho più sentito nulla di lui dall'ammutinamento. Se non è morto nello scontro, forse è tornato nel [[Regno Meccanico]], anche se ultimamente quel posto è blindato.||||
+nudd46|Qualche ciclo stellare fa accettai un incarico per contrabbandare Visioni in Bottiglia da laggiù. Mi affidai a un tipo di nome [[Mikhail]] che mi traghettò, ma fu un lavoro fottutamente pericoloso: non ve lo consiglierei senza un ottimo motivo.||||
+p369|Era tutto ciò che volevo sapere.||||
+p370|Basta parlare dei mercenari della Stella Oscura.||||
+nudd47|<<Tiene la tazza di tè vicino al petto e non dice nulla.>>||||
+p371|Allora me ne vado.||||
+nudd48|<<Sorride educatamente, ma non dice nulla.>>||||
+nudd50|Bene. E voglio essere chiaro: non avete saputo nulla di tutto questo da ((me)), ci siamo capiti?||||
+onion1|Fermatevi lì! Questa è la prestigiosa sede della compagnia mercenaria delle [[Cipolle Marce]]. Nessuno può passare senza l'autorizzazione del nostro capitano, [[John Birdbark]].||||
+p400|Che razza di nome è ((Cipolle Marce?))||||
+onion2|È un ((signor nome)), sappiatelo! Birdbark è un rinomato studioso e mago da battaglia, oltre che il nostro capitano. Secondo il ((suo)) ragionamento, è un nome pensato per incutere ((timore)) nei nemici.||||
+p401|E ((questo)) come dovrebbe funzionare?||||
+onion3|Be'... è semio... ehm, semiott... ((semiotica)), capite? Tipo le parole, quello che significano e roba così?||||
+p402|Sì, ma perché le cipolle dovrebbero incutere timore nei vostri nemici?||||
+onion4|<<La guardia inclina la testa e si gratta la mascella.>> Beh, alla gente le cipolle non ((piacciono)) affatto, capite? Fanno piangere. E quelle marce sono anche ((peggio)).||||
+p403|Lasciamo perdere, mi arrendo.||||
+onion5|<<La guardia annuisce, evidentemente soddisfatta.>>||||
+p404|Giusto. Sì. ((Certo)).||||
+onion6|<<La guardia annuisce, evidentemente soddisfatta.>>||||
+p405|È un nome stupido.||||
+onion7|<<La guardia sembra visibilmente ferita.>> B-b-beh, non ((dovete)) per forza pensare che sia un nome intelligente. Vi pugnaleremo lo stesso.||||
+p406|Che cos'è quel mostro gigante?||||
+onion8|Oh, è un [[Nautilob Gigante]]. Fa parecchia ((paura)), eh? <<Si avvicina e ridacchia, ma non riesci a cogliere la battuta.>>||||
+onion9|Vedete, il [[sindaco di Pwyll]] ci ha assunti per un lavoro, ma si rifiuta di pagare. Quindi saccheggeremo il paese se non ci sgancia le monete.||||
+p407|Ho trovato il registro che volevate.||||
+onion10|Davvero? Datemelo! ##<<Sfoglia rapidamente le pagine del registro.>> Sì, sembra proprio quello giusto. Accidenti, il capitano ne sarà felicissimo!||||
+onion11|Be', ora potete passare. Avvertirò i ragazzi che siete a posto.||||
+p408|Voglio entrare nel vostro quartier generale.||||
+onion12|Beh, non potete. <<Si gratta la mascella.>> A meno che... non ci procuriate il [[registro del sindaco]].||||
+p409|Che storia è questa del registro?||||
+onion13|Beh, il sindaco di Pwyll ci ha assoldati per eliminare alcuni mostri dalla foresta di funghi. Certo, abbiamo incontrato qualche ((difficoltà)), ma un lavoro è un lavoro. E lei non ci paga!||||
+onion14|Così il capitano pensa che, se rubiamo il suo [[registro]], avremo le prove e potremo portarle alla Corte del Cavolo di Riova.||||
+p410|Corte del ((cavolo))?||||
+onion15|Già. È un tipo di contorno.||||
+p411|Credo che intendiate ((corte di giustizia)).||||
+onion16|<<Ti lancia uno sguardo furioso.>> So che cosa intendevo, ((amico)). La Corte del Cavolo di Riova.||||
+p412|Lasciamo perdere.||||
+onion17|<<Annuisce vittoriosamente.>>||||
+p413|E come posso procurarmi questo registro?||||
+onion18|Beh, io mi intrufolerei [[di notte]] mentre il sindaco dorme, naturalmente. Poi riportatemelo e diventerete ufficialmente un amico delle Cipolle Marce.||||
+onion19|@@Sono un grandissimo ammiratore delle Cipolle Marce. Mi ((piacerebbe da morire)) vedere dove lavorate.||||
+onion20|%%<<Sembra lusingato.>> Avete sentito parlare di noi? Davvero? ##<<Riflette un momento.>> Be', siete uno solo, quindi una rapida occhiata non può fare danni...||||
+onion21|D'accordo, potete entrare.||||
+onion22|&&Ah! Non casco in ((questa)) trappola. ##...ehm, almeno non ((un'altra volta)), comunque.||||
+p414|Beh, forse entrerò e basta.||||
+onion23|F-f-fermatevi! Se ((entrate)) così, non avrò ((altra scelta)) che... ehm... abbattervi! Quindi non provate a fare nulla di stupido, d'accordo?||||
+p415|D'accordo, ho capito.||||
+onion24|<<Annuisce.>>||||
+p416|Va bene, me ne vado.||||
+onion25|Di nuovo qui, amico? Entrate pure.||||
+onion26|Maledizione agli dèi. Qualche idiota si è lasciato sfuggire che il nostro mostro gigante è soltanto un ((pallone incantato)), quindi a quanto pare a cena avremo ancora cuoio di stivale.||||
+onion27|Beh, al momento il capitano non si preoccupa molto della sicurezza, visto che passa il tempo a piangere nelle sue stanze, quindi direi che potete entrare.||||
+onion28|<<Ti rendi conto che il>> [[Registro]] <<è scomparso dalle tue tasche. Che strano...>>||||
+onionCap1|Hmph, non ricordo di aver autorizzato visite! Sono il prestigioso capitano della compagnia mercenaria delle Cipolle Marce, John Birdbark, e ((non)) ricordo affatto di avervi convocato nelle mie stanze.||||
+onionCap2|Hmph, siete ((voi)) di nuovo.||||
+p450|Ho dato alla vostra guardia il registro del sindaco.||||
+onionCap3|Ah, quindi eravate ((voi))? Splendido, splendido! Sarà ottimo combustibile per il mio camino.||||
+p451|Aspettate, non avete intenzione di ((farci)) nulla?||||
+onionCap4|Be', ho raccontato alla compagnia una storiella sulla possibilità di ottenere un ((risarcimento)), o qualcosa del genere. Ma in realtà volevo soltanto causare a quel dannato sindaco un notevole ((fastidio)). Oh, vorrei vedere la sua faccia: dev'essere ((lievemente irritata)) a quest'ora!||||
+p452|Ehm... nessun problema.||||
+onionCap5|Ora, avete intenzione di... andarvene?||||
+p453|Volevo chiedervi di quel mostro gigante.||||
+onionCap6|Mmh, oh sì! La trovate alquanto ((spaventosa)) anche voi, eh? Sono certo che stia costando una o due notti insonni a quel deplorevole sindaco. <<Ridacchia.>>||||
+onionCap7|@@E come avete fatto a procurarvi una bestia simile, eh? Potete dirmelo.||||
+onionCap8|%%Beh... Mmh... d'accordo, sembrate una persona fidata.||||
+onionCap9|La parte davvero ((ingegnosa)) è questa: in realtà non è affatto un mostro! È soltanto un pallone gigante su cui abbiamo lanciato un incantesimo d'illusione. ((Geniale)), no?||||
+onionCap10|Oh, non ho la minima intenzione di saccheggiare il paese. A dire il vero, non sono sicuro che i miei uomini riuscirebbero a saccheggiare un ((asilo nido)). Ma magari li spaventeremo abbastanza da farci dare qualche moneta, eh?||||
+onionCap11|&&Hmph! Beh... una signora non rivela mai i propri segreti. <<Fa l'occhiolino.>>||||
+p454|A proposito di altro...||||
+onionCap12|Oh, ((fate)) in fretta...||||
+p455|Che razza di nome è Cipolle Marce, comunque?||||
+onionCap13|Be', un nome ((terribile)) naturalmente. Il nome precedente si rivelò un ((insulto)) piuttosto pesante a Slev, quindi dovemmo inventarne in fretta uno nuovo in una taverna. Io proposi il nome ((Galeone Dorato)) e mi parve che fosse accolto piuttosto bene.||||
+onionCap14|Ma a quanto pare gli uomini mi avevano frainteso completamente nel frastuono della taverna. Il giorno dopo tutti si congratulavano con me per l'eccellente nome «Cipolle Marce». E quando un'idea entra nella testa di quei buffoni, è ((molto)) difficile tirarla fuori.||||
+p456|Scusatemi, me ne vado subito...||||
+onionCap15|Sì, se ((non vi dispiace!))||||
+onionGrunt1|Vedete quel Nautilob Gigante lassù...? Mi rende fiero di definirmi una ((Cipolla Puzzolente.))||||
+onionGrunt2|...come dite? No, sono sicuro che si chiami ((Cipolla Puzzolente)) e credo di conoscere il nome della ((mia)) compagnia mercenaria!||||
+onionGrunt3|La gente parla sempre di quelli della ((Stella Oscura)) e della loro ((Vela Callose.)) Ma un giorno... un giorno parleranno delle ((Cipolle Marce!)) E del nostro... ((nostro))...||||
+onionGrunt4|((Oh dèi. Come si chiama il nostro capo?))||||
+onionGrunt5|Queste vecchie fortezze della Guerra Divina sono proprio strane, con tutta questa roba fatta di metallo. Secondo me, scatole e barche dovrebbero essere di ((legno.))||||
+onionGrunt6|Dèi, mi fanno male i piedi a forza di pattugliare tutto il giorno. E poi chi dovrebbe venire a derubarci? Siamo al verde!||||
+onionGrunt7|Avrete anche incantato gli altri, ma io vi tengo d'occhio.||||
+emyr1|<<Il bracciante siede senza far nulla, osservando i funghi.>>||||
+p501|Giornata impegnativa?||||
+emyr2|<<Fai sobbalzare il bracciante.>> Mmh? Oh, Emyr non stava battendo la fiacca, oh no! È solo che... ultimamente non c'è molto da fare, visto lo scarso raccolto di funghi.||||
+emyr3|Ogni anno i raccolti diventano sempre più scarsi. Dwynn dice che andrà tutto bene, ma non credo che nemmeno ((lui)) ci creda.||||
+emyr4|L'ultima volta che ho preso del Fungoscrutatore, ho visto Pwyll spoglia e arida, con tutte le case in rovina. A dire il vero, se non ((facciamo)) qualcosa, non credo che questo paese abbia molto futuro...||||
+p502|Avete sentito parlare di adoratori degli dèi da queste parti?||||
+emyr5|<<Diventa improvvisamente nervoso.>> Emyr non sa niente, chiaro? Se mi beccano a parlare di roba simile, Culwych mi metterà su quelle sue bilance spaventose...||||
+p503|Vi lascio al vostro lavoro.||||
+emyr6|<<Torna a fissare i funghi.>>||||
+emyr7|Quindi avete impedito a Lludd di sacrificarsi, eh? Devo ammetterlo, una parte di me è sollevata.||||
+emyr8|Quindi l'ha ((fatto)) davvero, eh? Lludd si è sacrificato per il bene di Pwyll. Devo ammettere che sono contento che il villaggio sia salvo e tutto il resto, ma sapere che Lludd non c'è più non mi fa stare bene. Per niente bene.||||
+emyr9|Devo confessare che... ero io sotto le vesti Wikkan, a celebrare il rituale Wikkan. Era tutta roba che avevamo trovato nella cantina del sindaco: vecchi oggetti di prima della guerra e cose simili.||||
+emyr10|Volevo salvare il villaggio e tutto il resto, ma a Lludd ho chiesto se voleva ((davvero)) farlo, capite? Non ho mai voluto che qualcuno ((morisse)) per questa faccenda.||||
+emyr11|Solo... non parlate di me al vecchio Culwych, va bene? Non sapevo davvero in che cosa mi stavo cacciando. Non voglio marcire in una cella...||||
+emyr12|<<Nell'oscurità e sotto un cappuccio così spesso, non riesci a distinguere il volto della persona.>> ##State ((alla larga)) da me, chiaro? Non dovreste ((essere)) qui. Avvicinatevi ancora e giuro che ve ne pentirete...||||
+ghutrid1|Hmph, e questo cos'è: ((un altro)) che piomba qui? Credevo di aver ((detto)) a Dwynn di non dare una chiave a ogni Respirante che passa.||||
+ghutrid2|<<Emette un sospiro roco.>> Sentite, sono certa che sappiate già come funziona, ma... parlate con ((chiunque)) della nostra piccola attività di contrabbando e vi ritroverete una lama nella pancia. <<Le labbra lacerate si piegano in una parodia di sorriso.>> ##Capito?||||
+ghutrid3|<<Batte le mani.>> Bene, finite le ((cortesie)), ditemi: che cosa volete? Cercate di smerciare qualche merce o volete un [[Passaporto dell'Unione Apostatica?]]||||
+ghutrid4|Di nuovo voi, eh? Be', che cosa volete?||||
+p550|Fatemi vedere che cosa avete in vendita.||||
+ghutrid5|<<Annuisce.>> E ((ovviamente)) non l'avete avuto da me, giusto?||||
+p551|Sembrate un po'... malridotta.||||
+ghutrid6|Che c'è, non avete mai visto un'[[Eterna]] prima d'ora? ##<<Tossisce.>> Scommetto proprio di no.||||
+ghutrid7|Be', mi chiamo Ghutrid e ho seicento e rotti anni. Perdonatemi se non ricordo il numero ((esatto)), perché gli ultimi cento sono stati un po' una ((palla.))||||
+ghutrid8|Comunque, non sono una dannata emissaria del [[Regno Eterno]]. Da Pwyll potete vedere i suoi alberi marci e le guglie dei mausolei, quindi se volete ((davvero)) conoscere le ((delizie)) della vita eterna in una tomba polverosa, potete farci un salto.||||
+p552|I vostri Passaporti dell'Unione Apostatica funzionano?||||
+ghutrid9|Beh, se ((non funzionassero)), non ve lo direi certo adesso, no? ##Facciamo così: se il tizio al Ponte del Cancello capisce che è un falso, verrò a farvi una visita amichevole nella vostra cella dell'Inquisizione. Soddisfatto?||||
+ghutrid10|Quindi, se ne volete uno, date un'occhiata alla [[mia merce.]]||||
+p553|Che cos'è quel portale sul retro?||||
+ghutrid11|<<Sorride.>> Ah, un vecchio cimelio di famiglia, diciamo. A noi Eterni piacciono gli specchi-portale, anche se spesso conducono nel buco del culo di un mausoleo. ##Ho pensato di fare ((buon uso)) di una coppia e ho avviato questa piccola collaborazione con Dwynn.||||
+ghutrid12|Quello conduce direttamente alla [[Borsa Perduta]] di [[Hallow Town]]. Diciamo soltanto che la gente laggiù condivide una certa avversione per le tasse dell'Unione. <<Ridacchia.>>||||
+ghutrid13|Solo che tengono la stanza sbarrata dall'altro lato, a meno che non ci sia una consegna, quindi non mettetevi a ficcare il naso.||||
+p554|Me ne vado.||||
+ghutrid14|Bene. E non una parola a nessuno, chiaro?||||
+mechFarmer1|Fermatevi lì! <<L'uomo punta contro di te una spada particolarmente arrugginita.>>##Non starete... ((ticchettando)), vero? Niente arti metallici? Giunti che perdono?||||
+p601|Perché dovrei... ((ticchettare))?||||
+mechFarmer2|Perché potreste essere un ((congegno meccanico)), nascosto sotto la ((pelle)) di una persona! ##<<Ansima e ti guarda sbattendo le palpebre.>>||||
+mechFarmer3|Beh, non guardatemi come se fossi ((matto!)) È un sospetto perfettamente ragionevole!||||
+p602|Sì! In realtà sono un ((orologio.))||||
+mechFarmer4|<<L'uomo sussulta.>> Ah! Lo sapevo! Questi congegni diabolici diventano ogni giorno più bizzarri!||||
+mechFarmer5|<<L'uomo si avvicina e ti punzecchia più volte con un dito.>> Mmh.||||
+p603|Giù le mani, vecchio!||||
+mechFarmer6|Siete in casa ((mia)) e faccio quel che mi pare e piace. ##<<Ti fissa accigliato per un momento.>>||||
+p604|((Lasciarlo continuare.))||||
+mechFarmer7|<<Ti punzecchia ancora qualche volta.>> Mmmmmh.||||
+mechFarmer8|Gah! Be', devo ammettere che non ((sembrate)) una macchina assassina senza cervello di quel maledetto [[Regno Meccanico]]. È solo che, da quando sono cominciati gli [[attacchi]], sono piuttosto nervoso.||||
+p605|Parlatemi del Regno Meccanico.||||
+mechFarmer9|Queste [[Isole Oniriche]] ospitano un certo [[Regno Meccanico]], direttamente a [[est]] di questo paesino di Pwyll.||||
+p606|Che cos'è questa storia del ((Regno Meccanico?))||||
+mechFarmer10|Hmph, siete nuovo da queste parti? Queste [[Isole Oniriche]] ospitano un certo [[Regno Meccanico]], direttamente a [[est]] di questo paesino di Pwyll.||||
+mechFarmer11|Per un po' sono stati dei vicini tutto sommato accettabili, a parte quelle fastidiose fabbriche che vomitavano fumo e le sporadiche esplosioni che scuotevano violentemente l'intera isola.||||
+mechFarmer12|Ma la gente dice che il loro Re Meccanico sia impazzito, e ora alcuni dei loro aggeggi e marchingegni varcano il confine e devastano i miei raccolti.||||
+p607|Avete detto che vi stanno attaccando?||||
+mechFarmer13|<<Sospira.>> Già. Mostruosità meccaniche. ##<<Ti guarda accigliato.>> E non ((ridete))! Dico sul serio!||||
+mechFarmer14|Arrivano da est, dove sta nevicando. La cosa strana è che da queste parti non ((nevicava)) mai.||||
+mechFarmer15|All'inizio erano soltanto cosetti piccoli. Ma ultimamente un [[enorme bastardo di metallo]] ha preso a ((curare)) i miei funghi con le sue armi. Se provo a scacciarlo, mi attacca!||||
+p608|Credo di essermene già occupato.||||
+mechFarmer16|<<Spalanca gli occhi.>> ((Davvero?)) E io che pensavo che chiunque fosse abbastanza ((sciocco)) da provarci sarebbe stato fatto a pezzettini! <<Ridacchia.>>||||
+p609|Potrei provare a spegnerlo per voi.||||
+mechFarmer17|Lo fareste? Oh, ve ne sarei davvero grato. Se ci riusciste, ci sarebbe qualche [[moneta]] per voi.||||
+mechFarmer18|La macchina sembra aggirarsi sulla [[montagna innevata a est]]. Il modo più semplice per occuparsene sarebbe [[farla a pezzi]], ma... la sua [[Armatura]] devierà ogni colpo che non sia [[abbastanza forte.]]||||
+mechFarmer19|Quindi forse c'è un modo per spegnerla? Un paio di sospette [[casse da trasporto]] sono cadute nella [[foresta qui intorno]].||||
+p610|Beh, buona fortuna, vecchio.||||
+mechFarmer20|<<Sbuffa.>> Già, e ne avrò bisogno.||||
+p611|Potete parlarmi della macchina che vi sta tormentando?||||
+p612|Devo andare.||||
+mechFarmer21|<<Annuisce.>>||||
+p613|Mi sono occupato della macchina che vi tormentava.||||
+mechFarmer22|<<Spalanca gli occhi.>> ((Davvero?)) E io che pensavo che vi avrebbe fatto a pezzettini! <<Ridacchia.>>||||
+mechFarmer23|Allora ditemi, come avete fatto?||||
+p614|Ho continuato a colpirla finché non ha smesso di muoversi.||||
+mechFarmer24|<<Annuisce con approvazione.>> Come diceva mio padre: se si sa risolvere qualsiasi problema con la violenza, in questo mondo ci si cava d'impaccio.||||
+mechFarmer25|<<Si schiarisce la voce.>> Naturalmente, mio padre è morto in una rissa da taverna, pace all'anima sua. Ma ((in questo caso)) credo avesse ragione.||||
+mechFarmer26|Comunque, non è molto, ma ho messo da parte una piccola somma in [[monete]]. Vi prego di accettarla insieme ai miei più sinceri ringraziamenti.||||
+p615|Sono riuscito a disattivarla a distanza.||||
+mechFarmer27|<<Si picchietta la fronte.>> Ah, siete uno sveglio, eh?||||
+mechFarmer28|Be', non è molto, ma ho messo da parte una piccola somma in [[monete]]. Vi prego di accettarla insieme ai miei più sinceri ringraziamenti.||||
+p616|Ho modificato i suoi protocolli; ora dovrebbe occuparsi pacificamente della vostra fattoria.||||
+mechFarmer29|<<Sembra spiazzato.>> Avete... cambiato i suoi ((cosa)) adesso? Quindi volete dire che è diventata tutta ((amichevole)) da un momento all'altro?||||
+mechFarmer30|<<Si accarezza il mento.>> Mmh. Se ((funziona)), e quella macchina si dimostra utile anche solo la metà di quanto si dice... be', diventerò il coltivatore di funghi più ((ricco)) di Pwyll...||||
+mechFarmer31|<<Si apre in un sorriso raggiante.>> Forse perfino di ((Hallowshire...))||||
+mechFarmer32|Grazie, forestiero, davvero. ##Ho qui un vecchio [[cimelio di famiglia]] che dovrebbe valere qualche moneta per i mercanti di Hallow Town: vi prego, prendetelo. Ve lo siete ((guadagnato)).||||
+mechFarmer33|Hmph. Scusate se sono un po' distratto, viaggiatore: quella maledetta [[macchina]] del [[Regno Meccanico]] sta ancora devastando i miei raccolti.||||
+mechFarmer34|Ah, guardate chi c'è: il mio viandante preferito. Devo dirvelo, da quando vi siete occupato di quella dannata macchina qui intorno è tutto molto più tranquillo.||||
+mechFarmer35|Ah, guardate chi c'è: il mio viandante preferito! ##Devo dirvelo, da quando avete armeggiato con quel robot rendendolo amichevole, i miei raccolti sono diventati ((abbondanti.))||||
+mechFarmer36|<<Sbuffa.>> Mi state prendendo in giro?||||
+mechVassal1|<<Il dispositivo crepita col caratteristico impulso della magia cifrata. Il suo cranio oculare registra la tua presenza e una penna meccanica traccia le seguenti righe:>>||||
+mechVassal2|[[GIOITE]], OPPRESSO SERVO DELLE POTENZE DISFATTISTE! ORA VI TROVATE IN UN FEUDO DI MACHINUS REX.||||
+mechVassal3|[[PROCLAMA]]: QUESTO ONOREVOLE VASSALLO GOVERNA I PROTOCOLLI DEI PROPRI AUTO-SERVI VINCOLATI. ##RILEVAMENTO DEL CENSIMENTO...||||
+mechVassal4|NUMERO DI AUTO-SERVI INATTIVI: [[253]]. ##NUMERO DI AUTO-SERVI ATTIVI =: [[1]]. ##PROTOCOLLO DI LAVORO ATTUALE: [[AGRICOLTURA MILITANTE]].||||
+mechVassal5|AVETE UN QUESITO?||||
+p620|E se vi facessi semplicemente a pezzi? I robot smetterebbero di funzionare?||||
+mechVassal5b|RIFLESSIONE... ##[[GIUDIZIO]]: LA CESSAZIONE DEI DOVERI È CONSENTITA SOLTANTO PER ORDINE DI MACHINUS REX O DEI SUOI DEPUTATI DESIGNATI. PERTANTO, [[EDITTO]]: LA VOSTRA RICHIESTA È RESPINTA.||||
+p621|Voglio spegnere la macchina al vostro servizio.||||
+mechVassal6|[[ASSIOMA]]: L'AGGRESSIONE A UN VASSALLO REALE È TRADIMENTO, & PUÒ ESSERE GIUDICATA UN ATTO DI GUERRA. PERTANTO, [[EDITTO]]: NON METTERETE LE MANI SU QUESTO VASSALLO.||||
+p622|((Dare un colpo all'affare)).||||
+mechVassal7|<<Colpisci la macchina. Basta poca forza perché sputacchi e si arresti. Dopo qualche istante, sei certo che l'affare abbia smesso di funzionare.>>||||
+p623|Lasciamo perdere.||||
+p624|Voglio cambiare, ehm, i protocolli di lavoro.||||
+mechVassal8|RIFLESSIONE... ##[[GIUDIZIO]]: LA MODIFICA DEI PROTOCOLLI È CONSENTITA SOLTANTO PER ORDINE DI MACHINUS REX O DEI SUOI DEPUTATI DESIGNATI, OPPURE PER AUTORITÀ DISCREZIONALE CONFERITA A QUESTO VASSALLO. PERTANTO, [[QUESITO]]: QUAL È LA VOSTRA ARGOMENTAZIONE?||||
+p625|@@Il vostro servo sta causando il caos e probabilmente verrà distrutto, a meno che non gli ordiniate di calmarsi.||||
+mechVassal9|&&CONSULTAZIONE DEL CANONE(Disputa)... VERIFICA DELLA VALIDITÀ... ##[[GIUDIZIO]: LA VOSTRA ARGOMENTAZIONE È INDEGNA. PERTANTO, [[EDITTO]]: QUESTO VASSALLO PROSEGUIRÀ I PROPRI DOVERI.||||
+mechVassal10|%%CONSULTAZIONE DEL CANONE(Disputa)... VERIFICA DELLA VALIDITÀ... ##[[GIUDIZIO]]: LA VOSTRA ARGOMENTAZIONE È DEGNA.||||
+mechVassal11|PERTANTO, [[EDITTO]]: IL PROTOCOLLO DI LAVORO DELL'AUTO-SERVO È ORA MODIFICATO. PROTOCOLLO DI LAVORO ATTUALE: [[AGRICOLTURA BENEVOLA]].||||
+mechVassal12|GLORIA A SUA MAESTÀ MACHINUS REX, IL RE MECCANICO!||||
+p626|Lasciamo perdere, me ne vado.||||
+mechVassal13|<<La macchina sembra inservibile.>>||||
+mechVassal14|[[PROCLAMA]]: QUESTO ONOREVOLE VASSALLO GOVERNA I PROTOCOLLI DEI PROPRI AUTO-SERVI VINCOLATI. ##RILEVAMENTO DEL CENSIMENTO...||||
+mechVassal15|NUMERO DI AUTO-SERVI INATTIVI: [[253]]. ##NUMERO DI AUTO-SERVI ATTIVI: [[1]]. ##PROTOCOLLO DI LAVORO ATTUALE: [[AGRICOLTURA BENEVOLA]].||||
+mechVassal16|NUMERO DI AUTO-SERVI INATTIVI: [[254]]. ##NUMERO DI AUTO-SERVI ATTIVI: [[0]]. ##PROTOCOLLO DI LAVORO ATTUALE: (((AHIMÈ, NON POSSO COMPORRE VERSI))).||||
+mechVassal17|<<La macchina attende che tu dica qualcosa.>>||||
+mechPasssive1|<<La macchina prosegue i propri lavori agricoli, indifferente alla tua presenza.>>||||

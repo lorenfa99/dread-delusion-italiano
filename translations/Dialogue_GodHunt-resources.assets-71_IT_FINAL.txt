@@ -1,0 +1,154 @@
+NPC Name:|Paeguth||||
+ID|English|French|German|Spanish|Italian
+poly1|<<Non alza lo sguardo dalle sue carte.>> Ah, un altro leale suddito dell'Unione Apostatica. ## Devo ricordarvi che riunioni improvvisate come questa non possono durare più di dieci rintocchi d'orologio.||||
+poly2|Siete qui per servire l'Unione? O si tratta di un'altra... <<sospira>> disputa sul bestiame...?||||
+polyp1|Sono qui per lavoro.||||
+polyp2|Parlatemi di nuovo dell'incarico.||||
+polyp3|Volevo farvi qualche domanda.||||
+polyp4|A dire il vero, credo di aver sbagliato stanza. Addio.||||
+polyp5|Voglio servire l'Unione Apostatica.||||
+poly3|<<Senza ancora alzare lo sguardo dalle carte, risponde con stanca monotonia.>> ##Ah, sì... domande. Naturalmente, è un piacere accontentarvi... <<Controlla un orologio da tasca>> per non più di otto rintocchi.||||
+polyp6|Chi siete?||||
+poly4|<<Chiude gli occhi e si massaggia le tempie.>> ##Dal momento che stiamo conversando, ((presumo)) sappiate che sono la Polimate di Hallowshire. Ne sono la rappresentante designata a Riova e faccio rispettare la legge dell'Unione.||||
+poly5|Hallowshire era praticamente priva di legge prima che il mio consiglio ne contendesse il controllo cinque anni fa. Ma abbiamo vinto le elezioni con perdite minime, e sono orgogliosa di poter dire che la situazione è assai migliorata.||||
+polyp7|Perdite minime?||||
+poly6|Conoscete le regole elettorali, vero? I candidati e i rispettivi consigli subordinati devono affrontarsi in due fasi: una battaglia e un dibattito.||||
+poly7|Ebbene, nell'ultima elezione di Hallow Town, la marmaglia di cultisti avversaria non era certo all'altezza dei nostri Consiglieri-Guerrieri. Ne caddero così tanti sotto le nostre spade nella fase di battaglia che, quando si passò al dibattito, ben pochi superstiti riuscivano persino a mettere insieme una frase.||||
+poly8|<<Le sfugge un sorriso.>> Non riuscivano certo a tenere testa alla nostra retorica filosofica, ve l'assicuro.||||
+polyp8|Va bene, ho capito.||||
+poly9|Dunque, avete finito con le vostre... domande?||||
+polyp9|Che cos'è l'Unione Apostatica?||||
+poly10|<<Aggrotta la fronte.>> ##Vedo che le nostre politiche per l'istruzione del popolo hanno dato risultati... contrastanti.||||
+poly11|Essere apostata significa rinnegare la propria religione. Quarant'anni fa, i regni di Vena, Byonne, Lundel e Slev uscirono vittoriosi dalla Guerra Divina, dopo aver ripudiato i Wikkan e i loro dèi.||||
+poly12|Quelle nazioni fondarono l'Unione Apostatica, in cui i sudditi sono liberi dalla tirannia del culto degli dèi.||||
+polyp10|Che cosa c'è di tanto terribile nel culto degli dèi?||||
+poly13|Dopo lo Squarcio del Mondo, gli esseri umani tornarono a dipendere dagli dèi. Ma è un patto crudele. Gli dèi perseguono i propri fini e non concedono mai favori se non in cambio di un sacrificio equivalente.||||
+poly14|Inoltre, le congreghe Wikkan detenevano il monopolio del culto e dell'arte magica. I contratti con gli dèi dovevano essere stipulati tramite loro. Erano loro ad approvare gli incantesimi. Erano tanto corrotte quanto potenti.||||
+poly15|I Polimati delle grandi università compresero che l'umanità non avrebbe mai ritrovato la gloria di un tempo finché fosse rimasta incatenata agli dèi. Così radunarono potenti alleati e spezzarono quelle fetide catene.||||
+polyp11|Chi sono i Wikkan?||||
+poly16|I Wikkan sono occultisti e incantatori. A differenza degli incantesimi creati nelle università dell'Unione, che si fondano sulla lingua autentica, i Wikkan stipulano contratti vincolanti con gli dèi per acquisire potere.||||
+polyp12|Anzi, era tutto.||||
+poly20|<<Finalmente ti guarda.>> Ah, un suddito del regno disposto a rendersi utile. Eccellente. ##Stiamo dando la caccia a un dio e ci serve tutto l'aiuto possibile.||||
+poly21|Come senza dubbio saprete, Hallowshire è afflitta dalla carestia. La scarsa resa dei raccolti aggrava un problema ben più grave: il culto degli dèi.||||
+poly22|Nel panico, la popolazione è ricorsa alla preghiera illegale. Il culto degli dèi dilaga. La situazione è tanto grave che è stata inviata una divisione dell'Inquisizione. I loro veggenti affermano che abbiamo a che fare con... <<inspira.>> Un'entità divina di classe B.||||
+poly23|L'indagine si concentra sulle campagne fuori da Hallow Town, ma l'Inquisizione applica la Legge Apostatica con il pugno di ferro. Molti simpatizzanti degli dèi sono già stati messi alla forca, alimentando la rabbia. Perciò mi rivolgo alla popolazione in cerca di sostegno. Persino il più umile dei sudditi potrebbe contribuire a sradicare il problema.||||
+poly24|Ho una sola domanda: dov'è questo dio?||||
+poly25|Naturalmente, qualsiasi aiuto sarà ricompensato in monete.||||
+polyp13|Dove dovrei cercare?||||
+poly26|L'Inquisizione sta passando al setaccio le campagne, perquisendo le fattorie in cerca di simpatizzanti degli dèi e congreghe nascoste. Vi suggerirei di fare qualche domanda da quelle parti e di cercare qualunque cosa possa essere sfuggita all'Inquisizione.||||
+poly27|C'è anche il Castello di Hallow, dimora di una famiglia nobile. Le antiche dinastie godono ancora di rispetto nell'Unione, perciò l'Inquisizione ha evitato di intervenire, per ora. Ma i nobili hanno antichi legami con gli dèi, quindi terrei d'occhio anche il castello.||||
+polyp14|Parlatemi di questa carestia.||||
+poly28|La carestia è il problema minore. Sarà senz'altro risolta nel giro di pochi mesi. Attendiamo importazioni di viveri da Lundel, e ho la massima fiducia che, stavolta, non subiranno altri ritardi.||||
+poly29|Ma i contadini, nella loro impazienza, si sono rivolti all'occulto. Che stoltezza! Vogliono vanificare tutto il bene compiuto dall'Unione.||||
+polyp15|Vedrò cosa posso fare. Addio.||||
+polyp16|Ho scoperto il dio Paeguth.||||
+poly30|<<La penna d'oca le scivola sulla carta. Alza lentamente lo sguardo.>> ##Sostenete di essere riuscito là dove ha fallito un intero Contingente di agenti dell'Inquisizione? ##Esigo una prova.||||
+polyp17|<<Consegnare l'Aspetto di Paeguth.>>||||
+polyp18|Anzi, lasciamo perdere.||||
+poly31|<<La cosa si affloscia sulla scrivania della Polimate, dove si contorce, gorgoglia e rutta, sprigionando uno strano odore. La Polimate cerca di mantenere la compostezza, ma è chiaramente turbata.>>||||
+poly32|Questa... ((cosa)) corrisponde effettivamente alla descrizione di un aspetto divino. Forse avete davvero individuato un'entità divina di classe B...||||
+poly33|Molto bene. I nostri veggenti useranno questo aspetto per localizzare con precisione il dio, e una squadra d'assalto dell'Inquisizione avrà presto ragione dell'entità.||||
+poly34|Avete fatto un buon lavoro. Senza dubbio l'Inquisizione avrebbe finito per trovare la cosa, ma non posso negare il vostro contributo alla vicenda.||||
+poly35|Prendete: una modesta somma di monete per i vostri sforzi, oltre a un Passaporto dell'Unione Apostatica.||||
+poly36|Ora, con il vostro permesso, questo nuovo sviluppo impone la stesura di numerosi documenti ufficiali. Potete congedarvi.||||
+polyp19|Com'è la situazione a Hallowshire?||||
+poly40|Grazie a voi, l'Inquisizione avrà presto ragione di quell'entità divina di classe B. Naturalmente, i culti che infestano questa regione dovrebbero disperdersi.||||
+poly41|Hallowshire è ancora afflitta dalla carestia, naturalmente... ma la ferrea presa con cui controlliamo la regione dovrebbe ridurre al minimo i disordini.||||
+poly50|Le nostre guardie segnalano un netto calo dell'attività dei culti. Posso solo presumere che l'Inquisizione sia riuscita a mettere in fuga quei bastardi. ##<<Sogghigna.>> Be', o è così oppure sono diventati tutti invisibili.||||
+poly51|Inoltre, la resa dei raccolti è in aumento. A quanto pare, la carestia sta finendo. Un gradito sviluppo per le nostre sorti.||||
+inq1|<<L'agente dell'Inquisizione osserva con macabro interesse un corpo che dondola appeso alla forca.>>||||
+inq2|I cultisti infestano queste colline come parassiti. Ogni volta che solleviamo una pietra, ne sguscia fuori una dozzina. Chiunque potrebbe venerare gli dèi di nascosto.||||
+inq3|Quindi occhio, straniero. Teniamo d'occhio anche voi.||||
+p1|Parlatemi di questi cultisti.||||
+inq4|Venerano qualcosa chiamato Paeguth. Uno schifoso vecchio dio della fertilità. I nostri scribi ne hanno rintracciato le origini fino al Medioevo, il che lo renderebbe antico... ammesso che non sia un impostore.||||
+inq5|Qualunque cosa sia, i nostri veggenti rilevano energie di classe B attorno alle fattorie e al castello, quindi dev'essere qualcosa di grosso. Alcune persone da queste parti presentano mutazioni riconducibili a maledizioni della fertilità, quindi siamo vicini. Qui c'è qualcosa.||||
+p2|Che cosa pensate ci sia qui?||||
+inq6|Non saprei. Abbiamo trovato un deposito di idoli della fertilità e scovato un sacerdote Wikkan nascosto in una camera segreta. Ma ci sfugge qualcosa. Qualcosa di grosso.||||
+inq7|Abbiamo interrogato alcuni abitanti del posto. Prima o poi cedono tutti, ma quando questa gente si è lasciata sfuggire qualcosa su un campanile, è scattata una specie di maledizione del silenzio. Le loro bocche si sono riempite di larve. Migliaia: traboccavano dalle labbra finché le gole non si sono squarciate.||||
+inq8|Il bello è che da queste parti non c'è un solo campanile. Dovremo ampliare le ricerche...||||
+p3|Va bene, grazie.||||
+p4|I vostri metodi sono rivoltanti.||||
+inq9|Hmph. Un altro riformatore, eh? Pensate che si debbano tollerare i fedeli e ridurre le pene?||||
+inq10|Non avete visto ciò che ho visto io. Città che hanno stretto patti terribili. Orde di creature non più umane, strade che grondavano sangue. C'è una sola soluzione: epurare tutto.||||
+p5|Non tutti gli dèi sono malvagi. Se il culto fosse regolamentato...||||
+inq11|Badate a quel che dite. Questa non è un'università e voi non avete l'aria di uno studioso. Perciò, pronunciare parole del genere è tradimento. Ora sparite dalla mia vista, prima che decida di prendere provvedimenti.||||
+p6|Avete chiarito il concetto. Addio.||||
+p7|Addio.||||
+agent1|Come agente, faccio il mio dovere. Il culto degli dèi è vietato, e questa gente infrange la Legge Apostatica.||||
+agent2|...ma è difficile non provare compassione. Qui la carestia è grave e la gente sta morendo di fame. È chiaro che l'Unione non fa abbastanza per aiutare queste persone. Non posso dar loro torto se cercano una soluzione.||||
+agent3|Non posso dar loro torto. Ma li punisco comunque.||||
+farmer1|Quei bastardi. L'Unione pagherà per ciò che ha fatto.||||
+farmer2|Cinque anni fa sono arrivati e hanno messo al bando tutti i sacerdoti. Da allora i raccolti sono appassiti e il bestiame è morto. In città, i ricchi possono comprare cibo importato, ma qui fuori moriamo di fame. Perfino il campanile è crollato, perché non c'era più nessuno che lo riparasse.||||
+farmer3|E ora... ci hanno mandato contro i loro cani da guardia, per finire il lavoro.||||
+ch1|@@È terribile quello che sta facendo l'Unione. Voglio aiutare.||||
+farmer4|%%Non posso fidarmi di voi. Potreste lavorare per l'Inquisizione, ma... non abbiamo più alternative. Presto saremo tutti morti.||||
+farmer5|Se volete davvero aiutare, cercate una rovina in cima alla montagna qui vicino, quella con una campana spezzata all'interno. Sotto la campana c'è un passaggio... ##Che Paeguth vi benedica.||||
+farmer6|&&Mi dispiace, ma non vi conosco. Potreste lavorare per l'Inquisizione. Non... non che abbia qualcosa da nascondere, intendiamoci...||||
+p8|Mi... dispiace. Addio.||||
+fo1|Salve, nuovo arrivato.||||
+fo2|<<Minuscoli insetti scorrazzano sul volto della creatura. Il fetore è opprimente, dolciastro e nauseante. Si china verso di te e ti annusa.>> ##Il vostro odore mi dice che la vostra carne è... polposa e sana. Paeguth vi ha benedetto davvero.||||
+pq|Posso farvi qualche domanda?||||
+foq1|Risponderò per quanto mi è possibile.||||
+foq2|Desiderate altre parole?||||
+foq3|Molto bene.||||
+p10|Che cosa... siete?||||
+fo3|<<Dal sorriso, sempre più ampio, colano liquidi.>> ##Non lasciatevi intimidire dalla mia gloria. Un tempo ero mortale, come voi. Ma Paeguth non manca certo di generosità.||||
+fo4|Ho ricevuto la benedizione di portare in grembo il suo frutto, di sopportare dolci agonie, affinché io possa guarire la terra e nutrire il popolo.||||
+p11|Potete parlarmi di Paeguth?||||
+fo5|È un dio della crescita, del sostentamento, della vita stessa. Chi lo venera non patirà la fame né soccomberà alle malattie. Morirà grasso, gonfio ed euforico.||||
+fo6|Protegge queste isole da molte generazioni. I monumenti alla sua grandezza giacciono, gloriosi, in rovina. I mortali periscono, ma lui perdura. Neppure la guerra blasfema ha saputo purificarlo.||||
+p12|Dove posso trovare Paeguth?||||
+fo7|Ebbene, vive dentro di voi. Nel vostro respiro, nel vostro sangue, nelle vostre cellule. Anche ora accarezza i vostri organi con affetto, con amore, con... uno scopo. Dovete solo permetterglielo, e vi aiuterà.||||
+fo8|Ah, ma avverto che questa risposta non vi ha soddisfatto. Non temete: è vicino, qui nei paraggi, in tutta la sua gloriosa mole. Concede udienza ai devoti per benedirli... personalmente.||||
+fo9|Se è questo che desiderate, offritegli qui un tributo. Poi vi indicherò come proseguire.||||
+p13|Capisco, grazie.||||
+p14|Voglio offrire un tributo a Paeguth.||||
+fo20|Non ce n'è bisogno. Avete già offerto un tributo più che abbondante.||||
+fo21|<<Il suo volto si contrae.>> Temo che non abbiate con voi il vino.||||
+fo10|Molto bene. In epoche passate, i fedeli di Paeguth fermentavano un vino delizioso con i funghi dell'isola. Davano feste sfrenate e si beavano della sua grandezza.||||
+fo11|Portate questo vino e Paeguth vi concederà udienza.||||
+ch2|@@Ma vedo che a Paeguth non manca nulla. Le mie preghiere non bastano?||||
+fo12|%%Dite il vero, naturalmente. Paeguth è l'eccesso stesso, ed è immensamente compiaciuto che lo comprendiate.||||
+fo13|&&Paeguth desidera più di una semplice preghiera: un tributo, nientemeno.||||
+p15|Offro questo vino di funghi.||||
+p16|Ci penserò.||||
+fo14|Sì, è proprio l'annata giusta. Oh, ne è compiaciutissimo: sento i suoi sussurri all'orecchio.||||
+fo15|Prendete questo simbolo. Andate al castello che incombe su queste terre. Cercate una caverna sotto il castello; grazie al simbolo vi sarà concesso l'accesso. Andate ora e crogiolatevi nella sua gloria.||||
+pgth1|Ah, un'altra creatura-scimmia sguscia nella mia tana. Se recate una delle mie chiavi, dovete essere un devoto seguace, riconosciuto dal più fertile dei miei figli. Per questo vi ringrazio.||||
+pgth2|Ma se siete venuto ad assistere alla mia gloria, temo di dovervi deludere. ##È passata da tempo l'epoca in cui torreggiavo sull'umanità, gonfiandomi della sua lordura. Pochi ormai mi conoscono. Sono piccolo, avvizzito, dimenticato.||||
+pgth3|Mi domando... sono stati i Wikkan a mandarvi a soccorrermi nella mia sventura? Avete ricevuto ben pochi dei miei doni: la vostra pelle è liscia e immacolata. Ma forse proprio questo potrà tornarmi utile.||||
+pgth4|Prendete questo mio aspetto. Introducetelo di nascosto nelle sale del consiglio dell'Unione Apostatica. Collocatelo nel punto più alto, e metterà radici.||||
+pgth5|Celerà la mia presenza agli occhi degli impiccioni dell'Unione, e tornerò a muovermi libero da ogni catena.||||
+pgth6|Ma badate: racchiude un mio aspetto, e dunque è parte di me. Se dovesse cadere nelle loro mani... potrebbero usarlo per ferirmi. Per intrappolarmi...||||
+pgth7|Ora andate, con la mia benedizione.||||
+pgth8|Avete portato a termine il compito che vi ho affidato, mortale? Vi supplico: fatelo presto.||||
+pgth10|Vi ringrazio, mortale. Il mio aspetto ha attecchito; i miei viticci si insinuano nelle menti di chiunque si trovi nei paraggi.||||
+pgth11|Benché io incomba qui, soltanto i più fedeli tra i miei servi vedranno la verità. La mia presenza è celata a chiunque altro.||||
+pgth12|Vi prego, accettate questo misero dono in segno di riconoscenza per i vostri servigi.||||
+pgth13|Ora che ho riacquistato un barlume del mio antico potere, la terra può cominciare a guarire.||||
+pgth14|I raccolti cresceranno. I malati saranno risanati. E, col tempo, il vostro corpo mortale subirà una trasformazione oltremodo gloriosa.||||
+inq20|Paeguth non c'è più. Abbiamo inviato un'unità tattica d'assalto nella tana del bastardo e lo abbiamo infilzato con la Pietra del Vuoto.||||
+inq21|Ora che le loro preghiere restano inascoltate, i cultisti dovrebbero disperdersi. Hanno combinato un bel disastro, ma l'Unione trionfa sempre.||||
+inq22|Pare che siamo riusciti a mettere in fuga tutti quei cultisti bastardi. È da un po' che non riceviamo segnalazioni di attività.||||
+inq23|Ma sapete, è strano... ogni tanto i nostri strumenti registrano un enorme picco di energia di classe B. Come se ci sfuggisse qualcosa... ##Ah, ma che dico? Probabilmente è solo un guasto alla strumentazione.||||
+inq30|Allontanatevi, cittadino. Questo è un sito di culto di classe B, accessibile esclusivamente al Contingente XII dell'Inquisizione.||||
+inq31|Qui abbiamo distrutto un'entità divina di classe B. I suoi resti sono stati inviati a Lundel per un'analisi postuma.||||
+wik1|Ah, dovete essere il nuovo messaggero. Siete in ritardo.||||
+p21|Ehm... scusate?||||
+wik2|Meglio tardi che mai. Allora, com'è la situazione a Hallowshire? L'Inquisizione ha ancora un Contingente stanziato nelle vicinanze?||||
+p22|Già, l'Inquisizione si è data parecchio da fare.||||
+wik3|Dannazione. Facciamo del nostro meglio per nascondere ciò che resta del culto di Paeguth, ma di questo passo ci fiuteranno. Il mese prossimo potremmo ritrovarci tutti appesi alla forca.||||
+wik4|Vi prego, rendete omaggio al Fecondo, già che siete qui.||||
+wik5|Con i suoi frutti potremmo porre fine alla carestia già domani, ma non riusciremmo mai a distribuirli finché l'Unione Apostatica resterà qui. Se le cose non cambiano presto, l'Unione avrà vinto.||||
+p23|Non ho tempo per questo.||||
+castleGuard1|Tradito... dal mio stesso subordinato... ##Sono forse l'ultimo rimasto fedele al Duca?||||
+castleGuard2|Vi prego... trovate il Wikkan rinchiuso nel mastio. È l'unico che possa porre fine a tutto questo.||||
+starverA|<<L'abitante del villaggio si accascia in avanti, la voce flebile.>>##Vi prego... Un po' di cibo, vi prego...||||
+starverB1|<<La bocca dell'abitante è imbrattata di succhi lucenti, il mento cosparso di pezzetti di frutta dai colori intensi.>>##Guardate! Assaggiatene un po'! Ce n'è abbastanza, abbastanza per tutti.||||
+starverB2|<<Dà un altro morso.>>##Mmmph. Più che abbastanza! Ce n'è così tanto! È così buono... così saziante...||||
+inqHunterA1|Salute, compagno. Avete saputo dei guai con [[Paeguth]]?##Sì, siamo in partenza: dobbiamo solo riequipaggiarci.||||
+inqHunterA2|Stanno facendo arrivare quassù i macchinari da guerra più moderni. Solo il meglio per questa feccia succhiadèi, eh?##Be', buona caccia.||||
+inqHunterB1|Viene da chiedersi, no... se sono tanto disperati da salvare i loro cosiddetti dèi, perché uno di loro ha rivelato tanto facilmente dove si trovava proprio questo dio?||||
+inqHunterB2|D'altra parte, anche voi siete stato dentro una struttura dell'Inquisizione, proprio come me...##Quindi forse non c'è bisogno di chiederselo.||||
+inqHunterC1|Un vero dio! È come se la [[guerra]] ricominciasse da capo!##O, be', non proprio: quello sarebbe un guaio, no...||||
+inqHunterC2|Però è emozionante, no?||||

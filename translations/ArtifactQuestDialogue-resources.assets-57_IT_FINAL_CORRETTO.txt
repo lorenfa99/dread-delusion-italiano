@@ -1,0 +1,51 @@
+NPC Name:|ArtifactMerchant_1, ||||
+ID|English|French|German|Spanish|Italian
+m1|Un ospite? Benvenuto, benvenuto. ##<<L’uomo dilata le narici mentre ti squadra da capo a piedi.>>||||
+m2|Vi inviterei ad accomodarvi, ma... queste sedie sono terribilmente costose. Presumo siate qui per l’incarico?||||
+p1|Sono qui per l’incarico.||||
+m3|Sì, sì... come immaginavo. Il vostro abbigliamento è senz’altro adatto al... lavoro manuale richiesto dall’incarico. ##<<Si tampona la fronte con un fazzoletto, come se il solo pensiero dei tuoi abiti lo sopraffacesse.>>||||
+p2|Quale incarico?||||
+m4|Volete dire che... siete venuto qui soltanto per scambiare convenevoli?##<<Deglutisce, chiaramente disgustato dall’idea.>>||||
+p3|Parlatemi di voi.||||
+m5|Di me? Be’, sono certo che avrete già sentito molte cose sul mio conto. Sono Vernon Berwig, della Gilda dei Mercanti Alati. Fate il giro delle botteghe di Hallow Town: non troverete una sola pozione o erba che non sia giunta fin qui a bordo delle mie navi.||||
+p4|Anzi, credo che me ne andrò.||||
+m6|L’incarico consiste nel rintracciare la mia nave mercantile, la [[Golden Typhos]], e recuperarne il ((Carico)).##È una nave magnifica, costruita con il più robusto legname di quercia di Lundel; non riesco quindi a credere che possa essere naufragata.||||
+m7|Il suo capitano è nientemeno che [[Walter Cecil]], che ha cartografato molte delle isole più remote dell’Unione Apostatica ed è noto per la sua integrità.##Un ammutinamento, dunque, è da escludere.||||
+m8|La rotta era stata tracciata verso le Rovine Paeguthiane, a sud di Hallow Town.##La Typhos avrebbe dovuto fare ritorno una settimana fa. Comincio a preoccuparmi.||||
+m9|La nave e l’equipaggio sono irrilevanti; conta soltanto il [[Carico]]. Riportatemelo e vi ricompenserò profumatamente.||||
+p5|Parlatemi del capitano della nave.||||
+m10|Ho pagato una piccola fortuna per ingaggiare [[Walter Cecil]]. Le sue imprese sono ampiamente documentate.##Si dice che, esplorando regni lontani, la sua nave abbia sconfitto un dio celeste... anche se, detto fra noi, è assai più probabile che si trattasse soltanto di un pesce enorme.||||
+m11|Ciononostante, è uno dei capitani più affidabili dell’Unione. Il suo stato di servizio è impeccabile.||||
+p6|Che carico trasporta?||||
+m12|Temo... di non potervelo proprio dire. Capirete che, nei meandri del sistema giuridico dell’Unione Apostatica, alcune merci vengono... ((ingiustamente sottoposte a controlli.))||||
+m13|Basti dire che questo carico non ha nulla di pericoloso né di nocivo. Ma sarà meglio non parlarne oltre.||||
+p7|Vi farò sapere se trovo la vostra nave. Addio.||||
+fm1|Oh, chi abbiamo qui? Un compare pronto a unirsi ai nostri canti di bordo? Ehi, voi, vi va da bere?||||
+p8|Non dico di no.||||
+fm2|Così si fa! Bevete a volontà.##<<Ti porge una bottiglia vuota e impolverata.>>||||
+p9|Questa è la Typhos, vero? Vi siete persi.||||
+fm3|Persi? Macché, siamo appena salpati. Torneremo a Hallow Town tra un giorno o due.||||
+p10|Ma dovevate rientrare una settimana fa.||||
+fm4|Una settimana? Siete ammattito. Una settimana fa non eravamo neppure salpati. Ero ancora a terra con mia figlia.||||
+p11|Non lo vedete? Siete tutti morti.||||
+fm5|Morti? Ah! Siete proprio un buffone, altroché.||||
+c1|Ehi, voi! Portate su altro rum da sottocoperta. Ordine del capitano!||||
+p12|Siete voi il capitano della Golden Typhos?||||
+c2|Non riconoscete il vostro capitano? Walter Cecil, che ha cartografato le regioni più remote e ucciso un dio minore? Bah! Dritto in gattabuia!||||
+p13|Sono qui per conto del vostro datore di lavoro. Il carico è in ritardo.||||
+c3|In ritardo? Stiamo andando a gonfie vele! Il carico è nella stiva, ben nascosto e al sicuro. Berwig avrà il suo artefatto.||||
+p14|Avete davvero ucciso un dio?||||
+c4|Siete uno di quelli che non ci credono, eh?##Certo, poteva sembrare un grosso pesce, ma voi non l’avete guardato negli occhi. Erano occhi possenti, amico mio — ((occhi possenti))...||||
+p15|Credo che abbiate bevuto abbastanza rum. Addio.||||
+m20|Ah, siete tornato. Che... piacere.||||
+m20alt|Ah, ho sentito parlare di voi. Siete stato a bordo della mia nave, la [[Golden Typhos]], dico bene?##A bordo c’era un ((carico prezioso)): ho bisogno che me lo restituiate.||||
+m21|Ditemi, di grazia: avete rintracciato il carico della [[Golden Typhos]]?||||
+m21alt|Non l’avete... trovato, vero...?||||
+p20|Ho il [[Carico]] proprio qui.||||
+m22|Eccellente, eccellente. Oh, cielo, che splendore! Non è forse la cosa più magnifica, più radiosa su cui abbiate mai posato gli occhi? Sì, è valsa davvero la pena aspettare.||||
+p21|L’equipaggio della vostra nave è morto.||||
+m23|Non mi curo di simili inezie. Il viaggio è stato un successo. Vi porgo i miei più sinceri ringraziamenti.||||
+p22|E il mio compenso?||||
+m24|Mmm... Cosa? Il compenso? Sì, sì: concedetemi un po’ di tempo per mettere insieme i fondi. Ripassate presto e sarete pagato per intero.||||
+p23|Potete ripetermi in cosa consiste l’incarico?||||
+p24|Sto ancora cercando. Addio.||||

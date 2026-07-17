@@ -1,0 +1,216 @@
+Dialogues:|Clockwork|||
+ID|English|Voidspeak|French|German
+Ras1|<<Il volto che sbuca da una zazzera rada è un ritratto d'incomprensione e sospetto, finché d'un tratto non si apre in un inatteso sorriso di meraviglia, a denti mancanti.>>|||
+Ras2|Avvicinatevi, su. Non ucciderò certo la prima persona con cui posso parlare da trent'anni.##Lasciate che vi ((guardi)) bene.|||
+Ras3|Siete ((reale)), vero?##Non un'altra scarica entropica della [[sfera]]?|||
+Ras4|Be', non sareste certo il primo caso...|||
+Ras5|Eppure ((sembrate)) reale. Anch'io sembro reale, il più delle volte. Mi chiamo [[Rasmussen]].|||
+Ras6|Certi giorni — certi anni — me lo chiedo. Ma supponiamo che lo sia.##Mi chiamo [[Rasmussen]].|||
+Ras7|Be', sembrate abbastanza reale. Sì, benvenuto.##Mi chiamo [[Rasmussen]].|||
+Ras8|<<Quando si avvicina, puoi vedere che gli abiti di Rasmussen, per quanto laceri, un tempo erano un magnifico corredo di antiche vesti Emberiane; o meglio, molti corredi, ora apparentemente rattoppati e rammendati insieme in un'unica, bizzarra tenuta.>>|||
+Ras9|Siete davvero reale...##Ero così sicuro che ci saremmo estinti tutti prima che qualcuno tornasse.|||
+Ras9R|Pensavo che ci saremmo estinti tutti prima che tornasse qualcuno.|||
+Ras10|Questo è... be', non ha davvero un nome. È solo... il posto dove siamo finiti.|||
+Ras11|Noi, il [[clan Rasmussen]]. I miei antenati. Quelli che costruirono la [[nave]] che avrete senz'altro notato, proprio qui sopra.|||
+Ras12|Oh, saranno quasi quarant'anni, ormai, da quando sono morti i miei genitori. Credo, almeno; è un po' difficile tenere il conto.##Siamo qui — la famiglia, intendo — da... be', praticamente da sempre. Da molto prima che nascessi.|||
+Ras13|Lo sapete! Ne siete al corrente! Il sapere resiste ancora. Sì. Sì, proprio così.|||
+Ras14|Dovrei chiedervi come mi avete trovato, ma ho tante domande più interessanti! Tante cose che ho sentito sul mondo là fuori...##Mio nonno mi diceva che vivete tutti dentro funghi giganti: non puzzano un po'? Esistono ancora i serpenti? Ho sempre desiderato un serpente da compagnia.|||
+Ras15|Ma che fine hanno fatto le mie buone maniere? Perdonatemi: sono trent'anni che non mi servono. Le mie domande possono aspettare; sarete voi ad averne per ((me)).|||
+Ras16|Stavo cercando di spiegarvelo, vero... Questo è... era... è casa nostra. Non avrebbe mai dovuto esserlo. Ma noi Rasmussen, noi...|||
+Ras17|Con piacere! Dunque. Una mia ava di dieci generazioni fa era un'ingegnera. Di una bravura quasi inconcepibile.##Da giovane si convinse che stava per arrivare un terribile cataclisma e costruì una nave per portarci in salvo, con un nuovo motore capace di lasciarsi alle spalle la distruzione.|||
+Ras18|Ha... ha quasi funzionato. Siamo riusciti a fuggire. Ma, per quanto il motore fosse prodigioso, qualcosa andò storto nel sistema di guida e, invece di portarci davvero lontano, la nave finì in avaria e si schiantò qui.|||
+Ras19|I miei antenati recuperarono tutto il possibile dalla nave, la fecero a pezzi e la rimontarono, usando il [[motore]] come difesa anziché per la propulsione.##Friggeva qualsiasi grossa nave che si avvicinasse e, dopo un po', la gente smise del tutto di provarci. Probabilmente si era spaventata. Finché... be'. Fino a ora.|||
+Ras20|E così siamo rimasti qui da allora. Solo noi. E adesso... adesso sono l'unico rimasto, l'unico in assoluto.##L'ultimo Rasmussen.|||
+Ras21|Ho... continuato a sperare che arrivasse qualcuno mentre ero ancora in grado di parlargli.##Ma vorrete saperne di più sul motore.|||
+Ras22|Ah, giusto. Sì, immagino che... immagino fosse prevedibile.|||
+Ras23|Il motore era — è — rivoluzionario. Funziona ancora, sapete. Ormai sono rimasto solo io a occuparmene. Ma non so più ((a quale scopo)) lo tengo in funzione.|||
+Ras24|In ogni caso, il motore funziona. È lassù, nel [[relitto]] della nave, anche se, non avendo nulla da fare, continua a produrre sempre più energia.##Ma potreste [[rimuoverlo]], se voleste. È per questo che siete venuto, vero?|||
+Ras25|Non preoccupatevi. So che non siete venuto soltanto per ascoltarmi.|||
+Ras26|La [[sfera]] è lassù, ma non potrete raggiungerla direttamente. Emette troppa energia per potervi avvicinare.##Ma c'è un modo per spegnerla: due [[interruttori]], in punti diversi dell'isola e separati l'uno dall'altro. Sistemi di sicurezza.|||
+Ras27|Se riuscite ad azionarli entrambi, la [[sfera]] si disconnetterà.##Potrete estrarla e spostarla.|||
+Ras28|Io... sì. Andate pure. Solo... tornate a trovarmi un'ultima volta, vero? Prima di partire?|||
+Ras29|Come? Pensate che cercherò di fermarvi? Che potrei anche solo provarci?|||
+Ras30|E comunque, a cosa serve qui, ormai? A proteggere me? Da cosa?|||
+Ras31|E quando non ci sarò più, non proteggerà proprio nulla.##No. Molto meglio che torni al suo scopo originario.|||
+Ras32|Be', allora sapete già il fatto vostro! Se trovate l'altro, il gioco è fatto.|||
+Ras33|<<Sorride, con un velo di tristezza.>> ## Lo sospettavo. Concedete a un vecchio questo piccolo piacere, volete? Volevo solo sentire un'altra voce per un po'.|||
+Ras34|Ora potete proseguire e salire sulla nave. La sfera è lì.|||
+Ras35|Oh, siete tornato. Non sono abituato a parlare così tanto, sapete. L'avevo già detto? Sì? Appunto.##Di cosa avevate bisogno?|||
+Ras36|Con piacere! Con piacere. Di tempo per fare pratica ne ho avuto, si potrebbe dire.##Dunque. La famiglia Rasmussen. Famiglia, clan, impresa, chiamatela come volete: erano tutte queste cose; una stirpe di ingegneri e costruttori navali.|||
+Ras37|Una mia ava di dieci generazioni fa era un'ingegnera particolarmente dotata.##Si dice che vedesse macchine nei sogni: macchine, e anche altre cose.|||
+Ras38|Da giovane vide arrivare in quei sogni qualcosa di terribile. [[La Frantumazione]], così l'abbiamo sempre chiamata.##Vide profilarsi una distruzione spaventosa, così prese i suoi progetti più avanzati, quelli che avrebbero portato una volta per tutte i Rasmussen una spanna sopra i concorrenti, e trasformò quei disegni nel progetto di un mezzo di fuga.|||
+Ras39|Ha... ha quasi funzionato. Anzi, ha funzionato. Siamo fuggiti, siamo sopravvissuti. I Rasmussen costruirono un motore e un'arca attorno a esso, e tutta la famiglia decollò appena in tempo.##Ma — almeno, così la raccontava mio nonno, anche se non ci piaceva molto parlare di cosa fosse successo esattamente — per quanto il motore fosse prodigioso, qualcosa andò storto nel sistema di guida.|||
+Ras40|Invece di portarci davvero lontano, la nave naufragò e si schiantò qui. Abbastanza lontano da sfuggire alla Frantumazione... e abbastanza lontano da non riuscire mai più a tornare nel mondo.|||
+Ras41|I miei antenati immaginarono che nel resto del mondo fosse sopravvissuto qualcosa. A volte vedevamo delle navi, ma nessuna si avvicinava, e non avevamo modo di tornare; col tempo... col tempo, finirono per preferire che le cose stessero così.|||
+Ras42|Sì. E io sono ancora qui.|||
+Ras43|Noi — loro, i miei antenati, perdonatemi; mi sembrano sempre così... presenti. Recuperarono ciò che potevano dalla nave, la fecero a pezzi e la rimontarono, usando il motore come difesa anziché per la propulsione.##Col tempo cominciammo a temere l'idea che qualcuno potesse avvicinarsi, ma non venne mai nessuno. Finché... be'. Fino a ora.|||
+Ras44|E così siamo rimasti qui da allora. Solo noi.##Quel nonno che ho appena menzionato... era il mio unico nonno. Credo che la maggior parte delle persone ne abbia più d'uno. E adesso... adesso sono l'unico rimasto, l'unico in assoluto. L'ultimo Rasmussen.|||
+Ras45|Ho... continuato a sperare che arrivasse qualcuno mentre ero ancora in grado di parlargli. Grazie per avermi lasciato raccontare la mia storia.|||
+Ras46|Il [[motore]] è — era — rivoluzionario. Il suo cuore è ciò che chiamavamo la [[Sfera Rasmussen]].##È una sorta di pozzo di ricorsione energetica: trasforma l'entropia naturale di un normale sistema propulsivo in... be', in altra energia. Non chiedetemi come.|||
+Ras47|I miei nonni sostenevano di capirlo; ai tempi dei miei genitori, nessuno ne era più sicuro.##Non salgo lassù da anni, ormai, ma mi insegnarono a manovrare tutti i comandi, anche se non saprei davvero dirvi come funziona.|||
+Ras48|Ma potreste rimuoverla, se voleste. È per questo che siete venuto, vero? Non preoccupatevi. So che non siete venuto per ascoltarmi.##La sfera è lassù, nel relitto, ma non potrete raggiungerla direttamente. Emette troppa energia.|||
+Ras49|C'è un modo per spegnerla: due interruttori, in punti diversi dell'isola e separati l'uno dall'altro. Sistemi di sicurezza. Se riuscite ad azionarli entrambi, la sfera si disconnetterà. L'energia resterà, ma potrete estrarla e spostarla.|||
+Ras50|È fatta. Non dovete dirmelo, lo sento. O meglio, non lo sento: non sento più l'energia.##Hm. Ben fatto. Quell'affare maledetto è rimasto fermo nello stesso punto per secoli.|||
+Ras51|È ora che torni a volare. È ora che faccia ciò per cui i Rasmussen l'avevano concepita.|||
+Ras52|Ach, e cosa farei, allora? Là fuori non c'è nulla per me. Speravo di vivere abbastanza da vedere arrivare qualcuno che avesse per me qualche parola gentile, e così è stato. Questo mi basta.##Lasciatemi qui e presto raggiungerò i miei antenati. Andate. Fatene buon uso.|||
+Ras53|Addio, allora. Volate in fretta. Ricordate i Rasmussen.|||
+Ras54|Chi c'è? Chi è? Sentivo... sento... niente. Non c'è più.|||
+Ras55|Ce l'avete? La [[Sfera Rasmussen]]. L'opera dei miei antenati?|||
+Ras56|Ah, che senso ha stare a spiegarvi tutto? Ormai ce l'avete, e senza il mio aiuto. Non vi serve un vecchio che stia qui a blaterare.##Andate, andate.|||
+Ras57|Vi serve altro?|||
+RasP1|È... la prima volta che qualcuno mi accusa di una cosa simile.|||
+RasP2|Io sono reale. E voi?|||
+RasP3|<<Non dire nulla mentre ti avvicini.>>|||
+RasP4|Chi è che si sta estinguendo, esattamente?|||
+RasP5|Che posto è questo?|||
+RasP6|Da quanto tempo siete qui da solo, esattamente?|||
+RasP7|Sono qui in cerca di... un motore? Una sfera, così mi hanno detto?|||
+RasP8|Mi dispiace, non capisco. Dovrete spiegarmelo.|||
+RasP9|Lasciamo perdere tutto il resto. Parlatemi del motore.|||
+RasP10|Bene. Allora vado.|||
+RasP11|Non vi dispiace davvero se la rimuovo? Che ne sarà di voi?|||
+RasP12|Credo di aver già disattivato uno di quegli interruttori.|||
+RasP13|Li ho già trovati: sono entrambi disattivati.|||
+RasP14|Addio.|||
+RasP15|Raccontatemi ancora della vostra famiglia, dei Rasmussen.|||
+RasP16|Capisco. E voi siete ancora qui.|||
+RasP17|Continuate...|||
+RasP18|Parlatemi ancora della sfera.|||
+RasP19|Posso portarvi con me, portarvi via da quest'isola.|||
+RasP20|Ne farò buon uso.|||
+DesSwitch1|<<Davanti a te, incassato in una console, c'è un grande [[interruttore]] simile a un sezionatore.>>##<<L'intero congegno, insieme alla capanna che lo ospita, sembra assemblato con un assortimento disordinato ma impressionante di componenti ormai segnati dal tempo.>>|||
+DesSwitch2|<<La console ha un unico grande interruttore, simile a un sezionatore.>>##<<Come la capanna, anche la console sembra insieme improvvisata e antica, sgangherata e tecnologicamente avanzata: un assemblaggio raffazzonato e sgraziato di componenti eleganti, con la ruggine che sboccia dalle fessure tra un pezzo e l'altro.>>|||
+DesSwitch3|<<L'interruttore è duro e si muove soltanto con uno stridio.>>##<<Quando ricade nel suo alloggiamento con un tonfo, non cambia subito nulla intorno a te.>>|||
+DesSwitch4|<<L'interruttore è molto arrugginito, ma con la forza riesci a smuoverlo.>>##<<Quando scatta in posizione, senti... nulla, e quel nulla ti rimbomba nelle orecchie: lo strano silenzio echeggiante lasciato da un suono che non ti eri accorto di udire e che si è interrotto di colpo, mentre il vero silenzio dilaga sull'isola.>>|||
+DesSwitch5|<<Ora che è disattivato, non resta altro da fare con il dispositivo.>>|||
+DesSwitchP1|Azionare l'interruttore|||
+DesSwitchP2|Lasciarlo stare|||
+Pulmona1|<<L'uomo dentro il guscio è tutto nodi e spigoli, proprio come la sua dimora ingombra di cianfrusaglie. Ti rivolge uno sguardo duro e silenzioso, quasi vedesse attraverso di te qualcosa dall'altra parte.>>|||
+Pulmona2|%%Lo sguardo dell'uomo si stacca di scatto da te; per un istante si fissa oltre la tua spalla, poi ti volta le spalle. Il congedo, per quanto silenzioso, non potrebbe essere più chiaro.|||
+Pulmona3|%%Ah. Un visitatore.##Ma... un visitatore per me?|||
+Pulmona4|Ci vivo quanto i morti lassù vivono sul campo dei caduti. Sì, io passo qui il mio tempo e, a volte, altri ci spendono il loro oro.|||
+Pulmona5|Questo posto? Casa mia, il mio emporio, la mia cavalcatura.|||
+Pulmona6|Oppure intendevate il campo di carneficina lassù?##[[Roccia di Aristide]], così lo chiamavano un tempo.|||
+Pulmona7|Tra le altre cose... di questi tempi incontro raramente qualcuno. Ma conservo qui un certo numero di curiosità e gingilli.##Potreste trovare alcuni [[oggetti di notevole interesse]]...|||
+Pulmona8|Non sono qui per affari, sto... diciamo, porgendo i miei omaggi. Ma sono sempre lieto di fare qualche affare, già che ci sono. Potreste trovare alcuni [[oggetti interessanti]]...|||
+Pulmona9|Ai morti là fuori, naturalmente. Ai soldati caduti e agli... altri morti.|||
+Pulmona10|L'Inquisizione vorrebbe farci dimenticare ciò che accadde qui, ma non tutti l'abbiamo dimenticato. Non ancora.##E nemmeno i morti.|||
+Pulmona11|Siete tornato. Di questi tempi incontro raramente qualcuno.##Conservo qui un certo numero di curiosità e gingilli. Potreste trovare alcuni [[oggetti di notevole interesse]]...|||
+Pulmona12|Addio.|||
+PulmonaP1|Lasciarlo ai suoi marchingegni|||
+PulmonaP2|@@Che posto è questo?|||
+PulmonaP3|Emporio? Quindi questo è un negozio?|||
+PulmonaP4|Certamente, fatemi vedere cos'avete. <<[COMMERCIA]>>|||
+PulmonaP5|Che cosa fate qui fuori? Non sembrano esserci molti clienti.|||
+PulmonaP6|Rendete omaggio? A chi?|||
+PulmonaP7|Capisco. Be', vogliamo commerciare? [COMMERCIA]|||
+PulmonaP8|Capisco. Allora me ne vado.|||
+PulmonaP9|Magari un'altra volta.|||
+Drangorg1|Ach, non fate il timido. <<Tira una boccata dalla pipa, spandendo uno strano odore.>> ## È una mia invenzione, se siete curioso. Diciassette volte più efficiente di una pipa normale. Un solo sacchetto mi durava mesi sul campo!|||
+Drangorg2|Ah, di nuovo voi? <<Il vecchio veterano tira una boccata dalla sua pipa meccanica, seminascosto fra barocche volute di fumo.>>|||
+Drangorg3|<<L'uomo nell'angolo sfoggia i baffi più spettacolari che tu abbia mai visto, da far piangere d'invidia un tricheco: da sotto sporge un congegno indescrivibile, forse il lontano discendente di una pipa. Siede solo, ma conserva un portamento rigido e dignitoso; davanti a lui, diversi bicchieri vuoti.>>|||
+Drangorg4|Ach, non fate il timido. <<Tira una boccata dalla pipa, spandendo uno strano odore.>> ## È una mia invenzione, se siete curioso. Ricicla il succo di tabacco, lo vaporizza e lo rimette in circolo perché venga consumato di nuovo. Diciassette volte più efficiente di una pipa normale.|||
+Drangorg5|<<Si lascia sfuggire una risata rantolante.>> Pensate al risparmio! Un solo sacchetto mi durava mesi sul campo.|||
+Drangorg6|Anche a voi.|||
+Drangorg7|Pah! Certo che no. Pensate che un soldato semplice avrebbe potuto progettarla? <<Agita la pipa meccanica.>>|||
+Drangorg8|Ero un geniere da combattimento. Tenente-Artefice Drangorg, 17° GuardiaUnta. Costruivo e mantenevo in funzione macchine da guerra che non riuscireste neppure a immaginare.|||
+Drangorg9|Certo, nella Guerra Divina! Non serve una macchina da guerra alta quattro piani per dare la caccia a bracconieri che si sono presi qualche coniglio di troppo, no? No, noi costruivamo macchine per portare la guerra agli dèi stessi. E abbiamo vinto.|||
+Drangorg10|Roba capace di stecchire un dio sul colpo, ecco cosa. Macchine da guerra simili a montagne in marcia. Opere d'ingegno e di scienza come ormai non se ne vedono più.|||
+Drangorg11|Entrammo in azione alla Battaglia delle Porte e al Riposo Nero, nella ritirata da Krasnagrad, nell'assedio di Aunpur... <<Vede il tuo sguardo velarsi.>> ##Per voi sono soltanto nomi, vero? Ammesso che vi dicano qualcosa.|||
+Drangorg12|Be', e ((la Battaglia della Roccia di Aristide?)) Quella ((l'avrete pur)) sentita nominare.|||
+Drangorg13|Pah! Quel dannato posto lo potete ((vedere)) benissimo da qui! È quell'isola a nord, oltre Pwyll, con una [[macchina da guerra]] sfasciata: ((non potete)) non vederla.|||
+Drangorg14|Certo che ne avete sentito parlare!##Se guardate a nord, oltre Pwyll, potete benissimo ((vedere)) la [[macchina da guerra]] sfasciata.|||
+Drangorg15|La guerra era quasi finita quando combattemmo là, ma è quella che mi è rimasta dentro. Quella in cui ho lasciato... be'...##<<Sospira.>> Volete sentire gli sproloqui di un vecchio soldato oppure no?|||
+Drangorg16|Sì, d'accordo. Be', c'è qualcos'altro su cui volete fare due chiacchiere?|||
+Drangorg17|Hm, be', quando arrivammo alla Roccia di Aristide la guerra era quasi finita. Un posto da nulla, davvero, ma alcuni di quei credenti vi fuggirono con un dio. Anzi, ((su)) un dio.|||
+Drangorg18|E voi non avete mai visto un dio messo alle strette, vero? <<Aggrotta la fronte.>>##No. Meglio per voi.|||
+Drangorg19|Ma avevamo la nostra macchina, quella su cui io e Cornelius prestavamo servizio praticamente dall'inizio di tutta quella faccenda.|||
+Drangorg20|<<Fa una pausa.>> Aspettate, non vi avevo parlato di Cornelius? Era il mio... ah. Il mio comandante. Il migliore che ci sia mai stato. ##Aveva un vero legame con la macchina. Lui e io avevamo spinto quella macchina al limite, battaglia dopo battaglia, finché non la conoscevamo quasi meglio di quanto ci conoscessimo fra noi.|||
+Drangorg21|Comunque, ah... <<Il vecchio ingegnere si interrompe, perso nei suoi pensieri, e sotto i baffoni spioventi le guance gli si arrossano un poco.>>|||
+Drangorg22|Scusatemi. Ho perso il filo per un momento, io... Ach. ##Non serve che sentiate tutta la storia. È acqua passata, ed è meglio così. Io sono tornato, la maggior parte di noi no, compresi Cornelius e la macchina da guerra.|||
+Drangorg23|Dev'essere ancora laggiù, da qualche parte. Quel che ((resta)) di lui. Nessuno di noi tornò più in quel posto, capite. Anche se qualcuno ((volesse)) tornare su quella roccia maledetta, gli servirebbe un'[[Aeronave potente]].|||
+Drangorg24|<<Sospira.>> Davvero, che altro c'è da dire?|||
+Drangorg25|<<Cala un silenzio imbarazzato, e hai l'impressione che Drangorg non abbia parlato così tanto da anni e che, per stasera, non dirà praticamente altro.>>|||
+Drangorg26|<<Drangorg resta in silenzio per un momento, allunga esitante una mano, poi la ritrae: non è ancora pronto a toccare l'artefatto.>>##Quello è...? Avete...?|||
+Drangorg27|<<Tossisce, facendo divampare la pipa in modo particolarmente spettacolare, e cerca di ricomporsi.>> Be', non avrei mai creduto di rivederlo. Ma avete fatto un bel gesto per un vecchio della GuardiaUnta.##<<Allunga di nuovo la mano e questa volta sfiora il ciondolo, con delicatezza.>>|||
+Drangorg28|Ecco. Prendete questo. Non apritelo qui, dove un Inquisitore qualunque potrebbe vederlo! Quello è del Minerale del Vuoto. Non ci ho mai costruito niente né ammazzato niente, e a questo punto non lo farò mai. Ma è con quella roba che abbiamo fatto fuori tutti gli dèi: quella, e il nostro sangue e le nostre budella.|||
+Drangorg29|Un po' di quella roba che misi da parte per me alla fine della guerra, anche se non saprei dire perché. Forse per avere qualcosa che me la ricordasse, ma ora ho... questo.##<<Drangorg stringe forte il ciondolo mentre fa scivolare verso di te un pacchetto. Sembra il momento giusto per lasciare il vecchio ai suoi pensieri.>>|||
+Drangorg30|Già. Ero un geniere da combattimento. Tenente-Artefice Drangorg, 17° GuardiaUnta. Costruivo e mantenevo in funzione macchine da guerra che non riuscireste neppure a immaginare. ##Costruivamo macchine per portare la guerra agli dèi stessi. E abbiamo vinto.|||
+Drangorg31|<<Aggrotta la fronte.>> Be', non serve certo che vi dica che fu ((dura.)) A quei tempi, lo sforzo bellico si divorava tutto ciò che ((avevamo.)) Di giorno lavoravamo, e di notte — cullati fra ruote dentate e ingranaggi delle nostre macchine — l'artiglieria urlante dei Wikkan non ci lasciava dormire.|||
+Drangorg32|Ma il 17°? Eravamo noi i ((migliori)). Quasi tutti eravamo di Kardova — prima del ((Regno Meccanico)), o come diavolo si chiama adesso.|||
+Drangorg33|<<Sospira.>> Non rividi mai la maggior parte di quei ragazzi. Ho sentito dire che laggiù se la passano piuttosto male, con quel Re Meccanico.|||
+Drangorg34|Hm, be', quando arrivammo alla Roccia di Aristide la Guerra Divina era quasi finita. Un posto da nulla, davvero, ma alcuni di quei credenti vi fuggirono con un dio. Anzi, ((su)) un dio.|||
+Drangorg35|Ma avevamo la nostra macchina, quella su cui io e Cornelius prestavamo servizio praticamente dall'inizio di tutta quella faccenda.|||
+Drangorg36|Che altro c'è da dire? Io sono tornato, la maggior parte di noi no: [[Cornelius]] e la macchina da guerra compresi.|||
+Drangorg37|Gli dèi erano... be', alla fine scoprimmo che non erano onnipotenti, ma ci andavano dannatamente vicino. Capite cosa significa? Nel migliore dei casi, eravamo ((giocattoli)) ai loro occhi. Nel migliore dei casi.|||
+Drangorg38|Dite pure ciò che volete della vostra Polimate locale: maledite il suo nome, sputatele in faccia. Almeno, se non vi piace, potete liberarvene alla vecchia maniera. Occhi negli occhi, spada contro spada, in un'elezione onesta. O con altri mezzi, se necessario.|||
+Drangorg39|Certo, alla fine mi sono trovato faccia a faccia e spada contro spada anche con parecchi dèi, quindi tant'è.|||
+Drangorg40|Già, l'Inquisizione. Vi sta col fiato sul collo, cerca di guardarvi dentro il cranio. Non siete l'unico a trovarla un po'... soffocante.##Ma provate a vedere la cosa dal suo punto di vista. Gli dèi non si limiteranno ad arrendersi e accettare il proprio destino. Non possono scendere a patti con noi. Per loro è una questione ((esistenziale)). Quindi non smetteranno mai di cercare di riprendersi il potere. Mai.|||
+Drangorg41|Questo significa che ogni singolo dio, finché vive — se si può chiamare «vita» ciò che possiede — è un pericolo mortale per l'Unione. Soprattutto perché uno qualunque di loro potrebbe crescere fino a diventare un mostro, se raggirasse abbastanza idioti da farsi adorare.##Quando siete chiuso in gabbia con un cane rabbioso, non potete sempre andarci piano.|||
+Drangorg42|Ah, be'. Hallowshire è un caso particolare. Ai confini è sempre tutto un po' caotico, sapete? E ad alcuni, a dire il vero, quel caos piace. Ma in certi altri regni... forse un giorno li vedrete.|||
+Drangorg43|Io, per esempio, vengo da [[Byonne]]. Gli acini che si gonfiano prima della vendemmia, le campane che suonano nelle città, i mercati, gli studiosi, le canzoni.##Sono queste le cose per cui abbiamo combattuto. E abbiamo vinto.|||
+Drangorg44|<<Ti rivolge un secco cenno del capo.>>|||
+Drangorg45|<<Drangorg annuisce in silenzio e tira una boccata dalla pipa.>>|||
+Drangorg46|Bene, allora. Altro?|||
+DrangorgP1|Ehm... interessante. Buona giornata.|||
+DrangorgP2|Sul campo? Eravate... un soldato?|||
+DrangorgP3|Che genere di macchine?|||
+DrangorgP4|Durante la Guerra Divina, intendete?|||
+DrangorgP5|Non credo di averne sentito parlare.|||
+DrangorgP6|<<[Menzogna]>> Certo!|||
+DrangorgP7|Magari un'altra volta.|||
+DrangorgP8|Vi prego, continuate.|||
+DrangorgP9|Ho qualcosa per voi. <<Consegnare il ciondolo.>>|||
+DrangorgP10|Non avete finito di parlarmi della Roccia di Aristide.|||
+DrangorgP11|Dicevate di aver combattuto nella Guerra Divina?|||
+DrangorgP12|Com'era la vita nella GuardiaUnta?|||
+DrangorgP13|Raccontatemi di nuovo la Battaglia per la Roccia di Aristide.|||
+DrangorgP14|Com'erano gli dèi?|||
+DrangorgP15|È tutto ciò che volevo sapere sulla guerra.|||
+DrangorgP16|Qui la presenza dell'Inquisizione sembra opprimente. Che cosa fa da queste parti?|||
+DrangorgP17|La vita qui sembra piuttosto dura.|||
+DrangorgP18|Addio, Tenente-Artefice.|||
+MemUnionA|... Lo sentite?! Quello non è fuoco di cannone! Quello è il futuro!...|||
+MemUnionB|... i denti. I denti di quella cosa! I denti...|||
+MemUnionC|... Dèi, perdonatemi. Dèi... concentrati. Concentrati. Può un Dio perdonarti se l'hai ucciso? Puoi perdonare un Dio se ti uccide? Può un Dio ucciderti se lo perdoni? Puoi perdonare un Dio se lo uccidi? Puoi uccidere un Dio se lo perdoni? No! Dèi, no. Smetti di pensare agli Dèi. Dèi. Puoi...|||
+MemUnionD|... Avanti! Per l'Apostasia! Morte agli idoli falsi e veri! Morte alla morte stessa! Avanti...|||
+MemUnionE|... Oh, hai paura, eh? Paura di un Divinetto appena nato? Gli faremo rimpiangere di essere mai venuto al mondo! Forza, ragazzo, quello ti sembra un Dio? Ho cagato Dèi migliori di quello...|||
+MemUnionF|... Che cosa abbiamo costruito? Che cosa abbiamo fatto? Più grande degli stessi Dèi.##Mi chiedo se, prima che questa guerra finisca, ci inchineremo davanti a questa cosa...|||
+MemShared|... Voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa voglio tornare a casa...|||
+MemWikkanA|... E come potrebbe un uomo morire meglio, se non affrontando terribili avversità per le ceneri dei suoi padri e i corpi dei suoi Dèi?...|||
+MemWikkanB|... le dimensioni. L'abominio! Loro, che sostengono di abbattere gli idoli, per poi costruire questo?!...|||
+MemWikkanC|... la fattoria. Il raccolto. Il rossore sulle lamelle dei funghi quando l'inverno comincia a cedere. Il raschio della cote sulla falce. Il sole sulle cime degli alberi...|||
+MemWikkanD|... Non è reale. Morirà come muoiono tutti gli altri, e noi moriremo con lui, come tutti gli altri, e sarà stata tutta una menzogna e io non avrò mai nemmeno conosciuto la libertà...|||
+MemWikkanE|... il mio scudo, la Forza la mia spada, e se dovessi cadere, gli Dèi mi concedano la ricompensa. La fermezza sia il mio scudo, la Forza la mia spada, e se dovessi cadere, gli Dèi mi concedano la ricompensa. La fermezza sia il mio scudo, la Forza la mia spada, e se dovessi cadere, gli Dèi mi concedano la ricompensa. La fermezza sia il mio scudo, la Forza la mia spada, e se dovessi cadere, gli Dèi mi concedano la ricompensa. La fermezza sia il mio scudo, la Forza la mia spada, e se dovessi...|||
+Kaea1|<<Un uomo segnato dal tempo siede accanto alla finestra, lottando per ogni respiro sibilante.>>##<<Sul collo e sulle mani porta i tatuaggi di una dimenticata banda di Fuorilegge, sbiaditi dagli anni.>>|||
+Kaea2|<<Ti guarda con paura, poi rantola:>>##Non dirò niente, ma... se verranno a cercarvi, non vi nasconderò.|||
+Kaea3|Non morirò in quella fottuta prigione! Non per nessuno! Sono un essere umano, cazzo!##<<Sputa sul pavimento; il muco è denso e giallastro.>>|||
+Kaea4|Chi, ((secondo voi))? Idiota!|||
+Kaea5|È da malati, no? Tutta questa faccenda.|||
+Kaea6|Ancora voi? <<Rantola.>>##Fate come a casa vostra.|||
+Kaea7|Non avrei mai dovuto accettare quel lavoro, tanti anni fa.##<<Comincia a tossire con violenza.>>|||
+Kaea8|Non avrei mai dovuto accettare quel lavoro.|||
+Kaea9|È proprio come me, sapete?##I funghi continuano a crescere e il suo corpo non riesce a combatterli.|||
+Kaea10|Vi ammazza piano piano, ve lo dico io.|||
+Kaea11|Quei [[bastardi]] portarono qui i funghi molto tempo fa.##Infettarono il Mollusco perché gli faceva comodo.|||
+Kaea12|Nel giro di una generazione, il micelio si diffuse mentre la Congrega si indeboliva. E ormai la Congrega non riesce più a controllarlo. Fuori dal castello, tutto sta crollando.|||
+Kaea13|Il Mollusco, però, è proprio come me. Presto sparirà per sempre. E sapete una cosa? Con lui moriranno anche i sogni fanatici costruiti sul suo dorso!|||
+Kaea14|<<La foga lo travolge e viene colto da un altro accesso di tosse. Quando si riprende, sembra aver perso il filo.>>|||
+Kaea15|È successo molto tempo fa. Mi dissero che era lavoro manuale, ma roba da farsi impiccare dall'Inquisizione. Non mi dissero né il luogo né il cliente, e non avevo mai sentito parlare della [[Congrega del Mollusco.]].##Stando a loro, dovevo solo salire su un'Aeronave, fare il lavoro, non fare domande, prendere i soldi, tornare a casa e non aprire mai più quella cazzo di bocca su quella storia.|||
+Kaea16|Soldi facili, pensai. Niente furti, niente rapimenti, niente omicidi. Per un Fuorilegge come me, più regolare di così non si poteva. E pagava anche bene.##<<Tossisce, stringendosi l'addome per il dolore.>>|||
+Kaea17|Be', per farla breve, ho fatto una cazzata. Qui niente è gratis. Mi sono indebitato e non potevo più andarmene.##Ero arrivato a un passo dal saldare tutto, ma il fisico ha cominciato a cedere e io a guadagnare sempre meno.|||
+Kaea18|Ormai sono finito in un buco così profondo che tanto varrebbe seppellirmici.##Non che mi resti molto da vivere, comunque.|||
+Kaea19|<<Ti scruta socchiudendo gli occhi.>>##Lavoro in miniera, diciamo?|||
+Kaea20|Il Mollusco produce [[Minerale di Tessifungo]] nelle profondità del suo grembo. È per questo che la Congrega si trova qui.##Il mio lavoro era spostare tutta quella merda pesante da una parte all'altra per rendere possibile tutto questo.|||
+Kaea21|A volte aiutavo a tagliare via la carne dove non serviva, oppure a innestare un pezzo preso da un'altra parte. Era tutto così enorme che per fare qualsiasi cosa serviva una squadra di tre o quattro persone.##<<A forza di parlare così in fretta, la voce gli si fa roca e gli sfugge un colpo di tosse cavernoso.>>|||
+Kaea22|Ho sognato di scappare, ma... controllano ogni Aeronave, verificano ogni dettaglio... e se la Congrega mi prendesse, io...##<<Tossisce con violenza. Ti chiedi se stia per vomitare.>>|||
+Kaea23|Oh, ve ne... andate già?|||
+KaeaP1|Va bene.|||
+KaeaP2|Perché no!?|||
+KaeaP3|E ((chi)) verrebbe a cercarmi?|||
+KaeaP4|Che cosa sapete del Mollusco?|||
+KaeaP5|In che consisteva il lavoro?|||
+KaeaP6|Che tipo di lavoro facevate?|||
+KaeaP7|Avete mai provato a scappare?|||
+KaeaP8|Capisco...|||
+KaeaP9|Addio|||

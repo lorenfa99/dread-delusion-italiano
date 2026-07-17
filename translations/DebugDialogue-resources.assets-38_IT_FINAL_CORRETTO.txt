@@ -1,0 +1,99 @@
+NPC Name:|DebugDialogue||||
+ID|English|French|German|Spanish|Italian
+npc1|Ehilà, sono l'NPC di debug. Che cosa volete testare?||||
+pQuest|Questo dovrebbe comparire solo se NON ho la vostra missione.||||
+quest1|Ehi, potete premere quel cubo di prova per me? Ve ne sarei davvero grato.||||
+quest2|Wow, avete premuto il cubo! Dev’essere stato proprio difficile.||||
+quest3|Grazie per aver fatto quella cosa col cubo, amico.||||
+pCharm|Ehi, posso usare <<FASCINO>> su di voi per ottenere qualche [[moneta?]]||||
+charm1|Wow, siete proprio <<AFFASCINANTE!>> Eccovi un po' di roba.||||
+charm2|Ehm, e questo lo chiamate <<FASCINO?>> Spiacente, amico.||||
+pJump|Ehi, se salto 5 volte, mi date qualcosa?||||
+jump1|A quanto pare non avete ancora saltato 5 volte. ||||
+jump2|Wow, avete saltato 5 volte! Che figata. ||||
+pBool|Dovrei vedere questo solo se ho il giusto [[dato.]]||||
+bool1|A quanto pare avete il giusto [[dato!]]||||
+bool2|No, non avete il [[dato]].||||
+pExit|Ora me ne vado.||||
+pFact|Potete controllare se ho il giusto [[dato]]?||||
+pCharm2|@@ Questo controllo di Fascino è impostato su "Charm Value 9999", "Less", quindi dovrebbe sempre restituire true||||
+pCharm3|@@ Questo controllo di Fascino è impostato su "Charm Value 0", "More", quindi dovrebbe sempre restituire true||||
+pCharmS|%%<<Fascino riuscito>>.||||
+pCharmF|&&<<Fascino fallito>>||||
+pFact1|Questo dovrebbe restituire true se "FactIsFalse" "false" "equal" ||||
+pFactT|Il dato è true.||||
+pFactF|Il dato è false.||||
+pFact2|Questo dovrebbe restituire true se "FactIsTrue" "true" "equal" ||||
+pHidden|Questo dovrebbe rimanere nascosto se "FactIsFalse" "false" "equal", ma comparire se "FactIsFalse" è true||||
+hub1-1|(1) Questo dovrebbe trovarsi in HUB-1! Porta a Hub2.||||
+hub1-2|(2) Questo dovrebbe trovarsi in HUB-1! Porta a Hub3. Testerà anche i parametri.||||
+hub1-3|(2) Questo dovrebbe trovarsi in HUB-1! Chiude il dialogo.||||
+hub2-1|(1) Questo dovrebbe trovarsi in HUB-2. Porta a Hub1.||||
+hub2-2|(2) Questo dovrebbe trovarsi in HUB-2! Porta a Hub3. Testerà anche i parametri.||||
+hub2-3|(2) Questo dovrebbe trovarsi in HUB-2! Chiude il dialogo.||||
+hub3-1|(1) Questo dovrebbe trovarsi in HUB-3! Porta a Hub1.||||
+hub3-2|(2) Questo dovrebbe trovarsi in HUB-3! Porta a Hub2.||||
+hub3-3|(2) Questo dovrebbe trovarsi in HUB-3! Chiude il dialogo.||||
+hub1-0|State entrando in HUB 1. ||||
+hub2-0|State entrando in HUB 2.||||
+hub3-0|State entrando in HUB3. Dovrebbe anche attivare il parametro NOW.||||
+factNPC|Ehilà, sono FactTestDialogue.||||
+factTest1|[1] Cliccando su di me, TestFact42 verrà impostato su true (e non su null).||||
+factTest1-2|Ora TestFact42 dovrebbe essere TRUE.||||
+factTest2|[2] Cliccando su di me, TestFact42 verrà impostato su false (e non su null).||||
+factTest2-2|Ora TestFact42 dovrebbe essere FALSE.||||
+factTest3|[3] Questo viene visualizzato se TestFact42 è TRUE (NULL NASCONDE).||||
+factTest4|[4] Questo viene visualizzato se TestFact42 è FALSE (NULL NASCONDE).||||
+factTest5|[5] Questo viene visualizzato se TestFact42 è TRUE (NULL MOSTRA).||||
+factTest6|[6] Questo viene visualizzato se TestFact42 è FALSE e (NULL MOSTRA).||||
+factTest7|[7] Questo chiude il dialogo.||||
+itemNPC|Ehilà, sono ItemTestDialogue.||||
+itemTest1|[1] Questo verrà visualizzato se potionHealth NON è 0.||||
+itemTest2|[2] Questo verrà visualizzato se potionHealth è maggiore di 3.||||
+itemTest3|[3] Questo verrà visualizzato se potionHealth è minore di 3.||||
+itemTest4|[4] Questo chiude il dialogo.||||
+newFont1|Questo font dovrebbe essere normale. ## {{🜳 🜴 🜶 🜹 🜺 🜻 🜼 🜽 🝁 🝂 }} ##...e ora di nuovo normale.||||
+tutDrone1|Esemplare VII, sembra che stiate muovendo il corpo di vostra spontanea volontà. È assai singolare. ||||
+tutDrone2|Vi preghiamo di dirci: vi sentite... senziente? State provando... emozioni? ((Pensieri))?||||
+p11|Ma ((certo)) che ho dei pensieri. ||||
+tutDrone3|((Elaborazione))... ##Voi, Esemplare VII, avete raggiunto la senzienza in un tempo straordinariamente breve. Il padrone vorrà esserne informato. Andate a riferirglielo direttamente.||||
+p12|Macché, nessun pensiero.||||
+tutDrone4|È assai singolare. Il movimento del corpo dell'Esemplare VII dev'essere dovuto a una serie di spasmi neurali. Raccomandiamo l'immediato smaltimento degli esemplari.||||
+p13|Perché mai un cadavere volante mi fa la predica? ((Credo)) che possiate anche levarvi dalle palle.||||
+tutDrone5|L'Esemplare VII mostra livelli elevati di grinta e arguzia. È davvero insolito. Il padrone vorrà esserne informato.||||
+master1|Ah, ma che abbiamo qui? Siete sveglio? Straordinario! ##Esemplare VII, benvenuto nel mondo della veglia. Siete una creatura magnifica, modestia a parte.||||
+master2|Ora non c'è tempo da perdere. Presto, ditemi: che cosa ricordate? Va bene qualsiasi ricordo, proprio qualsiasi. ||||
+p14|Ricordo il volto del mio amore nella luce della sera.||||
+p15|Ricordo una splendida giornata nella mia città natale.||||
+master3|Commovente! Davvero commovente. <<Finge di asciugarsi una lacrima.>> ##Naturalmente quel ricordo è completamente falso. L'ho comprato da un mercante di sogni a Riova, pagandolo a caro prezzo.||||
+p16|Ricordo che mi contorcevo e soffocavo in una vasca di liquido orribile.||||
+master4|Oh, cielo! Sembra che i ricordi che vi ho impiantato non abbiano attecchito. Avete sviluppato... dei ((propri)) ricordi. Davvero straordinario!||||
+master5|Comunque, basta così: non abbiamo tempo da perdere.||||
+master6|Prendete un po’ di equipaggiamento alle vostre spalle e avventuratevi nel mondo. I miei droni vi sorveglieranno da vicino, raccogliendo dati preziosi. ||||
+master7|E ricordate: divertitevi! Siete ((vivo!)) Godetevi fino in fondo i prossimi minuti. ||||
+p17|I prossimi minuti?||||
+master8|Oh, sì: vi restano solo pochi minuti. Poi il vostro cuore esploderà, uccidendovi all'istante. Non possiamo certo lasciarvi scappare a raccontare a tutti del nostro piccolo esperimento, no?||||
+master9|Oh, non fate quella faccia triste. Siete ((vivo!)) Sapete quanti morti ((ucciderebbero)) pur di essere al vostro posto?||||
+p18|Che cosa sta succedendo qui?||||
+master10|Ebbene, siete un esemplare del progetto P.A.X. Sta per ((Persona Artificiale X.)) ##((La X non significa nulla, mi piace solo infilare la lettera X nelle cose)).||||
+master11|Ebbene, siete un esemplare del progetto W.A.S.D. Sta per ((Weird Artificial Specimen Development)). ##Perché «weird», vi chiederete? Be', è piuttosto strano, no? ((Ed ero parecchio ubriaco quando mi sono inventato quell'acronimo...))||||
+master12|Ebbene, siete un esemplare del progetto D.R.E.A.D....||||
+master13|In ogni caso, significa che siete un omuncolo: un essere umano cresciuto in una vasca, a cui sono stati impiantati ricordi artificiali. Non è ((magnifico?))||||
+p19|Addio. ||||
+Yellow|Giallo||||
+Blue|Blu||||
+Pink|Rosa||||
+Green|Verde||||
+YellowD|GialloD||||
+PinkD|RosaD||||
+BlueD|BluD||||
+iobday1|Siete in ritardo, cittadina. Il [[Re Meccanico]] vi attende.||||
+iobday2|Buon compleanno, ragazza mia. Non potrò mai ringraziarvi abbastanza per avermi dato vita.||||
+iobday3|Anche se noi Eterni non considereremmo certo la vostra misera età un traguardo, vi auguro ogni bene.||||
+iobday4|Eheh. Mi siete sempre stata simpatica. Buon compleanno!||||
+iobday5|Sapete, ai bei vecchi tempi mi avrebbe fatto comodo una come voi. Buon compleanno.||||
+iobday6|Buon compleanno, Io! Mi raccomando, riposatevi e divertitevi un po'.||||
+iobday7|Oddio, BUON COMPLEANNO||||
+iobday8|Buon compleanno, Io!||||
+iobday9|Un momento, che sta succedendo?||||
+iobday10|[[GIUDIZIO]]: È IL VOSTRO COMPLEANNO. PERTANTO, [[EDITTO]]: DOVRETE RILASSARVI E PASSARVELA ALLA GRANDE, CAZZO.|||||||

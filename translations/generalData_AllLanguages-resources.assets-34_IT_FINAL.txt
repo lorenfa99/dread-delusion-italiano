@@ -1,0 +1,950 @@
+|1: English|2: French|3. German|4. Spanish|5. Italian
+THIS_LANGUAGE|Italiano|French|German|Spanish|Italian
+AUTOMATIC_LANGUAGE|Automatico|Automatic|||
+VERSION_NUM|Versione|Version|||
+START_GAME|Inizia partita|Start Game|||
+OPTIONS|Opzioni|Options|||
+SCREEN_RESOLUTION|Risoluzione dello schermo|Screen resolution|||
+RESOLUTION|Risoluzione|Resolution(F)|Resolution(G)|Resolution(S)|Resolution(I)
+CONTROLS|Comandi|Controls|||
+BRIGHTNESS|Luminosità|Brightness|||
+LOOK_SENSITIVITY|Sensibilità della visuale|Look sensitivity|||
+FOV|Campo visivo|Field of view|||
+MUSIC|Volume musica|Music volume|||
+SFX|Volume effetti|Effects volume|||
+VOICEOVER|Volume voci|Voiceover volume|||
+CAMERA_MOTION|Movimento della telecamera|Camera motion|||
+VSYNC|VSync|VSync|||
+CAPFRAMERATE|Limita la frequenza dei fotogrammi||||
+INVERT_Y|Inverti asse Y|Invert Y Axis|||
+FULL_SCREEN|Schermo intero|Full screen|||
+WOBBLY_GFX|3D ondeggiante|Wobbly 3D|||
+WOBBLY_TEXTURES|Texture ondeggianti|Wobbly Textures|||
+RETRO_RES|Risoluzione rétro|Retro Resolution|||
+QUIT|Esci|Quit|||
+TITLE_SCREEN|Schermata del titolo|Title Screen|||
+CANCEL|Annulla|Cancel|||
+ACCEPT|Accetta|Accept|||
+BACK|Indietro|Back|||
+NEXT|Avanti|Next|||
+YES|Sì|Yes|||
+NO|No|No|||
+RETURN|Torna|Return|||
+DELETE|Elimina|Delete|||
+BINDING_X|Assegnazione «{0}».|Binding '{0}'.|||
+WAITING_FOR_INPUT|In attesa di un comando...|Waiting for input...|||
+PRESS_X_TO_CANCEL|Premi {0} per annullare|Press {0} to cancel|||
+RESET_ALL|Ripristina tutto|Reset All|||
+RESET|Ripristina|Reset|||
+MOVEMENT|Movimento|Movement|||
+ACTION|Azione|Action|||
+SELECTION|Selezione|Selection|||
+MENUS|Menu|Menus|||
+KEYBOARD|Tastiera|Keyboard|||
+CONTROLLER|Controller|Controller|||
+MOVE|Muovi|Move|||
+JUMP|Salta|Jump|||
+SPRINT|Scatta|Sprint|||
+DODGE|Schiva|Dodge|||
+CROUCH|Accovacciati|Crouch|||
+INTERACT|Interagisci|Interact|||
+SPELL|Incantesimo|Spell|||
+ITEM|Oggetto|Item|||
+SCOPE|Mirino|Scope|||
+LANGUAGE|Lingua|Language|||
+HOLSTER_WEAPON|Riponi arma|Holster Weapon|||
+SWITCH_WEAPON|Cambia arma|Switch Weapon|||
+SWITCH_ITEM|Cambia oggetto|Switch Item|||
+SWITCH_SPELL|Cambia incantesimo|Switch Spell|||
+BLOCK|Blocco|Block|||
+MAP|Mappa|Map|||
+AIRSHIP_1|Aeronave 1|Airship 1|||
+RECENTER_CAMERA|Ricentra telecamera|Recenter Camera|||
+BOOST|Accelerazione|Boost|||
+EXIT|Esci|Exit|||
+AIRSHIP_2|Aeronave 2|Airship 2|||
+ASCEND|Sali|Ascend|||
+DESCEND|Scendi|Descend|||
+TILTUP|Inclina verso l'alto|Tilt Up|||
+TILTDOWN|Inclina verso il basso|Tilt Down|||
+REVERSE|Retromarcia|Reverse|||
+MENU|Menu|Menu|||
+DIFFICULTY|Difficoltà|Difficulty Mode|||
+DIFFICULTY_WARNING|Questa impostazione è permanente e non può essere modificata durante la partita.|This setting is permanent and cannot be changed during your playthrough.|||
+NORMAL_MODE|Modalità normale|Normal Mode|||
+NORMAL_MODE_SHORT|NORMALE|NORMAL|||
+HARD_MODE|Modalità difficile|Hard Mode|||
+HARD_MODE_SHORT|DIFFICILE|HARD|||
+CHARACTER_CREATE|Creazione del personaggio|Character Creation|||
+YOUR_PAST|Il tuo passato|Your Past|||
+PAGE_LEFT|Pagina a sinistra|Page Left|||
+PAGE_RIGHT|Pagina a destra|Page Right|||
+CONFIRM_SURE|Sei sicuro?|Are you sure?|||
+CONFIRM_TITLE|Tornare alla schermata del titolo?|Return to title screen?|||
+CONFIRM_RESET|Ripristinare i comandi predefiniti?|Reset controls to default?|||
+CONFIRM_RESOLUTION|Mantenere questa risoluzione? La risoluzione precedente verrà ripristinata tra 5 secondi.|Keep this resolution? Will revert in a 5 seconds.|||
+CONFIRM_QUIT|Uscire dal gioco?|Quit the game?|||
+CONFIRM_ERASE_ONE|Eliminare i dati nello slot uno?|Erase data in slot one?|||
+CONFIRM_ERASE_TWO|Eliminare i dati nello slot due?|Erase data in slot two?|||
+CONFIRM_ERASE_THREE|Eliminare i dati nello slot tre?|Erase data in slot three?|||
+CONFIRM_BUY|Acquista per|Buy for|||
+CONFIRM_SELL|Vendi per|Sell for|||
+CONFIRM_BUY_MULTI|Acquista questa quantità per|Buy amount for|||
+CONFIRM_SELL_MULTI|Vendi questa quantità per|Sell amount for|||
+CONFIRM_UPGRADE|Potenzia a|Upgrade to|||
+CONFIRM_USE_ITEM|Usare questo oggetto?|Use this item?|||
+CONFIRM_EQUIP_ITEM|Equipaggiare questo oggetto?|Equip this item?|||
+INVENTORY|Inventario|Inventory|||
+EQUIPMENT|Equipaggiamento|Equipment|||
+USEABLES|Consumabili|Useables|||
+ITEMS_SPELLS|Oggetti e incantesimi|Items and Spells|||
+SPELLS|Incantesimi|Spells|||
+CHARACTER|Personaggio|Character|||
+EMPTY_SLOT|Slot vuoto|Empty Slot|||
+CORRUPT_DATA|DATI DANNEGGIATI|CORRUPT DATA|||
+CORRUPT_DATA_NOTE|Questi dati sono danneggiati. Devi eliminarli. Contatta gli sviluppatori per maggiori informazioni.|This data is corrupt. You must delete it. Please contact the developers for more info.|||
+SAVE|Salva|Save|||
+SLOT|Slot|Slot|||
+ONE|Uno|One|||
+TWO|Due|Two|||
+THREE|Tre|Three|||
+SLOT_ONE|Slot uno|Slot One|||
+SLOT_TWO|Slot due|Slot Two|||
+SLOT_THREE|Slot tre|Slot Three|||
+ATTRIBUTE|Attributo|Attribute|||
+DELUSIONS|Deliri|Delusions|||
+MIGHT|Forza|Might|||
+GUILE|Astuzia|Guile|||
+WISDOM|Saggezza|Wisdom|||
+PERSONA|Carisma|Persona|||
+HEALTH|Salute|Health|||
+MANA|Mana|Mana|||
+STAMINA|Vigore|Stamina|||
+REGEN|Rigenerazione|Regen|||
+ATTACK|Attacco|Attack|||
+LOCKPICK|Scasso|Lockpick|||
+LORE|Sapere|Lore|||
+CHARM|Fascino|Charm|||
+DEFENCE|Difesa|Defence|||
+AGILITY|Agilità|Agility|||
+SPELLCAST|Lancio Incantesimi|Spellcast|||
+BARTER|Baratto|Barter|||
+DAMAGE|Danno|Damage|||
+ARMOUR|Armatura|Armour|||
+DAM_1|Danno uno|Damage One|||
+DAM_2|Danno due|Damage Two|||
+POOR|Scadente|Poor|||
+COMMON|Comune|Common|||
+FINE|Pregiato|Fine|||
+SHROOMWEAVE|Tessifungo|Shroomweave|||
+CLOCKWORK|Meccanico|Clockwork|||
+VOIDSTEEL|Acciaio del Vuoto|Voidsteel|||
+GLIMMERS|Barlumi|Glimmers|||
+GLIM_NEEDED|Barlumi necessari:|Glimmers Needed:|||
+CHARM_DIALOGUE|[Fascino]|[Charm]|||
+CHARM_SUCCESS|[Successo]|[Success]|||
+CHARM_FAIL|[Fallimento]|[Fail]|||
+NEED|Serve|Need|||
+USE|Usa|Use|||
+SAVING|Salvataggio...|Saving...|||
+CREDITS|Crediti|Credits|||
+MSG_REST_MUGGED_T|Derubato||||
+MSG_REST_MUGGED|Ti svegli intontito e capisci che qualcosa non va. Sì, non c'è dubbio: qualcuno è stato qui mentre dormivi. ##Per fortuna, gran parte del tuo equipaggiamento era ben nascosta, ma i ladri hanno rubato alcune monete.||||
+MSG_REST_ENEMY_T|Non sei solo||||
+MSG_REST_ENEMY|Un rumore secco ti desta. Ancora intontito, apri gli occhi: non sei solo in questo luogo.||||
+MAP_NOCHARTS|Non hai trovato alcuna Mappa Cartografica.||||
+HOUSE_UNBUILT|Non costruito||||
+HOUSE_UNFURNISHED|Non arredato||||
+HOUSE_CONTRUCTING|In costruzione||||
+HOUSE_BUILT|Costruito||||
+HOUSE_FURNISHED|Arredato||||
+HOUSE_ID_MANOR|Maniero||||
+HOUSE_ID_MAINBUILD|Casa principale||||
+HOUSE_ID_WORKSHOP|Laboratorio||||
+HOUSE_ID_LIBRARY|Biblioteca||||
+HOUSE_ID_GARDEN|Giardino||||
+HOUSE_ID_ENDLESS|Casa di Sepolcro||||
+HOUSE_ID_END_MAIN|Casa||||
+HOUSE_ID_END_ANNEX|Annesso||||
+HOUSE_ID_END_TOP|Piano superiore||||
+HOUSE_ID_END_GARDEN|Giardino||||
+HOUSE_ID_FORTRESS|Fortezza di Vela||||
+HOUSE_ID_FORTRESS_1|Alloggi||||
+HOUSE_ID_FORTRESS_2|Laboratorio||||
+HOUSE_ID_FORTRESS_3|Sala d'addestramento||||
+HOUSE_ID_CWK|Casa del Regno Meccanico||||
+HOUSE_ID_CWK_MAIN|Casa||||
+HOUSE_ID_CWK_WORKSHOP|Laboratorio||||
+HOUSE_ID_CWK_GARDEN|Balcone||||
+HOUSE_ID_CWK_LIBRARY|Annesso||||
+HOUSE_PANEL_FURNISH|Cambia stile:||||
+HOUSE_PANEL_TITLE|Potenzia proprietà||||
+HOUSE_CONFIRM_FURNISH|Riarredare la proprietà in questo stile?||||
+HOUSE_CONFIRM_UNION|La proprietà verrà riarredata nello stile dell'Unione Apostatica. Sei sicuro?||||
+HOUSE_CONFIRM_OUTLAW|La proprietà verrà riarredata nello stile di briganti e Fuorilegge. Sei sicuro?||||
+HOUSE_CONFIRM_ENDLESS|La proprietà verrà riarredata nel macabro stile degli Eterni. Sei sicuro?||||
+HOUSE_CONFIRM_CWK|La proprietà verrà riarredata nello stile del Regno Meccanico. Sei sicuro?||||
+HOUSE_CONFIRM_BUILD|Potenziare questa parte della proprietà?||||
+HOUSE_CONFIRM_MAIN|Potenziare la casa centrale?||||
+HOUSE_CONFIRM_WORKSHOP|Potenziare il laboratorio?||||
+HOUSE_CONFIRM_LIBRARY|Potenziare la biblioteca?||||
+HOUSE_CONFIRM_GARDEN|Potenziare il giardino?||||
+HOUSE_NOTE_CONSTRUCT|Questa parte della proprietà è ancora in costruzione.||||
+HOUSE_NOTE_COMPLETE|Questa parte della proprietà è stata potenziata al massimo.||||
+HOUSE_NOTE_FURNISH|Questo è il costo per riarredare la proprietà. Seleziona uno stile per confermare.||||
+HOUSE_NOTE_NOTBOUGHT|Non puoi potenziare questa proprietà perché non ti appartiene.||||
+HOUSE_NOTE_NOSTYLES|Non hai sbloccato alcuno stile d'arredamento.||||
+HOUSE_NOTE_REDECORATING|La proprietà è in fase di riarredamento.||||
+HOUSE_BUILD_NOTENOUGH|Non hai i materiali necessari per acquistare questo potenziamento.||||
+HOUSE_FURNISH_NOTENOUGH|Non hai abbastanza monete per riarredare.||||
+HOUSE_FURNISH_GOTALREADY|Possiedi già questi arredi.||||
+TROPHY_NOTE_NONE|Non hai sbloccato alcun trofeo per questa esposizione.||||
+TROPHY_NOTE_ONE|Non hai altri trofei per questa esposizione.||||
+TROPHY_NO_WEAPON|Non hai un'arma equipaggiata.||||
+FACTION_LOCKED|Devi avere rapporti amichevoli con questa fazione per entrare.||||
+FACTION_HATED|Odiato||||
+FACTION_ENEMY|Nemico||||
+FACTON_DISLIKED|Sgradito||||
+FACTON_NEUTRAL|Neutrale||||
+FACTON_ACCEPTED|Accettato||||
+FACTON_FRIENDLY|Amichevole||||
+FACTON_LOVED|Amato||||
+FACTION_NAME_UNION|Unione Apostatica||||
+FACTION_NAME_WIKKAN|Wikkan||||
+FACTION_NAME_OUTLAW|Fuorilegge||||
+FACTION_NAME_DARKSTAR|Mercenari della Stella Oscura||||
+FACTION_NAME_ENDLESS1|Realisti Eterni||||
+FACTION_NAME_ENDLESS2|Cadaveri Eterni||||
+FACTION_NAME_CWK1|Ferropolis||||
+FACTION_NAME_CWK2|Ribelli Meccanici||||
+FACTION_NAME_EMBERIAN|Emberiani||||
+FACTION_NAME_DEATHGOD|Dio della Morte||||
+FACTION_NAME_GOBLINS|Goblin||||
+FACTION_NAME_UNDEAD|Non morti||||
+FACTION_NAME_MACHINES|Macchine||||
+FACTION_NAME_CRYSTAL|Figli di Cristallo||||
+FACTION_NAME_ONIONS|Mercenari delle Cipolle Marce||||
+FACTION_INFO_UNION|L'Unione Apostatica nacque circa quarant'anni fa, dopo che i regni che oggi la compongono sconfissero i Wikkan nella Guerra Divina. Li accomuna la convinzione che, perché l'umanità possa prosperare, gli dèi e i loro adoratori debbano essere espulsi dalla società umana. Nell'Unione, definire qualcuno «devoto» è un insulto bello e buono.||||
+FACTION_INFO_WIKKAN|Già prima dello Squarcio del Mondo, le congreghe Wikkan dominavano i Regni Celesti. Le diverse congreghe stipulavano contratti sacri tra uomini e dèi, imponendo a entrambi rigidi codici di condotta. L'Unione Apostatica, desiderosa di studiare liberamente la magia cifrata, sconfisse i Wikkan nella Guerra Divina; oggi il loro potere è assai ridotto.||||
+FACTION_INFO_OUTLAW|Termine generico che indica i vari briganti e malviventi delle Isole Oniriche. Situate ai margini dei territori dell'Unione Apostatica, fino a poco tempo fa quelle isole erano pressoché prive di legge e offrivano rifugio a numerose bande criminali. Sebbene siano spesso in competizione, tra le bande di Fuorilegge le voci corrono in fretta ed è possibile farsi un nome come mercenario di rilievo.||||
+FACTION_INFO_DARKSTAR|Compagnia mercenaria guidata da Vela Callose, la Compagnia della Stella Oscura è famigerata in tutta l'Unione Apostatica per le sue imprese criminali. Si dice che i suoi membri farebbero qualsiasi cosa per denaro e che abbiano accumulato immense ricchezze. Sono stati avvistati per l'ultima volta nelle Isole Oniriche.||||
+FACTION_INFO_ENDLESS1|Fedeli alla Regina d'Argento, i Realisti Eterni credono nel rispetto della volontà della loro sovrana. Ciò include nutrirsi della carne priva di coscienza della Penitente D'Isgelo anziché di carne senziente. Negli ultimi cento anni circa, questa posizione ha contribuito a ricucire i rapporti con le fazioni mortali dei Regni Celesti.||||
+FACTION_INFO_ENDLESS2|I Cadaveri Eterni sono un gruppo oscuro, organizzato alla meglio sotto il comando di Lord Rhydder. Desiderano tornare ai tetri giorni delle Crociate dei Cadaveri, quando gli Eterni invadevano le isole vicine e banchettavano con carne mortale. Una simile condotta sarebbe, naturalmente, in aperta opposizione alla volontà della Regina d'Argento.||||
+FACTION_INFO_CWK1|testo||||
+FACTION_INFO_CWK2|testo||||
+FACTION_INFO_EMBERIAN|testo||||
+FACTION_INFO_DEATHGOD|testo||||
+FACTION_INFO_GOBLINS|I goblin, bizzarre creature umanoidi originarie delle Isole Oniriche, si vedono spesso con maschere di legno fabbricate a mano, che pare indossino come atto di penitenza per qualche colpa passata. Vivono in armonia con la foresta e hanno una particolare predilezione per le falene giganti che vi abitano.||||
+FACTION_INFO_UNDEAD|Fantasmi e costrutti scheletrici. È ampiamente documentato che riportare in vita un essere vivente sia impossibile con la magia cifrata; ciò non impedisce a certe anime di aggrapparsi all'esistenza in una patetica parodia della vita.||||
+FACTION_INFO_MACHINES|Costrutti artificiali, spesso ostili alla vita. Durante la Guerra Divina, a Kardova furono prodotte molte macchine, e questa eredità è proseguita con la fondazione del Regno Meccanico. Se un tempo questi terribili congegni avevano uno scopo utile, ormai è stato dimenticato: vagano senza controllo, attaccando ogni minaccia rilevata dai loro sensori.||||
+FACTION_INFO_CRYSTAL|Seguaci di una nuova dea, nelle profondità sotto il Regno Eterno. I cristalli crescono dall'interno.||||
+FACTION_INFO_ONIONS|testo||||
+NOTE_FACTION_CHANGE1|ora ti considerano:||||
+NOTE_FACTION_CHANGE2|ora ti considera:||||
+NOTE_AMMO_DEPLETED|Hai esaurito le munizioni per quest'arma.||||
+NOTE_ITEM_DEPLETED|Hai esaurito questo oggetto. Trovane altri oppure disequipaggialo.||||
+NOTE_FATIGUE_LEVEL|Le tue statistiche sono ridotte a causa dell'Affaticamento. Dovresti riposare.||||
+NOTE_CANT_TELEPORT|Devi prendere di mira un cristallo di transito per teletrasportarti.|no crystal.|||
+NOTE_CANT_USE|Non puoi usare quell'oggetto adesso.|You can't use that item now.|||
+NOTE_NOT_IDLE|Non puoi farlo in questo momento.|You're busy.|||
+NOTE_NOT_USABLE|Non puoi usarlo in questo momento.|You can't use that right now.|||
+NOTE_GAINED|Hai ottenuto|Gained|||
+NOTE_PILFERED|Hai sgraffignato|Pilfered|||
+NOTE_PILFERED_COIN|Hai sgraffignato {0} moneta.|Pilfered {0} coin.|||
+NOTE_PILFERED_COINS|Hai sgraffignato {0} monete.|Pilfered {0} coins.|||
+NOTE_PILFERED_PICK|Hai sgraffignato {0} grimaldello.|Pilfered {0} lockpick.|||
+NOTE_PILFERED_PICKS|Hai sgraffignato {0} grimaldelli.|Pilfered {0} lockpicks.|||
+NOTE_LOST|Hai perso|Lost|||
+NOTE_LOST_COIN|Hai perso {0} moneta.|Lost {0} coin.|||
+NOTE_LOST_COINS|Hai perso {0} monete.|Lost {0} coins.|||
+NOTE_IN_COMBAT|Non puoi farlo durante il combattimento.|You cannot do that while in combat.|||
+NOTE_EMBRACED|Hai assunto|Embraced|||
+NOTE_SUCCUMBED|Hai ceduto|Succumbed|||
+NOTE_HEALTH_POTION|una pozione di Salute.|a health potion.|||
+NOTE_MANA_POTION|una pozione di Mana.|a mana potion.|||
+NOTE_DELUSION_WAITING|Hai Deliri non spesi. Aumenta i tuoi Attributi nel Diario.||||
+NOTE_LEVEL_UP|Hai abbracciato un Delirio. Usalo per aumentare un Attributo.||||
+NOTE_GLIMMER|Hai intravisto un Barlume di Delirio. Raccogline altri per ottenere un Delirio completo.|Embraced a Glimmer of Delusion.|||
+NOTE_DELUSION|a un Delirio.|to a Delusion.|||
+NOTE_CANT_DO|Non puoi farlo.|You can't do that.|||
+NOTE_COIN|moneta.|coin.|||
+NOTE_COINS|monete.|coins.|||
+NOTE_COIN?|moneta?|coin.|||
+NOTE_COINS?|monete?|coins.|||
+NOTE_PICK_SUCCESS|Serratura scassinata!|Lock picked.|||
+NOTE_PICK_FAIL|Scasso fallito. Grimaldello rotto.|Failed to pick lock. Lockpick broken.|||
+NOTE_PICK_NEAR_MISS|Quasi! Grimaldello intatto.|Near miss: pick not broken.|||
+NOTE_PICKS_FULL|Non puoi trasportare altri grimaldelli.|Can't carry any more lockpicks.|||
+NOTE_PICKS_EMPTY|Non hai grimaldelli.|No picks.|||
+NOTE_PICK|grimaldello|lockpick|||
+NOTE_PICKS|grimaldelli|lockpicks|||
+NOTE_NO_MATS|Non hai i materiali richiesti.|you lack the required materials.|||
+NOTE_NOT_ENOUGH|Non ne hai abbastanza.|You are poor, mortal.|||
+NOTE_NO_COIN|Non hai abbastanza monete.|You are poor, mortal.|||
+NOTE_CANT_STORE|Non puoi riporre questo oggetto.||||
+NOTE_ALCHEMY|Servono due ingredienti.|You have no flowers, fool!|||
+NOTE_HERB_PICKED|Deve ancora ricrescere.|This flower is dead.|||
+NOTE_CREATURE_EMPTY|Questa creatura non ha oggetti.|No stuff for you.|||
+NOTE_LORE_LOW|Il tuo Sapere è troppo basso.|Your Lore is terrible.|||
+NOTE_ACTIVATED_ELSEWHERE|Si attiva altrove.|You need to look harder.|||
+NOTE_MANA_NEEDED|Mana insufficiente.|Need more mind juice.|||
+NOTE_CANT_REST|Non puoi riposare qui.|can't rest|||
+NOTE_OWNED_BED|Questo letto appartiene a qualcun altro: non puoi usarlo.|owned bed|||
+NOTE_LORE_COMPLETE|Qualcosa è cambiato...|you diddidd it.|||
+NOTE_DOORMAN_FAIL1|Il Portiere ti respinge. Ti serve|he said go away. you need|||
+NOTE_DOORMAN_FAIL2|Fascino per riuscire a entrare.|persona for him to like you|||
+NOTE_ITEM_GAINED|Oggetto ottenuto:|gotted item:|||
+NOTE_ITEM_REMOVED|Oggetto rimosso:|ungotted item:|||
+NOTE_BARGAIN|moneta risparmiata. Affare!|coin saved. Bargain!|||
+NOTE_BARGAIN_COIN|{0} moneta risparmiata. Affare!|{0} coin saved. Bargain!|||
+NOTE_BARGAIN_COINS|{0} monete risparmiate. Affare!|{0} coins saved. Bargain!|||
+NOTE_PORTAL_NOKEY|Questo congegno sembra richiedere una chiave.||||
+NOTE_PORTAL_GOTKEY|Questo Portale dell'Accademia è ora attivo.||||
+NOTE_MAP_UPDATED|La tua mappa è stata aggiornata.||||
+NOTE_MAP_NO|Non ci sono luoghi d'interesse nelle vicinanze da segnare sulla carta.||||
+NOTE_DRUNK_0|Ti senti sobrio. O almeno così credi.||||
+NOTE_DRUNK_1|Ti senti leggermente brillo.||||
+NOTE_DRUNK_2|Sei piuttosto ubriaco.||||
+NOTE_DRUNK_3|Sei completamente sbronzo.||||
+NOTE_DRUNK_4|SSei davveRRRo bellisshimo. Sshì, lo SSei. *Hic*.||||
+NOTE_PICKAXE|Questo giacimento è esaurito da tempo.||||
+NOTE_LANDMARK_NEAR|Sembra un luogo d'interesse notevole.||||
+NOTE_SIMPLE_BUFF|Hai ottenuto un potenziamento temporaneo:||||
+NOTE_MIRROR_ACTIVE|Attraversi lo specchio e riappari da qualche altra... parte.||||
+NOTE_MIRROR_INACTIVE|Le imposte non si muovono. Dev'essere attivato altrove.||||
+NOTE_MIRROR_EXIT|Questo specchio è irreparabilmente rotto.||||
+NOTE_COMPONENT_NONE|Sembra che manchi qualcosa.||||
+NOTE_COMPONENT_MORE|Potrebbe mancare ancora qualcosa.||||
+NOTE_COMPONENT_COMPLETE|Qualcosa è cambiato...||||
+NOTE_SPELL_SLOT_LOCKED|Ti serve un valore più alto di Lancio Incantesimi per sbloccare questo slot per Incantesimi.||||
+NOTE_SPELL_UNEQUIPPED|Un Incantesimo è stato disequipaggiato.||||
+NOTE_CANNOT_CAST|Non puoi lanciare quell'incantesimo in questo momento.||||
+NOTE_CANNOT_SUMMON|Non puoi evocare qui.||||
+NOTE_TOOMANY_SUMMON|Hai raggiunto il limite di evocazioni.||||
+NOTE_CUTTER_BROKEN|Questa Navetta deve essere riparata.||||
+NOTE_CUTTER_GROUNDED|Non puoi pilotare questa Navetta finché il molo è chiuso: la Luce Accecante deve essere in volo.||||
+NOTE_CUTTER_SEECONFESSOR|Parla prima con l'Alta Confessora.||||
+AIRSHIP_ANCHOR_UP|Qui non puoi calare l'ancora dell'Aeronave.||||
+QUEST_STARTED|Missione iniziata:|Hopeless:|||
+QUEST_FINISHED|Missione completata:|Hopeless:|||
+QUEST_UPDATED|Missione aggiornata:|Hopeless:|||
+DOOR_BARRED|La porta è sbarrata dall'altro lato.|Door barred.|||
+DOOR_NEED_KEY|Serve una chiave per aprire la porta.|Door locked.|||
+DOOR_NEED_FACT|La porta è ben serrata.|Door sealed|||
+DOOR_NEED_REMOTE|La porta è sigillata da un dispositivo nascosto.|Door sealed|||
+DOOR_NEED_KEY_SMASH|Serve una chiave per aprire la porta... oppure potrebbe bastare un colpo potente.|Door locked by key or might|||
+DOOR_NEED_KEY_REMOTE|Serve una chiave per aprire la porta... oppure un dispositivo nascosto potrebbe risolvere il problema.|Door locked by key or seal|||
+DOOR_NEED_REMOTE_SMASH|La porta è sigillata da un dispositivo nascosto... oppure potrebbe bastare un colpo potente.|Door locked by seal or might|||
+DOOR_NEED_KEY_REMOTE_SMASH|Serve una chiave per aprire la porta... oppure un dispositivo nascosto potrebbe risolvere il problema.|Door locked by key or seal or might|||
+NOTE_FULLSTOP|.|.|||
+NOTE_NEEDED|Necessario|Needed|||
+NOTE_CHARM_SUCCESS|Prova di Fascino superata.|Suave success!|||
+NOTE_CHARM_FAIL|Prova di Fascino fallita.|Utter failure!|||
+NOTE_CHARM_LUCK|Profumo Seducente: prova di Fascino superata.|Alluring perfume: Charm challenge succeeded.|||
+NOTE_CHARM_UNLUCKY|Prova di Fascino fallita. Che sfortuna...|Charm challenge failed. Unlucky...|||
+NOTE_MIGHT_FAIL|Non hai la Forza necessaria per romperlo.||||
+NOTE_CANT_PASS_TIME|Qui non puoi far avanzare il tempo: l'area è instabile.|Can't wait.|||
+NOTE_LIFT|L'ascensore è già qui.|The lift is already here.|||
+NOTE_LIFT_INACTIVE|L'ascensore non è ancora attivo.|The lift is not yet active.|||
+NOTE_LIFT_NEEDITEM|Questo ascensore richiede una chiave.|This lift needs a key.|||
+NOTE_LIFT_USEITEM|Hai usato|Used|||
+NOTE_FORTRESS_INACTIVE|La fortezza deve essere riparata prima che possa funzionare.|The fortress needs repairing before that will work.|||
+NOTE_FORTRESS_MOVING|La fortezza è già in movimento.|The fortress is already moving.|||
+NOTE_FRUIT|Il frutto morbido ti rinvigorisce||||
+NOTE_AIRSHIP_NO_DEED|Devi acquistare un Atto dell'Aeronave prima di poterla potenziare.||||
+NOTE_CRITICAL_CAST|Lancio Incantesimi critico!||||
+STAT_DELUSIONS|Credere è tutto. Più crescono i tuoi Deliri, più cresce il tuo potere. Trova abbastanza Barlumi di Delirio, esplorando il mondo o completando missioni, per ottenere un Delirio completo. Puoi spendere i Deliri per aumentare uno dei tuoi Attributi Principali.||||
+STAT_MIGHT|Aumenta la Salute massima. Governa le abilità di combattimento Attacco e Difesa.||||
+STAT_GUILE|Aumenta il Vigore massimo. Governa le abilità Scasso e Agilità.||||
+STAT_WISDOM|Aumenta il Mana massimo. Governa le abilità Sapere e Lancio Incantesimi.||||
+STAT_PERSONA|Aumenta la velocità di Rigenerazione. Governa le abilità Fascino e Baratto.||||
+STAT_HEALTH|Indica quanti danni puoi subire prima di morire. La Salute si ripristina riposando o usando pozioni.||||
+STAT_MANA|Necessario per lanciare con successo determinati incantesimi. Si ripristina riposando o usando pozioni.||||
+STAT_STAMINA|Influisce sul danno degli attacchi e, quando è basso, sulle tue abilità. Il Vigore massimo diminuisce col tempo, ma puoi ripristinarlo riposando.||||
+STAT_REGEN|La velocità con cui si rigenera il tuo Vigore.||||
+SKILL_ATTACK|Aumenta i danni inflitti con tutte le armi fisiche.||||
+SKILL_LOCKPICK|Aumenta la probabilità di scassinare una serratura o disarmare una trappola. Richiede grimaldelli, che si spezzano in caso di fallimento.||||
+SKILL_LORE|Conoscenza di verità antiche. Permette di interagire con meccanismi nascosti e svelare segreti celati.||||
+SKILL_CHARM|La capacità di influenzare gli altri tramite il dialogo. Può rivelare informazioni importanti o risolvere incontri difficili.||||
+SKILL_DEFENCE|Riduce i danni subiti dagli avversari.||||
+SKILL_AGILITY|Aumenta la velocità di movimento e l'altezza dei salti.||||
+SKILL_SPELLCAST|Aumenta la potenza degli incantesimi e la rapidità con cui puoi invocarli.||||
+SKILL_BARTER|Permette di concludere affari più vantaggiosi. Compra a poco e vendi caro.||||
+DAMAGE_REDUCTION|In base ad Armatura e Difesa, la riduzione complessiva dei danni è||||
+SKILL_ARMOUR|Il tuo valore di Armatura, determinato dagli abiti e dall'equipaggiamento che indossi. Riduce i danni subiti dagli attacchi nemici.||||
+WEAPON_DAMAGE|Il danno totale inflitto con l'arma in questo slot. È dato dalla combinazione tra la tua abilità Attacco e il danno base dell'arma.||||
+CHAR_PRELUDE_TITLE|Origini||||
+CHAR_PRELUDE|Molto tempo fa, il mondo fu spezzato e la sua superficie maledetta. ##Sei un abitante dei Regni Celesti: isole fluttuanti che custodiscono gli ultimi resti della civiltà umana. ##Qui, nella cella umida di una nave dell'Inquisizione, ripensi al tuo passato.||||
+CHAR_YOUTH_NULL|Sogni d'infanzia ti attraversano la mente. Il tuo destino era già segnato, allora?||||
+CHAR_YOUTH_NULL_T|Giovinezza||||
+CHAR_CAREER_NULL|Il corpo crebbe, la mente si affinò. Per un periodo eccellesti.||||
+CHAR_CAREER_NULL_T|Carriera||||
+CHAR_DOWNFALL_NULL|Comparvero le prime crepe, abbassasti la guardia. L'errore fu grave: l'Inquisizione era ormai sulle tue tracce.||||
+CHAR_DOWNFALL_NULL_T|Rovina||||
+CHAR_YOUTH|Sogni d'infanzia ti attraversano la mente. Il tuo destino era già segnato, allora?||||
+CHAR_CAREER|Il corpo crebbe, la mente si affinò. Per un periodo eccellesti.||||
+CHAR_DOWNFALL|Comparvero le prime crepe, abbassasti la guardia. L'errore fu grave: l'Inquisizione era ormai sulle tue tracce.||||
+CHAR_MIGHT_T|Rissoso||||
+CHAR_MIGHT|L'idea della battaglia ti affascina; è sempre stato così. Cominciasti brandendo bastoni e ben presto passasti a incrociare spade. Non ci furono mai dubbi: eri un combattente fino al midollo.||||
+CHAR_GUILE_T|Monello||||
+CHAR_GUILE|Da bambino non eri nessuno: solo un altro ragazzino denutrito che ingombrava le strade della città. Senza la banda saresti morto come gli altri. Ti insegnarono a vedere ciò che agli altri sfuggiva, a sgattaiolare dove gli altri non potevano. Ti insegnarono a sopravvivere.||||
+CHAR_WISDOM_T|Apprendista||||
+CHAR_WISDOM|Eri un bambino dalle doti eccezionali nato in una famiglia qualunque, così i tuoi genitori ti vendettero a uno studioso di passaggio. Trascorresti la giovinezza copiando tomi finché le mani non sanguinavano; ma non dimenticasti nulla di ciò che leggevi.||||
+CHAR_PERSONA_T|Nobile||||
+CHAR_PERSONA|Nato in una famiglia nobile, cenavi con dignitari stranieri prima ancora di saper camminare. Imparasti le buone maniere e l'etichetta, ma soprattutto la tenacia: le sale scintillanti di Riova possono essere più spietate dei vicoli più bui.||||
+CHAR_MIGHT_DAM_T|Soldato||||
+CHAR_MIGHT_DAM|Fosti arruolato nell'esercito dell'Unione Apostatica. La Guerra Divina era forse finita, ma la caccia ai cultisti no. Pattugliasti i confini dell'Unione, combattendo insorti occultisti in sanguinose schermaglie e vedendo cadere amici e nemici.||||
+CHAR_MIGHT_PICK_T|Mercenario||||
+CHAR_MIGHT_PICK|Ti unisti a una banda di mercenari, vendendo le tue lame al miglior offerente. Nei periodi di magra saccheggiavi rovine o relitti di navi celesti per sbarcare il lunario. Ben presto maneggiavi i grimaldelli con la stessa destrezza con cui impugnavi la spada.||||
+CHAR_MIGHT_LORE_T|Inquisitore||||
+CHAR_MIGHT_LORE|Fosti reclutato dall'Inquisizione, che ti addestrò come agente. Durante la caccia agli adoratori degli dèi, ti insegnarono le loro false storie e menzogne. Imparasti a fiutare i loro covi e decifrarne i segreti nascosti.||||
+CHAR_MIGHT_CHARM_T|Assassino||||
+CHAR_MIGHT_CHARM|Il combattimento in prima linea era sempre così... volgare. Affinasti le tue capacità in segreto, brindando con persone potenti in eleganti sale da ballo. Quando i tuoi committenti ti passavano un nome, uccidevi con discrezione.||||
+CHAR_MIGHT_DEF_T|Traumatizzato||||
+CHAR_MIGHT_DEF|Anni di omicidi presentarono il conto. Dormivi con un occhio aperto e un coltello sotto il cuscino, ammesso che riuscissi a dormire. Ogni rumore ti faceva sobbalzare; al buio vedevi gli uomini che avevi ucciso. Un giorno cedesti e ammazzasti un uomo in pieno giorno, sotto gli occhi di tutti.||||
+CHAR_MIGHT_AGI_T|Disertore||||
+CHAR_MIGHT_AGI|Eri stufo di spargere sangue, ma non vedevi vie d'uscita. Così disertasti. I tuoi vecchi compagni ti inseguirono per isole e navi celesti, finché non riuscisti più a correre.||||
+CHAR_MIGHT_CAST_T|Errore di Lancio Fatale||||
+CHAR_MIGHT_CAST|Per eccellere in combattimento studiasti non soltanto la lama, ma anche il linguaggio segreto del Cosmo. Scrivesti incantesimi di tua invenzione, pericolosi e illegali senza il dovuto addestramento. Ma uno si ritorse contro di te, uccidendo la persona sbagliata e segnando il tuo destino.||||
+CHAR_MIGHT_BARTER_T|Trafficante d'Armi||||
+CHAR_MIGHT_BARTER|La tua conoscenza delle armi ti aprì nuove strade: diventasti un trafficante d'armi e commerciasti strumenti di morte. Attività simili, però, sono tanto redditizie quanto illegali, e la tua fortuna non durò per sempre.||||
+CHAR_GUILE_DAM_T|Sgherro||||
+CHAR_GUILE_DAM|Sapevi badare a te stesso, e tutti lo sapevano. Un cartello di Slev ti reclutò come sgherro; quando contrabbandavano testi proibiti o pozioni illegali, eri lì per evitare che le cose andassero storte. E quando succedeva, rompevi qualche cranio.||||
+CHAR_GUILE_PICK_T|Ladro||||
+CHAR_GUILE_PICK|Rubare ti veniva naturale. I tuoi grimaldelli danzavano nelle serrature con il tocco di un amante. Sottraevi incantesimi agli studiosi e tesori alle navi celesti. La città era tua, con tutte le porte spalancate.||||
+CHAR_GUILE_LORE_T|Intermediario di Sapere||||
+CHAR_GUILE_LORE|Nell'Unione Apostatica, certi segreti valgono più dell'oro. Frequentavi cultisti, commerciavi tomi illegali e andavi in cerca di conoscenze pericolose. Se qualcosa era nascosto, tu potevi trovarlo... dietro compenso.||||
+CHAR_GUILE_CHARM_T|Faccendiere||||
+CHAR_GUILE_CHARM|In un mestiere sanguinoso, tu tenevi le mani pulite. Nei pub e nei mercati tessevi la tua rete, mescolandoti alla gente e tramando. Altrove si compivano nefandezze e tu, naturalmente, non c'entravi mai. Eppure la tua borsa non restava mai vuota.||||
+CHAR_GUILE_DEF_T|Tradito||||
+CHAR_GUILE_DEF|Nel tuo mestiere tenevi sempre alta la guardia, ma a volte non basta. Alla fine fosti tradito e lasciato a morire in una pozza del tuo stesso sangue.||||
+CHAR_GUILE_AGI_T|Paranoico||||
+CHAR_GUILE_AGI|Col passare degli anni, la paranoia crebbe. Eri sempre in movimento; non dormivi mai due volte nello stesso letto. Ma avevi ragione: ti stavano davvero dando la caccia. E ti trovarono.||||
+CHAR_GUILE_CAST_T|Lanciaincantesimi Fuorilegge||||
+CHAR_GUILE_CAST|Accumulavi incantesimi e pozioni: molti preziosi, molti utili. Troppi. Mentre frugavi in cerca di un incantesimo d'invisibilità, apristi per errore un portale su una nave dell'Inquisizione: il posto peggiore in cui finire.||||
+CHAR_GUILE_BARTER_T|Signore del Crimine||||
+CHAR_GUILE_BARTER|Avevi sempre avuto un talento per procurarti beni rubati; col tempo, però, trasformasti quel talento in un impero commerciale clandestino. Il successo portò notorietà, e una brutale incursione dell'Inquisizione ti fece finire dietro le sbarre.||||
+CHAR_WISDOM_DAM_T|Avventuriero||||
+CHAR_WISDOM_DAM|Appena ne avesti l'occasione, partisti per conto tuo. Viaggiasti attraverso i Regni Celesti, imbarcandoti di nascosto sulle navi e dormendo sotto le stelle. Imparasti molto sul mondo, ma anche a difenderti: la strada non è fatta per i deboli di cuore.||||
+CHAR_WISDOM_PICK_T|Eterista||||
+CHAR_WISDOM_PICK|Dimostrasti una spiccata abilità con i macchinari, così la Gilda degli Eteristi ti prese come apprendista. Imparasti la magia ermetica, capace di sigillare una nave perché potesse toccare il Cosmo, ma anche la semplice logica di serrature e trappole.||||
+CHAR_WISDOM_LORE_T|Studioso||||
+CHAR_WISDOM_LORE|Ammesso in una prestigiosa università di Byonne, studiasti antichi dèi, città morte e il linguaggio dell'universo. Ma soprattutto imparasti a guardare oltre l'ovvio, alla ricerca delle verità nascoste in ogni cosa.||||
+CHAR_WISDOM_CHARM_T|Consigliere||||
+CHAR_WISDOM_CHARM|I tuoi trattati e le tue polemiche promettevano bene; ottenesti un incarico in un consiglio di Riova, cuore politico dell'Unione Apostatica. Ben presto urlavi le tue opinioni in dibattiti assordanti.||||
+CHAR_WISDOM_DEF_T|Predatore di Templi||||
+CHAR_WISDOM_DEF|Venuto a sapere di un potente artefatto custodito in un antico tempio, partisti per impadronirtene. Ti addestrasti a difenderti da trappole e mostri, ma non a sfuggire all'Inquisizione, che vietava il saccheggio di quei luoghi.||||
+CHAR_WISDOM_AGI_T|Braccato||||
+CHAR_WISDOM_AGI|Durante i tuoi studi apprendesti una parola proibita. Una parola sussurrata soltanto al buio, capace di aprire porte invisibili. Prima che te ne rendessi conto, un'organizzazione segreta ti dava la caccia e fosti costretto a fuggire per salvarti.||||
+CHAR_WISDOM_CAST_T|Lanciaincantesimi Ambizioso||||
+CHAR_WISDOM_CAST|Eri sempre stato portato per la magia, ma col tempo divenne un'ossessione. Scrivesti un incantesimo dalla logica di Cifro tanto complessa che, una volta lanciato, squarciò il velo della realtà e ti rese un criminale ricercato nel giro di una notte.||||
+CHAR_WISDOM_BARTER_T|Libraio||||
+CHAR_WISDOM_BARTER|Apristi una libreria a Riova, un emporio del sapere frequentato dalle menti più erudite dell'Unione Apostatica. Ma quando si sparse la voce che vendevi testi proibiti, l'Inquisizione non ebbe pietà.||||
+CHAR_PERSONA_DAM_T|Consigliere-Guerriero||||
+CHAR_PERSONA_DAM|Con grande disappunto della tua famiglia, andasti in cerca del rozzo brivido del combattimento. Ti arruolasti come consigliere di fanteria, affinando sia l'arte della spada sia quella del dibattito: nell'Unione Apostatica le elezioni si decidono tanto con la spada quanto con la parola.||||
+CHAR_PERSONA_PICK_T|Ladro Nobile||||
+CHAR_PERSONA_PICK|La tua famiglia salvava le apparenze, ma le casse erano vuote. Abbracciasti una morale discutibile, rubando durante cene e balli a cui eri invitato. All'inizio era soltanto qualche calice, poi passasti a colpi sempre più audaci.||||
+CHAR_PERSONA_LORE_T|Occultista||||
+CHAR_PERSONA_LORE|Mentre gli altri partecipavano alle feste, tu tenevi il naso immerso in tomi polverosi. Radunasti una grande biblioteca, frequentando librerie e conferenze. Ma si mormorava che i tuoi gusti fossero poco rispettabili, che cercassi testi vietati e grimori occulti...||||
+CHAR_PERSONA_CHARM_T|Mondano||||
+CHAR_PERSONA_CHARM|Rinunciasti alle professioni prestigiose e scegliesti la vita mondana. Frequentavi feste a Vena, Byonne e Lundel, dove scorrevano vino e pettegolezzi. Il denaro di famiglia ti procurava molto, ma il lampo del tuo sorriso ancora di più.||||
+CHAR_PERSONA_DEF_T|Truccatore di Elezioni||||
+CHAR_PERSONA_DEF|Ti preparasti per una delle elezioni più importanti dell'Unione Apostatica. Sono eventi sanguinosi e brutali, ma alla fine il tuo consiglio di battaglia fu giudicato colpevole di brogli, e tu finisti in una cella.||||
+CHAR_PERSONA_AGI_T|Famiglia Disgraziata||||
+CHAR_PERSONA_AGI|Appartenere a una famiglia nobile può garantire una vita privilegiata, ma quando una casata cade in disgrazia, la caduta è rovinosa. La tua famiglia fu braccata e sterminata per i suoi crimini; soltanto tu riuscisti a fuggire.||||
+CHAR_PERSONA_CAST_T|Abile Lanciaincantesimi||||
+CHAR_PERSONA_CAST|La magia era sempre stata un passatempo apprezzato: intrattenevi e stupivi molti. Ma infrangesti la legge quando, per errore, facesti sparire i vestiti di un'intera città, lasciando tutti completamente nudi.||||
+CHAR_PERSONA_BARTER_T|Mercante||||
+CHAR_PERSONA_BARTER|Abile nel commercio, costruisti una rete di negozi e acquistasti persino un'Aeronave mercantile tutta tua. Ma quando nel tuo magazzino furono trovati artefatti legati al culto degli dèi, l'Inquisizione ti arrestò.||||
+CHEAT_MODE|Modalità trucchi attivata!||||
+CHEAT_OFF|Modalità trucchi disattivata.||||
+ALTS_ON|Modalità inizio alternativo attivata.||||
+ALTS_OFF|Modalità inizio alternativo disattivata.||||
+DEBUG_ON|Modalità Debug attivata!||||
+DEBUG_OFF|Modalità Debug disattivata.||||
+CHEAT_GRAVITY|Gravità disattivata. Usa 8 e 2 del tastierino numerico per volare. LS + A/B sul controller.||||
+CHEAT_GRAVITY_OFF|Gravità attivata.||||
+CHEAT_SAVE|Partita salvata.||||
+CHEAT_GOD|Modalità Dio attivata: Salute e Mana infiniti, i nemici non diventeranno ostili.||||
+CHEAT_GOD_OFF|Modalità Dio disattivata.||||
+CHEAT_ITEMS|Ora hai un fottio di oggetti. DIVERTITI||||
+CHEAT_RESET_ACHIEVEMENTS|OBIETTIVI STEAM AZZERATI!||||
+NPC_NONE|???||||
+NPC_EMBERIAN|L'Emberiana||||
+NPC_ORLAITH|Orlaith||||
+NPC_BASALT|Jack Basalt||||
+NPC_CHIASMA|Chiasma||||
+NPC_THAW|Penitente D'Isgelo||||
+NPC_QUEEN|La Regina d'Argento||||
+NPC_SENESCHAL|Il Siniscalco||||
+NPC_FANGDOOR|Porta Zannuta||||
+NPC_WYRM|Verme della Cripta||||
+NPC_ENTOMBED|L'Intombata||||
+NPC_FLESH|La Via di Ogni Carne||||
+NPC_MAGGOTSON|Figliodiverme||||
+NPC_RHYDDER|Lord Rhydder||||
+NPC_BARKEEP|Oste||||
+NPC_RUSTY|Vecchio Marcio||||
+NPC_HAGGLES|Haggles||||
+NPC_CHAFFER|Chaffer||||
+NPC_GHOST|Fantasma||||
+NPC_MYGHAR|Myghar||||
+NPC_SCHOLAR|Studioso dell'Accademia||||
+NPC_STUDENT|Aspirante studente||||
+NPC_YOUSSEF|Youssef||||
+NPC_AGENT|Agente dell'Inquisizione||||
+NPC_CARTOGRAPHER|Giovanni, Cartografo Capo||||
+NPC_AETHERIST|Jerome, Eterista Capo||||
+NPC_ALCHEMIST|Dohn, Alchimista Primario||||
+NPC_ENGINEER|Natalya, Ingegnere Capo||||
+NPC_HISTORIAN|Ghlem, Storico Capo||||
+NPC_POLYMATH|Polimate dell'Unione||||
+NPC_USABLES|Alchimista di Hallow Town||||
+NPC_CLERK|Impiegato del Consiglio||||
+NPC_TAILOR|Sarto di Hallow Town||||
+NPC_ODDITIES|Proprietario dell'Emporio||||
+NPC_WEAPONS|Armaiolo||||
+NPC_CARETAKER|Custode||||
+NPC_VIERME|Vierme||||
+NPC_EZRA|Ezra Thornwood||||
+NPC_BERWIG|Vernon Berwig||||
+NPC_MINE_NOBLE|Lord Romulous Chairon VII||||
+NPC_MINE_SCULPTOR|Lucia, Scultrice Sacra||||
+NPC_FLESH_BROKER|Mercante di Carne||||
+NPC_DUCHESS|La Duchessa||||
+NPC_DAUGHTER_HAND|Mano di Ellyn||||
+NPC_GROUNDSKEEP|Giardiniere||||
+NPC_CADAVER_GATEKEEP|Custode del Cancello||||
+NPC_CADAVER_GUARD|Guardia dei Cadaveri||||
+NPC_CWK_SAM|Sammol||||
+NPC_CWK_HORACE|Horace||||
+NPC_CWK_FROST|Caxton Frost||||
+NPC_CWK_VIDAL|Vidal, Mercante di Visioni||||
+NPC_CWK_MIKHAIL|Mikhail||||
+NPC_CWK_HUANG|Direttore Huang||||
+NPC_CWK_QUARSHIE|Quarshie||||
+NPC_CWK_JACZEMIR|Jaczemir||||
+NPC_CWK_LASCAUX|Madame Lascaux||||
+NPC_CWK_XENIA|Baba Xenia||||
+NPC_CWK_MAC|Mac il Losco||||
+NPC_CWK_KING|Sua Maestà, il Re||||
+NPC_CWK_SUNIL|Sunil, Portavoce del Re||||
+NPC_CWK_APHRA|Aphra, Interprete Capo||||
+NPC_CWK_MOROZOV|Morozov||||
+NPC_CWK_REZA|Reza, il Sabotatore||||
+NPC_CWK_OLEG|Oleg Igorovich||||
+NPC_CWK_PRIPP|Dottor Pripp||||
+NPC_CWK_YASMEEN|Yasmeen||||
+NPC_CWK_NADJA|Nadja||||
+NPC_LLUDD|Lludd||||
+NPC_CULWYCH|Culwych||||
+NPC_OLWEN|Sindaco Olwen||||
+NPC_DWYNN|Dwynn||||
+NPC_NUDD|Nudd||||
+NPC_ONION|Guardia delle Cipolle Marce||||
+NPC_ONION_LEADER|John Birdbark||||
+NPC_EMYR|Emyr||||
+NPC_GHUTRID|Ghutrid||||
+NPC_EM_INQ|Inquisitore ferito||||
+NPC_VELA|Vela Callose||||
+DEMO_START_TITLE|Origini||||
+DEMO_START|Il mondo è spezzato. La sua superficie è maledetta, inospitale. I sopravvissuti si aggrappano a isole nel cielo. In qualche modo, lo sai. ##Ti svegli intontito e confuso.||||
+DEMO_END_TITLE|Uno strano palpito||||
+DEMO_END|Uno strano palpito dentro di te. Poi un altro. Hai la nausea; le gambe cedono. ##All'improvviso, un boato e una fitta lancinante. Abbassi lo sguardo: hai un buco sanguinante nel petto. ##A quanto pare, il tuo cuore è esploso.||||
+TUT_EQUIP_TITLE|Equipaggiare gli oggetti||||
+TUT_EQUIP|Per equipaggiare gli oggetti, apri il ((Diario)) e accedi alla schermata ((Equipaggiamento)) del menu.##Usa la scheda ((Assetto)) per equipaggiare armi, armature e accessori.##Le altre due schede servono a equipaggiare incantesimi e oggetti rapidi.||||
+TUT_USABLES_TITLE|Consumabili e incantesimi||||
+TUT_USABLES|Gli incantesimi e gli oggetti rapidi devono essere equipaggiati nel menu ((Equipaggiamento)) prima dell'uso.##Una volta equipaggiati, premi [[Incantesimo]] per usare gli incantesimi e [[Oggetto]] per usare gli oggetti.##Puoi scorrere gli oggetti equipaggiati con [[Cambia oggetto]], oppure gli incantesimi con [[Cambia incantesimo]].||||
+TUT_ATTRIBUTES_TITLE|Attributi del Delirio||||
+TUT_ATTRIBUTES|Esistono quattro ((Attributi del Delirio)) — gli attributi fondamentali che governano le tue abilità: ((Forza, Saggezza, Astuzia)) e ((Carisma)). ##Per aumentarli, devi trovare abbastanza ((Barlumi di Delirio)) esplorando o completando missioni.||||
+TUT_SKILLS_TITLE|Abilità||||
+TUT_SKILLS|Esistono diverse ((Abilità)) che determinano la tua efficacia in certe attività.##Alcune sono abilità attive, come ((Scasso)) o ((Sapere)), e ti permettono di interagire con gli oggetti del mondo.##Altre sono abilità passive, come ((Difesa)) e ((Rigenerazione)). ##Puoi migliorare le Abilità aumentando l'((Attributo del Delirio)) che le governa oppure usando equipaggiamento speciale.||||
+TUT_LOCKPICK_TITLE|Abilità Scasso||||
+TUT_LOCKPICK|Alcune porte possono essere aperte usando un grimaldello.##La probabilità di successo dipende dall'abilità di ((Scasso)), a sua volta governata dall'((Astuzia)).##Se il tentativo fallisce, uno dei tuoi grimaldelli si romperà.||||
+TUT_LORE_TITLE|Abilità Sapere||||
+TUT_LORE|Alcune porte possono essere aperte tramite meccanismi nascosti. Per azionare questi interruttori segreti servono un livello sufficiente di ((Sapere)) e una piccola quantità di Mana.##L'abilità Sapere è governata dalla ((Saggezza)). Potresti riuscire ad aumentarla ulteriormente con equipaggiamento speciale.||||
+TUT_CHARM_TITLE|Abilità Fascino||||
+TUT_CHARM|Alcuni personaggi ti nasconderanno delle informazioni. Dovrai convincerli a parlare liberamente.##Il successo dipende dalla tua abilità di ((Fascino)).##Il Fascino è governato dall'attributo ((Carisma)). Potresti riuscire ad aumentarlo ulteriormente con equipaggiamento speciale.||||
+TUT_COMBAT_TITLE|Combattimento||||
+TUT_COMBAT|Con un'arma sfoderata, premi [[Attacco]] per eseguire un attacco normale.##Tieni premuto per un attacco più lento ma più potente.||||
+TUT_STEALTH_TITLE|Furtività||||
+TUT_STEALTH|In molti casi puoi evitare il combattimento. Premi [[Accovacciati]] per attivare o disattivare la furtività: i tuoi passi non faranno rumore. ##In alternativa, puoi avvicinarti di soppiatto alle spalle di un nemico ed eseguire un attacco furtivo. I danni inflitti ai nemici ignari vengono moltiplicati.||||
+TUT_STAMINA_TITLE|Vigore||||
+TUT_STAMINA|Il danno dei tuoi attacchi dipende dal ((Vigore)) attuale: meno Vigore hai, meno danni infliggi. ##Anche il Vigore massimo si riduce lentamente col tempo. Se scende a metà del valore originario, diventerai ((Affaticato)); tutte le statistiche subiranno una riduzione temporanea. ##Puoi ripristinare il Vigore massimo dormendo in un letto o usando una Pozione del Vigore.||||
+TUT_BLOCKING_TITLE|Blocco e Parata||||
+TUT_BLOCKING|Tieni premuto [[Blocco]] per ridurre i danni degli attacchi nemici.##Se esegui un blocco nell'istante esatto in cui va a segno un attacco nemico, effettuerai una ((Parata)). Le parate riuscite annullano ogni danno e fanno barcollare il nemico. ##Non puoi bloccare né parare quando il Vigore è esaurito.||||
+TUT_CRAFTING_TITLE|Creazione||||
+TUT_CRAFTING|Le Stazioni di Creazione ti permettono di modificare l'equipaggiamento.##Il Minerale può migliorare armi e armature. Il Filo può migliorare gli abiti.##Esplora il mondo in cerca di materiali rari per creare equipaggiamento ancora migliore.||||
+TUT_ALCHEMY_TITLE|Alchimia||||
+TUT_ALCHEMY|Le Stazioni Alchemiche ti permettono di preparare oggetti consumabili combinando due ingredienti.##Le erbe si trovano in tutto il mondo e possono essere combinate per creare pozioni.##Molti oggetti diversi possono essere combinati per ottenere risultati unici.||||
+TUT_CRYSTALS_TITLE|Punti di Cristallo||||
+TUT_CRYSTALS|I ((Punti di Cristallo)) ripristinano il ((Mana)). ##Usa l'Incantesimo del Ritorno per tornare all'ultimo Punto di Cristallo visitato. Quando carichi la partita, riapparirai presso l'ultimo Punto di Cristallo utilizzato.||||
+TUT_THIEF_TITLE|Classe demo - Ladro||||
+TUT_THIEF|L'assetto di un ladruncolo. ##Questa [[Classe demo]] è agile e possiede una certa abilità nello [[Scasso]]. Inizierai con un pugnale e una semplice armatura di cuoio. ##((Le Classi sono disponibili soltanto in questa demo. Nel gioco completo, svilupperai il tuo personaggio nel corso della partita.))||||
+TUT_MERC_TITLE|Classe demo - Mercenario||||
+TUT_MERC|L'assetto di un guerriero esperto. ##Questa [[Classe demo]] possiede ottime abilità di combattimento e inizia con un'armatura robusta, ma non disporrai delle abilità più specialistiche delle altre classi. ##((Le Classi sono disponibili soltanto in questa demo. Nel gioco completo, svilupperai il tuo personaggio nel corso della partita.))||||
+TUT_CASTER_TITLE|Classe demo - Studioso del Cifro||||
+TUT_CASTER|L'assetto di un lanciaincantesimi. ##Questa [[Classe demo]] dispone di vari incantesimi e possiede [[Sapere]] a un livello discreto, ma non ha una buona arma offensiva. ##((Le Classi sono disponibili soltanto in questa demo. Nel gioco completo, svilupperai il tuo personaggio nel corso della partita.))||||
+TUT_NOBLE_TITLE|Classe demo - Nobile||||
+TUT_NOBLE|L'assetto di un nobile sicuro di sé. ##Questa [[Classe demo]] eccelle nelle prove di dialogo grazie agli elevati valori delle abilità [[Fascino]] e [[Baratto]]. ##((Le Classi sono disponibili soltanto in questa demo. Nel gioco completo, svilupperai il tuo personaggio nel corso della partita.))||||
+TUT_STATUS_TITLE|Stato||||
+TUT_STATUS|Il tuo stato attuale è rappresentato da tre statistiche: ((Salute)), ((Mana)) e ((Vigore)).##Per ripristinarle, riposa in un letto o bevi una pozione.||||
+TUT_DEATH_TITLE|Morte||||
+TUT_DEATH|Un'entità potente ha posato lo sguardo su di te. ##Per sua grazia, sarai strappato alle fauci della morte e trasportato in un ((Santuario della Morte)), senza perdere oggetti né progressi.||||
+TUT_REGIONS_TITLE|Regioni||||
+TUT_REGIONS|L'Unione Apostatica ha istituito numerosi ponti muniti di posti di blocco in tutto il territorio. ##Per entrare in un'altra regione ti servirà un ((Passaporto dell'Unione Apostatica)) — uno per ogni posto di blocco.||||
+TUT_SAVING_TITLE|Salvataggio automatico||||
+TUT_SAVING|Il gioco salva i progressi a intervalli regolari, ad esempio quando passi da una regione all'altra, usi un ((Punto di Cristallo)) o esci dal gioco.||||
+TUT_DELUSIONS_TITLE|Deliri||||
+TUT_DELUSIONS|Puoi ottenere ((Barlumi di Delirio)) raccogliendo teschi blu o completando missioni. ##Raccogli abbastanza Barlumi per ottenere un ((Punto Delirio)), utilizzabile per potenziare i tuoi Attributi.##Apri il ((Diario)) e vai alla schermata ((Personaggio)) per spendere i Deliri.||||
+TUT_DAY_TITLE|Ora del giorno||||
+TUT_DAY|Mentre la grande stella neurale attraversa il cielo, il giorno passa dall'alba al mezzogiorno, poi al crepuscolo e alla notte.##Alcune aree cambiano a seconda dell'ora. ##Per far avanzare il tempo, riposa in un letto.||||
+TUT_BEDS_TITLE|Letti||||
+TUT_BEDS|Riposare nei letti ripristina Salute, Mana e Vigore massimo. ##Puoi affittare un letto a poco prezzo nelle locande.##Nel mondo troverai anche letti incustoditi. Alcuni, però, non sono sicuri: riposarvi comporta un rischio.||||
+TUT_PLAYERHOUSE_TITLE|Abitazione del Giocatore||||
+TUT_PLAYERHOUSE|Apri la cassa per ottenere l'((Atto del Maniero)), poi usa il modellino di legno della casa per potenziare il maniero. Alcuni potenziamenti richiedono di riposare in un letto; ne trovi uno alle tue spalle.||||
+TUT_PLAYERHOUSELEAVE_TITLE|Abitazione del Giocatore||||
+TUT_PLAYERHOUSELEAVE|Non puoi lasciare quest'isola in questa versione demo.||||
+TUT_AIRSHIP_TITLE|La tua Aeronave||||
+TUT_AIRSHIP|Ora che possiedi un'Aeronave, sei un vero capitano dei cieli. ##Puoi lanciare l'incantesimo [[Reimbarco d'Emergenza sull'Aeronave]] per tornare in qualunque momento alla tua Aeronave. Usalo se rimani bloccato lontano dalla nave. ##Puoi sbarcare dall'Aeronave ovunque, ma spesso conviene farlo presso i [[Moli per Aeronavi]], dove puoi interagire con le [[Stazioni di Potenziamento Aeronavi]] per potenziare e modificare la nave. Per acquistare nuovi potenziamenti, visita i diversi membri della [[Gilda dei Mercanti Alati]] che si trovano spesso ai Moli. ##Se sbarchi mentre voli sopra un terreno solido, l'Aeronave [[calerà l'ancora]]. Interagisci con l'ancora per [[scendere]] o [[salire]] rapidamente. ##Controlla anche il menu [[Comandi]] per familiarizzare con il pilotaggio dell'Aeronave.||||
+SIGN_ORLAITH_MAP|Una strana mappa...||||
+SIGN_RUSTBURG_WELCOME_T|RUSTBURG, CITTÀ MERCATO.||||
+SIGN_RUSTBURG_WELCOME|Qui sorge la più vasta rovina Emberiana delle Isole Oniriche. ##Commerciamo metallo delle Terre di Sotto e antichità Emberiane.||||
+SIGN_RUSTBURG_WARNING_T|AVVISO A TUTTI||||
+SIGN_RUSTBURG_WANING|Nell'anno 1406, la città di Rustburg è dichiarata abbandonata con il presente atto. Per decreto degli Apostatici, qui non passi moneta di mano in mano. ##Sia questo d'avvertimento a chiunque dia rifugio ai Wikkan e ai loro ignobili dèi.||||
+SIGN_CADAVER_WELCOME_T|TERRE DEI CADAVERI||||
+SIGN_CADAVER_WELCOME|Stai entrando nel dominio dei Cadaveri. ##Soltanto chi è fedele alla nostra causa potrà accedere al Mastio dei Cadaveri.||||
+SIGN_CADAVER_CRUSADE_T|CROCIATE DEI CADAVERI||||
+SIGN_CADAVER_CRUSADE|Questa statua è eretta in memoria di tutti gli Eterni che persero la vita nelle Crociate dei Cadaveri. ##A tutte le creature è concesso seguire la propria natura, siano predatrici o prede. Nessuna deve vergognarsi dei propri istinti.||||
+SIGN_ROAMING_ISLE_T|ATTENZIONE: Isola Errante!||||
+SIGN_ROAMING_ISLE|La Società Geologica dell'Unione Apostatica ha classificato quest'isola come Isola Errante, poiché è nota per i suoi spostamenti imprevedibili. In altre parole, potrebbe non restare qui per sempre...||||
+SIGN_STOPBARRIER_T|Passaggio vietato||||
+SIGN_STOPBARRIER|Il proprietario di questo luogo non ti permetterà di proseguire oltre.||||
+DETAIL_GODWARMACHINE_T|Vecchi congegni||||
+DETAIL_GODWARMACHINE|Riconosci queste vecchie macchine come reliquie della Guerra Divina, ormai fuori uso e perlopiù inutili. Oggi congegni tanto strani si vedono di rado fuori dal Regno Meccanico.||||
+DETAIL_DARKSTARDESK_T|Una scrivania ingombra||||
+DETAIL_DARKSTARDESK|Mappe, appunti e diagrammi affollano il tavolo e illustrano le operazioni pianificate dai mercenari della Stella Oscura. Uno in particolare attira la tua attenzione: una spedizione nelle Terre di Sotto maledette, molto al di sotto dei Regni Celesti...||||
+BUFF_HEALTH_TITLE|Potenziamento Salute||||
+BUFF_HEALTH|La tua Salute massima è stata temporaneamente potenziata. Riesci quasi a sentire la magia cifrata pulsare nel cuore.||||
+BUFF_AGILITY_TITLE|Potenziamento Agilità||||
+BUFF_AGILITY|La tua Agilità è stata temporaneamente potenziata. Ti senti leggero come una piuma.||||
+BUFF_REGEN_TITLE|Potenziamento Rigenerazione||||
+BUFF_REGEN|La tua Rigenerazione è stata temporaneamente potenziata. Recupererai molto più in fretta.||||
+BUFF_SPELLCAST_TITLE|Potenziamento Lancio Incantesimi||||
+BUFF_SPELLCAST|Il tuo Lancio Incantesimi è stato temporaneamente potenziato. Attento a non bruciarti le sopracciglia con quegli incantesimi.||||
+BUFF_ATTACK_TITLE|Potenziamento Attacco||||
+BUFF_ATTACK|Il tuo Attacco è stato temporaneamente potenziato. Potresti spaccare in due un elmo. Probabilmente.||||
+BUFF_LOCKPICK_TITLE|Potenziamento Scasso||||
+BUFF_LOCKPICK|Il tuo Scasso è stato temporaneamente potenziato. Nessuna serratura potrà fermarti.||||
+BUFF_CHARM_TITLE|Potenziamento Fascino||||
+BUFF_CHARM|Il tuo Fascino è stato temporaneamente potenziato. Chi potrebbe mai resisterti?||||
+BUFF_BARTER_TITLE|Potenziamento Baratto||||
+BUFF_BARTER|Il tuo Baratto è stato temporaneamente potenziato. Non ti fregheranno tanto presto.||||
+BUFF_LORE_TITLE|Potenziamento Sapere||||
+BUFF_LORE|Il tuo Sapere è stato temporaneamente potenziato. All'improvviso, tutto sembra molto più chiaro.||||
+BUFF_DEFENCE_TITLE|Potenziamento Difesa||||
+BUFF_DEFENCE|La tua Difesa è stata temporaneamente potenziata. Ti senti un castello. Un castello piuttosto carnoso e molliccio.||||
+BUFF_MANA_TITLE|Potenziamento Mana||||
+BUFF_MANA|Il tuo Mana è stato temporaneamente potenziato. Senti un potere nuovo crepitarti nella mente.||||
+BUFF_STAMINA_TITLE|Potenziamento Vigore||||
+BUFF_STAMINA|Il tuo Vigore è stato temporaneamente potenziato. Quelle colline non ti lasceranno più senza fiato.||||
+BUFF_FATIGUE_TITLE|Affaticato||||
+BUFF_FATIGUE|Il tuo Vigore è basso, perciò sei diventato Affaticato: tutti i tuoi Attributi Principali sono stati ridotti di 1. Per recuperare, riposa in un letto o usa una Pozione del Vigore.||||
+BUFF_CURSE_TITLE|Maledetto||||
+BUFF_CURSE|Sei stato Maledetto: tutti i tuoi Attributi Principali sono ridotti di 1.||||
+DEBUFF_POISON_TITLE|Avvelenato||||
+DEBUFF_POISON|Sei avvelenato! Subirai danni nel tempo.||||
+BUFF_LUCK_TITLE|Fortunato||||
+BUFF_LUCK|Sei Fortunato. All'improvviso, tutto sembra un po' più facile. Tutti i tuoi Attributi Principali sono aumentati di 1.||||
+BUFF_REGENBUFF_TITLE|Rigenerazione||||
+BUFF_REGENBUFF|La tua Rigenerazione è stata temporaneamente potenziata. Recupererai molto più in fretta.||||
+BUFF_CASTBUFF_TITLE|Lancio Incantesimi||||
+BUFF_CASTBUFF|Il tuo Lancio Incantesimi è stato temporaneamente potenziato. Attento a non bruciarti le sopracciglia con quegli incantesimi.||||
+BUFF_DEFBUFF_TITLE|Difensivo||||
+BUFF_DEFBUFF|La tua Difesa è stata temporaneamente potenziata. Ti senti un castello. Un castello piuttosto carnoso e molliccio.||||
+BUFF_REGENHEAL_TITLE|Rigenerazione della Salute||||
+BUFF_REGENHEAL|Un incantesimo sta ripristinando gradualmente la tua Salute. La magia cifrata scorre nelle vene e dona alla tua pelle un pallido bagliore azzurro.||||
+BUFF_POISONWPN_TITLE|Armi avvelenate||||
+BUFF_POISONWPN|Hai ricoperto le armi di un veleno letale. I nemici che colpisci subiranno danni nel tempo.||||
+BUFF_ALLYBUFF_TITLE|Potenziamento alleato||||
+BUFF_ALLYBUFF|Un alleato ti ha potenziato, aumentando le tue statistiche.||||
+BUFF_SPEED_TITLE|Velocità incantata||||
+BUFF_SPEED|Un incantesimo sta aumentando enormemente la tua Agilità. Attento a non correre oltre il bordo dei Regni Celesti...||||
+BUFF_TRUTH_TITLE|Rivela la verità||||
+BUFF_TRUTH|Puoi vedere temporaneamente le cose per ciò che sono. Questo effetto rivela i segreti nascosti dalla magia d'illusione.||||
+BUFF_FADE_TITLE|Incantesimo Sparizione||||
+BUFF_FADE|Sei temporaneamente invisibile: i nemici non ti vedranno arrivare.||||
+BUFF_DRUNK_TITLE|Ubriaco||||
+BUFF_DRUNK|Sei ubriaco. Alcune statistiche sono aumentate, altre diminuite. Bevi responsabilmente, o potresti svegliarti in un lago senza pantaloni.||||
+DREAM_VAMP1_TITLE|Sonno inquieto||||
+DREAM_VAMP1|Il tuo sonno è inquieto; i sogni sono strani. ##Vedi una città di torri scintillanti sgretolarsi in polvere sotto una luce rovente. Senti un mostro scivolarti giù per la gola: una sensazione calda e piacevole. E senti le urla di tua madre mentre fuggi per salvarti. ##Ti svegli madido di sudore freddo. Sul cuscino c'è del sangue.||||
+DREAM_VAMP2_TITLE|Sogni strani||||
+DREAM_VAMP2|Sogni un viaggio attraverso città straniere e terre esotiche. Ma quando torni a casa, tutto è cambiato. Cerchi i tuoi amici, ma non li trovi. Cerchi la persona che ami, ma non c'è più. Trovi i tuoi genitori, ma sono morti e sepolti sotto le lapidi. ##All'improvviso, il futuro si dispiega davanti a te, chiaro come il sole. Tutti coloro che ami diventeranno polvere. ##Ti svegli urlando. Il sangue ti cola lungo il collo.||||
+DREAM_VAMP3_TITLE|Sogni rinvigorenti||||
+DREAM_VAMP3|Sogni di librarti nei Regni Celesti. Le tue ali ti portano sopra fitte foreste, metropoli sconfinate e rovine cadenti. Atterri in un campo di fiori splendenti sotto una stella verde e senti una brezza fresca avvolgerti. ##Ti svegli ispirato, certo che tutto sia possibile. Quasi non noti il sangue sul cuscino.||||
+MANOR_SALE_TITLE|VENDESI: Maniero Thornwood||||
+MANOR_SALE|Un maniero vecchio di duecento anni, un tempo elegante e signorile, ora caduto in rovina. ##I terreni del maniero occupano un'intera isola appena a sud di Hallowshire. Con l'investitore giusto, la tenuta potrebbe tornare a prosperare. ##Per informazioni, rivolgersi all'impiegato del Consiglio di Hallow Town.||||
+MANOR_CLUE_TITLE|Una scoperta curiosa||||
+MANOR_CLUE_PAPERS|Trovi documenti e rotoli di pergamena che descrivono lo studio di vari mostri. ##La maggior parte sembra riguardare il Vierme, un organismo parassitario che usa il proprio ospite per nutrirsi dei sogni delle sue prede.||||
+MANOR_CLUE_CIPHER|Trovi numerosi documenti sulla teoria e la pratica della magia cifrata. Sembrano tutti concentrarsi su un unico incantesimo capace di imprigionare persino le creature più violente, confinandole entro un raggio limitato. Alcune pagine sono strappate e intere sezioni sono state rimosse. Non riesci a trovare l'incantesimo in questione.||||
+MANOR_CLUE_SMITHY|Qui un tempo era attiva una piccola fucina, forse destinata soltanto alla manutenzione di un modesto arsenale privato. Le lame hanno una foggia insolita e sono arrugginite oltre ogni possibilità di recupero. La fucina non viene usata da molto tempo.||||
+MANOR_CLUE_STATUE|La statua ha qualcosa d'inquietante, ma sembra priva di alcuni elementi. A un esame più attento, però, l'assenza sembra intenzionale. Rimettere al loro posto le parti mancanti potrebbe attivare una funzione nascosta.||||
+NOTE_MANOR_STATUE|A questa statua sembra mancare qualcosa.||||
+NOTE_MANOR_STATUE2|A questa statua manca ancora qualcosa.||||
+SIGN_MANOR_MINE_TITLE|AVVISO DEL CONSIGLIO DELL'UNIONE APOSTATICA||||
+SIGN_MANOR_MINE|Ai potenziali o attuali proprietari del Maniero Thornwood: ##Questa miniera è in rovina ed è stata sigillata. ##Il suo restauro sarà incluso nel [[Potenziamento del Laboratorio]] disponibile per l'acquisto presso una [[Stazione Immobiliare]].||||
+SIGN_MANOR_CHAPEL|Ai potenziali o attuali proprietari del Maniero Thornwood: ##Questa cappella è in rovina ed è stata sigillata. ##Il suo restauro sarà incluso nel [[Potenziamento della Biblioteca]] disponibile per l'acquisto presso una [[Stazione Immobiliare]].||||
+SIGN_MANOR_CAVE|Ai potenziali o attuali proprietari del Maniero Thornwood: ##Questo annesso nella caverna è in rovina ed è stato sigillato. ##Il suo restauro sarà incluso nel [[Potenziamento del Giardino]] disponibile per l'acquisto presso una [[Stazione Immobiliare]].||||
+SIGN_CWK_MAIN_TITLE|ATTENZIONE, CITTADINI||||
+SIGN_CWK_MAIN1|In risposta ai recenti Oltraggi del vile SABOTATORE, i Servitori di Sua Maestà stanno conducendo un'OPERAZIONE DI SICUREZZA in questo Distretto.##Chiunque violi il presente Ordine sarà ritenuto un Agente del Sabotatore e trattato di conseguenza.##LUNGA VITA AL RE.##Secolo 0, Anno 27, Mese 6, Giorno 45||||
+SIGN_CWK_MAIN2|È della massima Gravità che ogni segno di Corruzione venga immediatamente segnalato alle Autorità competenti del proprio Distretto. RICONOSCETE QUESTI PRESAGI:##1) Comportamenti Insoliti o Difetti fisici nel Bestiame e negli altri Animali.##2) Difficoltà a orientarsi in Luoghi familiari.##3) Miraggi dell'Occhio e dell'Orecchio.##4) Sapore od Odore di Lillà in assenza di Lillà.##LUNGA VITA AL RE.##Secolo 0, Anno 26, Mese 3, Giorno 13||||
+SIGN_CWK_OLEG_TITLE|Fuori a Lavorarre||||
+SIGN_CWK_OLEG|Torno - Nn sn Affari Vostri!!! ##Severamente VIETATI Volantini, Opuscoli, Missionari, Cantori, Raccoglitori d'Unchie o altri Furfanti. ##ATTENTI ALL'UOMO. ##- Oleg Myshkin||||
+SIGN_CWK_PROG_AD|La città di ((PROGRESSO)) è il luogo in cui il nostro glorioso Regno sta ((FORGIANDO il FUTURO)) con le proprie Mani. Entusiasmanti Opportunità di lavoro per: ##Tessitori di Fili ##Filatori di Fosforo ##Operatori di Torni a Vapore e Trapani a Colonna ##Operai dell'Aria Compressa (indennità di rischio prevista) ##Incisori di Rune Sottoscafo (altezza inferiore a 4 piedi e 11 pollici) ##Fumigatori del Vuoto e Detaumaturghi ##LUNGA VITA AL RE. Secolo 0, Anno 19, Mese 6, Giorno 59||||
+SIGN_CWK_SCHOOLHOUSE_TITLE|Turni di lavoro d'emergenza||||
+SIGN_CWK_SCHOOLHOUSE|Cittadini Wong, Murray, Ustinov – Sorveglianza della scuola ##Cittadini Heinz, Krupke, Singh, Ghazaryan – Pattuglia stradale ##Cittadini Roth, Doyle, Filipovich – Controlli sul benessere e manutenzione delle barricate ##Cittadino Onwurah – Servizio all'asilo ##Cittadini Gallo e Kenzie – Servizio in infermeria ##Cittadino Muir – Quartiermastro e maestro di cerimonie dello spettacolo di talenti||||
+SIGN_PWYLL_LIFT_T|FORESTA DI PWYLL||||
+SIGN_PWYLL_LIFT|Questa piattaforma scende fino alla [[Foresta di Pwyll.]] ##ATTENZIONE: a differenza dei moderni ascensori bidirezionali di Hallowshire, questo ascensore viaggia in una sola direzione.||||
+DIRECTION_WAYSIGN_T|Sul cartello si legge:||||
+DIRECTION_BL|Da questa parte per la Fortezza ##[[LUCE ACCECANTE]]##.||||
+DIRECTION_PWYLL|Da questa parte per ##[[PWYLL]],##dove sorge il Villaggio di Pwyll.||||
+DIRECTION_PWYLLVILLAGE|Da questa parte per ##[[IL VILLAGGIO DI PWYLL]],##dove si produce il profetico Tè di Fungoscrutatore.||||
+DIRECTION_ONIONS|Da questa parte per ##[[IL FORTE DELLA GUERRA DIVINA]].##((La scritta qui sopra è stata cancellata e qualcuno ha scarabocchiato))##L'Esimio Accampamento dei Mercenari delle CIPOLLE MARCE||||
+DIRECTION_SACREDSHROOM_NOTE|Da questa parte per ##[[IL FUNGO SACRO]].##((Qualcuno ha scarabocchiato)) Fanculo Aenguin ((sotto.))||||
+DIRECTION_SACREDSHROOM|Da questa parte per ##[[IL FUNGO SACRO]].||||
+DIRECTION_NOGGIN|Da questa parte per ##[[IL BOCCALE BARCOLLANTE]].##Antica taverna che serve birra e offre vitto e alloggio.||||
+DIRECTION_HALLOWSHIRE|Da questa parte per ##[[HALLOWSHIRE]]##((È stata aggiunta una nota:))##Sotto l'amministrazione del Consiglio di Hallow Town dal 1442.||||
+DIRECTION_HALLOWTOWN|Da questa parte per ##[[HALLOW TOWN]].##||||
+DIRECTION_RUSTBURG|Da questa parte per ##[[RUSTBURG]].##||||
+DIRECTION_THORNWOOD|Da questa parte per ##[[IL MANIERO THORNWOOD]].##||||
+DIRECTION_BELLTOWER|Da questa parte per ##[[IL CAMPANILE DI HALLOW TOWN]].## ((Il cartello è vecchio e consunto dalle intemperie.))||||
+DIRECTION_HALLOWCASTLE|Da questa parte per ##[[IL CASTELLO DI HALLOW]].## ((Qualcuno ha scarabocchiato)) LUOGO MALEDETTO ((sotto)).||||
+DIRECTION_HALLOWMINES|Da questa parte per ##[[LE MINIERE DI HALLOW]].## ((Qualcuno ha scarabocchiato)) BANDITI ((sotto)).||||
+DIRECTION_PAEGUTHRUINS|Da questa parte per ##[[LE ROVINE PAEGUTHIANE]].##||||
+DIRECTION_SKIFF|Da questa parte per ##[[IL MOLO DEGLI SKIFF]].##||||
+DIRECTION_ENDLESS|Da questa parte per ##[[IL REGNO ETERNO]].##||||
+DIRECTION_SEPULCHRE|Da questa parte per ##[[LA CITTÀ DI SEPOLCRO]].##||||
+DIRECTION_CADAVERKEEP|Da questa parte per ##[[IL MASTIO DEI CADAVERI]].##||||
+DIRECTION_FLESHFARM|Da questa parte per ##[[LE FATTORIE DELLA CARNE]].## Per informazioni, rivolgersi alla stimata PENITENTE D'ISGELO.||||
+DIRECTION_ENDLESSMINES|Da questa parte per ##[[LE MINIERE DI CRISTALLO]].##||||
+DIRECTION_MINES|Da questa parte per ##[[LE MINIERE]].##||||
+DIRECTION_MAUSOLEUM|Da questa parte per ##[[IL MAUSOLEO VII]].##||||
+DIRECTION_MAUSOLEUM2|Da questa parte per ##[[IL MAUSOLEO IX]].##||||
+DIRECTION_RHYDDER|Da questa parte per ##[[LA TENUTA RHYDDER]].##||||
+DIRECTION_DUCHESS|Da questa parte per ##[[IL MANIERO DELLA DUCHESSA]].##||||
+DIRECTION_EMBERIANRUIN|Da questa parte per ##[[LE ROVINE EMBERIANE]].##||||
+DIRECTION_CWK|Da questa parte per ##[[IL REGNO MECCANICO]].## ((Qualcuno ha scarabocchiato)) Il Regno è IN FRANTUMI||||
+DIRECTION_FER|Da questa parte per ##[[FERROPOLIS]],##la città più grande e prospera delle Isole Oniriche.||||
+DIRECTION_VISIONWORKS|Da questa parte per ##[[I REGI LABORATORI DELLE VISIONI]].##Informati oggi stesso su come diventare operaio delle visioni. Il Regno vuole i tuoi sogni!||||
+DIRECTION_MOROZOV|Da questa parte per ##[[LA TORRE DI MOROZOV]].##||||
+DIRECTION_FROST|Da questa parte per ##[[CASA DI SAMMOL]].## ((È stata aggiunta una nota alla buona:))##Le storie di Horace Metcalfe spaccano!||||
+DIRECTION_CORRUPTED|Da questa parte per ##[[LE TERRE CORROTTE]].##Per ordine del Re, l'ingresso è vietato a tutti i cittadini.||||
+DIRECTION_PROGRESS|Da questa parte per ##[[LA CITTÀ DI PROGRESSO]].##((Nota allegata:)) Queste rovine sono INTERDETTE.||||
+DIRECTION_OBJGRAVE|Da questa parte per ##[[IL CIMITERO DEGLI OGGETTI]].##Vietato scaricare rifiuti in volo!||||
+DIRECTION_BEACON|Da questa parte per ##[[IL FARO REALE]].##Accesso riservato ai Macchinisti.||||
+DIRECTION_LIBUNTRUTH|Da questa parte per ##[[LA BIBLIOTECA DELLE NON-VERITÀ]].##||||
+DIRECTION_CLEANUP|Da questa parte per ##[[IL CAMPO DI BONIFICA]].##||||
+MAP_HW_MID|Hallowshire centrale||||
+MAP_HW_EAST|Hallowshire orientale, terre agricole||||
+MAP_HW_WEST|Hallowshire occidentale, foresta||||
+MAP_HW_SOUTH|Hallowshire meridionale, palude||||
+MAP_EN_NORTH|Regione Eterna settentrionale||||
+MAP_EN_MID|Regione Eterna centrale||||
+MAP_EN_SOUTH|Regione Eterna meridionale||||
+MAP_ST|Covo della Stella Oscura||||
+MAP_CWK_NORTH|Regno Meccanico settentrionale||||
+MAP_CWK_MID|Regno Meccanico centrale||||
+MAP_CWK_SOUTH|Regno Meccanico meridionale||||
+MAP_ENDGAME_NW|Margini nord-occidentali||||
+MAP_ENDGAME_NE|Margini nord-orientali||||
+MAP_ENDGAME_SW|Margini sud-occidentali||||
+MAP_ENDGAME_SE|Margini sud-orientali||||
+LMRK_FARM|Incursione dell'Inquisizione||||
+LMRK_TREE|Albero cavo||||
+LMRK_RIVER|Guscio verticale||||
+LMRK_HALLOWTOWN|Hallow Town||||
+LMRK_MAUSOLEUM_N|Mausoleo settentrionale||||
+LMRK_MAUSOLEUM_S|Mausoleo meridionale||||
+LMRK_FLESH|Fattoria della Carne della Penitente D'Isgelo||||
+LMRK_SEPULCHRE|Sepolcro||||
+LMRK_RHYDDER|Tenuta di Lord Rhydder||||
+LMRK_VELA|Fortezza di Vela||||
+LMRK_BELLTOWER|Campanile||||
+LMRK_DUNGEON|Sotterraneo Paeguthiano||||
+LMRK_TOWER|Torre dei Briganti||||
+LMRK_TYPHOS|Aeronave Golden Typhos||||
+LMRK_CASTLE|Castello di Hallow||||
+LMRK_CARTO_HW|Tenda del Cartografo||||
+LMRK_WITCH|Casa strana||||
+LMRK_EMBERIAN|Cripta Emberiana||||
+LMRK_ACADEMY|Accademia Erudita||||
+LMRK_WIKKAN_ISLE|Isola Wikkan||||
+LMRK_RIBS|Castello delle Costole||||
+LMRK_WYRM|Verme senziente||||
+LMRK_THORNWOOD|Maniero Thornwood||||
+LMRK_DUCHESS|Tenuta della Duchessa||||
+LMRK_VERDANT|Rovine di Verdante||||
+LMRK_CADAVERKEEP|Mastio dei Cadaveri||||
+LMRK_RUSTBURG|Rustburg||||
+LMRK_EMBERIANDUNGEON|Cripta Emberiana||||
+LMRK_KNIGHTHIDEOUT|Rovina Emberiana||||
+LMRK_UNTRUTHS|Biblioteca delle Non-Verità||||
+LMRK_FERROPOLIS|Ferropolis||||
+LMRK_CLEANUPCAMP|Campo di Bonifica||||
+LMRK_FROST|Tregua del Sognatore||||
+LMRK_OBJGRAVEYARD|Cimitero degli Oggetti||||
+LMRK_VISIONWORKS|Regi Laboratori delle Visioni||||
+LMRK_PROGRESS|Città Perduta di Progresso||||
+LMRK_BEACON|Faro Reale||||
+LMRK_DIGGER|Macchina scavatrice||||
+LMRK_MOROZOV|Torre di Morozov||||
+LMRK_SACREDSHROOM|Fungo Sacro||||
+LMRK_PWYLLVILLAGE|Villaggio di Pwyll||||
+LMRK_ROTTENONIONS|Cipolle Marce||||
+LMRK_MECH|Macchina della Guerra Divina||||
+LMRK_GODSKELETON|Scheletro di un dio||||
+LMRK_SNAIL|Negozio segreto||||
+LMRK_CRASHEDSHIP|Nave Emberiana schiantata||||
+LMRK_MOLLUSC|Castello della Congrega del Mollusco||||
+SUMMON_SKELETON_0|Bingo||||
+SUMMON_SKELETON_1|Urlatore||||
+SUMMON_SKELETON_2|Rantolo di Morte||||
+SUMMON_SKELETON_3|Lo Squartatore||||
+SUMMON_ARCHER_0|Ammazzadèi||||
+SUMMON_ARCHER_1|Droog||||
+SUMMON_ARCHER_2|Non Mollare||||
+SUMMON_ARCHER_3|Schizzo di Sangue||||
+SUMMON_CASTER_0|Ossa Lucenti||||
+SUMMON_CASTER_1|Bombardiere||||
+SUMMON_CASTER_2|Fumo Tossico||||
+SUMMON_CASTER_3|Verme dei Tomi||||
+SUMMON_SHIELD_0|Il Codardo||||
+SUMMON_SHIELD_1|Terrore della Città||||
+SUMMON_SHIELD_2|Biondino||||
+SUMMON_SHIELD_3|Sangue di Ferro||||
+SUMMON_SPIDER_0|Fauci Arrugginite||||
+SUMMON_SPIDER_1|Cavalli Vapore||||
+SUMMON_SPIDER_2|Jimmy||||
+SUMMON_SPIDER_3|La Creatura||||
+PWYLL_RITUAL_T|Strumenti occulti||||
+PWYLL_RITUAL|Nella stanza sono sparsi vari strumenti occulti. Sono stati assemblati in modo raffazzonato e dilettantesco, ma sembrano comunque produrre l'effetto desiderato. Un senso di terrore pervade l'aria e, sebbene il colossale cadavere divino che domina la sala sembri privo di vita, avverti una presenza innominabile destarsi. ##Tra il disordine trovi una chiave ricoperta di minuscoli funghi. Culwych vorrà saperlo.||||
+PWYLL_NAUTILOB_T|Appunti sospetti||||
+PWYLL_NAUTILOB|La scrivania è coperta di appunti scarabocchiati, perlopiù riguardanti incantesimi d'illusione. Da ciò che trovi, deduci che qualcuno stesse tentando di creare un'illusione su vasta scala. Ci sono anche numerosi schizzi anatomici di Nautilob... ##A quanto pare, il mostro gigante non è affatto ciò che sembra. Era stato tutto un inganno fin dall'inizio.||||
+PWYLL_MAYOR_BASEMENT_T|Antichità Wikkan||||
+PWYLL_MAYOR_BASEMENT|Trovi un assortimento di antichità Wikkan: appunti sui riti contrattuali, vecchi abiti impolverati e diversi strumenti sconosciuti.||||
+PWYLL_SACREDSHROOM_T|Un tanfo nauseante||||
+PWYLL_SACREDSHROOM|Il tanfo nauseante della bile invade la camera di carne. Davanti a te, un enorme tratto digerente pulsa, ribollendo di acido corrosivo. ##A quanto pare, questo fungo possiede degli ((organi.)) ##Riesci appena a distinguere una figura che si dimena dietro strati di carne traslucida; dovresti indagare.||||
+CRYSTALSKULL_INACTIVE|Non sembra accadere nulla.||||
+CRYSTALSKULL_TIMERSTART|Ti assale un improvviso senso d'urgenza...||||
+CRYSTALSKULL_TIMERFAIL|Da qualche parte, una clessidra si è svuotata.||||
+CRYSTALSKULL_COMPLETE|Un'improvvisa euforia: tutti i teschi si sono risvegliati.||||
+CRYSTALSKULL_SIGN|Miglior record:||||
+CRYSTALSKULL_TIMETRIAL|Riesci a battere il tuo miglior tempo?||||
+CRYSTALSKULL_FAST|Nuovo record!||||
+CRYSTALSKULL_SLOW|Troppo lento...||||
+STAT_PLAYERKILLS|Uccisioni del giocatore||||
+STAT_PLAYERDEATHS|Morti del giocatore||||
+STAT_SUMMONKILLS|Uccisioni delle creature evocate||||
+STAT_ENTICELEVEL|Livello di Seduzione||||
+STAT_TEASDRUNK|Tè bevuti||||
+STAT_BEERSDRUNK|Birre bevute||||
+CONTEXT_PLAYERKILLS|Il numero totale di vite, umane o meno, che hai spezzato.||||
+CONTEXT_PLAYERDEATHS|Il numero totale di volte in cui il Dio Incatenato ti ha strappato all'orlo della morte.||||
+CONTEXT_SUMMONKILLS|Il numero totale di vite spezzate in tuo nome dalle creature che hai evocato.||||
+CONTEXT_ENTICELEVEL|Il livello attuale dell'incantesimo Seduzione, usato per stabilire se un nemico può essere Attirato a combattere per te. Il livello base è determinato dalla tua statistica Fascino, ma alcuni modificatori possono aumentare ulteriormente la Seduzione.||||
+CONTEXT_TEASDRUNK|Il numero di tè che hai bevuto. Ricorda di concederti regolarmente una pausa per il tè, preferibilmente in un luogo con una splendida vista.||||
+CONTEXT_BEERSDRUNK|Il numero di birre che hai bevuto. Bevi responsabilmente e non pilotare l'Aeronave sotto l'effetto dell'alcol.||||
+INTRO_SUB1|Il nostro mondo è in frantumi da tempo||||
+INTRO_SUB2|ma la speranza ancora balugina||||
+INTRO_SUB3|nei nostri sogni più oscuri.||||
+INTRO_SUB4|Pochi avrebbero immaginato che il nostro destino||||
+INTRO_SUB5|si sarebbe deciso nelle Isole Oniriche,||||
+INTRO_SUB6|un arcipelago quasi dimenticato||||
+INTRO_SUB7|dei Regni Celesti meridionali.||||
+INTRO_SUB8|Su queste isole inquietanti,||||
+INTRO_SUB9|l'Unione Apostatica,||||
+INTRO_SUB10|ebbra di potere dopo aver massacrato||||
+INTRO_SUB11|i propri dèi un tempo venerati||||
+INTRO_SUB12|...mantiene solo una misera presenza.||||
+INTRO_SUB13|Sotto il suo sguardo incurante,||||
+INTRO_SUB14|le foreste profonde e i luoghi oscuri||||
+INTRO_SUB15|brulicano di tagliagole... cultisti||||
+INTRO_SUB16|...e peggio ancora.||||
+INTRO_SUB17|Nel desolato Regno Eterno,||||
+INTRO_SUB18|povere anime languono senza poter morire||||
+INTRO_SUB19|in mausolei decrepiti||||
+INTRO_SUB20|...anelando alla mortalità perduta.||||
+INTRO_SUB21|Intanto, il Regno Meccanico,||||
+INTRO_SUB22|retto dalla logica distorta||||
+INTRO_SUB23|del suo monarca artificiale,||||
+INTRO_SUB24|si sforza di trasformare non soltanto il regno||||
+INTRO_SUB25|...ma la realtà stessa.||||
+INTRO_SUB26|Tutte queste regioni hanno un ruolo da svolgere||||
+INTRO_SUB27|nella storia che si sta dipanando.||||
+INTRO_SUB28|Ma tutto comincia molte braccia più in basso, nelle Terre di Sotto,||||
+INTRO_SUB29|una landa devastata||||
+INTRO_SUB30|dove nessuno può respirare a lungo.||||
+INTRO_SUB31|È qui che un segreto attende||||
+INTRO_SUB32|di essere svelato||||
+INTRO_SUB33|da qualcuno i cui sogni||||
+INTRO_SUB34|ardono più intensamente di tutti gli altri.||||
+INTRO_SUB35|...ma quei sogni divamperanno||||
+INTRO_SUB36|in un destino radioso?||||
+INTRO_SUB37|O saremo noi a bruciare||||
+INTRO_SUB38|...nella follia del Delirio?||||
+Escape|Esc||||
+Space|Barra spaziatrice||||
+Enter|Invio||||
+Tab|Tab||||
+Up Arrow|Freccia su||||
+Down Arrow|Freccia giù||||
+Left Arrow|Freccia sinistra||||
+Right Arrow|Freccia destra||||
+Left Shift|Maiusc sinistro||||
+Right Shift|Maiusc destro||||
+Shift|Maiusc||||
+Left Alt|Alt sinistro||||
+Right Alt|Alt destro||||
+Alt|Alt||||
+Left Control|Ctrl sinistro||||
+Right Control|Ctrl destro||||
+Control|Ctrl||||
+Left System|Sistema sinistro||||
+Right System|Sistema destro||||
+Context Menu|Menu contestuale||||
+Backspace|Backspace||||
+Page Down|Pagina giù||||
+Page Up|Pagina su||||
+Home|Home||||
+End|Fine||||
+Insert|Ins||||
+Delete|Canc||||
+Caps Lock|Bloc Maiusc||||
+Num Lock|Bloc Num||||
+Print Screen|Stamp||||
+Scroll Lock|Bloc Scorr||||
+Pause/Break|Pausa/Interruzione||||
+Numpad Enter|Invio tastierino numerico||||
+Numpad /|Tastierino numerico /||||
+Numpad *|Tastierino numerico *||||
+Numpad +|Tastierino numerico +||||
+Numpad -|Tastierino numerico -||||
+Numpad .|Punto del tastierino numerico||||
+Numpad =|Tastierino numerico =||||
+Numpad 1|Tastierino numerico 1||||
+Numpad 2|Tastierino numerico 2||||
+Numpad 3|Tastierino numerico 3||||
+Numpad 4|Tastierino numerico 4||||
+Numpad 5|Tastierino numerico 5||||
+Numpad 6|Tastierino numerico 6||||
+Numpad 7|Tastierino numerico 7||||
+Numpad 8|Tastierino numerico 8||||
+Numpad 9|Tastierino numerico 9||||
+Numpad 0|Tastierino numerico 0||||
+Left Button|Pulsante sinistro||||
+Right Button|Pulsante destro||||
+Middle Button|Pulsante centrale||||
+Forward|Avanti||||
+Back|Indietro||||
+Left/Right|Sinistra/Destra||||
+Up/Down|Su/Giù||||

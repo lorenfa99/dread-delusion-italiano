@@ -1,0 +1,121 @@
+NPC Name:|Endings||||||||||||
+ID|English|French|German|Spanish|Italian||||||||
+banished1|In un lampo di luce incandescente, l'Angelo viene strappato dall'esistenza. Per un istante lo vedi vorticare nella follia frattale del Vuoto, appena prima che lo squarcio nella realtà si richiuda di colpo.||||||||||||
+banished2|La Culla sussulta intorno a te. Privata della sua fonte di energia, ha cominciato a precipitare verso le Terre di Sotto.||||||||||||
+banished3|Solo grazie alle agili manovre di Jack Basalt vieni tratto in salvo dal relitto. Guardi la carcassa metallica della Culla sprofondare sotto le nuvole, portando con sé ciò che resta di Vela e di quelli che un tempo erano i suoi compagni.||||||||||||
+banished4|Solo grazie alle agili manovre di Jack Basalt vieni tratto in salvo dal relitto. Ignorando le disperate proteste di Vela, spingi a forza anche lei a bordo, e tutti e tre guardate la Culla sprofondare sotto le nuvole.||||||||||||
+banished5|Per tutto il viaggio di ritorno non dici una parola. Pensi soltanto a Orlaith, alla Duchessa e a Caxton Frost, per i quali la Culla resterà per sempre una tomba.||||||||||||
+banishedOrder1|Negli anni seguenti, fai carriera nell'Inquisizione, seminando paura al passaggio dei tuoi stivali.||||||||||||
+banishedOrder2|Ben presto ti guadagni una fama terribile, e il tuo nome viene sussurrato con timore e reverenza in tutta l'Unione Apostatica.||||||||||||
+banishedLiberty1|Scontata la tua penitenza, vieni liberato dall'Inquisizione. I successivi scontri con l'autorità ti portano a unirti proprio a quelli che un tempo combattevi: i mercenari della Stella Oscura.||||||||||||
+banishedLiberty2|Ben presto ti guadagni rispetto, infamia e persino il comando, come Vela prima di te. ##Per alcuni sei un tiranno, per altri un liberatore. Ma una cosa è certa: il tuo nome è conosciuto in tutti i Regni Celesti.||||||||||||
+banishedSelf1|Scontata la tua penitenza, vieni liberato dall'Inquisizione. Finalmente libero, parti da solo, senza curarti di dove ti porterà il vento.||||||||||||
+banishedSelf2|Negli anni seguenti, nei Regni Celesti si raccontano storie di un viandante solitario la cui sola presenza sembra innescare strani eventi.||||||||||||
+banished6|Jack Basalt abbandona la vita da mercenario e passa il resto dei suoi giorni a vagare da una taverna all'altra, blaterando da ubriaco delle imprese di un tempo.||||||||||||
+banished7|Col tempo, i nomi dei suoi vecchi compagni cadono nell'oblio, e lui finisce per essere considerato un vecchio sciocco come tanti.||||||||||||
+banished8|Frost non sposa mai Sammol, l'uomo che ama. Agli occhi della sua patria rimane un traditore.||||||||||||
+banished9|La Duchessa, dilaniata e dispersa ai venti, trova una nuova e singolare pace come testimone frantumata della vita segreta delle Terre di Sotto.||||||||||||
+banished10|L'armatura dell'Emberiana giace, immune alla ruggine, alla base del mondo, mentre la sua carne torna alla terra.||||||||||||
+banished11|Il loro sacrificio è inciso sull'obelisco commemorativo nero come il giaietto che si erge nei giardini della Cittadella del Dubbio, a Riova.||||||||||||
+banished12|E Vela? Vive ormai soltanto nei libri di storia e nelle sinistre filastrocche con cui si terrorizzano i bambini.||||||||||||
+banished13|E Vela? Durante la fuga vi siete detti poco. L'indomani era scomparsa, e da allora nessuno l'ha più vista né ha avuto sue notizie.||||||||||||
+joined1|L'Angelo ti chiama a sé. Mentre precipiti nella sua mente, la tua coscienza si contorce, si tende e infine esplode, riversandosi nell'universo.||||||||||||
+joined2|Ora, per la prima volta, lo vedi. Parole, righe e versi si intrecciano in un arazzo che attraversa ogni angolo dell'esistenza. Basterebbero pochi guizzi della lingua per cambiare tutto.||||||||||||
+joined3|E lo fai.||||||||||||
+joined4|Le tue parole riverberano nella realtà. Poche parole rendono reversibile la morte e spezzano la gelida linearità dell'esistenza mortale. Con un'altra frase, doni a ogni persona una minuscola goccia del tuo nuovo potere.||||||||||||
+joined5|In tutti i Regni Celesti, chiunque, dal nobile all'oppresso, avverte un'ondata di comprensione superiore a quella di qualsiasi mago del Cifro.||||||||||||
+joined6|I morti da lungo tempo, silenziosi da secoli, se non più a lungo, scoprono che basta aprire gli occhi e respirare.||||||||||||
+joined7|Tra loro ci sono i tuoi compagni. Basalt, Orlaith, Frost e la Duchessa sono a riva e assistono alla tua ascesa verso qualcosa che trascende perfino la divinità.||||||||||||
+joinedOrder1|E qui, nelle Isole Oniriche, fai sorgere una città splendente da cui vegliare su questa nuova era.||||||||||||
+joinedOrder2|Comprendi che, con i suoi nuovi doni, l'umanità si agiterà e si dibatterà come un neonato. Senza la tua mano a guidarla, il caos potrebbe inghiottire il mondo.||||||||||||
+joinedOrder3|Così dai alla città il nome di Paradiso: torri di vedetta di Cifro scrutano senza mai battere ciglio, e legioni di guardiani angelici sono sempre pronte a proteggere ciò che hai costruito.||||||||||||
+joinedLiberty1|E qui, nelle Isole Oniriche, pianti il seme di una nuova città, che crescerà in quest'era di possibilità senza confini.||||||||||||
+joinedLiberty2|Chiami questa città Paradiso, perché sia un fulcro di cambiamento e crescita sotto il tuo sguardo onnipresente.||||||||||||
+joinedLiberty3|Pur rifiutandoti di scendere al livello dell'Inquisizione cancellandola semplicemente dall'esistenza, la tua città di dissidenti ed eretici diventa un tumultuoso affronto a tutto ciò che l'Inquisizione rappresenta e un catalizzatore di trasformazione in tutti i Regni Celesti.||||||||||||
+joinedSelf1|E qui, nelle Isole Oniriche, ti rinchiudi in un grembo di Cifro. Ben presto una città prolifera intorno a te, ma non le presti attenzione.||||||||||||
+joinedSelf2|Lasci che il nuovo mondo delle possibilità si schiuda petalo dopo petalo, intervenendo il meno possibile. Davanti a te si aprono sentieri verso luoghi luminosi e oscuri, e nemmeno il tuo nuovo sguardo riesce a discernere quale imboccherà l'umanità.||||||||||||
+companions5|Jack Basalt abbandona la vita da mercenario e vaga per i Regni Celesti su una vecchia barca sgangherata. Ogni tanto lo si avvista in qualche porto, intento a incantare i bambini con racconti di cappa e spada troppo stravaganti per sembrare veri.||||||||||||
+companions6|Frost sposa il suo amato Sammol e insieme crescono i figli raccontando loro le proprie avventure nei cieli, su una tranquilla isoletta ai confini dei Regni Celesti.||||||||||||
+companions7|La Duchessa, ritrovata la giovinezza, parte alla ricerca di sua figlia, e il viaggio la conduce nelle Terre di Sotto. In un boschetto di alberi appena fioriti, rivede finalmente quel sorriso radioso.||||||||||||
+companions8|E l'Emberiana depone finalmente l'armatura, lasciandosi così alle spalle il peso dei suoi antenati.||||||||||||
+joined16|E Vela? Non sei mai riuscito a percepire la sua forza vitale nel palpito e nel pulsare della realtà. Sembra che, alla fine, non abbia trovato in sé la volontà di abbracciare il proprio sogno.||||||||||||
+joined17|E Vela? L'ultima volta che hai posato lo sguardo su di lei, stringeva sua sorella, entrambe in lacrime.||||||||||||
+banHallowUnion1|Grazie al tuo aiuto, l'Unione Apostatica riesce a sradicare le congreghe Wikkan da ogni angolo di Hallowshire.||||||||||||
+banHallowUnion2|La regione conosce una nuova era di stabilità e legalità, ma, nonostante i ripetuti appelli d'aiuto rivolti alla terraferma dell'Unione, la carestia si protrae per diversi anni.||||||||||||
+banHallowUnion3|In qualità di agente dell'Inquisizione, sovrintendi personalmente al processo, e sono proprio i tuoi sforzi a far sì che gli dèi della regione svaniscano fino a diventare mere leggende.||||||||||||
+banHallowUnion4|Con te al comando, la Stella Oscura diventa una spina costante nel fianco dell'Unione, sviluppando proprio sotto il suo naso una spietata rete criminale.||||||||||||
+banHallowUnion5|Col tempo, l'Unione Apostatica riesce a strappare Hallowshire al controllo delle congreghe Wikkan.||||||||||||
+banHallowUnion6|La regione conosce una nuova era di stabilità e legalità, ma, nonostante i ripetuti appelli d'aiuto rivolti alla terraferma dell'Unione, la carestia si protrae per diversi anni.||||||||||||
+banHallowPaeg1|Grazie al tuo aiuto, Paeguth e le congreghe Wikkan scacciano l'Unione Apostatica da Hallowshire.||||||||||||
+banHallowPaeg2|Si diffondono voci di terribili afflizioni che stravolgono e deformano gli abitanti della regione, ma di una cosa non c'è dubbio: i loro raccolti sono abbondanti e le loro pance sempre piene.||||||||||||
+banHallowPaeg3|Come membro dell'Inquisizione, col tempo finisci per rimpiangere ciò che hai fatto: Hallowshire è considerata il più grande fallimento dell'organizzazione.||||||||||||
+banHallowPaeg4|Con te a capo della Stella Oscura, il culto di Paeguth diventa un cliente abituale, e i tuoi mercenari trascorrono molte notti sfrenate e deliranti nelle strade di Hallow Town, cosparse di spore.||||||||||||
+joinHallowUnion1|Grazie al tuo aiuto, l'Unione Apostatica riesce a restare aggrappata al potere a Hallowshire, nonostante la caotica transizione verso questa nuova realtà.||||||||||||
+joinHallowUnion2|Mentre la regione si trasforma in un surreale paese delle meraviglie in continuo mutamento, l'Unione riesce a contenerne gli eccessi e a preservare una parvenza d'ordine e normalità.||||||||||||
+joinHallowUnion3|A sostenerla c'è il tuo sguardo sempre vigile: quando gli eventi minacciano di precipitare nel caos, i guardiani del Paradiso intervengono rapidamente e senza mezze misure.||||||||||||
+joinHallowUnion4|Sebbene tu cerchi di favorire una distribuzione più egualitaria del potere, l'Unione si dimostra tenace.||||||||||||
+joinHallowPaeg1|Grazie al tuo aiuto, Paeguth diventa la potenza dominante di Hallowshire e sovrintende alla trasformazione della regione in un regno di fecondità anarchica.||||||||||||
+joinHallowPaeg2|Col tempo, gli abitanti si spogliano delle loro pelli mortali e si trasformano in una cornucopia di forme stravaganti, rapiti dai propri rituali decadenti e peculiari.||||||||||||
+joinHallowPaeg3|Dal tuo seggio in Paradiso scruti con occhio guardingo questo caos sfrenato e intervieni regolarmente per soffocare sul nascere gli elementi che minacciano il bene comune.||||||||||||
+joinHallowPaeg4|Benché in Paradiso tutti siano uguali, non puoi fare a meno di prediligere questi nuovi cittadini e di additarli come fulgidi esempi della nuova era.||||||||||||
+joinHallowPaeg5|Approfittando di questa nuova realtà, Paeguth diventa la potenza dominante di Hallowshire e sovrintende alla trasformazione della regione in un regno di fecondità anarchica.||||||||||||
+banEndEntomb1|Nel Regno Eterno, le tue macchinazioni permettono all'Intombata di sconfiggere la Regina d'Argento e il suo consiglio.||||||||||||
+banEndEntomb2|Ben presto, l'intero regno viene dilaniato da magie devastanti, alimentate dalle agonie e dai rancori dei suoi abitanti.||||||||||||
+banEndEntomb3|Sulle poche isolette rimaste, un manipolo di Eterni sopravvissuti si aggrappa a un'esistenza miserabile, confortato soltanto dalla speranza che i propri simili abbiano trovato una qualche forma di pace.||||||||||||
+banEndEntomb4|L'Intombata, che marcisce sotto Sepolcro, finisce per detronizzare la Regina d'Argento e il suo consiglio.||||||||||||
+banEndEntomb5|Dopo aver preso il controllo di Hallowshire, l'Unione Apostatica chiude i confini ai profughi Eterni. Chi riesce comunque a compiere la traversata viene trattato con scherno e disprezzo.||||||||||||
+banEndEntomb6|Paeguth guarda con pietà questi sopravvissuti e offre a molti di loro un posto a Hallowshire, ormai liberata.||||||||||||
+banEndEntomb7|Alcuni Eterni scoprono persino che la magia Wikkan, con i suoi effetti trasformativi, allevia la loro miseria.||||||||||||
+banEndQueen1|Placando l'ira dell'Intombata, hai garantito alla Regina d'Argento molti altri secoli di regno sul Regno Eterno, mentre i suoi sudditi riposano al sicuro nella quieta penombra dei loro mausolei.||||||||||||
+banEndQueen2|E aiutando Penitente D'Isgelo a risolvere il dilemma della carne senziente, permetti agli Eterni di restare autosufficienti. Continuano a banchettare con carne priva di coscienza.||||||||||||
+banEndQueen3|I rapporti con l'Unione Apostatica continuano a migliorare e, col tempo, i due vicini diventano alleati saldi e inseparabili, uniti dalla loro comune empietà.||||||||||||
+banEndQueen4|Con Paeguth al potere in Hallowshire, i due vicini stringono un'insolita alleanza e aprono nuove frontiere nell'esplorazione dei misteri e delle magie arcane, con grande scorno dell'Unione Apostatica.||||||||||||
+banEndQueen5|Ben presto, però, diventa chiaro che le fattorie della carne degli Eterni non sono una fonte di sostentamento praticabile. Lord Rhydder riesce a convincerli a riprendere le Crociate dei Cadaveri, e gli Eterni tornano a banchettare con carne mortale.||||||||||||
+banEndQueen6|L'Unione Apostatica replica dichiarando guerra, e tutta la furia della Marina dell'Unione si abbatte su Sepolcro, radendo la città al suolo.||||||||||||
+banEndQueen7|Gli Eterni, tuttavia, si dimostrano tenaci, e per molti anni i mortali dei Regni Celesti vivono nel terrore dei Corsari dei Cadaveri.||||||||||||
+banEndQueen8|Hallowshire, ricca di carne grazie al nuovo dominio di Paeguth, si rivela il terreno di caccia prediletto degli Eterni. Il conflitto inghiotte le Isole Oniriche per molti anni a venire.||||||||||||
+joinEndEntomb1|Nel Regno Eterno, le tue macchinazioni permettono all'Intombata di sconfiggere la Regina d'Argento e il suo consiglio.||||||||||||
+joinEndEntomb2|La sua presenza amplifica le agonie e i rancori dell'isola. Ora che la magia ha acquistato nuova potenza, il loro malessere finisce per divorare la regione, finché un giorno il Regno Eterno scompare senza preavviso né cerimonie.||||||||||||
+joinEndEntomb3|Nella vicina Hallowshire, la gente comune dell'Unione Apostatica quasi non fa caso a questo strano evento; chi pure se ne accorge scopre di non riuscire a ricordare bene che cosa ci fosse su quelle isole in origine.||||||||||||
+joinEndEntomb4|Col tempo, quasi nessuno menziona più gli Eterni, e gli studiosi che cercano risposte nelle biblioteche si ritrovano spesso davanti a pagine inspiegabilmente bianche.||||||||||||
+joinEndEntomb5|Nella vicina Hallowshire, gli abitanti del nuovo dominio di Paeguth quasi non fanno caso a questo strano evento; chi pure se ne accorge scopre di non riuscire a ricordare bene che cosa ci fosse su quelle isole in origine.||||||||||||
+joinEndEntomb6|Alcuni sacerdoti Wikkan provano persino a interpellare i propri dèi, ma la risposta è sempre la stessa: l'antico regno di Verdante fu distrutto molto tempo fa, senza lasciare la minima traccia.||||||||||||
+joinEndEntomb7|Nel Regno Eterno, la presenza dell'Intombata amplifica le agonie e i rancori dell'isola.||||||||||||
+joinEndEntomb8|Ora che la magia ha acquistato nuova potenza, il loro malessere finisce per divorare la regione, finché un giorno il Regno Eterno scompare senza preavviso né cerimonie.||||||||||||
+joinEndQueen1|Placando l'ira dell'Intombata, hai fatto sì che la Regina d'Argento possa guidare il suo popolo in questa era di possibilità con rinnovata speranza.||||||||||||
+joinEndQueen2|E infatti, gli abitanti del Regno Eterno scoprono presto di avere la pelle un po' più liscia e la voce un po' meno roca. Alcuni notano perfino degli alberelli spuntare tra gli alberi morti.||||||||||||
+joinEndQueen3|I rapporti con Hallowshire migliorano enormemente: la gente comune dell'Unione Apostatica sembra nutrire meno pregiudizi verso chi ha ancora sangue nelle guance.||||||||||||
+joinEndQueen4|Col tempo, l'appena ribattezzato Regno di Verdante e la vicina Unione diventano saldi alleati, legati tanto dal commercio quanto dalla cultura.||||||||||||
+joinEndQueen5|Col tempo, il regno diventa noto come Regno di Verdante ed è considerato in tutti i Regni Celesti un luogo di bellezza e pace.||||||||||||
+joinEndQueen6|Per ironia della sorte, ora sono gli abitanti di Verdante a osservare i vicini con curiosità e disgusto, poiché le bizzarre usanze dell'Hallowshire di Paeguth appaiono loro ripugnanti.||||||||||||
+banCwkInertia1|Con il piano di riforma di Aphra sventato e senza più il potere dell'Angelo su cui fare affidamento, il Regno Meccanico crolla ben presto e viene sopraffatto dalla Corruzione.||||||||||||
+banCwkInertia2|Proprio come aveva previsto Aphra, resta inabitabile ancora per secoli: una terra d'incubi, spesso evocata nelle filastrocche con cui si mettono in guardia i bambini e visitata soltanto dai più coraggiosi cacciatori di tesori.||||||||||||
+banCwkInertia3|Senza poter contare sul potere dell'Angelo e senza alcun piano di riforma praticabile, il Regno Meccanico crolla ben presto e viene sopraffatto dalla Corruzione.||||||||||||
+banCwkInertia4|Resta inabitabile ancora per secoli: una terra d'incubi, spesso evocata nelle filastrocche con cui si mettono in guardia i bambini e visitata soltanto dai più coraggiosi cacciatori di tesori.||||||||||||
+banCwkInertia5|Dopo che un focolaio di Corruzione a Hallowshire viene represso a caro prezzo, la Marina dell'Unione fissa gigantesche vele all'isola e la lascia in balia degli alisei. Per generazioni, l'isola va alla deriva senza una rotta prevedibile attraverso i Regni Celesti, seminando terrore al suo passaggio.||||||||||||
+banCwkInertia6|Il Culto di Paeguth sembra stranamente imperturbato dall'orrore alle sue porte, e si parla persino di una «diplomazia» con i Corrotti, benché pochi credano possibile una cosa simile.||||||||||||
+banCwkReform1|Con il tuo aiuto, il Re Meccanico ritrova la ragione e l'amnesia dei cittadini si attenua. Dopo un periodo di tumulti, i riformisti di Aphra assumono il potere e smantellano il vecchio stato di polizia. È l'alba di un nuovo ottimismo, mentre la gente esplora la ritrovata libertà di cambiare.||||||||||||Line read doesn't match
+banCwkReform2|Negli anni seguenti, per gli estranei diventa sempre più difficile capire il Regno. Sovrano e sudditi si rimodellano continuamente a vicenda in cicli di retroazione sempre più strani, mentre i critici sostengono che la popolazione abbia rinunciato alla propria umanità. Eppure, i risultati tecnologici — e gli indicatori di felicità — parlano da soli.||||||||||||
+banCwkSabotage1|Grazie al tuo aiuto, il Re Meccanico muore senza eredi e i suoi cortigiani vengono deposti con violenza. Molti cittadini periscono in quel primo inverno brutale, ma questa volta a quell'inverno segue una vera primavera, e con essa germoglia un nuovo senso di solidarietà reciproca.||||||||||||
+banCwkSabotage2|Sotto la guida dei Sabotatori, il popolo affronta unito la crisi, e presto le vecchie canzoni, tutte... tutte le vecchie canzoni, tornano nelle sale da tè e nei templi. I Sabotatori creano inoltre un rifugio sicuro per furfanti e trafficanti del mercato nero, che diventano rapidamente indispensabili alla società.||||||||||||
+banCwkSabotage3|In risposta, l'Unione invia truppe da Hallowshire e occupa l'isola, dichiarando di voler ristabilire la legge e l'ordine. Una lunga lotta di resistenza si conclude con la proclamazione di Nuova Kardova: una repubblica nomade, corsara e rissosa.||||||||||||
+banCwkSabotage4|Molte vite vengono salvate dai generosi aiuti dell'Hallowshire dei Wikkan, i cui cultisti intravedono l'occasione di diffondere il vangelo di Paeguth. La religione torna a essere terreno di scontro nell'ex Regno, mentre gli apostati locali ricevono sostegno clandestino dall'Unione.||||||||||||
+joinCwkInertia1|Il Regno Meccanico è sull'orlo del collasso quando il potere dell'Angelo si propaga nel Cosmo, salvando il Re dalle conseguenze dei suoi stessi errori e investendolo di un nuovo potere insondabile.||||||||||||
+joinCwkInertia2|Dopo aver sventato il tentativo di riforma di Aphra, Sunil e la sua vecchia guardia sono liberi di riscrivere la realtà a loro piacimento, creando una piccola dittatura perfetta in cui il dissenso è letteralmente inconcepibile.||||||||||||
+joinCwkInertia3|Il Regno Meccanico è sull'orlo del collasso quando il potere dell'Angelo si propaga nel Cosmo, salvando il Re dalle conseguenze dei suoi stessi errori e investendolo di un nuovo potere insondabile.||||||||||||
+joinCwkInertia4|Con le voci riformiste disperse e disorganizzate, i cortigiani del Re sono liberi di riscrivere la realtà a loro piacimento, creando una piccola dittatura perfetta in cui il dissenso è letteralmente inconcepibile.||||||||||||
+joinCwkReform1|Nel Regno Meccanico, il potere dell'Angelo spinge le riforme di Aphra ben oltre i suoi sogni più sfrenati. Dopo un periodo di caos totale, il regno, ormai ribattezzato Nuova Kardova, diventa un faro di inventiva radicale, dove tutto è possibile e la gente comune si reinventa sette volte prima di colazione.||||||||||||
+joinCwkReform2|La società kardovana diventa presto incomprensibile per tutti gli estranei, tranne quelli di più larghe vedute, disseminando i Regni Celesti di macchine folli e persistenti anomalie della realtà. Gli anziani avvertono che chi emigra laggiù perderà la propria umanità; ma, sorprendentemente, per molti è proprio questo il fascino.||||||||||||
+joinCwkSabotage1|Il Re Meccanico è in punto di morte quando il potere dell'Angelo lo attraversa, sconvolgendo l'incantesimo di Reza e trasformando il suo spegnimento controllato in un devastante Squarcio del Mondo in miniatura. Grazie all'eroico sacrificio dei Sabotatori, gran parte della popolazione riesce a fuggire.||||||||||||
+joinCwkSabotage2|I sopravvissuti scoprono di aver ricevuto poteri straordinari, ma al prezzo di turbare il tessuto della realtà ovunque vadano. Così vagano da nomadi per i Regni Celesti, a volte accolti e a volte respinti, portando la nuova Kardova nei loro cuori e nelle canzoni che tramandano ai figli.||||||||||||
+joinCwkSabotage3|Così vagano da nomadi per i Regni Celesti, a volte accolti e a volte respinti, portando la nuova Kardova nei loro cuori e nelle canzoni che tramandano ai figli.||||||||||||
+highConfessorPrison1|L'Alta Confessora trascorre il resto dei suoi giorni in una cella dell'Inquisizione, dove anche l'ultimo residuo della sua determinazione si dissolve.||||||||||||
+highConfessorPrison2|L'Alta Confessora non assiste a questa nuova era: sebbene un nuovo potere si agiti dentro di lei, non vede alcun motivo per lasciare l'umida penombra della sua prigione.||||||||||||
+highConfessorSpared1|Dopo l'Incidente della Culla, l'ingegno dell'Alta Confessora viene finalmente riconosciuto. Col tempo, raggiunge i vertici dell'Inquisizione e assume la carica di Grande Inquisitrice.||||||||||||
+highConfessorSpared2|In questa nuova era, il corpo dell'Alta Confessora guarisce, e lei esce dalla bara: è di nuovo Caer.||||||||||||
+deathGod1|Con Vela sconfitta, le catene che tenevano prigioniero il tuo misterioso benefattore si infrangono, liberando finalmente l'entità.||||||||||||
+deathGod2|Non incroci mai più la sua strada.||||||||||||
+banPwyllSacrifice1|E nella vicina Pwyll, il raccolto successivo di Fungoscrutatore è davvero abbondante, ma l'atmosfera è cupa: gli abitanti sanno quale prezzo di sangue è stato pagato.||||||||||||
+banPwyllSpared1|E nella vicina Pwyll, il raccolto di Fungoscrutatore non si riprende mai del tutto, e negli anni successivi il villaggio precipita nella miseria. Lludd, invece, viaggia per i Regni Celesti e trova meraviglia e avventura.||||||||||||
+joinPwyllSacrifice1|E nella vicina Pwyll cresce un'immensa foresta di Fungoscrutatore, che concede a chiunque vi metta piede visioni profetiche che si avverano immancabilmente.||||||||||||
+joinPwyllSpared1|E nella vicina Pwyll, col tempo Lludd diventa sindaco del villaggio e guida il suo popolo attraverso questa nuova era di meraviglie.||||||||||||
