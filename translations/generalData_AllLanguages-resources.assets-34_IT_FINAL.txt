@@ -854,8 +854,8 @@ CONTEXT_SUMMONKILLS|Il numero totale di vite spezzate in tuo nome dalle creature
 CONTEXT_ENTICELEVEL|Il livello attuale dell'incantesimo Seduzione, usato per stabilire se un nemico può essere Attirato a combattere per te. Il livello base è determinato dalla tua statistica Fascino, ma alcuni modificatori possono aumentare ulteriormente la Seduzione.||||
 CONTEXT_TEASDRUNK|Il numero di tè che hai bevuto. Ricorda di concederti regolarmente una pausa per il tè, preferibilmente in un luogo con una splendida vista.||||
 CONTEXT_BEERSDRUNK|Il numero di birre che hai bevuto. Bevi responsabilmente e non pilotare l'Aeronave sotto l'effetto dell'alcol.||||
-INTRO_SUB1|Il nostro mondo è in frantumi da tempo||||
-INTRO_SUB2|ma la speranza ancora balugina||||
+INTRO_SUB1|Il nostro mondo è da tempo in frantumi||||
+INTRO_SUB2|ma ancora arde la speranza||||
 INTRO_SUB3|nei nostri sogni più oscuri.||||
 INTRO_SUB4|Pochi avrebbero immaginato che il nostro destino||||
 INTRO_SUB5|si sarebbe deciso nelle Isole Oniriche,||||
@@ -864,34 +864,34 @@ INTRO_SUB7|dei Regni Celesti meridionali.||||
 INTRO_SUB8|Su queste isole inquietanti,||||
 INTRO_SUB9|l'Unione Apostatica,||||
 INTRO_SUB10|ebbra di potere dopo aver massacrato||||
-INTRO_SUB11|i propri dèi un tempo venerati||||
-INTRO_SUB12|...mantiene solo una misera presenza.||||
-INTRO_SUB13|Sotto il suo sguardo incurante,||||
-INTRO_SUB14|le foreste profonde e i luoghi oscuri||||
-INTRO_SUB15|brulicano di tagliagole... cultisti||||
-INTRO_SUB16|...e peggio ancora.||||
+INTRO_SUB11|gli dèi che un tempo venerava||||
+INTRO_SUB12|...vi mantiene soltanto un esiguo presidio.||||
+INTRO_SUB13|Sotto gli occhi indifferenti dell'Unione,||||
+INTRO_SUB14|nelle foreste più fitte e nei recessi più oscuri||||
+INTRO_SUB15|si annidano tagliagole... cultisti||||
+INTRO_SUB16|...e mali ben peggiori.||||
 INTRO_SUB17|Nel desolato Regno Eterno,||||
-INTRO_SUB18|povere anime languono senza poter morire||||
-INTRO_SUB19|in mausolei decrepiti||||
-INTRO_SUB20|...anelando alla mortalità perduta.||||
-INTRO_SUB21|Intanto, il Regno Meccanico,||||
-INTRO_SUB22|retto dalla logica distorta||||
+INTRO_SUB18|anime sventurate languono senza fine||||
+INTRO_SUB19|nei mausolei in rovina||||
+INTRO_SUB20|...rimpiangendo la mortalità perduta.||||
+INTRO_SUB21|Intanto, il Regno Meccanico||||
+INTRO_SUB22|è governato dalla logica distorta||||
 INTRO_SUB23|del suo monarca artificiale,||||
-INTRO_SUB24|si sforza di trasformare non soltanto il regno||||
+INTRO_SUB24|che mira ad alterare non solo il regno||||
 INTRO_SUB25|...ma la realtà stessa.||||
-INTRO_SUB26|Tutte queste regioni hanno un ruolo da svolgere||||
-INTRO_SUB27|nella storia che si sta dipanando.||||
-INTRO_SUB28|Ma tutto comincia molte braccia più in basso, nelle Terre di Sotto,||||
+INTRO_SUB26|Ciascuna di queste regioni avrà un ruolo||||
+INTRO_SUB27|in ciò che sta per accadere.||||
+INTRO_SUB28|Ma la storia inizia laggiù, nelle Terre di Sotto:||||
 INTRO_SUB29|una landa devastata||||
 INTRO_SUB30|dove nessuno può respirare a lungo.||||
 INTRO_SUB31|È qui che un segreto attende||||
 INTRO_SUB32|di essere svelato||||
 INTRO_SUB33|da qualcuno i cui sogni||||
 INTRO_SUB34|ardono più intensamente di tutti gli altri.||||
-INTRO_SUB35|...ma quei sogni divamperanno||||
-INTRO_SUB36|in un destino radioso?||||
-INTRO_SUB37|O saremo noi a bruciare||||
-INTRO_SUB38|...nella follia del Delirio?||||
+INTRO_SUB35|...ma quei sogni forgeranno||||
+INTRO_SUB36|un destino radioso?||||
+INTRO_SUB37|O saremo noi ad ardere||||
+INTRO_SUB38|...in preda al Delirio?||||
 Escape|Esc||||
 Space|Barra spaziatrice||||
 Enter|Invio||||
