@@ -129,7 +129,7 @@ vil13|L'incubo è finito. È... è davvero finito?||||
 wik1|<<Da un volto segnato dal tempo ti scrutano occhi stanchi. L'uomo indossa i paramenti vecchi e logori di un sacerdote Wikkan.>>||||
 wik2|C-che cos'è... un intruso? Come siete entrato nel mastio?||||
 p43|Non c'era proprio nessuno a fermarmi.||||
-wik3|Ma la guardia reale...? Bah, disertori, tutti disertori. Allora... allora... la rovina di questo luogo sia completa.||||
+wik3|Ma la guardia reale...? Bah, disertori, tutti disertori. Allora... suppongo che la rovina di questo luogo sia completa.||||
 p44|Sono venuto a porre fine a questa follia.||||
 wik4|Dunque la facciata è infine crollata? Credo di aver sempre saputo che questo giorno sarebbe arrivato. La rovina di questo luogo è completa.||||
 wik5|Ho tentato di avvolgere questo luogo nella [[magia illusoria]], per celarne il disfacimento, ma... anche un semplice incanto ha i suoi limiti.##Il castello marcisce, le ossa allo scoperto.||||
@@ -273,7 +273,7 @@ chainedGod2|Ah, lo percepisco in voi. Quell'orrore abietto; quello sgomento lanc
 p110|Aspettate, sono... sono morto?||||
 chainedGod3|<<L'entità ride; grandi ondate di energia ultraterrena riecheggiano nelle tue ossa.>> ##No, umano: non siete morto. Non ancora.||||
 p111|Come sono arrivato qui?||||
-chainedGod4|Eravate a pochi istanti dalla morte. Vi ho strappato a morte certa con la stessa facilità con cui la vostra specie estirpa un'erbaccia.||||
+chainedGod4|Eravate a pochi istanti dalla morte. Vi ho strappato a una fine certa con la stessa facilità con cui la vostra specie estirpa un'erbaccia.||||
 chainedGod5|Ma non è stato un gesto di bontà. Esigo qualcosa in cambio.||||
 p112|Non vi ho chiesto di salvarmi.||||
 chainedGod6|E io non ho cercato il vostro consenso. Non fatevi illusioni, umano: la vostra vita vale ben poco. Senza di me, sareste soltanto un altro mucchio d'ossa che sprofonda nella terra.||||
@@ -317,7 +317,7 @@ bina11|L'Attendente? Da queste parti non se ne vedono molti, vero? Un congegno d
 p126|Che cosa traducete?||||
 bina12|L'Emberiano antico, ci credereste? Nel Regno era molto richiesto. Alcune delle nostre... cioè, delle ((loro)) macchine più straordinarie si basano sulle antiche conoscenze Emberiane. Nessuno si è avvicinato quanto loro a recuperare ciò che è andato perduto.||||
 p127|Perché avete lasciato il Regno Meccanico?||||
-bina13|Da dove cominciare? All'inizio il [[Re Meccanico]] funzionava a meraviglia. Cibo, bevande, combustibile e lussi che i miei genitori non avrebbero mai immaginato, a disposizione di tutti... come in una fiaba in cui un taglialegna trova un dio in una grotta che esaudisce ogni desiderio.||||
+bina13|Da dove cominciare? All'inizio il [[Re Meccanico]] funzionava a meraviglia. Cibo, bevande, combustibile e lussi che i miei genitori non avrebbero mai immaginato, a disposizione di tutti... come in una fiaba in cui un taglialegna trova in una grotta un dio che esaudisce ogni suo desiderio.||||
 bina14|Poi il Re divenne... imprevedibile. Forse i Macchinisti interpretavano male i suoi ordini o gli davano consigli sbagliati... ##<<Ti rendi conto che, ancora oggi, esita a criticare apertamente il Re.>> Poi la gente cominciò a sparire, e tutti si comportavano come se quelle persone non fossero mai esistite.||||
 bina15|<<Sospira pesantemente.>> Solo l'anno scorso avevo finalmente smesso di tenere un occhio sulla via d'uscita. Avevo davvero cominciato a sentirmi a casa, sapete?||||
 p128|Come siete riusciti a scappare?||||
@@ -459,7 +459,7 @@ p187|C'è un mostro nel seminterrato!||||
 p187b|A proposito della Vierme nel seminterrato...||||
 care51|<<Inspira profondamente.>> Già. Ormai non ha più senso nasconderlo.||||
 care52|Ezra Thornwood possiede questo maniero da duecento anni. Lei, e nessun'altra. È una ((Vierme)).||||
-care53|Significa che per tutto questo tempo ha avuto un parassita dentro di sé. L'ha trasformata in un ((mostro)) che si nutre dei sogni altrui mentre dormono.||||
+care53|Significa che per tutto questo tempo ha avuto un parassita dentro di sé. L'ha trasformata in un ((mostro)) che si nutre dei sogni della gente addormentata.||||
 care54|E io? Sono un Kresnik, come mio padre prima di me. L'ho tenuta prigioniera qui per il bene di tutti.||||
 care55|O almeno lo facevo... prima che voi la mandaste al riposo eterno.||||
 p188|Che cos'è un... ((Kresnik?))||||
@@ -470,7 +470,7 @@ care58|Noi Kresnik giuriamo di non uccidere le Vierme che cacciamo. In fin dei c
 care59|Perciò offriamo la nostra carne per mantenerle in vita. Quando una Vierme si nutre, si può intravedere ciò che pensa, ciò che sa. Alcuni Kresnik diventano persino... ((intimi)) con la propria Vierme.||||
 care60|<<Alza le spalle.>> È tradizione. Non mi aspetto che capiate.||||
 p190|E se la liberassi?||||
-care61|<<Ti fulmina con un'occhiata cupa.>> Sarebbe una cattiva idea. Una ((davvero)) cattiva idea.||||
+care61|<<Ti fulmina con un'occhiata cupa.>> Sarebbe una cattiva idea. Un'idea ((davvero)) cattiva.||||
 care62|Una Vierme, soprattutto un'antica come Ezra, è una creatura pericolosa. Non vorrete certo scatenarla sul mondo.||||
 p191|Quindi adesso vivo con un mostro?||||
 care63|Hmph, avevo cercato di avvertirvi, no?||||
@@ -493,7 +493,7 @@ care72|Hmph. Fossi in voi, lo lascerei com'è... ##Ma lo ammetto: rivederlo eleg
 care73|L'Unione ha installato una [[Stazione Immobiliare]] qui vicino. Vi permetterà di commissionare dei miglioramenti per il maniero, a pagamento.||||
 care74|Solo... non lasciate che nessun operaio si avvicini al seminterrato, mi sentite? Ci sono luoghi che è meglio non toccare.||||
 p199|Che cosa fate qui?||||
-care75|Sono il [[custode]] di questa tenuta. Mi occupo dei terreni per la famiglia Thornwood, solo che... a quanto pare ora me ne occupo anche per voi, ormai.||||
+care75|Sono il [[custode]] di questa tenuta. Mi occupo dei terreni per la famiglia Thornwood, solo che... a quanto pare ora me ne occupo anche per voi.||||
 p200|Vi lascio ai vostri intagli.||||
 clerk1|<<La scrivania dell'impiegato è sepolta sotto calamai e pergamene. Le braccia si agitano senza sosta, afferrando fogli e scarabocchiando con la penna. Di tanto in tanto borbotta un'imprecazione, getta un documento a terra e lo calpesta.>>||||
 clerk2|<<Si accorge che ti stai avvicinando.>> No, no, no, no! Mai! Assolutamente no!||||
@@ -509,7 +509,7 @@ clerk7|Quindi, a meno che non siate venuto a comprare quel vecchio maniero fatis
 p215|Voglio comprare quel maniero.||||
 clerk8|<<Gli occhi dell'impiegato si spalancano e la penna gli si spezza, schizzando inchiostro sulla scrivania.>>||||
 clerk9|((Ehm)). Sì, credo di aver detto che abbiamo in vendita un nuovo e ((lussuoso)) maniero, a un prezzo assolutamente ragionevole.||||
-clerk10|Può essere vostro per appena 200 monete. Un vero ((affare)), davvero.||||
+clerk10|Può essere vostro per appena 200 monete. Un vero ((affare)), credetemi.||||
 p216|Parlatemi del maniero.||||
 clerk11|È uno splendido maniero, con un'isola intera a fargli da tenuta. Una proprietà storica, successiva allo Squarcio del Mondo, vecchia di circa 200 anni. ##L'isola è raggiungibile tramite un ascensore di legno al confine meridionale di Hallowshire.||||
 clerk12|Ha, ehm, bisogno di qualche... ((piccolo ritocco.)) Ma con un po' di monete potreste far ristrutturare tutto in men che non si dica. ##Oh, e c'era un altro dettaglio insignificante...||||
@@ -537,7 +537,7 @@ clerk25|Nella tenuta troverete una [[Stazione Immobiliare]]. Potete usarla per [
 clerk26|Nella tenuta vive anche un [[custode]] che non paghiamo; anzi, gli abbiamo intimato numerose volte di andarsene. Forse voi avrete più fortuna.||||
 p225|Come faccio a potenziare una proprietà?||||
 clerk27|Usate una [[Stazione Immobiliare]] per vedere i potenziamenti disponibili. Ogni potenziamento comporta un costo, sia in [[monete]] sia in [[risorse]].||||
-clerk28|La prima fase di ogni potenziamento consiste solitamente nel [[costruirlo]]. Per esempio, potreste voler costruire un'ala adibita a [[Biblioteca]] ma dovrete pagare il costo di costruzione e attendere che i lavori siano completati.||||
+clerk28|La prima fase di ogni potenziamento consiste solitamente nel [[costruirlo]]. Per esempio, potreste voler costruire un'ala adibita a [[Biblioteca]], ma dovrete pagare il costo di costruzione e attendere che i lavori siano completati.||||
 clerk29|La seconda fase consiste nell'[[arredare]] il potenziamento. In questo modo otterrete mobili, trofei e, in alcuni casi, equipaggiamento speciale.||||
 clerk30|Tutti i potenziamenti condivideranno lo stesso [[stile decorativo]] del resto della proprietà.||||
 p226|Come faccio a decorare una proprietà?||||
@@ -632,7 +632,7 @@ vierme52|Molto bene.||||
 p266|Come siete finita prigioniera qui?||||
 vierme53|Potreste aver incontrato il... ((custode)) che si aggira di soppiatto sui miei terreni. Non lasciatevi ingannare: quell'uomo è un [[Kresnik]], un cacciatore della mia specie.||||
 vierme54|Dicono di cacciare i parassiti, ma è ironico: non uccidono le prede. Le intrappolano, le incatenano alle loro dimore e prendono il loro posto.||||
-vierme55|È più di un semplice furto. Alcuni bramano il bacio di una Vierme. Lui viene da me fin troppo spesso, offrendo la propria carne perché questa farsa possa continuare.||||
+vierme55|È più di un semplice furto. Alcuni bramano il bacio di una Vierme. Lui viene da me piuttosto spesso, offrendo la propria carne perché questa farsa possa continuare.||||
 vierme56|Ormai sono passati cinquant'anni. Prima suo padre, che poi ha trasmesso il compito al figlio: cacciano in branco, vedete. Questo infernale sigillo cifrato m'impedisce di fargli del male, e più mi allontano dal sigillo, più mi indebolisco. Se lasciassi quest'isola, morirei di certo.||||
 vierme57|Quell'infernale sigillo cifrato m'impediva di fargli del male, e più me ne allontanavo, più mi indebolivo. Ma grazie a voi, dopo trent'anni di prigionia, sono finalmente libera.||||
 p267|Addio.||||

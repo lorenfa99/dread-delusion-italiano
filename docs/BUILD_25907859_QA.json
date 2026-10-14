@@ -1,0 +1,225 @@
+{
+  "status": "PASS",
+  "build_id": "25907859",
+  "unity_version": "2022.3.60f1",
+  "release_version": "1.0.1",
+  "original_resources_sha256": "c05186b4f7402ebc436159309607e1cb4155b868843ba6f1d8443721b7c3f1e3",
+  "release_resources_sha256": "5ff7684dc3e648befb2772a9adbb4bd1a8f9a76ca33ef5e4051fbbf05f4fcdaf",
+  "extracted_source_assets_verified": 43,
+  "target_pairs_verified": 20,
+  "total_asset_objects": 1832,
+  "asset_objects_changed": 21,
+  "asset_objects_preserved": 1811,
+  "changed_object_ids": [
+    27,
+    34,
+    35,
+    37,
+    38,
+    42,
+    43,
+    45,
+    48,
+    51,
+    52,
+    53,
+    55,
+    57,
+    61,
+    63,
+    64,
+    65,
+    71,
+    72,
+    76
+  ],
+  "font_metadata_ids_preserved": [
+    1257,
+    1258
+  ],
+  "converted_staging_files": [
+    "delusionTasks_allLanguages-resources.assets-53_IT_FINAL.txt"
+  ],
+  "utf8_payloads_verified": 20,
+  "object_type_counts": {
+    "Material": 12,
+    "Texture2D": 17,
+    "Shader": 4,
+    "TextAsset": 43,
+    "AudioClip": 26,
+    "MonoScript": 1,
+    "Font": 5,
+    "Sprite": 6,
+    "AudioMixerController": 1,
+    "AudioMixerGroupController": 35,
+    "AudioMixerSnapshotController": 3,
+    "GameObject": 348,
+    "CanvasRenderer": 223,
+    "Canvas": 2,
+    "RectTransform": 348,
+    "MonoBehaviour": 758
+  },
+  "installed_original_unchanged": true,
+  "texts": [
+    {
+      "file": "AcademyDialogue-resources.assets-42_IT_FINAL.txt",
+      "path_id": 42,
+      "rows": 379,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "3bb14e28a35761d6285bb5cf4e17a07fb48bd908cfe3817d92f6e593e4f4ccbb"
+    },
+    {
+      "file": "ArtifactQuestDialogue-resources.assets-57_IT_FINAL_CORRETTO.txt",
+      "path_id": 57,
+      "rows": 51,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "5b6508c09f1c0b63591776eefb0047afa59d0a20aa00fb66f5c1f8c6803ca5d2"
+    },
+    {
+      "file": "DebugDialogue-resources.assets-38_IT_FINAL_CORRETTO.txt",
+      "path_id": 38,
+      "rows": 99,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "248dd95435d62137009749be854ce3d89ef96095f165c4bf800bc7c3c6ae7579"
+    },
+    {
+      "file": "Dialogue_CharacterQuests-resources.assets-48_IT_FINAL.txt",
+      "path_id": 48,
+      "rows": 883,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "0ef9b36458771d5c337db91d2366dabe638705096a37ada73f8bec5538a87d64"
+    },
+    {
+      "file": "Dialogue_Clockwork_IT_FINAL_COMPLETE.txt",
+      "path_id": 45,
+      "rows": 3778,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "9f5f465115afed002d9148c4d8bff35b87168e77f52b3a464133059c8c7a5c8a"
+    },
+    {
+      "file": "Dialogue_Endless-resources.assets-55_IT_FINAL(1).txt",
+      "path_id": 55,
+      "rows": 1290,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "6739283e326fe85269cbbb12bbbadee0906c7d66026a0722c8683d16a560220a"
+    },
+    {
+      "file": "Dialogue_Endless_Mines-resources.assets-35_IT_FINAL.txt",
+      "path_id": 35,
+      "rows": 196,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "5bfba687ae100a2aa467459b746f765a93a8cb1a64d493ce454860c74830f2f3"
+    },
+    {
+      "file": "Dialogue_GameEndings-resources.assets-63_IT_FINAL.txt",
+      "path_id": 63,
+      "rows": 121,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "19753cfc7098c1d595012a5c547bd0e00f88f904794a65eaa243aa6f242dd450"
+    },
+    {
+      "file": "Dialogue_GodHunt-resources.assets-71_IT_FINAL.txt",
+      "path_id": 71,
+      "rows": 154,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "d72c48c07d889a4998a994670590c05795b9e56190f60d9dce56c1badb167b5d"
+    },
+    {
+      "file": "Dialogue_HighConfessor-resources.assets-43_IT_FINAL.txt",
+      "path_id": 43,
+      "rows": 713,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "31b14e2266f3cd8a99eb22d4cd3a2bf68df79f3d39bd8451b38d9bb9045ed1df"
+    },
+    {
+      "file": "Dialogue_Isles-resources.assets-72_IT_FINAL.txt",
+      "path_id": 72,
+      "rows": 216,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "de01f1991330845103dd798224333fda229ccd82284c82e8d0cce4c4e5378867"
+    },
+    {
+      "file": "Dialogue_MainQuest-resources.assets-37_IT_FINAL.txt",
+      "path_id": 37,
+      "rows": 824,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "f9e9da4dd88d261b1da68887ffc2ee37e6485c40b6c61aac0916677ce80a081b"
+    },
+    {
+      "file": "Dialogue_Pwyll-resources.assets-64_IT_FINAL.txt",
+      "path_id": 64,
+      "rows": 721,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "658eedc1c8fda592ed9c179b0cc718abf99781e9237a897781a1e7beeb7a4d50"
+    },
+    {
+      "file": "FactionDialogue_IT_FINAL_CORRETTO.txt",
+      "path_id": 76,
+      "rows": 163,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "2d3861665c83b7d63663981c1a76101fe37c54deffed3088e7699ac68cdc0f9d"
+    },
+    {
+      "file": "HallowQuestDialogue-resources.assets-61_IT_FINAL.txt",
+      "path_id": 61,
+      "rows": 700,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "6d1e853505fa7796687c9ac55bb1432216f69265b9533ee8abea43b24c6919c0"
+    },
+    {
+      "file": "bookData_AllLanguages-resources.assets-52_IT_FINAL.txt",
+      "path_id": 52,
+      "rows": 37,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "ef0da19fac850309e2b82d168367660c84f3ac896665f1fef80a24beee4f424b"
+    },
+    {
+      "file": "delusionItemText_English-resources.assets-65_IT_FINAL.txt",
+      "path_id": 65,
+      "rows": 248,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "5b8978ce259558e94ebf9d27f945f90f68057e6fee14fe9844644032562273b8"
+    },
+    {
+      "file": "delusionTasks_allLanguages-resources.assets-53_IT_FINAL.txt",
+      "path_id": 53,
+      "rows": 392,
+      "original_txt_encoding": "cp1252",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "185465f736809ebde06b7699f65e2b44ef5d28db98a1a5ffe88d71581d10ba2b"
+    },
+    {
+      "file": "generalData_AllLanguages-resources.assets-34_IT_FINAL.txt",
+      "path_id": 34,
+      "rows": 950,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "6102cab29915a9c2e1e99f19a1ab060cf225c6a1bde8058deebef1ae89ba5cfa"
+    },
+    {
+      "file": "shopsHallowDialogue-resources.assets-51_IT_FINAL.txt",
+      "path_id": 51,
+      "rows": 126,
+      "original_txt_encoding": "utf-8",
+      "payload_encoding": "utf-8",
+      "payload_sha256": "b01d4cb27382486c079afdf0b69eb757758e48302ab3badbcbc19270c88364e9"
+    }
+  ]
+}

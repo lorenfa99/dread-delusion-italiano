@@ -1,19 +1,19 @@
 NPC Name:|Paeguth||||
 ID|English|French|German|Spanish|Italian
-poly1|<<Non alza lo sguardo dalle sue carte.>> Ah, un altro leale suddito dell'Unione Apostatica. ## Devo ricordarvi che riunioni improvvisate come questa non possono durare più di dieci rintocchi d'orologio.||||
+poly1|<<Non alza lo sguardo dalle sue carte.>> Ah, un altro leale suddito dell'Unione Apostatica. ## Devo ricordarvi che riunioni improvvisate come questa non possono durare più di dieci scatti di lancetta.||||
 poly2|Siete qui per servire l'Unione? O si tratta di un'altra... <<sospira>> disputa sul bestiame...?||||
 polyp1|Sono qui per lavoro.||||
 polyp2|Parlatemi di nuovo dell'incarico.||||
 polyp3|Volevo farvi qualche domanda.||||
 polyp4|A dire il vero, credo di aver sbagliato stanza. Addio.||||
 polyp5|Voglio servire l'Unione Apostatica.||||
-poly3|<<Senza ancora alzare lo sguardo dalle carte, risponde con stanca monotonia.>> ##Ah, sì... domande. Naturalmente, è un piacere accontentarvi... <<Controlla un orologio da tasca>> per non più di otto rintocchi.||||
+poly3|<<Senza ancora alzare lo sguardo dalle carte, risponde con stanca monotonia.>> ##Ah, sì... domande. Naturalmente, è un piacere accontentarvi... <<Controlla un orologio da tasca>> per non più di otto scatti di lancetta.||||
 polyp6|Chi siete?||||
 poly4|<<Chiude gli occhi e si massaggia le tempie.>> ##Dal momento che stiamo conversando, ((presumo)) sappiate che sono la Polimate di Hallowshire. Ne sono la rappresentante designata a Riova e faccio rispettare la legge dell'Unione.||||
 poly5|Hallowshire era praticamente priva di legge prima che il mio consiglio ne contendesse il controllo cinque anni fa. Ma abbiamo vinto le elezioni con perdite minime, e sono orgogliosa di poter dire che la situazione è assai migliorata.||||
 polyp7|Perdite minime?||||
 poly6|Conoscete le regole elettorali, vero? I candidati e i rispettivi consigli subordinati devono affrontarsi in due fasi: una battaglia e un dibattito.||||
-poly7|Ebbene, nell'ultima elezione di Hallow Town, la marmaglia di cultisti avversaria non era certo all'altezza dei nostri Consiglieri-Guerrieri. Ne caddero così tanti sotto le nostre spade nella fase di battaglia che, quando si passò al dibattito, ben pochi superstiti riuscivano persino a mettere insieme una frase.||||
+poly7|Ebbene, nell'ultima elezione di Hallow Town, la marmaglia di cultisti avversaria non era certo all'altezza dei nostri Consiglieri-Guerrieri. Ne caddero così tanti sotto le nostre spade nella fase di battaglia che, quando si passò al dibattito, ben pochi superstiti riuscivano anche solo a mettere insieme una frase.||||
 poly8|<<Le sfugge un sorriso.>> Non riuscivano certo a tenere testa alla nostra retorica filosofica, ve l'assicuro.||||
 polyp8|Va bene, ho capito.||||
 poly9|Dunque, avete finito con le vostre... domande?||||
@@ -29,7 +29,7 @@ polyp11|Chi sono i Wikkan?||||
 poly16|I Wikkan sono occultisti e incantatori. A differenza degli incantesimi creati nelle università dell'Unione, che si fondano sulla lingua autentica, i Wikkan stipulano contratti vincolanti con gli dèi per acquisire potere.||||
 polyp12|Anzi, era tutto.||||
 poly20|<<Finalmente ti guarda.>> Ah, un suddito del regno disposto a rendersi utile. Eccellente. ##Stiamo dando la caccia a un dio e ci serve tutto l'aiuto possibile.||||
-poly21|Come senza dubbio saprete, Hallowshire è afflitta dalla carestia. La scarsa resa dei raccolti aggrava un problema ben più grave: il culto degli dèi.||||
+poly21|Come senza dubbio saprete, Hallowshire è afflitta dalla carestia. La scarsa resa dei raccolti aggrava un problema ben più serio: il culto degli dèi.||||
 poly22|Nel panico, la popolazione è ricorsa alla preghiera illegale. Il culto degli dèi dilaga. La situazione è tanto grave che è stata inviata una divisione dell'Inquisizione. I loro veggenti affermano che abbiamo a che fare con... <<inspira.>> Un'entità divina di classe B.||||
 poly23|L'indagine si concentra sulle campagne fuori da Hallow Town, ma l'Inquisizione applica la Legge Apostatica con il pugno di ferro. Molti simpatizzanti degli dèi sono già stati messi alla forca, alimentando la rabbia. Perciò mi rivolgo alla popolazione in cerca di sostegno. Persino il più umile dei sudditi potrebbe contribuire a sradicare il problema.||||
 poly24|Ho una sola domanda: dov'è questo dio?||||
@@ -58,7 +58,7 @@ poly50|Le nostre guardie segnalano un netto calo dell'attività dei culti. Posso
 poly51|Inoltre, la resa dei raccolti è in aumento. A quanto pare, la carestia sta finendo. Un gradito sviluppo per le nostre sorti.||||
 inq1|<<L'agente dell'Inquisizione osserva con macabro interesse un corpo che dondola appeso alla forca.>>||||
 inq2|I cultisti infestano queste colline come parassiti. Ogni volta che solleviamo una pietra, ne sguscia fuori una dozzina. Chiunque potrebbe venerare gli dèi di nascosto.||||
-inq3|Quindi occhio, straniero. Teniamo d'occhio anche voi.||||
+inq3|Quindi attento, straniero. Teniamo d'occhio anche voi.||||
 p1|Parlatemi di questi cultisti.||||
 inq4|Venerano qualcosa chiamato Paeguth. Uno schifoso vecchio dio della fertilità. I nostri scribi ne hanno rintracciato le origini fino al Medioevo, il che lo renderebbe antico... ammesso che non sia un impostore.||||
 inq5|Qualunque cosa sia, i nostri veggenti rilevano energie di classe B attorno alle fattorie e al castello, quindi dev'essere qualcosa di grosso. Alcune persone da queste parti presentano mutazioni riconducibili a maledizioni della fertilità, quindi siamo vicini. Qui c'è qualcosa.||||
@@ -149,6 +149,6 @@ starverB2|<<Dà un altro morso.>>##Mmmph. Più che abbastanza! Ce n'è così tan
 inqHunterA1|Salute, compagno. Avete saputo dei guai con [[Paeguth]]?##Sì, siamo in partenza: dobbiamo solo riequipaggiarci.||||
 inqHunterA2|Stanno facendo arrivare quassù i macchinari da guerra più moderni. Solo il meglio per questa feccia succhiadèi, eh?##Be', buona caccia.||||
 inqHunterB1|Viene da chiedersi, no... se sono tanto disperati da salvare i loro cosiddetti dèi, perché uno di loro ha rivelato tanto facilmente dove si trovava proprio questo dio?||||
-inqHunterB2|D'altra parte, anche voi siete stato dentro una struttura dell'Inquisizione, proprio come me...##Quindi forse non c'è bisogno di chiederselo.||||
+inqHunterB2|D'altra parte, immagino che anche voi siate stato dentro una struttura dell'Inquisizione, proprio come me...##Quindi forse non c'è bisogno di chiederselo.||||
 inqHunterC1|Un vero dio! È come se la [[guerra]] ricominciasse da capo!##O, be', non proprio: quello sarebbe un guaio, no...||||
 inqHunterC2|Però è emozionante, no?||||

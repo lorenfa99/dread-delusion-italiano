@@ -35,7 +35,7 @@ lludd15|Ma mia madre si chiama [[Olwen]] e, oh, ehm, a proposito, è lei il sind
 lludd16|<<Sbatte le palpebre.>> Oh, scusatemi, tendo proprio a blaterare, vero? C'è... qualcosa che vorreste sapere?||||
 p21|Potete indicarmi i luoghi principali del paese?||||
 lludd17|Oh, ehm, credo di sì. <<Indica alle proprie spalle.>> Qui in paese troverete la [[casa della pesa]]. Il Mastro Pesatore C-C-Culwych è molto rispettato da queste parti. Lì vicino c'è la [[Compagnia del Fungoscrutatore]], che vende Fungoscrutatore, ovviamente. E, ehm, altre cose.||||
-lludd18|Più in alto sulla collina c'è la [[casa del sindaco]]. È lì che vive mia madre... ehm, cioè, il ((sindaco)) che a volte offre qualche lavoretto. ##E ancora più su c'è il vecchio [[Fungo Sacro]]. Solo che, ehm... è morto.||||
+lludd18|Più in alto sulla collina c'è la [[casa del sindaco]]. È lì che vive mia madre... ehm, cioè, il ((sindaco)), che a volte offre qualche lavoretto. ##E ancora più su c'è il vecchio [[Fungo Sacro]]. Solo che, ehm... è morto.||||
 p22|Che cosa fa il Mastro Pesatore?||||
 lludd19|Oh, Culwych? È molto importante. È andato fino a Riova, la capitale dell'Unione Apostatica, che è ((davvero)) lontanissima, per ottenere il titolo di Mastro Pesatore.||||
 lludd20|Pesa le merci per compratori e mercanti, per assicurarsi che il prezzo sia giusto. Può non sembrare granché, ma per un paesino come il nostro significa poter commerciare con regni come Vena, Byonne e L-L-Lundel.||||
@@ -171,7 +171,7 @@ p110|Che cosa potete dirmi di questo paese?||||
 cul39|Be', al giorno d'oggi Pwyll è un villaggio pittoresco. Coltiviamo e vendiamo [[Fungoscrutatore]] fin dagli albori dei Regni Celesti, e lo spediamo dappertutto.||||
 cul40|Dopo la [[Guerra Divina]] gli affari forse non vanno altrettanto bene — ((uccidere la propria divinità fa questo effetto)) — ma stiamo meglio nell'Unione Apostatica. Preferisco mille volte le imposte dell'Unione a un contratto di sangue Wikkan.||||
 p111|Aspettate: avete ucciso il vostro stesso dio?||||
-cul41|Già, quarant'anni fa. Prima di allora Pwyll era prospera... e ((miserabile)). Eravamo intrappolati in un contratto di sangue con il nostro dio tiranno Aenguin, e le condizioni erano ((abissali)).||||
+cul41|Già, quarant'anni fa. Prima di allora Pwyll era prospera... e ((miserabile)). Eravamo intrappolati in un contratto di sangue con il nostro dio tiranno Aenguin, e le condizioni erano ((disastrose)).||||
 cul42|Oh, il raccolto era abbondante, ma il prezzo di sangue era alto. Ogni anno decine di abitanti sparivano nei [[Funghi Sacri]] per placare quel ((bastardo)) di un dio, e nessuno li vedeva mai più.||||
 cul43|Così, quando gli Apostatici vennero a chiederci di rinnegare la fede e unirci alla lotta contro i Wikkan, prendemmo le armi ((volentieri)). Io combattei nella divisione di Pwyll, e ne porto ancora le cicatrici.||||
 p112|Che cosa accadde dopo?||||
@@ -331,7 +331,7 @@ p222|Beh, non avete detto che non ((potevo)).||||
 olwen35|È un'interpretazione interessante della mia richiesta. Non parliamone mai più, d'accordo?||||
 p223|Oh, e un'altra cosa: quel Nautilob Gigante? Era un'illusione.||||
 olwen36|<<Un sorriso folle le si allarga sulle labbra.>> Oh! Ma è meraviglioso. Abbiamo massacrato un gruppo di mercenari e ora scopriamo che erano ((innocenti)).||||
-olwen37|Facciamo così: vi darò questa [[ricompensa]]. Una ricompensa davvero meritata per un lavoro davvero ben fatto. E, come ((parte)) della ricompensa, da ora non ne parleremo mai ((più)) per nessun motivo, d'accordo?||||
+olwen37|Facciamo così: vi darò questa [[ricompensa]]. Una ricompensa davvero meritata per un lavoro fatto a regola d'arte. E, come ((parte)) della ricompensa, da ora non ne parleremo mai ((più)) per nessun motivo, d'accordo?||||
 olwen38|<<Il suo volto si fa mortalmente serio.>> Non ditelo. A. ((Nessuno)).||||
 olwen39|<<Si apre in un sorriso gioviale.>> Bene, allora è deciso, sì?||||
 p224|Il Nautilob era soltanto un'illusione.||||
@@ -506,7 +506,7 @@ p361|Parlatemi di Vela Callose.||||
 nudd30|<<Ride di gusto.>> Ah, questa sì che è ((bella)). Avete intenzione di presentarvi dalla grande capa in persona e riscuotere la taglia dell'Unione, vero?||||
 nudd31|Ora, non fraintendetemi. Non ho mai ((conosciuto)) davvero quella donna: ero troppo in basso nei ranghi per brindare con lei. Ma sono venuto a sapere di alcune sue imprese e, be'...||||
 nudd32|...diciamo soltanto che non vorrete ((mai)) incrociare le lame con ((Vela Callose)).||||
-nudd33|Quanto a dove sia andata, non ne ho la minima idea, e non ve lo direi nemmeno se lo ((sapessi)). ##Quella donna sta portando avanti piani che non potrei neppure cominciare a comprendere e, per salvarmi la pelle, non intendo farmi coinvolgere in un tentativo di ((ostacolarla)) che potrebbe costarmi la vita.||||
+nudd33|Quanto a dove sia andata, non ne ho la minima idea, e non ve lo direi nemmeno se lo ((sapessi)). ##Quella donna sta portando avanti piani che non potrei neppure cominciare a comprendere e, per salvarmi la pelle, non intendo farmi coinvolgere in un tentativo di ((ostacolarla)).||||
 p362|Devo incontrare Jack Basalt.||||
 p363|Voglio sapere qualcosa su Jack Basalt.||||
 nudd34|Ah, il buon vecchio Jack? <<Sogghigna.>> Nell'Unione lo chiamano ancora la ((vergogna della Marina)), dopo che abbandonò grado e incarico per unirsi all'((allegra)) banda di Vela.||||
@@ -517,7 +517,7 @@ p364|Sto cercando l'Emberiana.||||
 p365|Vorrei sapere qualcosa sull'Emberiana.||||
 nudd38|Ah, ho servito sotto di lei sul [[Goblin Nero]]. Credo che il suo vero nome fosse [[Orlaith]], ma noi la chiamavamo soltanto ((capitano.))||||
 nudd39|Indossava sempre quell'antica [[Armatura Emberiana]], ed era affascinata da qualsiasi cosa le somigliasse. Ci fermavamo spesso in qualche vecchia rovina arrugginita perché potesse dare un'occhiata. ##Alcuni ragazzi si erano perfino convinti che ((fosse)) davvero un'Emberiana, rimasta in qualche modo in vita per centinaia d'anni.||||
-nudd40|Ho sentito che si trovava da qualche parte in [[Hallowshire]] ancora intenta a setacciare la campagna in cerca di reliquie coperte di ruggine. È sempre stata un tipo misterioso, quindi dubito che alloggi in una taverna, ma vi conviene chiedere agli abitanti di [[Hallow Town]] se l'hanno vista.||||
+nudd40|Ho sentito che si trovava da qualche parte in [[Hallowshire]], ancora intenta a setacciare la campagna in cerca di reliquie coperte di ruggine. È sempre stata un tipo misterioso, quindi dubito che alloggi in una taverna, ma vi conviene chiedere agli abitanti di [[Hallow Town]] se l'hanno vista.||||
 p366|Devo trovare la Duchessa.||||
 p367|Che cosa sapete della Duchessa?||||
 nudd41|Ah, quella donna [[Eterna]]? A essere sincero, ho avuto pochi rapporti con lei. Era di antichissima stirpe reale ((e)) una maga del Cifro, il che ai miei occhi la rendeva ((doppiamente)) pretenziosa.||||
@@ -587,7 +587,7 @@ onionCap4|Be', ho raccontato alla compagnia una storiella sulla possibilità di 
 p452|Ehm... nessun problema.||||
 onionCap5|Ora, avete intenzione di... andarvene?||||
 p453|Volevo chiedervi di quel mostro gigante.||||
-onionCap6|Mmh, oh sì! La trovate alquanto ((spaventosa)) anche voi, eh? Sono certo che stia costando una o due notti insonni a quel deplorevole sindaco. <<Ridacchia.>>||||
+onionCap6|Mmh, oh sì! Una cosa alquanto ((spaventosa)), eh? Sono certo che stia costando una o due notti insonni a quel deplorevole sindaco. <<Ridacchia.>>||||
 onionCap7|@@E come avete fatto a procurarvi una bestia simile, eh? Potete dirmelo.||||
 onionCap8|%%Beh... Mmh... d'accordo, sembrate una persona fidata.||||
 onionCap9|La parte davvero ((ingegnosa)) è questa: in realtà non è affatto un mostro! È soltanto un pallone gigante su cui abbiamo lanciato un incantesimo d'illusione. ((Geniale)), no?||||
@@ -610,7 +610,7 @@ onionGrunt7|Avrete anche incantato gli altri, ma io vi tengo d'occhio.||||
 emyr1|<<Il bracciante siede senza far nulla, osservando i funghi.>>||||
 p501|Giornata impegnativa?||||
 emyr2|<<Fai sobbalzare il bracciante.>> Mmh? Oh, Emyr non stava battendo la fiacca, oh no! È solo che... ultimamente non c'è molto da fare, visto lo scarso raccolto di funghi.||||
-emyr3|Ogni anno i raccolti diventano sempre più scarsi. Dwynn dice che andrà tutto bene, ma non credo che nemmeno ((lui)) ci creda.||||
+emyr3|Ogni anno i raccolti diventano sempre più scarsi. Dwynn dice che andrà tutto bene, ma non penso che nemmeno ((lui)) ci creda.||||
 emyr4|L'ultima volta che ho preso del Fungoscrutatore, ho visto Pwyll spoglia e arida, con tutte le case in rovina. A dire il vero, se non ((facciamo)) qualcosa, non credo che questo paese abbia molto futuro...||||
 p502|Avete sentito parlare di adoratori degli dèi da queste parti?||||
 emyr5|<<Diventa improvvisamente nervoso.>> Emyr non sa niente, chiaro? Se mi beccano a parlare di roba simile, Culwych mi metterà su quelle sue bilance spaventose...||||
@@ -699,16 +699,16 @@ mechVassal3|[[PROCLAMA]]: QUESTO ONOREVOLE VASSALLO GOVERNA I PROTOCOLLI DEI PRO
 mechVassal4|NUMERO DI AUTO-SERVI INATTIVI: [[253]]. ##NUMERO DI AUTO-SERVI ATTIVI =: [[1]]. ##PROTOCOLLO DI LAVORO ATTUALE: [[AGRICOLTURA MILITANTE]].||||
 mechVassal5|AVETE UN QUESITO?||||
 p620|E se vi facessi semplicemente a pezzi? I robot smetterebbero di funzionare?||||
-mechVassal5b|RIFLESSIONE... ##[[GIUDIZIO]]: LA CESSAZIONE DEI DOVERI È CONSENTITA SOLTANTO PER ORDINE DI MACHINUS REX O DEI SUOI DEPUTATI DESIGNATI. PERTANTO, [[EDITTO]]: LA VOSTRA RICHIESTA È RESPINTA.||||
+mechVassal5b|PONDERAZIONE... ##[[GIUDIZIO]]: LA CESSAZIONE DEI DOVERI È CONSENTITA SOLTANTO PER ORDINE DI MACHINUS REX O DEI SUOI DEPUTATI DESIGNATI. PERTANTO, [[EDITTO]]: LA VOSTRA RICHIESTA È RESPINTA.||||
 p621|Voglio spegnere la macchina al vostro servizio.||||
 mechVassal6|[[ASSIOMA]]: L'AGGRESSIONE A UN VASSALLO REALE È TRADIMENTO, & PUÒ ESSERE GIUDICATA UN ATTO DI GUERRA. PERTANTO, [[EDITTO]]: NON METTERETE LE MANI SU QUESTO VASSALLO.||||
 p622|((Dare un colpo all'affare)).||||
 mechVassal7|<<Colpisci la macchina. Basta poca forza perché sputacchi e si arresti. Dopo qualche istante, sei certo che l'affare abbia smesso di funzionare.>>||||
 p623|Lasciamo perdere.||||
 p624|Voglio cambiare, ehm, i protocolli di lavoro.||||
-mechVassal8|RIFLESSIONE... ##[[GIUDIZIO]]: LA MODIFICA DEI PROTOCOLLI È CONSENTITA SOLTANTO PER ORDINE DI MACHINUS REX O DEI SUOI DEPUTATI DESIGNATI, OPPURE PER AUTORITÀ DISCREZIONALE CONFERITA A QUESTO VASSALLO. PERTANTO, [[QUESITO]]: QUAL È LA VOSTRA ARGOMENTAZIONE?||||
+mechVassal8|PONDERAZIONE... ##[[GIUDIZIO]]: LA MODIFICA DEI PROTOCOLLI È CONSENTITA SOLTANTO PER ORDINE DI MACHINUS REX O DEI SUOI DEPUTATI DESIGNATI, OPPURE PER AUTORITÀ DISCREZIONALE CONFERITA A QUESTO VASSALLO. PERTANTO, [[QUESITO]]: QUAL È LA VOSTRA ARGOMENTAZIONE?||||
 p625|@@Il vostro servo sta causando il caos e probabilmente verrà distrutto, a meno che non gli ordiniate di calmarsi.||||
-mechVassal9|&&CONSULTAZIONE DEL CANONE(Disputa)... VERIFICA DELLA VALIDITÀ... ##[[GIUDIZIO]: LA VOSTRA ARGOMENTAZIONE È INDEGNA. PERTANTO, [[EDITTO]]: QUESTO VASSALLO PROSEGUIRÀ I PROPRI DOVERI.||||
+mechVassal9|&&CONSULTAZIONE DEL CANONE(Disputa)... VERIFICA DELLA VALIDITÀ... ##[[GIUDIZIO]]: LA VOSTRA ARGOMENTAZIONE È INDEGNA. PERTANTO, [[EDITTO]]: QUESTO VASSALLO PROSEGUIRÀ I PROPRI DOVERI.||||
 mechVassal10|%%CONSULTAZIONE DEL CANONE(Disputa)... VERIFICA DELLA VALIDITÀ... ##[[GIUDIZIO]]: LA VOSTRA ARGOMENTAZIONE È DEGNA.||||
 mechVassal11|PERTANTO, [[EDITTO]]: IL PROTOCOLLO DI LAVORO DELL'AUTO-SERVO È ORA MODIFICATO. PROTOCOLLO DI LAVORO ATTUALE: [[AGRICOLTURA BENEVOLA]].||||
 mechVassal12|GLORIA A SUA MAESTÀ MACHINUS REX, IL RE MECCANICO!||||

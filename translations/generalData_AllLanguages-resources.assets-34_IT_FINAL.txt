@@ -227,7 +227,7 @@ FACTION_NAME_ONIONS|Mercenari delle Cipolle Marce||||
 FACTION_INFO_UNION|L'Unione Apostatica nacque circa quarant'anni fa, dopo che i regni che oggi la compongono sconfissero i Wikkan nella Guerra Divina. Li accomuna la convinzione che, perché l'umanità possa prosperare, gli dèi e i loro adoratori debbano essere espulsi dalla società umana. Nell'Unione, definire qualcuno «devoto» è un insulto bello e buono.||||
 FACTION_INFO_WIKKAN|Già prima dello Squarcio del Mondo, le congreghe Wikkan dominavano i Regni Celesti. Le diverse congreghe stipulavano contratti sacri tra uomini e dèi, imponendo a entrambi rigidi codici di condotta. L'Unione Apostatica, desiderosa di studiare liberamente la magia cifrata, sconfisse i Wikkan nella Guerra Divina; oggi il loro potere è assai ridotto.||||
 FACTION_INFO_OUTLAW|Termine generico che indica i vari briganti e malviventi delle Isole Oniriche. Situate ai margini dei territori dell'Unione Apostatica, fino a poco tempo fa quelle isole erano pressoché prive di legge e offrivano rifugio a numerose bande criminali. Sebbene siano spesso in competizione, tra le bande di Fuorilegge le voci corrono in fretta ed è possibile farsi un nome come mercenario di rilievo.||||
-FACTION_INFO_DARKSTAR|Compagnia mercenaria guidata da Vela Callose, la Compagnia della Stella Oscura è famigerata in tutta l'Unione Apostatica per le sue imprese criminali. Si dice che i suoi membri farebbero qualsiasi cosa per denaro e che abbiano accumulato immense ricchezze. Sono stati avvistati per l'ultima volta nelle Isole Oniriche.||||
+FACTION_INFO_DARKSTAR|Banda di mercenari guidata da Vela Callose, la Compagnia della Stella Oscura è famigerata in tutta l'Unione Apostatica per le sue imprese criminali. Si dice che i suoi membri farebbero qualsiasi cosa per denaro e che abbiano accumulato immense ricchezze. Sono stati avvistati per l'ultima volta nelle Isole Oniriche.||||
 FACTION_INFO_ENDLESS1|Fedeli alla Regina d'Argento, i Realisti Eterni credono nel rispetto della volontà della loro sovrana. Ciò include nutrirsi della carne priva di coscienza della Penitente D'Isgelo anziché di carne senziente. Negli ultimi cento anni circa, questa posizione ha contribuito a ricucire i rapporti con le fazioni mortali dei Regni Celesti.||||
 FACTION_INFO_ENDLESS2|I Cadaveri Eterni sono un gruppo oscuro, organizzato alla meglio sotto il comando di Lord Rhydder. Desiderano tornare ai tetri giorni delle Crociate dei Cadaveri, quando gli Eterni invadevano le isole vicine e banchettavano con carne mortale. Una simile condotta sarebbe, naturalmente, in aperta opposizione alla volontà della Regina d'Argento.||||
 FACTION_INFO_CWK1|testo||||
@@ -291,8 +291,8 @@ NOTE_MANA_NEEDED|Mana insufficiente.|Need more mind juice.|||
 NOTE_CANT_REST|Non puoi riposare qui.|can't rest|||
 NOTE_OWNED_BED|Questo letto appartiene a qualcun altro: non puoi usarlo.|owned bed|||
 NOTE_LORE_COMPLETE|Qualcosa è cambiato...|you diddidd it.|||
-NOTE_DOORMAN_FAIL1|Il Portiere ti respinge. Ti serve|he said go away. you need|||
-NOTE_DOORMAN_FAIL2|Fascino per riuscire a entrare.|persona for him to like you|||
+NOTE_DOORMAN_FAIL1|Il Portiere ti respinge. Ti serve Fascino |he said go away. you need|||
+NOTE_DOORMAN_FAIL2| per convincerlo a lasciarti entrare.|persona for him to like you|||
 NOTE_ITEM_GAINED|Oggetto ottenuto:|gotted item:|||
 NOTE_ITEM_REMOVED|Oggetto rimosso:|ungotted item:|||
 NOTE_BARGAIN|moneta risparmiata. Affare!|coin saved. Bargain!|||
@@ -311,7 +311,7 @@ NOTE_PICKAXE|Questo giacimento è esaurito da tempo.||||
 NOTE_LANDMARK_NEAR|Sembra un luogo d'interesse notevole.||||
 NOTE_SIMPLE_BUFF|Hai ottenuto un potenziamento temporaneo:||||
 NOTE_MIRROR_ACTIVE|Attraversi lo specchio e riappari da qualche altra... parte.||||
-NOTE_MIRROR_INACTIVE|Le imposte non si muovono. Dev'essere attivato altrove.||||
+NOTE_MIRROR_INACTIVE|Le imposte non si muovono. Il meccanismo dev'essere attivato altrove.||||
 NOTE_MIRROR_EXIT|Questo specchio è irreparabilmente rotto.||||
 NOTE_COMPONENT_NONE|Sembra che manchi qualcosa.||||
 NOTE_COMPONENT_MORE|Potrebbe mancare ancora qualcosa.||||
@@ -352,7 +352,7 @@ NOTE_FORTRESS_INACTIVE|La fortezza deve essere riparata prima che possa funziona
 NOTE_FORTRESS_MOVING|La fortezza è già in movimento.|The fortress is already moving.|||
 NOTE_FRUIT|Il frutto morbido ti rinvigorisce||||
 NOTE_AIRSHIP_NO_DEED|Devi acquistare un Atto dell'Aeronave prima di poterla potenziare.||||
-NOTE_CRITICAL_CAST|Lancio Incantesimi critico!||||
+NOTE_CRITICAL_CAST|Lancio critico!||||
 STAT_DELUSIONS|Credere è tutto. Più crescono i tuoi Deliri, più cresce il tuo potere. Trova abbastanza Barlumi di Delirio, esplorando il mondo o completando missioni, per ottenere un Delirio completo. Puoi spendere i Deliri per aumentare uno dei tuoi Attributi Principali.||||
 STAT_MIGHT|Aumenta la Salute massima. Governa le abilità di combattimento Attacco e Difesa.||||
 STAT_GUILE|Aumenta il Vigore massimo. Governa le abilità Scasso e Agilità.||||
@@ -366,7 +366,7 @@ SKILL_ATTACK|Aumenta i danni inflitti con tutte le armi fisiche.||||
 SKILL_LOCKPICK|Aumenta la probabilità di scassinare una serratura o disarmare una trappola. Richiede grimaldelli, che si spezzano in caso di fallimento.||||
 SKILL_LORE|Conoscenza di verità antiche. Permette di interagire con meccanismi nascosti e svelare segreti celati.||||
 SKILL_CHARM|La capacità di influenzare gli altri tramite il dialogo. Può rivelare informazioni importanti o risolvere incontri difficili.||||
-SKILL_DEFENCE|Riduce i danni subiti dagli avversari.||||
+SKILL_DEFENCE|Riduce i danni che subisci dagli avversari.||||
 SKILL_AGILITY|Aumenta la velocità di movimento e l'altezza dei salti.||||
 SKILL_SPELLCAST|Aumenta la potenza degli incantesimi e la rapidità con cui puoi invocarli.||||
 SKILL_BARTER|Permette di concludere affari più vantaggiosi. Compra a poco e vendi caro.||||
@@ -387,7 +387,7 @@ CHAR_DOWNFALL|Comparvero le prime crepe, abbassasti la guardia. L'errore fu grav
 CHAR_MIGHT_T|Rissoso||||
 CHAR_MIGHT|L'idea della battaglia ti affascina; è sempre stato così. Cominciasti brandendo bastoni e ben presto passasti a incrociare spade. Non ci furono mai dubbi: eri un combattente fino al midollo.||||
 CHAR_GUILE_T|Monello||||
-CHAR_GUILE|Da bambino non eri nessuno: solo un altro ragazzino denutrito che ingombrava le strade della città. Senza la banda saresti morto come gli altri. Ti insegnarono a vedere ciò che agli altri sfuggiva, a sgattaiolare dove gli altri non potevano. Ti insegnarono a sopravvivere.||||
+CHAR_GUILE|Da bambino non eri nessuno: solo un altro ragazzino denutrito che ingombrava le strade della città. Senza la banda di strada saresti morto come gli altri. Ti insegnarono a vedere ciò che agli altri sfuggiva, a sgattaiolare dove gli altri non potevano. Ti insegnarono a sopravvivere.||||
 CHAR_WISDOM_T|Apprendista||||
 CHAR_WISDOM|Eri un bambino dalle doti eccezionali nato in una famiglia qualunque, così i tuoi genitori ti vendettero a uno studioso di passaggio. Trascorresti la giovinezza copiando tomi finché le mani non sanguinavano; ma non dimenticasti nulla di ciò che leggevi.||||
 CHAR_PERSONA_T|Nobile||||
@@ -409,7 +409,7 @@ CHAR_MIGHT_CAST|Per eccellere in combattimento studiasti non soltanto la lama, m
 CHAR_MIGHT_BARTER_T|Trafficante d'Armi||||
 CHAR_MIGHT_BARTER|La tua conoscenza delle armi ti aprì nuove strade: diventasti un trafficante d'armi e commerciasti strumenti di morte. Attività simili, però, sono tanto redditizie quanto illegali, e la tua fortuna non durò per sempre.||||
 CHAR_GUILE_DAM_T|Sgherro||||
-CHAR_GUILE_DAM|Sapevi badare a te stesso, e tutti lo sapevano. Un cartello di Slev ti reclutò come sgherro; quando contrabbandavano testi proibiti o pozioni illegali, eri lì per evitare che le cose andassero storte. E quando succedeva, rompevi qualche cranio.||||
+CHAR_GUILE_DAM|Sapevi badare a te stesso, ed eri noto per questo. Un cartello di Slev ti reclutò come sgherro; quando contrabbandavano testi proibiti o pozioni illegali, eri lì per evitare che le cose andassero storte. E quando succedeva, rompevi qualche cranio.||||
 CHAR_GUILE_PICK_T|Ladro||||
 CHAR_GUILE_PICK|Rubare ti veniva naturale. I tuoi grimaldelli danzavano nelle serrature con il tocco di un amante. Sottraevi incantesimi agli studiosi e tesori alle navi celesti. La città era tua, con tutte le porte spalancate.||||
 CHAR_GUILE_LORE_T|Intermediario di Sapere||||
@@ -445,12 +445,12 @@ CHAR_PERSONA_DAM|Con grande disappunto della tua famiglia, andasti in cerca del 
 CHAR_PERSONA_PICK_T|Ladro Nobile||||
 CHAR_PERSONA_PICK|La tua famiglia salvava le apparenze, ma le casse erano vuote. Abbracciasti una morale discutibile, rubando durante cene e balli a cui eri invitato. All'inizio era soltanto qualche calice, poi passasti a colpi sempre più audaci.||||
 CHAR_PERSONA_LORE_T|Occultista||||
-CHAR_PERSONA_LORE|Mentre gli altri partecipavano alle feste, tu tenevi il naso immerso in tomi polverosi. Radunasti una grande biblioteca, frequentando librerie e conferenze. Ma si mormorava che i tuoi gusti fossero poco rispettabili, che cercassi testi vietati e grimori occulti...||||
+CHAR_PERSONA_LORE|Mentre gli altri partecipavano alle feste, tu tenevi il naso immerso in tomi polverosi. Mettesti insieme una grande biblioteca, frequentando librerie e conferenze. Ma si mormorava che i tuoi gusti fossero poco rispettabili, che cercassi testi vietati e grimori occulti...||||
 CHAR_PERSONA_CHARM_T|Mondano||||
 CHAR_PERSONA_CHARM|Rinunciasti alle professioni prestigiose e scegliesti la vita mondana. Frequentavi feste a Vena, Byonne e Lundel, dove scorrevano vino e pettegolezzi. Il denaro di famiglia ti procurava molto, ma il lampo del tuo sorriso ancora di più.||||
-CHAR_PERSONA_DEF_T|Truccatore di Elezioni||||
+CHAR_PERSONA_DEF_T|Manipolatore Elettorale||||
 CHAR_PERSONA_DEF|Ti preparasti per una delle elezioni più importanti dell'Unione Apostatica. Sono eventi sanguinosi e brutali, ma alla fine il tuo consiglio di battaglia fu giudicato colpevole di brogli, e tu finisti in una cella.||||
-CHAR_PERSONA_AGI_T|Famiglia Disgraziata||||
+CHAR_PERSONA_AGI_T|Famiglia in Disgrazia||||
 CHAR_PERSONA_AGI|Appartenere a una famiglia nobile può garantire una vita privilegiata, ma quando una casata cade in disgrazia, la caduta è rovinosa. La tua famiglia fu braccata e sterminata per i suoi crimini; soltanto tu riuscisti a fuggire.||||
 CHAR_PERSONA_CAST_T|Abile Lanciaincantesimi||||
 CHAR_PERSONA_CAST|La magia era sempre stata un passatempo apprezzato: intrattenevi e stupivi molti. Ma infrangesti la legge quando, per errore, facesti sparire i vestiti di un'intera città, lasciando tutti completamente nudi.||||
@@ -479,7 +479,7 @@ NPC_QUEEN|La Regina d'Argento||||
 NPC_SENESCHAL|Il Siniscalco||||
 NPC_FANGDOOR|Porta Zannuta||||
 NPC_WYRM|Verme della Cripta||||
-NPC_ENTOMBED|L'Intombata||||
+NPC_ENTOMBED|L'Entità Sepolta||||
 NPC_FLESH|La Via di Ogni Carne||||
 NPC_MAGGOTSON|Figliodiverme||||
 NPC_RHYDDER|Lord Rhydder||||
@@ -494,7 +494,7 @@ NPC_STUDENT|Aspirante studente||||
 NPC_YOUSSEF|Youssef||||
 NPC_AGENT|Agente dell'Inquisizione||||
 NPC_CARTOGRAPHER|Giovanni, Cartografo Capo||||
-NPC_AETHERIST|Jerome, Eterista Capo||||
+NPC_AETHERIST|Jerome, Capo Eterista||||
 NPC_ALCHEMIST|Dohn, Alchimista Primario||||
 NPC_ENGINEER|Natalya, Ingegnere Capo||||
 NPC_HISTORIAN|Ghlem, Storico Capo||||
@@ -558,7 +558,7 @@ TUT_USABLES|Gli incantesimi e gli oggetti rapidi devono essere equipaggiati nel 
 TUT_ATTRIBUTES_TITLE|Attributi del Delirio||||
 TUT_ATTRIBUTES|Esistono quattro ((Attributi del Delirio)) — gli attributi fondamentali che governano le tue abilità: ((Forza, Saggezza, Astuzia)) e ((Carisma)). ##Per aumentarli, devi trovare abbastanza ((Barlumi di Delirio)) esplorando o completando missioni.||||
 TUT_SKILLS_TITLE|Abilità||||
-TUT_SKILLS|Esistono diverse ((Abilità)) che determinano la tua efficacia in certe attività.##Alcune sono abilità attive, come ((Scasso)) o ((Sapere)), e ti permettono di interagire con gli oggetti del mondo.##Altre sono abilità passive, come ((Difesa)) e ((Rigenerazione)). ##Puoi migliorare le Abilità aumentando l'((Attributo del Delirio)) che le governa oppure usando equipaggiamento speciale.||||
+TUT_SKILLS|Esistono diverse ((Abilità)) che determinano la tua efficacia in certe attività.##Alcune sono abilità attive, come ((Scasso)) o ((Sapere)), e ti permettono di interagire con gli oggetti del mondo.##Altre sono abilità passive, come ((Difesa)) e ((Rigenerazione)). ##Puoi migliorare ciascuna Abilità aumentando l'((Attributo del Delirio)) che la governa oppure usando equipaggiamento speciale.||||
 TUT_LOCKPICK_TITLE|Abilità Scasso||||
 TUT_LOCKPICK|Alcune porte possono essere aperte usando un grimaldello.##La probabilità di successo dipende dall'abilità di ((Scasso)), a sua volta governata dall'((Astuzia)).##Se il tentativo fallisce, uno dei tuoi grimaldelli si romperà.||||
 TUT_LORE_TITLE|Abilità Sapere||||
@@ -706,7 +706,7 @@ SIGN_CWK_SCHOOLHOUSE|Cittadini Wong, Murray, Ustinov – Sorveglianza della scuo
 SIGN_PWYLL_LIFT_T|FORESTA DI PWYLL||||
 SIGN_PWYLL_LIFT|Questa piattaforma scende fino alla [[Foresta di Pwyll.]] ##ATTENZIONE: a differenza dei moderni ascensori bidirezionali di Hallowshire, questo ascensore viaggia in una sola direzione.||||
 DIRECTION_WAYSIGN_T|Sul cartello si legge:||||
-DIRECTION_BL|Da questa parte per la Fortezza ##[[LUCE ACCECANTE]]##.||||
+DIRECTION_BL|Da questa parte per la Fortezza ##[[LUCE ACCECANTE]].##||||
 DIRECTION_PWYLL|Da questa parte per ##[[PWYLL]],##dove sorge il Villaggio di Pwyll.||||
 DIRECTION_PWYLLVILLAGE|Da questa parte per ##[[IL VILLAGGIO DI PWYLL]],##dove si produce il profetico Tè di Fungoscrutatore.||||
 DIRECTION_ONIONS|Da questa parte per ##[[IL FORTE DELLA GUERRA DIVINA]].##((La scritta qui sopra è stata cancellata e qualcuno ha scarabocchiato))##L'Esimio Accampamento dei Mercenari delle CIPOLLE MARCE||||
@@ -829,7 +829,7 @@ SUMMON_SPIDER_3|La Creatura||||
 PWYLL_RITUAL_T|Strumenti occulti||||
 PWYLL_RITUAL|Nella stanza sono sparsi vari strumenti occulti. Sono stati assemblati in modo raffazzonato e dilettantesco, ma sembrano comunque produrre l'effetto desiderato. Un senso di terrore pervade l'aria e, sebbene il colossale cadavere divino che domina la sala sembri privo di vita, avverti una presenza innominabile destarsi. ##Tra il disordine trovi una chiave ricoperta di minuscoli funghi. Culwych vorrà saperlo.||||
 PWYLL_NAUTILOB_T|Appunti sospetti||||
-PWYLL_NAUTILOB|La scrivania è coperta di appunti scarabocchiati, perlopiù riguardanti incantesimi d'illusione. Da ciò che trovi, deduci che qualcuno stesse tentando di creare un'illusione su vasta scala. Ci sono anche numerosi schizzi anatomici di Nautilob... ##A quanto pare, il mostro gigante non è affatto ciò che sembra. Era stato tutto un inganno fin dall'inizio.||||
+PWYLL_NAUTILOB|La scrivania è coperta di appunti scarabocchiati, perlopiù riguardanti incantesimi d'illusione. Da ciò che trovi, deduci che qualcuno stesse tentando di creare un'illusione su vasta scala. Ci sono anche numerosi schizzi anatomici di Nautilob... ##A quanto pare, il mostro gigante non è affatto ciò che sembra. Era tutto un inganno, fin dall'inizio.||||
 PWYLL_MAYOR_BASEMENT_T|Antichità Wikkan||||
 PWYLL_MAYOR_BASEMENT|Trovi un assortimento di antichità Wikkan: appunti sui riti contrattuali, vecchi abiti impolverati e diversi strumenti sconosciuti.||||
 PWYLL_SACREDSHROOM_T|Un tanfo nauseante||||
@@ -849,7 +849,7 @@ STAT_ENTICELEVEL|Livello di Seduzione||||
 STAT_TEASDRUNK|Tè bevuti||||
 STAT_BEERSDRUNK|Birre bevute||||
 CONTEXT_PLAYERKILLS|Il numero totale di vite, umane o meno, che hai spezzato.||||
-CONTEXT_PLAYERDEATHS|Il numero totale di volte in cui il Dio Incatenato ti ha strappato all'orlo della morte.||||
+CONTEXT_PLAYERDEATHS|Il numero totale di volte in cui il Dio Incatenato ti ha strappato alla morte.||||
 CONTEXT_SUMMONKILLS|Il numero totale di vite spezzate in tuo nome dalle creature che hai evocato.||||
 CONTEXT_ENTICELEVEL|Il livello attuale dell'incantesimo Seduzione, usato per stabilire se un nemico può essere Attirato a combattere per te. Il livello base è determinato dalla tua statistica Fascino, ma alcuni modificatori possono aumentare ulteriormente la Seduzione.||||
 CONTEXT_TEASDRUNK|Il numero di tè che hai bevuto. Ricorda di concederti regolarmente una pausa per il tè, preferibilmente in un luogo con una splendida vista.||||

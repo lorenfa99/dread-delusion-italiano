@@ -70,9 +70,9 @@ scope2|Probabilmente ne vendono uno in città. Ma con questa carestia, tutti i m
 scope3|Ah, la vista da qui è superba, non trovate? Basterebbero una [[Bussola]] e una [[Mappa]] per vivere una gran bella avventura, scommetto.||||
 pScope1|Sapete dove potrei trovare una bussola?||||
 pScope3|Sapete dove potrei trovare un telescopio?||||
-scope4|L'[[Emporio delle Stranezze]] qui in città vende ogni genere di articolo per aspiranti esploratori. Io stesso ci ho comprato un [[Telescopio]].||||
+scope4|So che [[qui a Hallowshire]] viveva un tale con la fissazione dei telescopi. A quanto pare, disseminò la casa di trappole, la chiuse per bene e partì per un'avventura... senza fare più ritorno.||||
 pScope2|Sapete dove potrei trovare una mappa?||||
-scope5|Guarda caso, sì. ##Ho sentito che l’[[Accademia Erudita]] è in città e che annovera diversi cartografi. Al posto vostro, durante i viaggi terrei d’occhio una delle loro [[tende rosse]].||||
+scope5|Guarda caso, sì. ##Ho sentito che l’[[Accademia Erudita]] è in visita alle Isole Oniriche e che annovera diversi cartografi. Al posto vostro, durante i viaggi terrei d’occhio una delle loro [[tende rosse]].||||
 scope6|A quanto ho sentito, a Hallow Town le bussole sono esaurite. Troppi avventurieri e mercanti di passaggio, immagino.##Se vi serve una [[Bussola]], avrete più fortuna in un villaggio di campagna come [[Pwyll]]...||||
 walk1|Un tempo questo posto era così tranquillo. Da quando l'Unione Apostatica ha rafforzato la propria presenza, le guardie pattugliano le strade giorno e notte.||||
 docks1|Da quando è iniziata la carestia, sempre meno navi mercantili fanno scalo a Hallow Town. Abbiamo meno merci da vendere e il grano rincara di giorno in giorno.||||

@@ -60,7 +60,7 @@ outlaw14|Sapete, non ne ho la più pallida idea. <<Si lascia sfuggire una risata
 outlaw15|So solo che sia l'Unione sia i Wikkan li vogliono da morire. E ((questo)) vuol dire che valgono qualcosa. Quindi portatemi altre bestioline e farò in modo che vi tocchi una bella fetta del guadagno.||||
 outlaw20|Eheh, e voi sareste un [[Fuorilegge]], di questi tempi? <<Sputa a terra accanto ai tuoi piedi.>>||||
 outlaw21|Be', pazienza. I capi dicono che siete a posto, quindi dovete esserlo.||||
-outlaw22|Vi conviene esercitarvi nello [[Scasso]] su quella cassa laggiù. Oppure farvi una dormita nel [[Letto]] laggiù. Prendete pure [[qualsiasi altra cosa]] che possa esservi utile.||||
+outlaw22|Vi conviene esercitarvi nello [[Scasso]] su quella cassa laggiù. Oppure farvi una dormita lì nel [[Letto]]. Prendete pure [[qualsiasi altra cosa]] che possa esservi utile.||||
 union10|Ave, popolano. Avete bisogno di lavoro? ##Nella regione sono stati rinvenuti dei [[Gusci divini]]. Contengono [[Divinetti]]: esemplari pericolosi e occulti. Vogliamo che ce li consegniate. ((Tutti)) quanti.||||
 union11|Eccellente. Consegnatemeli. Sappiate che l'[[Unione Apostatica]] ricompenserà i suoi sudditi più leali.||||
 union13|Sì, sì. Sembra più o meno tutto in ordine. Ecco le vostre monete. Ho annotato il vostro contributo nel mio registro.||||
@@ -77,7 +77,7 @@ hallowshireoutlaw3|Era una falena?! Prendetela, prendetela, spiaccicatela!||||
 hallowshireoutlaw4|Siete venuto a provare la nostra famosa ospitalità, eh? Non è granché, ma è... una miniera abbandonata.||||
 hallowshireoutlaw5|Occhio alla testa. E alle spalle.||||
 hallowshireoutlaw6|Non posso parlare. Sono di guardia.||||
-hallowshireoutlaw7|Ci offrite da bere? Il capo mi ha chiuso il rubinetto.||||
+hallowshireoutlaw7|Mi offrite da bere? Il capo mi ha chiuso il rubinetto.||||
 hallowshireoutlaw8|Siete sceso quaggiù per guardarci dall'alto in basso, eh? Come vanno le cose lassù, con l'Inquisizione col fiato sul collo e ogni isola più morta della precedente? Forse dovreste fermarvi un po' e scoprire che cosa significa essere libero.||||
 wizardoutlaw|Che ci fate quassù? Se non sapete come mitigare l'effetto di latenza della curvatura per un trucchetto a velocità definita dal campo — e, a giudicare da voi, direi di no — non potete aiutarmi, quindi levatevi di mezzo.||||
 wizardoutlaw2|Andate dal mago? È di sopra. Salite pure, non m'importa.||||
@@ -104,7 +104,7 @@ p102|Voglio acquistare una nave e ho qui un'Ordinanza di Permesso.||||
 airshipGuild6|<<Afferra di scatto il documento e lo squadra con sospetto.>> Ma che... ##Be', a quanto pare avete ((davvero)) il permesso di comprare una nave. ##Però abbiamo soltanto un piccolo Cog, e vi costerà comunque circa [[200 monete]].||||
 p103|Va bene, lo prendo.||||
 airshipGuild7|Umpf... a quanto pare non avete abbastanza monete.||||
-airshipGuild8|D'accordo, allora... per prima cosa, portate questo [[Atto]] alla vostra Aeronave. È il documento legale che ne attesta la proprietà, quindi non perdetelo!||||
+airshipGuild8|D'accordo, allora... per prima cosa, prendete questo [[Atto]] della vostra Aeronave. È il documento legale che ne attesta la proprietà, quindi non perdetelo!||||
 airshipGuild9|Poi farò portare il Cog a questo porto. Quando avremo finito, dovreste trovarlo [[ormeggiato al pontile]] qui fuori.||||
 airshipGuild10|Ora, se possedete questa Ordinanza di Permesso, presumo che conosciate bene le sfumature della navigazione e le complessità del diritto commerciale dell'Unione, altrimenti i Polimati non vi avrebbero mai autorizzato. ##Ma, tanto per sicurezza... avete domande?||||
 p104|Anzi, ho cambiato idea.||||
@@ -134,7 +134,7 @@ p112|Voglio acquistare una nave e ho qui un'Ordinanza di Permesso.||||
 p113|Aspettate, quale Gilda avete detto?||||
 p114|Ehm, certo. Ho solo lasciato la mia Aeronave... a casa.||||
 p115|...No.||||
-airshipGuild26|<<Chiude con cura il libro, lasciandosi sfuggire un sospiro esasperato.>> ((Ebbene.)) Posso dedicare un po' di tempo a soddisfare la curiosità di chi non appartiene alla Gilda. Ma vi prego, siate breve: questi pontili non si gestiscono da soli...||||
+airshipGuild26|<<Chiude con cura il libro, lasciandosi sfuggire un sospiro esasperato.>> ((Ebbene.)) Suppongo di poter dedicare un po' di tempo a soddisfare la curiosità di chi non appartiene alla Gilda. Ma vi prego, siate breve: questi pontili non si gestiscono da soli...||||
 airshipGuild27|<<Il Mastro di Porto si tampona la fronte con un fazzoletto dall'aria costosa>>. Ah, di nuovo voi. Dovrete perdonare la mia esasperazione: il nostro stimato capogilda, Vernon Berwig, è stato... <<Si schiarisce la gola.>> ((Impossibilitato)) ad adempiere ai propri doveri, ultimamente. Qui regna un certo caos.||||
 airshipGuild28|<<Il Mastro di Porto sospira, poi sfodera un sorriso allegro di circostanza.>> ##Ah, di nuovo voi. Come posso aiutarvi?||||
 p116|Che cosa fa la Gilda qui a Hallow Town?||||

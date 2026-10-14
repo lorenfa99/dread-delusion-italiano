@@ -109,7 +109,7 @@ mentor57|Ah, lo chiedete a ((me))? Come ho detto ai vostri padroni, posso offrir
 mentor58|Ho per voi [[tre nomi]]. I nomi di ex mercenari della Stella Oscura che abbandonarono l'equipaggio di Vela dopo [[l'ammutinamento]]. Insieme, forse riusciremo a rintracciarla.||||
 p40|Che storia è questa dell’ammutinamento?||||
 mentor59|Qualche anno fa, Vela trovò una mappa. Una mappa che indicava qualcosa di... ((impossibile)).||||
-mentor60|Disse che l'avrebbe usata per trasformare i Regni Celesti in una sorta di ((paradiso)) dove la gente non avrebbe più conosciuto povertà, ingiustizia e nemmeno la ((morte.))||||
+mentor60|Disse che l'avrebbe usata per trasformare i Regni Celesti in una sorta di ((paradiso)), alterando il tessuto stesso della realtà perché la gente non conoscesse più povertà, ingiustizia e nemmeno la ((morte.))||||
 mentor61|Sono certo che ci credesse. E ci crede ((ancora)). Ma molti di noi della Stella Oscura ne erano terrorizzati. Non ci si ((immischia)) in cose del genere, a meno di non voler morire urlando.||||
 mentor62|Cercammo di convincerla, di farla ragionare. Ma ci condusse comunque nelle Terre di Sotto, in quella folle ricerca... ##Così ci ammutinammo, e i mercenari della Stella Oscura versarono il proprio sangue su quelle Aeronavi.||||
 mentor63|Alla fine Vela fuggì con chi le era rimasto fedele; noi altri ci disperdemmo a leccarci le ferite. Furono tempi terribili.||||
@@ -440,7 +440,7 @@ p352|Volevo chiedervi una cosa.||||
 EmbFort4|Vi ascolto.||||
 p353|Riguardo al compito che ci attende...||||
 EmbFort5|Ho sentito che state radunando un gruppo di ex mercenari della Stella Oscura, giusto? Be’, vi aiuterò come posso.||||
-EmbFort6|Prima di tutto, fareste meglio a trovare il vecchio quartiermastro di Vela, Jack Basalt. Se è in città, sarà senz'altro al [[Boccale Barcollante]] in centro. Ha ((sempre avuto)) un debole per la roba forte, dopotutto.||||
+EmbFort6|Prima di tutto, fareste meglio a trovare il vecchio quartiermastro di Vela, Jack Basalt. Se è in città, sarà senz'altro al [[Boccale Barcollante]]. Ha ((sempre avuto)) un debole per la roba forte, dopotutto.||||
 EmbFort7|Se cercate la Duchessa, probabilmente sarà tornata al maniero di famiglia nel [[Regno Eterno.]] Non saprei dirvi con certezza dove si trovi, però.||||
 EmbFort8|Quanto a Caxton Frost, mi è sempre sembrato un tipo un po' strano. Anche se immagino che la cosa fosse reciproca. Forse è tornato nel [[Regno Meccanico?]]||||
 p354|Riguardo al vostro passato...||||
@@ -546,7 +546,7 @@ p407|<Menzogna> Sì, sono un assassino.||||
 Duchess8|<<Ti studia per un momento.>> Un Cadavere ((mortale))? Ho visto cose più strane... ##Ma devo esserne certa.||||
 p408|Ehm... che cos’è un Cadavere?||||
 Duchess9|<<Ti studia per un momento.>> Be', la vostra ignoranza ((sembra)) convincente... ##Ma devo esserne certa.||||
-Duchess10|Darò solo una sbirciatina nella vostra mente. Potreste avvertire un certo... ((formicolio)) nel cervello, ma non preoccupatevi: solo di rado si riportano danni ((permanenti)) al cervello.||||
+Duchess10|Darò solo una sbirciatina nella vostra mente. Potreste avvertire un certo... ((formicolio)) nel cervello, ma non preoccupatevi: solo di rado si riportano danni ((permanenti)).||||
 p409|Aspettate, non osate--||||
 p410|Avete detto ((perma))--||||
 Duchess11|<<Un dolore ti lacera la testa, seguito da una moltitudine di sensazioni sgradevoli. I tuoi sensi si confondono: ascolti gli odori, assapori le immagini, respiri i suoni. Tutto si deforma e ti assale la nausea.>>||||
@@ -566,12 +566,12 @@ Duchess24|Ma non basta. Mi serve ((altro)).||||
 Duchess25|<<Un’altra ondata di nausea. La realtà ribolle intorno a te, finché non ti risvegli in una cella dell’Inquisizione, con l’odore di ruggine e merda che ti riempie le narici.>>||||
 Duchess26|Dunque è così, eh? Siete con quei bastardi dell'Inquisizione. Ma non siete tra chi muove le pedine: siete soltanto una pedina nei loro intrighi, ricattato con la minaccia dell'oblio. Davvero ((patetico.))||||
 Duchess27|<<Ancora una volta sprofondi nei ricordi. Vedi la nave di Vela allontanarsi e, con essa, la tua unica speranza di salvezza.>>||||
-Duchess28|Ah, dunque è ((Vela)) che cercate. Ho navigato con lei per dieci anni e mi feci persino chiamare mercenaria della Stella Oscura. Ma immagino che lo sapeste.||||
+Duchess28|Ah, dunque è ((Vela)) che cercate. Ho navigato con lei per dieci anni e mi sono persino fatta chiamare mercenaria della Stella Oscura. Ma immagino che lo sapeste.||||
 p411|((Tossire.)) Basalt... mi manda.||||
 Duchess29|Ah, dunque quella vecchia lumaca di mare è ancora fra noi? Devo ammettere che ho sempre pensato che l'alcol l'avrebbe ucciso. ##Ma sapere che collabora con l'((Inquisizione,)) dopo tutto quello che abbiamo passato...?||||
 p412|((Tossire.)) Avevo... un presentimento.||||
 p413|((Tossire.)) Non ne avevo... idea.||||
-Duchess30|Be’, questo non fa che accrescere i miei sospetti. ##Ditemi: ((uccidete)) per i vostri padroni? Togliete la vita agli altri per salvare la vostra vita?||||
+Duchess30|Be’, questo non fa che accrescere i miei sospetti. ##Ditemi: ((uccidete)) per i vostri padroni? Togliete la vita agli altri per salvare la vostra?||||
 p414|Ucciderò chiunque... mi ostacoli.||||
 Duchess31|Oh, ((naturalmente.)) Sono certa che siate terribilmente forte, che io debba tremare di paura e tutto il resto. Ma vediamo la verità, d'accordo?||||
 p415|Sguaino la spada... soltanto per difendermi.||||
@@ -733,7 +733,7 @@ Duchess136|<<Sospira.>> E mi lasciai perfino travolgere dalla sua retorica. Cred
 Duchess137|Ma, come ogni impresa mortale, non poteva durare. La fiamma di Vela cominciò a vacillare; l’ottimismo cedette alla paura e alla disperazione. Alla fine Orlaith guidò l’ammutinamento che fece a pezzi la Stella Oscura.||||
 Duchess138|Dopo, molti di noi si dispersero. Personalmente non avevo alcun interesse ad attardarmi attorno alla carcassa di qualcosa un tempo grandioso, così tornai a casa, a un mucchio d’ossa più familiare.||||
 p460|Che cosa spinse tanti mercenari della Stella Oscura ad andarsene?||||
-Duchess139|Be', tutto cominciò con quel [[contratto dell'Ammazzadèi.]] Era l'apice dell'infamia della Stella Oscura, quando tutti i Regni Celesti sembravano sussurrare i nostri nomi a mezza voce. Fummo contattati da un nobile di Riova, che voleva farci assassinare un potente [[dio]]...||||
+Duchess139|Be', tutto cominciò con quel [[contratto dell'Ammazzadèi.]] Era l'apice della notorietà della Stella Oscura, quando tutti i Regni Celesti sembravano sussurrare i nostri nomi a mezza voce. Fummo contattati da un nobile di Riova, che voleva farci assassinare un potente [[dio]]...||||
 Duchess140|Vela ne era entusiasta. Un'impresa simile avrebbe consolidato la nostra reputazione, ma non tutti ne furono felici.##La [[Wikkan]] — una veterana della Stella Oscura e un'amica ((molto)) cara a Vela — lo considerava un tradimento della propria gente.||||
 Duchess141|Vela sosteneva che, per far parte della Stella Oscura, dovevamo lasciarci alle spalle le vecchie alleanze. Nel [[nuovo mondo]] che stavamo plasmando non c’era spazio per quelle ideologie vecchie e rancorose. Ma per la Wikkan, uccidere quel dio? Era troppo. Andava troppo oltre. Significava varcare un ((limite.))||||
 Duchess142|Così, quando giunse il momento, quando avevamo messo quella divinità alle strette e Vela era pronta a sferrare il colpo mortale, la Wikkan le sbarrò la strada.##In preda alla collera, Vela la scaraventò oltre il bordo. Vidi la Wikkan precipitare dalla nave, sotto le nuvole...||||
@@ -779,7 +779,7 @@ p474|Va bene, lasciamo perdere.||||
 p475|@@ Forse ((sono)) interessato a ciò che vendete.||||
 FleshBroker19|%%<<Ti studia per un momento.>> Bene, bene... un mortale dall'appetito ((deviante)) davanti a me?||||
 FleshBroker20|Bene, ascoltate, perché lo dirò una volta sola: se ne farete ((parola)) con uno qualsiasi dei lacchè della Regina, farò in modo che ((siate voi)) il prossimo piatto del menù.||||
-FleshBroker21|Dunque. Sono un mercante di carne senziente. Quella roba ((pensante)) di cui parlavo.||||
+FleshBroker21|Dunque. Sono un mercante di carne senziente. Quella roba ((pensante)).||||
 FleshBroker22|Vedete, la maggior parte degli Eterni si nutre della carne priva di coscienza delle Fattorie della carne di Penitente D'Isgelo. Nutrirsi di quella carne è considerato più ((etico)) che mangiare... ((quelli come voi)). Ma, dannazione, sa proprio di brodaglia, quindi è ovvio che esista un mercato nero.||||
 FleshBroker23|Allora, che ne dite, Respirante? Vi va un assaggio della vostra stessa specie?||||
 p476|Ehm... anzi, ho cambiato idea.||||
@@ -873,7 +873,7 @@ frost49|Me lo sono chiesto spesso. Di certo le nostre spedizioni contribuirono m
 frost50|Perché lo facesse, non saprei dirlo. Forse era semplicemente la nostra passione condivisa per gli Emberiani. ##Una volta mi disse che le ricordavo qualcuno che le era stato caro, molto tempo prima. Però non scoprii mai chi fosse.||||
 p527|Come siete riuscito a mantenere la vostra identità di copertura?||||
 frost51|<<Frost sbuffa.>> Be', lo facevo da tutta la vita. L'unica differenza era la paga extra.||||
-frost52|A dire il vero, sospetto che il Re Meccanico possa aver dato una mano. All'epoca ignoravo che Sua Maestà potesse alterare le menti. Ma ricordo di essermi stupito di quanto rapidamente entrai nella parte. Naturalmente, non posso provare nulla.||||
+frost52|A dire il vero, sospetto che il Re Meccanico possa aver dato una mano. All'epoca ignoravo che Sua Maestà potesse alterare le menti. Ma ricordo di essermi stupito di quanto rapidamente fossi entrato nella parte. Naturalmente, non posso provare nulla.||||
 p528|Vorrei chiedervi qualcos'altro.||||
 p529|Continuo a non capire perché abbiate dovuto cancellare la vostra memoria.||||
 frost53|<<Frost sospira.>> Francamente, non ne sono del tutto certo neppure io. Ma considerate ciò che aveva condotto a quel momento...||||

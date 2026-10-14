@@ -69,7 +69,7 @@ expEndless10|E siccome gli Eterni sono tanto miserabili che perfino i loro ((dè
 expEndless11|Comunque, il fatto che qui ci tollerino non significa che dobbiamo per forza ((apprezzare)) questo posto. La prima persona che ho incontrato qui... giuro di averle sentito ((brontolare lo stomaco.)) Alla prima occasione tornerò all'Accademia.||||
 mapHinter1|Oh cielo, che cos'è tutto quel trambusto laggiù? A quanto pare mi sono proprio ((perso.))||||
 mapHinter2|Ho comprato una mappa di queste [[Isole Oniriche]] a Riova, ma pare vecchia di decenni. <<Brontola.>> Questo è il problema delle isole di confine: nel giro di pochi decenni si ritrovano in posizioni completamente diverse...||||
-mapHinter3|Ascoltate il mio consiglio, viaggiatore: se volete esplorare, procuratevi una [[Mappa!]] precisa.||||
+mapHinter3|Ascoltate il mio consiglio, viaggiatore: se volete esplorare, procuratevi una [[Mappa precisa!]]||||
 p24|Sapete dove posso trovare una mappa?||||
 mapHinter4|Be', ho notato che l'[[Accademia Erudita]] sta sorvolando [[Hallowshire]], a sud di qui. La vedete lassù, nel cielo? Ho sentito dire che viaggia per tutta l'Unione Apostatica...||||
 mapHinter5|Ho incontrato uno dei loro studiosi in una [[tenda rossa]] nel bosco sotto [[Pwyll]], e ne ho incontrati anche in [[altri luoghi]] qua intorno. Che ci crediate o no, proprio ora stanno lavorando a una mappa della regione, solo che... non è ancora pronta.||||
@@ -78,7 +78,7 @@ p25|Dove state cercando di andare?||||
 mapHinter7|Oh, sto cercando di raggiungere il [[Regno Eterno.]] Si dice che laggiù la gente non muoia mai, anche quando la carne si stacca dalle ossa!||||
 mapHinter8|Da bambino, mia madre mi spaventava con i racconti delle Crociate dei Cadaveri, quando gli Eterni davano la caccia ai vivi e banchettavano con i loro corpi ancora caldi. Mi terrorizzavano, eppure... ho sempre sognato di andarci, un giorno.||||
 mapHinter9|E so da fonti affidabili che si sono ravveduti. Mangiano soltanto carne non senziente e sono in buoni rapporti con l'Unione Apostatica. Così mi sono detto: che cosa ho da perdere?||||
-mapHinter10|<<Deglutisce.>> Be', potrebbero comunque comunque mangiarmi.||||
+mapHinter10|<<Deglutisce.>> Be', potrebbero comunque mangiarmi, immagino.||||
 mapHinterEnd1|Dopo un viaggio lungo e faticoso, sono finalmente ((qui!)) L'antico regno di Verdante, ora stravolto da un crudele Cifro e trasformato nella terra degli ((Eterni))...||||
 mapHinterEnd2|Ma a quanto pare le voci sono vere: chiudono ((davvero)) bottega quando la [[Stella neurale brilla più intensamente]] nel cielo.||||
 mapHinterEnd3|Ahimè, speravo di procurarmi una pozione di Eliminazione delle Vesciche. Mi fanno malissimo i piedi...||||
@@ -182,7 +182,7 @@ cwkCarto11|Da allora non hanno fatto altro che creare problemi. È ovvio che l'U
 cwkCarto12|Il problema è che niente resta fermo. A intervalli di pochi anni il Re riconfigura il paesaggio con la stessa facilità con cui un bambino riordina dei blocchi di legno. È per questo che l'Inquisizione ci ha coinvolti.||||
 cwkCarto13|Solo che... nessuno mi aveva avvertito che sarebbe stato un simile ((caos)). Avete visto quelle macchine impazzite che sferragliano là fuori? O questa neve fuori stagione? E tutte le ((persone)) dove sono finite?||||
 cwkCarto14|Insomma, che diavolo sta ((succedendo)) qui?||||
-aeth1|<<Il vecchio è accasciato sulla sedia e ansima pesantemente. Ogni respiro riecheggia come una macchina guasta. All'improvviso si interrompe del tutto. Attendi un momento, poi un altro...>||||
+aeth1|<<Il vecchio è accasciato sulla sedia e ansima pesantemente. Ogni respiro riecheggia come una macchina guasta. All'improvviso si interrompe del tutto. Attendi un momento, poi un altro...>>||||
 p71|Ehm... salve?||||
 p72|((Allungare una mano per controllargli il polso))||||
 aeth2|HEEEUUURGH! <<Si ridesta di scatto, gli occhi che fanno capolino da un ammasso di rughe.>> ##Qual è l'integrità dello scafo? Siamo fuori orbita?||||
@@ -312,10 +312,10 @@ p126|Avete sentito parlare di qualcosa di... ((losco)) da queste parti?||||
 ghlem36|Oh, questo posto nasconde dei segreti, questo è certo. Sotto l'edificio c'è una [[Camera]] accessibile dal giardino esterno; ho visto qualcuno entrarvi nel cuore della notte.||||
 ghlem37|Non c'è alcuna porta, ma ho notato diversi [[candelieri sospetti]] sparsi per l'Accademia. I maghi mortali ((adorano)) nascondere i loro sordidi segretucci con candele incantate!||||
 herb1|<<L'uomo borbotta tra sé mentre usa mortaio e pestello. Sembra non accorgersi della tua presenza, finché non mormora...>>##Solo un momento, giovanotto.||||
-herb2|<<Fissa accigliato il miscuglio d'erbe. All'improvviso raschia la gola, sputa un grumo di catarro nella ciotola, pesta ancora e la mette da parte, soddisfatto.>>||||
+herb2|<<Fissa accigliato il miscuglio d'erbe. All'improvviso si raschia la gola, sputa un grumo di catarro nella ciotola, pesta ancora e la mette da parte, apparentemente soddisfatto.>>||||
 herb3|Dunque. Sono Dohn Ghee, Alchimista Primario di questa vecchia Accademia. Che cosa posso fare per voi?||||
 herb4|<<Gli occhi di Dohn Ghee scintillano sotto le sopracciglia cespugliose.>> Di nuovo qui, eh?||||
-herb5|<Dohn Ghee ti fissa torvo da dietro le sbarre.>> ##Maledetti bastardi dell'Inquisizione. Non facevo male a nessuno, mi sentite?||||
+herb5|<<Dohn Ghee ti fissa torvo da dietro le sbarre.>> ##Maledetti bastardi dell'Inquisizione. Non facevo male a nessuno, mi sentite?||||
 p131|Potete insegnarmi qualcosa sull'alchimia?||||
 herb6|Meglio di molti altri, oserei dire. ##Con gli strumenti alchemici potete combinare ingredienti per creare nuovi intrugli. Usate pure l'attrezzatura nel mio studio.||||
 herb7|L'Accademia fluttua sopra queste Isole Oniriche da circa un anno e ho imparato a conoscere bene le erbe che crescono da queste parti.||||
@@ -323,7 +323,7 @@ herb8|Preparate due [[Occhi di Paeguth]] per ottenere una potente pozione che ri
 p132|Esistono erbe... più rare?||||
 herb9|<<Sul suo volto compare un sorriso scaltro.>> ##Ah, be', dipende da chi lo chiede. Quella dannata Inquisizione ha vietato l'uso di alcune fra le erbe alchemiche più potenti, con grande disappunto di chi se ne intende davvero.||||
 herb10|<<Si sporge verso di te.>> ##Ma chi sa dove cercare può ancora trovare il [[Velo della Morte]] da queste parti. È un fungo che cresce dai resti maledetti di un cadavere. Roba macabra, ma estremamente utile.||||
-herb11|Combinatelo con un [[Occhio di Paeguth]] per creare un [[Elisir di Ristorazione]]. Potreste essere in punto di morte, ma uno di quelli vi rimetterebbe subito in sesto.||||
+herb11|Combinatelo con un [[Occhio di Paeguth]] per creare un [[Elisir Ristoratore]]. Potreste essere in punto di morte, ma uno di quelli vi rimetterebbe subito in sesto.||||
 p133|È possibile preparare del veleno?||||
 herb12|Ma certo. Mescolate un [[Occhio di Paeguth]] con un [[Seme Frenetico]]. Il secondo inverte gli effetti curativi del primo e produce un intruglio capace di corrodere la pelle. Spalmatelo sulle armi e i vostri nemici se ne pentiranno.||||
 p134|Si possono combinare ingredienti diversi dalle erbe?||||

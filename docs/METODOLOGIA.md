@@ -4,7 +4,7 @@
 
 Il progetto è stato trattato come una localizzazione completa, non come una sostituzione automatica di stringhe. L’inglese originale è rimasto la fonte semantica primaria; glossario, nomi canonici, vincoli di registro e convenzioni interne sono stati mantenuti per tutto il corpus.
 
-La lavorazione si è svolta in due fasi distinte:
+La lavorazione iniziale, pubblicata nella v1.0.0, si è svolta in due fasi distinte:
 
 - produzione e revisione iniziale nell’interfaccia Web con **GPT‑5.6‑sol, livello high**;
 - QA conclusivo nell’ambiente Codex con **GPT‑5.6‑sol, livello xhigh**.
@@ -38,7 +38,7 @@ Le cinque proposte non sono state scelte per maggioranza. Ogni riga è stata con
 
 ## 4. Fase Codex: QA riga per riga
 
-L’intera fase Codex è stata eseguita con GPT‑5.6‑sol (xhigh). Il corpus è stato nuovamente inventariato e ogni sorgente inglese è stata associata alla corrispondente versione italiana. Per ogni coppia sono stati registrati schema, codifica, terminazioni di riga, campi traducibili e grado di affidabilità dell’associazione.
+L’intera fase Codex iniziale è stata eseguita con GPT‑5.6‑sol (xhigh). Il corpus è stato nuovamente inventariato e ogni sorgente inglese è stata associata alla corrispondente versione italiana. Per ogni coppia sono stati registrati schema, codifica, terminazioni di riga, campi traducibili e grado di affidabilità dell’associazione.
 
 Ogni campo traducibile è stato poi sottoposto a due letture separate:
 
@@ -77,7 +77,7 @@ Per ogni file sono stati verificati:
 
 Il `resources.assets` finale è stato ricostruito con i 20 testi e il nuovo atlante del font. Un verificatore indipendente ha riletto il file generato e quello installato: **21 controlli su 21 superati** in entrambi i casi.
 
-## 7. Risultati del QA finale
+## 7. Risultati del QA iniziale
 
 - file associati e verificati: **20/20**;
 - righe fisiche riesaminate: **12.041**;
@@ -87,6 +87,30 @@ Il `resources.assets` finale è stato ricostruito con i 20 testi e il nuovo atla
 - problemi nei validatori finali: **0**.
 
 `DebugDialogue` è stato sottoposto soltanto alla validazione strutturale, perché non è contenuto destinato al gioco normale. Gli altri 19 file hanno ricevuto il controllo linguistico completo.
+
+## 8. Revisioni successive e adattamento della v1.0.1
+
+La revisione successiva è stata confrontata nuovamente con l'inglese, controllando
+le proposte nel contesto e intervenendo anche sulle occorrenze collegate. Le
+correzioni sono registrate come sostituzioni esatte e ricostruite dal backup;
+il numero delle operazioni include anche le successive revisioni dello stesso
+campo e non equivale al numero di campi distinti modificati.
+
+Per la v1.0.1 è stato acquisito il `resources.assets` originale della build Steam
+25907859. L'inglese estratto dal gioco ha permesso di verificare i testi della
+nuova build, i sottotitoli e le altre chiavi precedentemente prive di fonte.
+Sono state adattate soltanto le differenze che richiedevano una modifica italiana.
+
+Il font personalizzato è conservato, mentre il riferimento aggiornato al font
+di fallback resta quello della nuova build. Le copie dei TXT inserite nell'asset
+sono normalizzate in UTF-8: [Unity 2022.3 decodifica così i TextAsset senza BOM](https://github.com/Unity-Technologies/UnityCsReference/blob/2022.3/Runtime/Export/Scripting/TextAsset.cs).
+I TXT modificabili mantengono invece la propria codifica e i propri terminatori.
+
+La rilettura indipendente controlla tutti gli oggetti dell'asset, confermando che
+si modificano soltanto i 20 testi e l'atlante previsto. Il rapporto distingue
+validazione tecnica, revisioni linguistiche e prove interattive non eseguite:
+un risultato strutturale PASS non dimostra da solo la perfezione dell'italiano.
+I risultati correnti sono in [QA](QA.md) e nel [changelog](../CHANGELOG.md).
 
 ## Trasparenza sugli strumenti
 

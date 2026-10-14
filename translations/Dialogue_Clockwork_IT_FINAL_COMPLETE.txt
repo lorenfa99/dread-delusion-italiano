@@ -22,7 +22,7 @@ SqWheelC2|<<Si accorgono che li stai ascoltando.>>##Oh, ehm, grazia del Re, caro
 Drinker1|Avete sentito della carestia in [[Hallowshire]]? Dicono che l'Inquisizione tenga da parte un'enorme scorta di viveri, ma impicchi chiunque ne parli.||||
 Drinker2|Lo sapevo che l’arrivo dell’Unione laggiù avrebbe portato guai. Lo sapevo, cazzo.||||
 DrinkerP1|Dove avete sentito questa voce?||||
-Drinker3|<<Sembrano fieri.>>##L’ho letto nel Dispaccio Reale. Sì, cazzo, l’ho letto io! Ho imparato a leggere solo qualche anno fa, sapete. Mio figlio mi aiuta ancora con le parole tecniche.||||
+Drinker3|<<Ha un'aria orgogliosa.>>##L’ho letto nel Dispaccio Reale. Sì, cazzo, l’ho letto io! Ho imparato a leggere solo qualche anno fa, sapete. Mio figlio mi aiuta ancora con le parole tecniche.||||
 DrinkerP2|Chi vi ha insegnato a leggere?||||
 Drinker4|Un corso della Gilda, no? I Macchinisti hanno radunato un branco di noi analfabeti in un vecchio tempio di baciapile.||||
 Drinker5|Mai viste tante scrivanie tutte insieme. Ci hanno pure dato un mese libero dal lavoro per imparare.||||
@@ -30,13 +30,13 @@ Drinker6|Una gran cosa, quella. I miei vecchi non sapevano leggere, né i loro v
 DrinkerP3|A dire il vero, sono stato di recente a Hallowshire.||||
 Drinker7|Avete proprio l’aria del viaggiatore. Allora magari potete confermare la notizia, no?||||
 DrinkerP4|È vero. L'Inquisizione sta devastando ogni cosa.||||
-Drinker8|<<Annuiscono con aria saputa.>>##Ecco qua. Maledetti bastardi assetati di potere, ecco cosa sono.||||
+Drinker8|<<Annuisce con aria saputa.>>##Ecco qua. Maledetti bastardi assetati di potere, ecco cosa sono.||||
 Drinker9|Avevamo appena spostato il nostro regno accanto a Hallowshire, quando loro hanno fatto lo stesso.||||
 Drinker10|Non potevano permettere che qualcuno mostrasse alla gente del posto com'è fatta la magia ((vera)), no?||||
 DrinkerP5|Non ho sentito parlare di nessuna scorta.||||
-Drinker11|<<Annuiscono con aria saputa.>>##Ci scommetto. Non vale la pena rischiare il collo per dirvelo, eh? È questo il guaio, quando si impicca la gente: prima o poi non si sa più che cosa pensa davvero nessuno.||||
+Drinker11|<<Annuisce con aria saputa.>>##Ci scommetto. Non vale la pena rischiare il collo per dirvelo, eh? È questo il guaio, quando si impicca la gente: prima o poi non si sa più che cosa pensa davvero nessuno.||||
 DrinkerP6|Non è vero. L'Inquisizione sta facendo del suo meglio laggiù.||||
-Drinker12|<<La tua posizione li turba, e lo nascondono malissimo.>>##Ah sì? Molto interessante...||||
+Drinker12|<<La tua posizione suscita un turbamento malcelato.>>##Ah sì? Molto interessante...||||
 Drinker13|Oh, ma guardate un po’ che ora si è fatta. Scusate, amico, dovrei incontrare qualcuno qui.||||
 DrinkerRepA|L'Inquisizione ha accumulato un'enorme scorta di viveri, ma impicca chiunque in [[Hallowshire]] ne parli.##Maledetti bastardi assetati di potere, ecco cosa sono!||||
 DrinkerRepB|...Scusate, amico, dovrei incontrare qualcuno qui.||||
@@ -60,7 +60,7 @@ DmitriP3|E come finì?||||
 DmitriP4|Ne ho sentito abbastanza, grazie.||||
 DmitriP5|Il Re può davvero fare una cosa simile?||||
 DmitriP6|Grazie per la storia.||||
-Skeptic1|Avete sentito la storia di Dmitri? È pieno di merda.##Se mio marito dimenticasse chi sono, col cazzo che glielo ricorderei.||||
+Skeptic1|Avete sentito la storia di Dmitri? Racconta un sacco di stronzate.##Se mio marito dimenticasse chi sono, col cazzo che glielo ricorderei.||||
 Skeptic2|Avete già sentito la storia di Dmitri?||||
 Xenia1|<<Questa donna robusta ha un’aria materna e una voce piena di ghiaia. Dalla bocca le pende una sigaretta arrotolata a mano.>>||||
 Xenia2|Favore del Re, tesoro. Benvenuto alla [[Casa da Tè della Ruota Cigolante]]. Che cosa può fare la vecchia [[Baba Xenia]] per voi?||||
@@ -82,7 +82,7 @@ Xenia14|Sono certa, però, che Sua Maestà avrà senz’altro un piano.||||
 Xenia15|E non credete alle storie sulle scorte che si esauriscono! La Gilda dice che è solo una voce diffusa dal Sabotatore per farci prendere tutti dal panico.||||
 Xenia16|C'è chi pensa che dovremmo riaprire il confine con Hallowshire, ma non saprei. L'Unione Apostatica ce l'ha con noi. Per me non è un caso che abbia cominciato a creare problemi subito dopo il nostro arrivo.||||
 Xenia17|Già, di questi tempi non vediamo molti forestieri...##<<Xenia tira una boccata dalla sigaretta.>>||||
-Xenia18|Oh no, tesoro. Siamo arrivati qui per mare dieci o quindici anni fa, per commerciare con Hallowshire. Andava alla grande, finché l’Unione non ha cominciato a spostare altre truppe anche a Hallowshire.||||
+Xenia18|Oh no, tesoro. Siamo approdati qui dieci o quindici anni fa, per commerciare con Hallowshire. Andava alla grande, finché l’Unione non ha cominciato a spostare altre truppe anche a Hallowshire.||||
 Xenia19|<<Xenia controlla che nessuno stia origliando, poi si sporge con noncuranza.>>##Quand'ero ragazza chiamavamo quest'isola [[Kardova]]. Un piccolo feudo Wikkan tutto fango, legato a un'antica dea madre il cui nome... <<(si guarda intorno)>> non è importante.||||
 Xenia20|Non era tutto male, badate. Ricordo che mamma mi portò da una saggia Wikkan quando rimasi incinta senza volerlo.##Ma quella vecchia dea capricciosa pretendeva un prezzo salato per farci superare ogni inverno. Meglio essercene liberati, dico io.||||
 Xenia21|Oh, arrivarono a frotte da ogni dove per aiutarci a costruire il Re. Slev, Lundel, Byonne, Venna, perfino Puria e oltre. Molti avevano combattuto per l’Unione nella Guerra Divina, ma non gradivano la piega che stava prendendo.||||
@@ -143,7 +143,7 @@ DoyleP3|Vi lascio in pace.||||
 DoyleP4|Pagherei per vederlo.||||
 Doyle4|<<Si acciglia, poi si piega in due per un violento attacco di tosse.>>##Tenetevi i soldi, bellimbusto. Il Regno mi paga bene. Non abbastanza per quello che ho visto, però.||||
 DoyleP5|Scusate, vi lascio in pace.||||
-Doyle5|<<Tossisce di nuovo e beve a grandi sorsi dalla tazza.>>##Mi chiamo [[Doyle]]. Sono un’[[Addetta alle Pulizie Reali]]. Sapete che combatto la [[Corruzione]]? Mi chiamano un’eroina del Regno. Ho più medaglie di quante cene calde abbiate mangiato.||||
+Doyle5|<<Tossisce di nuovo e beve a grandi sorsi dalla tazza.>>##Mi chiamo [[Doyle]]. Sono un’[[Addetta alla Bonifica Reale]]. Sapete, quelli che combattono la [[Corruzione]]? Mi chiamano un’eroina del Regno. Ho più medaglie di quante cene calde abbiate mangiato.||||
 Doyle6|E qual è la mia ricompensa? Ovunque vada, i bambini si nascondono o mi fissano. I negozianti puliscono ogni superficie che tocco. Quando avrò finito qui, la padrona seppellirà la mia tazza, così non ((contaminerò)) gli altri avventori.||||
 Doyle7|<<Ti fulmina con lo sguardo.>>##Allora? I vostri amici vi hanno sfidato a parlarmi? Siete venuto a balbettare qualche stronzata su quanto siete grato per il mio servizio? O vi siete solo stancato di essere umano?||||
 DoyleP6|A dire il vero, non ne so molto. Sono appena arrivato.||||
@@ -201,7 +201,7 @@ MachStuP8|Grazie... credo.||||
 MachStuP9|Non credo che Sunil voglia che ne parli.||||
 MachHau1|Sono un Commitologo. Redigiamo le petizioni che la Gilda invia al Re e ci assicuriamo che siano formulate nel linguaggio cifrato corretto.||||
 MachHau2|Ora posso tornare al lavoro, per favore?||||
-MachHau3|Richieste d’intervento. Sapete: ordini di produzione, modifiche alle regole, richieste di modifica. Non possiamo dire a Sua Maestà che cosa fare, ma possiamo chiederglielo. A volte ci ascolta.||||
+MachHau3|Richieste d’intervento. Sapete: ordini di produzione, modifiche alle regole, richieste di variazione. Non possiamo dire a Sua Maestà che cosa fare, ma possiamo chiederglielo. A volte ci ascolta.||||
 MachHau4|Oh, può succedere di tutto. Un verbo sbagliato qui e ci ritroviamo una pista di pattinaggio al posto di una fattoria. Una virgola fuori posto là e scompare la casa sbagliata.||||
 MachHau5|Ma soprattutto potrei rimetterci gli encomi della Gilda di quest'anno.||||
 MachHau6|<<Ti rivolge uno sguardo perplesso.>>## Non sono bravo a parlare con i profani. Inoltre, le testimonianze individuali sono invariabilmente offuscate da parzialità o pregiudizi. La maggior parte delle persone non riesce a vedere il quadro generale come noi.||||
@@ -242,12 +242,12 @@ MachAnxP11|Forse non dovreste avere un potere simile.||||
 MachAnxP12|Capisco che cosa intendete.||||
 MachHell1|Non parlatemi. Sono all'inferno. Non c'è dubbio: questo è l'inferno.||||
 MachHell2|Già, questo è l'inferno.||||
-MachHell3|<<Ti rivolge uno sguardo fulminante.>>##Sono nell'inferno del ((Cifro)) e voi siete un porco. Inferno degli incanti. Inferno delle invocazioni. Inferno del contagio. Inferno delle trasposizioni. Nominate un inferno: io ci sono dentro.||||
+MachHell3|<<Ti rivolge uno sguardo fulminante.>>##Sono nell'inferno del ((Cifro)), razza di porco. Inferno degli incanti. Inferno delle invocazioni. Inferno del contagio. Inferno delle trasposizioni. Nominate un inferno: io ci sono dentro.||||
 MachHell4|<<Sospira.>>##La mia unica ipotesi è che l'ultimo Macchinista che ha lavorato a questo incantesimo abbia stretto un patto terribile con qualche potere immondo: la mia anima in cambio della sua libertà.||||
 MachHell5|Ora mi tocca il casino che si è lasciato dietro, e non si capisce niente. È come cercare di districare un gomitolo avendo per unico attrezzo un altro pezzo di spago. O uno spaghetto molle.||||
 MachHell6|Non so, sapete riconiugare un incanto cifrato di 274 righe per un insieme di rune a basso contagio, mantenendo l'ecoconsonanza con un canone preesistente scritto da un idiota pigro che non prendeva mai appunti?||||
 MachHell7|Allora levatevi di torno e lasciatemi al mio tormento.||||
-MachHell8|Oh, andate a farvi bollire la testa.||||
+MachHell8|Oh, andate a farvi friggere.||||
 MachHellP1|Credevo fossimo a Ferropolis.||||
 MachHellP2|Che diavolo significa?||||
 MachHellP3|Dimenticate la domanda.||||
@@ -265,17 +265,17 @@ PeasEntP4|<<[Lasciarlo in pace]>>||||
 CleanA1|Benvenuto alla fine del mondo, cittadino. Il cibo fa schifo, ma il panorama è imbattibile.||||
 CleanA2|L’ultimo avamposto della realtà normale. O almeno – ##<<Le sue parole vengono sommerse da una voce metallica assordante proveniente dall’edificio principale.>>||||
 CleanA3|Già. L’ultimo avamposto della realtà normale. O almeno – ##<<Le sue parole vengono sommerse da una voce metallica assordante proveniente dall’edificio principale.>>||||
-CleanA4|"<<"ADDETTO ALLE PULIZIE FLOREZ, PRESENTARSI NEL MIO UFFICIO. RIPETO, FLOREZ NEL MIO UFFICIO. HUANG, CHIUDO.">> ##...normale per noi, comunque."||||
+CleanA4|"<<"ADDETTO ALLA BONIFICA FLOREZ, PRESENTARSI NEL MIO UFFICIO. RIPETO, FLOREZ NEL MIO UFFICIO. HUANG, CHIUDO.">> ##...normale per noi, comunque."||||
 CleanA5|Devo andare. Se vi serve qualcosa, chiedete a qualcun altro.||||
 CleanAP1|Che cos'è esattamente questo posto?||||
 CleanAP2|Questo è l'accampamento di bonifica?||||
 CleanAP3|Grazie... credo.||||
 CleanB|Raschiate quei maledetti stivali, volete? Il fango di qui si mangia il ferro battuto.||||
-CleanC|<<Questo addetto alle pulizie si avventa famelico su un pezzo di pane nero e lo sbrana come un cane rabbioso. Non risponde e si limita a farti un gesto osceno.>>||||
+CleanC|<<Questo addetto alla bonifica si avventa famelico su un pezzo di pane nero e lo sbrana come un cane rabbioso. Non risponde e si limita a farti un gesto osceno.>>||||
 CleanD1|Forse è meglio se non salite, amico. Il capo è di pessimo umore... ##<<Alza di scatto lo sguardo quando una voce metallica rimbomba dall'alto.>>||||
 CleanD2|"<<"ATTENZIONE A TUTTO IL PERSONALE. APPELLO TRA 36 MINUTI. RIPETO, 36 MINUTI. STAVOLTA NIENTE PERDITE DI TEMPO! HUANG, CHIUDO.">> ##...ma quando mai non lo è...?"||||
 CleanD3|Forse è meglio se non salite, amico. Il capo è di pessimo umore...||||
-CleanAssay1|<<Questo addetto alle pulizie porta al fianco uno strano congegno.>> ##Fermo lì, amico. Nessuno vede il capo senza un controllo. Aprite la bocca, per favore.||||
+CleanAssay1|<<Questo addetto alla bonifica porta al fianco uno strano congegno.>> ##Fermo lì, amico. Nessuno vede il capo senza un controllo. Aprite la bocca, per favore.||||
 CleanAssay2|Di nuovo qui, eh? Be', vediamo quanta fortuna avete avuto. Conoscete la procedura... ##<<Agita allegramente la sonda verso di te.>>||||
 CleanAssay3|Ma guarda un po’, lo scansamaledizioni in carne e ossa! Il capo non si è ancora stancato di voi? O siete tornato solo per vedere me?||||
 CleanAssay4|Siete stato là fuori. Che cosa ne pensate?||||
@@ -289,14 +289,14 @@ CleanAssayP5|Non avete tutti i torti.||||
 CleanAssayP6|Ripensandoci, non credo di dover vedere il capo.||||
 CleanMiscA|<<Filtrata dall’elmo, la voce è metallica e distorta.>> ##Qui fuori, chiunque o qualunque cosa può essere preda della Corruzione. Quindi tenetevi a distanza, turista.||||
 CleanMiscB|<<La voce distorta risuona metallica dall'interno dell'elmo.>> ##A zonzo per le Terre Corrotte? Spero proprio che abbiate fatto testamento.||||
-CleanMiscC|<<L'elmo senza volto dell'addetto alle pulizie ti osserva in silenzio. Per un folle istante, ti chiedi se dentro ci sia davvero qualcuno.>>||||
+CleanMiscC|<<L'elmo senza volto dell'addetto alla bonifica ti osserva in silenzio. Per un folle istante, ti chiedi se dentro ci sia davvero qualcuno.>>||||
 CleanMiscD|<<Dall'interno dell'elmo proviene un sospiro metallico.>> ##Da queste parti la realtà non è più quella di una volta.||||
 CleanMiscE|<<La voce in preda al panico è metallica e distorta dall'elmo..>> ##Oh no no no ((no)), non potete ingannarmi. So che cosa siete. State indietro, mi avete sentito? ((Tutti)) quanti, state indietro!||||
-CleanMiscF|<<L'addetto alle pulizie borbotta tra sé, come se tu non fossi nemmeno lì.>> Fai l'eroe, dicevano. Salva il Regno, dicevano. E tu dovevi proprio starli a sentire, vero?||||
+CleanMiscF|<<L'addetto alla bonifica borbotta tra sé, come se tu non fossi nemmeno lì.>> Fai l'eroe, dicevano. Salva il Regno, dicevano. E tu dovevi proprio starli a sentire, vero?||||
 CleanMiscG|<<La voce, metallica e distorta, filtra dall’elmo.>> ##Non fate scherzi o finirete abbrustolito. E intendo proprio nero e carbonizzato.||||
 CleanMiscH|<<Ti assesta una rude manata sulla spalla, forse nel tentativo di darti una pacca amichevole.>> ##Non preoccupatevi, amico. Se siete qui senza protezioni, siete già morto.||||
 CleanBurnA|<<Perfino attraverso l'elmo, senti il panico nella sua voce.>> ##Ve lo dico io. Conoscevo quel volto. So che è impossibile, ma io ((conoscevo)) quel volto.||||
-CleanBurnB|<<L'addetto alle pulizie parla con dolcezza al compagno di squadra>> ##Piano, ragazzo, piano. È soltanto la mente che ti gioca un brutto scherzo. I nervi del primo mese: succede a tutti.||||
+CleanBurnB|<<L'addetto alla bonifica parla con dolcezza al compagno di squadra>> ##Piano, ragazzo, piano. È soltanto la mente che ti gioca un brutto scherzo. I nervi del primo mese: succede a tutti.||||
 CleanBurnC|<<La voce risuona aspra e autoritaria attraverso l’elmo.>> ##Avete finito di fissare? Ne avete avuto abbastanza? Se aveste un briciolo di rispetto, ve ne tornereste affanculo, dritto a Ferropolis.||||
 Huang1|<<Vedi un uomo sfregiato, con la barba di qualche giorno, che mastica un sigaro spento mentre esamina una mappa. Impreca e si china verso un apparecchio simile a una tromba che spunta dalla parete.>>||||
 Huang2|Attenzione, turno di riserva. La pattuglia Zeta è in ritardo. Voglio una squadra di soccorso pronta tra 36 minuti. Huang, chiudo.##<<Mentre parla, senti appena le sue parole amplificate dalla magia rimbombare nell'accampamento fuori dalla finestra.>>||||
@@ -304,8 +304,8 @@ Huang3|<<Si volta verso di te con aria torva.>>##E adesso che c'è? Un turista? 
 Huang4|Ah, sì? Che fortuna per noi. Perdonatemi se non m'inginocchio. Ho il ginocchio completamente fottuto, dopo tutte le volte che sono quasi morto a ripulire i casini di voi geni.||||
 Huang5|<<Sbuffa.>> Siete un po' fuori rotta. Immagino che non abbiate neppure sentito parlare di tutti i «tesori» delle Terre Corrotte, vero?||||
 Huang6|<<Ti squadra dubbioso.>> Ah sì? Ho brutte notizie. Se il vostro amico è finito nelle Terre Corrotte, è probabile che non ne sia rimasto molto.||||
-Huang7|Chiariamo una cosa, raggio di sole. Io sono il [[Caposquadra delle Pulizie Huang]], e questo è il mio accampamento di bonifica. Significa che ogni coglione qui segue le mie regole e obbedisce ai miei ordini, a prescindere da quello che dice qualche armeggione testa di cazzo di Ferropolis. Chiaro?||||
-Huang8|<<Il Caposquadra delle Pulizie Huang alza lo sguardo dalle mappe con aria torva, il sigaro in bocca.>> ##Parlate in fretta o levatevi dai piedi, raggio di sole. La Corruzione non aspetta nessuno.||||
+Huang7|Chiariamo una cosa, raggio di sole. Io sono il [[Caposquadra della Bonifica Huang]], e questo è il mio accampamento di bonifica. Significa che ogni coglione qui segue le mie regole e obbedisce ai miei ordini, a prescindere da quello che dice qualche armeggione testa di cazzo di Ferropolis. Chiaro?||||
+Huang8|<<Il Caposquadra della Bonifica Huang alza lo sguardo dalle mappe con aria torva, il sigaro in bocca.>> ##Parlate in fretta o levatevi dai piedi, raggio di sole. La Corruzione non aspetta nessuno.||||
 Huang9|Ora, che cazzo ci fate nel mio ufficio?||||
 Huang10|Magnifico. Ora, perché siete ancora nel mio ufficio?||||
 Huang11|Sapete, ogni giorno me ne sto qui a pensare: «Se solo qualche idiota del cazzo piombasse nel mio ufficio a fare domande inutili, mi rallegrerebbe proprio la giornata».||||
@@ -323,12 +323,12 @@ Huang22|Città? Intendete [[Progresso]]? Vorrei poterla dimenticare.||||
 Huang23|Un tempo era un posto famoso. Durante la Guerra Divina era un cantiere navale. Il Re aveva una grande fabbrica lì, e c’erano molte officine più piccole. Posti di lavoro decenti. Brava gente.||||
 Huang24|Per quanto ne sappiamo, quello fu il punto zero. Prima dell'epidemia di Progresso, la Corruzione era un problema minore. Gli ingranaggi... scusate, la ((benedetta Gilda dei Macchinisti)) mise tutti gli abitanti in quarantena.##Vedete quanto è servito.||||
 Huang25|<<Huang si toglie il sigaro di bocca e socchiude gli occhi guardandoti.>>##Siete un fottuto ((idiota)), raggio di sole? Nessuno entra a Progresso. E nessuno ne esce. L’intera città è sigillata meglio della borsa della mia ex moglie. E sapete chi l’ha sigillata?||||
-Huang26|<<Punta il sigaro verso il proprio petto.>> Il sottoscritto, cazzo!##Non lascio più andarci nemmeno i miei addetti alle pulizie. Ho perso troppa brava gente in quella fottuta trappola mortale. Quindi, se pensate che proprio a ((voi)) darò la parola d'ordine, scordatevelo.||||
+Huang26|<<Punta il sigaro verso il proprio petto.>> Il sottoscritto, cazzo!##Non ci lascio più andare nemmeno i miei addetti alla bonifica. Ho perso troppa brava gente in quella fottuta trappola mortale. Quindi, se pensate che proprio a ((voi)) darò la parola d'ordine, scordatevelo.||||
 Huang27|Vedete tutta quest’area? <<Con il sigaro traccia un cerchio sulla mappa, indicando una catena d’isole spezzate a sud di qui.>> ##Zona vietata. Non entrate, non indugiate, non date nemmeno un’((occhiata)). Chiaro? Bene.||||
 Huang28|<<Huang ascolta la tua storia scuotendo la testa.>>##Mi dispiace che abbiate fatto tutta questa strada per niente. Trovare una sola persona tra i Corrotti? Figuriamoci scoprirne il ((nome)). È pura follia.||||
 Huang29|La Corruzione deforma quasi tutto fino a renderlo irriconoscibile. Se questo ragazzino è stato assorbito da una massa tumorale, non ha neanche più un corpo.##A volte i singoli Corrotti conservano tracce di ciò che erano: vestiti, tatuaggi e simili. Ma è raro.||||
-Huang30|<<Huang si toglie il sigaro di bocca.>>##Siete proprio un bel caso, eh? Accomodatevi pure, se tenete così poco alla vita. L'[[Addetto alle Pulizie Cohen]] è il nostro esperto di mostri, quindi se avete altre domande fatele a lui.||||
-Huang31|<<Huang si china di nuovo sulla tromba parlante.>> ##Attenzione, Addetto alle Pulizie Cohen! Attenzione, Cohen! Fate entrare nella gabbia questo strano ceffo, volete? Huang, chiudo.||||
+Huang30|<<Huang si toglie il sigaro di bocca.>>##Siete proprio un bel caso, eh? Accomodatevi pure, se tenete così poco alla vita. Per altre domande sui mostri, rivolgetevi a [[Cohen della squadra di bonifica]]: è il nostro punto di riferimento.||||
+Huang31|<<Huang si china di nuovo sulla tromba parlante.>> ##Attenzione, Cohen della squadra di bonifica! Attenzione, Cohen! Fate entrare nella gabbia questo strano ceffo, volete? Huang, chiudo.||||
 Huang32|Volete dirmi che non avete sentito le storie? Cimeli inestimabili in cantine dimenticate? Bottino dei pirati dei cieli sepolto dove nessuno osa scavare? Esseri esterni alla realtà pronti a esaudire ogni desiderio del vostro cuore?||||
 Huang33|Andate a cercare, se volete. Là fuori non troverete altro che rovine e incubi. Quando la Corruzione avrà finito con voi, saremo felici di bruciarvi come tutti gli altri.||||
 HuangP1|<<[Mostrare l’Insegna della Gilda dei Macchinisti]>> Vengo dalla Gilda, sono qui per un incarico ufficiale.||||
@@ -461,7 +461,7 @@ CitHelpful3|"Mi ha mostrato come presentare una petizione per sospendere qualunq
 CitHelpful4|Oh, Reza è da qualche parte nei Condotti. Cercate un mercante vestito di colori vivaci. Ma fate attenzione: è un posto strano.||||
 CitHelpfulP1|In che modo Reza vi ha aiutato?||||
 CitHelpfulP2|Dove posso trovare Reza?||||
-CitHelpfulP3|Dove posso trovare questo Reza?||||
+CitHelpfulP3|Dove posso trovare Reza?||||
 CitHelpfulP4|In che modo vi ha aiutato?||||
 CitHelpfulP5|Grazie. Favore del Re.||||
 CitOmen1|<<Indica teatralmente la teiera nel cielo.>> È un presagio, ve lo dico io! Un segno del Re! Non ve l'avevo detto a tutti quanti? Nessuno di noi è senza colpa, nessuno!||||
@@ -533,7 +533,7 @@ CitDoom1|Nessuno si ricorderà di noi, amico. Non ci saranno monumenti.##Non per
 CitAlgo1|"Avete mai provato a presentare una petizione per una casa nella città alta? Inutile. Il Re mi ha respinto perché il mio "indice di concordia" era troppo basso. Ma che significa?"||||
 CitAlgo2|Lo giuro, tirano fuori un numero e fingono che dietro ci sia chissà quale magia. Poi, se chiedete come aumentarlo, dicono che è troppo complicato da spiegare.||||
 Beggar1|<<Vedi un vecchio mendicante avvolto negli stracci per proteggersi dal freddo.>> ##Amico? Scusate, amico? Sapete dov'è casa mia?||||
-Beggar2|<<Il mendicante sembra confuso, come se non si aspettasse davvero che ti fermassi.>> Ehm? Oh. Sì, sì, ce l’avevo!||||
+Beggar2|<<Il mendicante sembra confuso, come se non si aspettasse davvero che ti fermassi.>> Ehm? Oh. Sì, sì, ve l'ho chiesto!||||
 Beggar3|Mi dispiace ((tanto)) disturbare un cittadino perbene come voi. È solo che non riesco più a trovarla da nessuna parte...||||
 Beggar4|<<Sembra mortificato.>> Verità del Re, amico, non ne ho idea. So che ne avevo una, da qualche parte nella città alta. Ma non riesco a ricordarne nessun dettaglio...||||
 Beggar5|<<Il mendicante fruga tra gli stracci attorno al collo ed estrae una chiave ornata legata a uno spago, reggendola tra le unghie annerite come un talismano.>>##Perché ho ((questa)).||||
@@ -585,7 +585,7 @@ MachQuit|[Lasciarlo stare.]||||
 MachDig1|<<La console di comando è incrostata di terra e polvere. Un ragno sguscia nel foro da cui è stata strappata una spia luminosa. Nessuno mette piede qui da molto tempo.>>||||
 MachDig2|<<Tuttavia, noti un alloggiamento in cui potrebbe entrare un'[[Insegna della Gilda dei Macchinisti]]...>>||||
 MachDig3|<<Tutt'intorno a te, la macchina titanica si risveglia con un rombo.##Senti il pulsare del motore sotto i piedi e il crepitio della magia nell'aria.>>||||
-MachDigP1|[Inserire la vostra insegna]||||
+MachDigP1|[Inserire la propria insegna]||||
 MachBeacon1|<<L'impulso continua a intervalli regolari, cantando una melodia che solo le tue ossa possono udire e trasmettendo il grido solitario di un sovrano nelle profondità delle Terre di Sotto.>>||||
 MachBeacon2|<<Il pannello di controllo è un insieme vertiginoso di leve, quadranti e pulsanti, molti dei quali distrutti o corrosi. Tra questi c'è una fessura d'ingresso, in attesa di dati.>> ##<<Un vento ululante ti sferza il volto con neve e cenere.>>||||
 MachBeacon3|<<La scheda s'incastra nella fessura, ma le dai una bella spinta. Per un istante non accade nulla...>>||||
@@ -668,7 +668,7 @@ SunilC15|Poiché il Re è un essere dalla potenza di pensiero inimmaginabile, la
 SunilC16|Il Re ha anche molti nemici. Guastatori, adoratori di dèi, spie dell'Unione Apostatica e il vile [[Sabotatore]]... tutti sfruttano la complessità di queste questioni per sviare il nostro popolo, offrendo semplici menzogne al posto della sottile verità.||||
 SunilC17|Non si fermano davanti a nulla pur di distruggere ciò che abbiamo costruito, quindi la Gilda non si fermerà davanti a nulla per estirparli. Badate di non aiutarli, consapevolmente o meno.||||
 SunilC18|Vi riferirete correttamente a Sua Maestà come «il Re» o «Sua Maestà».||||
-SunilC19|Corretto, sebbene sia una grave sottovalutazione. Il nostro Re è il più grande costrutto di magia cifrata realizzato da mani mortali dai tempi dell'antica Emberia.||||
+SunilC19|Corretto, anche se è dire poco. Il nostro Re è il più grande costrutto di magia cifrata realizzato da mani mortali dai tempi dell'antica Emberia.||||
 SunilC20|Dopo la Guerra Divina, questa terra era impantanata in dispute fra fazioni. Il popolo aveva bisogno di un unico capo dotato di saggezza, giustizia e autorità incontestabile. I metodi tradizionali per scegliere un simile sovrano avevano palesemente fallito. Così costruimmo il nostro monarca con le nostre mani.||||
 SunilC21|Il Re ha reso possibili una sicurezza e un’abbondanza che non si vedevano da secoli. Ogni giorno la gente comune invoca la sua magia per evocare merci o migliorare la propria vita. Sì, ci sono guasti, perfino errori. Sono buche sulla strada verso un paradiso in terra.||||
 SunilC22|<<Sunil sogghigna.>> Vedo che conoscete bene la propaganda dell'Unione. Ma la vostra affermazione è confutata dai principi fondamentali della teologia.||||
@@ -683,7 +683,7 @@ SunilC30|Il vostro zelo è encomiabile, ma disponiamo di risorse adeguate. Anche
 SunilC30b|Il vostro zelo è encomiabile, ma disponiamo di risorse adeguate. Per ora. ##Tornate [[in futuro]], e forse avrò qualcosa di adatto a voi.||||
 SunilC31|Nel sottopassaggio ai piedi del Machinarium c'è una [[bacheca delle persone scomparse]] per i cittadini che piangono i propri cari, purtroppo perduti a causa della Corruzione o... di altri fattori.||||
 SunilC31b|Tecnicamente, gran parte di ciò che vi è scritto costituisce tradimento, ma permettiamo che resti come... valvola di sfogo, per così dire.||||
-SunilC32|Durante la mia ultima visita ho visto un messaggio di un padre in lutto. [[Olaf]], credo, o forse [[Omar]], che cercava suo figlio scomparso. Chiamatelo sentimentalismo, ma mi ha commosso.||||
+SunilC32|Durante la mia ultima visita ho visto un messaggio di un padre in lutto. [[Olaf]], credo, o forse [[Omar]], che cercava chi un tempo lo chiamava padre. Chiamatelo sentimentalismo, ma mi ha commosso.||||
 SunilC33|Se decidete di aiutarlo, non comunicatemi l'esito. Il Portavoce del Re non deve mostrare pregiudizi né parzialità verso un singolo cittadino.||||
 SunilC34|<<Sunil ti fissa intensamente.>> ##Ah, ((davvero))?||||
 SunilC34b|<<Sunil ti fissa intensamente.>> Ebbene?||||
@@ -774,7 +774,7 @@ SunilCP29|Un mercante di nome Reza, nei Condotti. Reza è il Sabotatore.||||
 SunilCP30|Che cosa succederà ad Aphra?||||
 SunilCP31|Avete menzionato una ricompensa.||||
 SunilCP32|E se non accettassi?||||
-SunilCP33|[Sigillare con il vostro sangue]||||
+SunilCP33|[Sigillare con il proprio sangue]||||
 SunilCP34|Ho aiutato... il Regno.||||
 SunilCP35|Io... non posso dirlo.||||
 SunilCP36|...che siate maledetto, Sunil.||||
@@ -994,7 +994,7 @@ KingBP51|Ma che cosa c'entra Aphra con tutto questo?||||
 KingDebug1|...INVOCAZIONE TRIONFANTE. L'[[INCARNAZIONE DEBUG I]] È ORA MANIFESTA. ##PERTANTO, [[INTERROGAZIONE]]: COME PROCEDERESTE?||||
 KingDebug2|...INVOCAZIONE TRIONFANTE. L'[[INCARNAZIONE DEBUG II]] È ORA MANIFESTA. ##PERTANTO, [[INTERROGAZIONE]]: COME PROCEDERESTE?||||
 KingDebug3|[[EDITTO]]: COSÌ È. GLORIA A SUA MAESTÀ MACHINUS REX, IL RE MECCANICO!||||
-PocketNote1|<<All’improvviso, ti viene l’impulso immotivato di controllare la tasca...>>##<<Dentro trovi un [[pezzo di carta]]<< che non hai mai visto prima. >>||||
+PocketNote1|<<All’improvviso, ti viene l’impulso immotivato di controllare la tasca...>>##<<Dentro trovi un [[pezzo di carta]] che non hai mai visto prima. >>||||
 PocketNote2|<<La nota enigmatica recita:>>##Dobbiamo parlare, ma occhi ostili ci osservano.||||
 PocketNote3|Incontratemi dopo il [[calare della notte]] nel [[parco]] di [[Ferropolis Alta]]. Vi aspetterò sotto il [[gazebo]]. ##Venite da solo. NON FIDATEVI DI NESSUNO.##- Un Amico||||
 AphraA1|<<La donna ti sorride; nei suoi occhi verde mare brilla una scintilla che pare davvero priva di malizia. Il braccio meccanico scatta in un saluto fluido, mentre la spilla la identifica come membro della Gilda dei Macchinisti.>>||||
@@ -1120,7 +1120,7 @@ AphraBP18|Prima ho un'altra domanda.||||
 AphraBP19|Non voglio avere niente a che fare con tutto questo.||||
 AphraBP20|Andiamocene da qui.||||
 AphraBP21|Era tutto ciò che dovevo sapere.||||
-AphraCR|In che altro modo posso darvi potere?||||
+AphraCR|In che altro modo posso darvi man forte?||||
 AphraC1|<<Il braccio meccanico di Aphra scatta in un saluto fluido.>>||||
 AphraC2|Dunque, amico mio. Ora avete visto il prezzo della follia del Re. Mi aiuterete? ##Vi ricompenserò, naturalmente, per quanto possa fare un’umile ingegnera...||||
 AphraC3|Misericordia del Re, ((grazie)). Non potete immaginare quanto mi rincuori sapere che qualcuno capisce.||||
@@ -1184,8 +1184,8 @@ AphraC54|Usate la [[Scheda Perforata]] per aprire la porta della torre, poi inse
 AphraC55|Altro?||||
 AphraC56|Più che comprensibile.||||
 AphraC57|Moltissimo. Di norma non prenderei nemmeno in considerazione un viaggio del genere, e vorrei davvero poterci andare io stessa. Ma se Sunil notasse che sono assente troppo a lungo, il nostro intero piano andrebbe a monte.||||
-AphraC58|Il mio consiglio: cercate di non entrare in nessuna struttura che non sia fissata al suolo. Gli Addetti alle Pulizie sono vostri amici. Se avvertite un sapore di lillà, tornate indietro immediatamente. E se vedete un occhio, ((non)) incrociatene lo sguardo.||||
-AphraC58b|Se vi serve un po' di riposo, credo che in quella zona ci sia un [[Accampamento di Bonifica]] reale, anche se non ci sono mai stata di persona.||||
+AphraC58|Il mio consiglio: cercate di non entrare in nessuna struttura che non sia fissata al suolo. Gli addetti alla bonifica sono vostri amici. Se avvertite un sapore di lillà, tornate indietro immediatamente. E se vedete un occhio, ((non)) incrociatene lo sguardo.||||
+AphraC58b|Se vi serve un po' di riposo, credo che in quella zona ci sia un [[Campo di Bonifica]] reale, anche se non ci sono mai stata di persona.||||
 AphraC59|Abbiamo rivolto la stessa domanda al Re. Sua Maestà era irremovibile: laggiù poteva esserci ancora qualcuno, o qualcosa, in vita, e contattarlo era in qualche modo essenziale per il futuro del Regno. Ahimè, non arrivò mai alcuna risposta.||||
 AphraC60|Le Terre Corrotte si trovano a [[sud-est]] di qui, oltre un'immensa voragine scavata dalle macchine del Re. Ufficialmente non esiste una via d'accesso, ma ho trovato registri di un vecchio [[Motore da Scavo]] abbandonato nella zona che ((potrebbe)) offrirvi un passaggio.||||
 AphraC61|Farò in modo che il Re evochi il [[codice d'accesso]] direttamente nel vostro Moderatore Cranico. Immaginatemi con quanti più dettagli possibile, e il codice vi verrà in mente.||||
@@ -1206,7 +1206,7 @@ AphraC75|So che è nato a Slev. La sua famiglia è venuta qui dopo la Guerra Div
 AphraC76|Che dolce! Vi prego, non ditegli nulla del nostro piano. Se anche solo un accenno arrivasse alle orecchie sbagliate, potremmo essere fatti sparire entrambi, o peggio.||||
 AphraC77|Prenderne il controllo...? Sì, in teoria è del tutto possibile. Tutti gli impianti reali funzionano mediante la magia cifrata e, come ogni lingua, il Cifro può essere distorto. Perché lo chiedete?||||
 AphraC78|Ma chi mai potrebbe...? ##<<I suoi occhi si spalancano.>> ((Oh.)) Non va affatto bene.||||
-AphraC79|Ascoltate, siete chiaramente una persona intelligente. Senza dubbio vi sarà venuto in mente che gran parte del clamore sollevato dalla Gilda sul Sabotatore è soltanto una invenzione di comodo.||||
+AphraC79|Ascoltate, siete chiaramente una persona intelligente. Senza dubbio vi sarà venuto in mente che gran parte del clamore sollevato dalla Gilda sul Sabotatore è soltanto un'invenzione di comodo.||||
 AphraC80|Eppure i registri delle emissioni indicano che esiste davvero qualcuno, o qualche gruppo, che sta sovvertendo la magia del Re proprio come descrivete. Sospettiamo che uno di loro sia un ex Macchinista, rancoroso per essere stato cacciato a causa di qualche vecchio crimine.||||
 AphraC81|Ora, non credo nemmeno per un istante che siano la causa principale della follia del Re. Ma di certo non aiutano, e a pagarne il prezzo è la gente comune, non noi Macchinisti.||||
 AphraC82|Grazie di avermelo riferito, amico mio. Se avete dubbi sul mio incantesimo, farò del mio meglio per dissiparli. Altrimenti vi esorto a concentrarvi sul nostro compito.||||
@@ -1322,7 +1322,7 @@ AphraCP70|E gli errori? Se anche il vostro nuovo Re impazzisse, chi riuscirebbe 
 AphraCP71|E se un buon Re non fosse possibile? Se un potere simile non potesse mai essere giusto?||||
 AphraCP72|Ho avuto tutte le risposte che volevo.||||
 AphraCP73|Scusate, stavo solo scherzando.||||
-AphraCP74|<<[Raccontarle ciò che avete scoperto sul Progetto Oroscopo]>>||||
+AphraCP74|<<[Raccontarle ciò che hai scoperto sul Progetto Oroscopo]>>||||
 AphraCP75|Mi avete dato il vostro incantesimo da inserire nel Re.||||
 AphraCP76|Stiamo cercando di ottenere una seconda udienza con il Re.||||
 AphraCP77|Non preoccupatevi, ricordo che cosa fare dopo.||||
@@ -1347,10 +1347,10 @@ AphraD17|<<Annuisce.>> Un arresto incontrollato potrebbe annientare il Regno. A 
 AphraD18|Dunque è finita. Il Re morirà e assisteremo a sofferenze, fame, malattie e violenze come non se ne vedevano dalla Guerra Divina. Perché mai ho immaginato che potesse andare diversamente?||||
 AphraD19|Vi prego, amico mio, non rigirate il coltello nella piaga. Credo di aver bisogno di restare sola.||||
 AphraD20|Spero che abbiate ragione, davvero. «Spera nel meglio, preparati al peggio», non si dice così? Dovremmo farne il nostro nuovo motto nazionale.||||
-AphraD21|Reza? Avete parlato con Reza? ##<<Puoi quasi vedere gli ingranaggi girarle nella testa.>> ((Oh.)) Ora capisco. Ebbene, mia cara Reza, hai vinto la nostra disputa una volta per tutte.||||
+AphraD21|Reza? Avete parlato con Reza? ##<<Puoi quasi vedere gli ingranaggi girarle nella testa.>> ((Oh.)) Ora capisco. Ebbene, Reza, tesoro, hai vinto la nostra disputa una volta per tutte.||||
 AphraD22|Ma... aiutarli? No, no. Non vogliono vedermi. E poi, a che cosa potrei servire? Conosco soltanto la magia del Re. Da sola non so lanciare nemmeno gli incantesimi più elementari.||||
 AphraD23|%% Davvero? Forse... avete ragione. Una delle ultime cose che mi dissero fu: «Ti stai sprecando qui. Alla Gilda non importa nulla di te».||||
-AphraD24|Sì, cercherò Reza. Forse posso ancora rendermi utile nel loro... nuovo mondo. ##<<Non sembra molto felice all'idea.>>||||
+AphraD24|Sì, cercherò Reza. Forse posso ancora rendermi utile nel suo... nuovo mondo. ##<<Non sembra molto felice all'idea.>>||||
 AphraD25|&& Davvero, è molto gentile. Ma non avete sentito le cose che ci siamo sputate in faccia prima di separarci. ##<<Sospira.>> Una sciocca come me non farebbe che intralciarli.||||
 AphraD26|<<Aphra batte le palpebre, poi alza lo sguardo al cielo.>> Oh. Ha smesso di nevicare... ##Il nostro lungo inverno sta finalmente finendo. Ahimè, temo che la primavera si annunci davvero crudele.||||
 AphraD27|Un tempo sognavo che questo regno potesse diventare un paradiso. Alla fine, però, tutti dobbiamo svegliarci.||||
@@ -1374,8 +1374,8 @@ AphraDP12|Abbastanza a lungo perché la gente possa prepararsi.||||
 AphraDP13|Abbastanza a lungo perché io possa andarmene da qui.||||
 AphraDP14|Vi sbagliate, Aphra. Senza il Re, la gente starà meglio.||||
 AphraDP15|Forse dovreste cercare Reza. Chiedete se potete aiutare.||||
-AphraDP16|@@ Hanno parlato di voi con affetto. Credo che accoglierebbero volentieri il vostro aiuto. E nessuno sa meglio di voi che cosa accadrà adesso.||||
-AphraDP16R|@@ Credo davvero che dovreste parlare con Reza. Hanno parlato di voi con affetto e la vostra esperienza sarebbe preziosissima per loro.||||
+AphraDP16|@@ Reza ha parlato di voi con affetto. Credo che accoglierebbe volentieri il vostro aiuto. E nessuno sa meglio di voi che cosa accadrà adesso.||||
+AphraDP16R|@@ Credo davvero che dovreste parlare con Reza. Ha parlato di voi con affetto e la vostra esperienza sarebbe preziosissima per Reza.||||
 AphraDP17|Avete ragione. Lasciate perdere ciò che ho detto.||||
 AphraDP18|Non avete fatto nulla. Non ho inserito il vostro incantesimo.||||
 AphraDP19|Mi dispiace.||||
@@ -1403,7 +1403,7 @@ Mirrorworld15|<<Nel bene e nel male, hai finito per fare affidamento sulla magia
 Mirrorworld16|<<Solo uno specchio qualunque...>>||||
 Mirrorworld17|<<Lo specchio ti è precluso.>>||||
 MirrorworldP1|<<[Provare a riattraversare lo specchio]>>||||
-MirrorworldP1b|<<[Lanciare l'Incantesimo del Ritorno per uscire da qui]>>||||
+MirrorworldP1b|<<[Lanciare l'incantesimo "Ritorno a Casa" per uscire da qui]>>||||
 MirrorworldP2|<<[Guardarsi intorno]>>||||
 MirrorworldP3|C'è nessuno? Aphra? Qualcuno?||||
 MirrorworldP4|<<[Esaminare una delle statue]>>||||
@@ -1688,7 +1688,7 @@ Sage15|Risparmiate il fiato. Avete già sprecato fin troppo del mio tempo.##<<Co
 Sage16|<<La saggia cerca di trattenere una risatina. Non sembra minimamente turbata.>>##D'accordo, allora venite ad arrestarmi.||||
 Sage17|<<Scoppia a ridere.>>##No, non è stata una grande idea, vero? Persino un cane ottuso come voi sa fiutare il pericolo.||||
 Sage18|<<Ti rivolge un sorriso estremamente inquietante mentre ti avvicini.>>||||
-Sage19|<<Quando allunghi la mano per afferrarla, posa un dito sul tuo palmo con un unico gesto preciso.##<<In una frazione di secondo, scarica un impulso magico nel tuo palmo, direttamente nelle vene.>>||||
+Sage19|<<Quando allunghi la mano per afferrarla, posa un dito sul tuo palmo con un unico gesto preciso.>>##<<In una frazione di secondo, scarica un impulso magico nel tuo palmo, direttamente nelle vene.>>||||
 Sage20|<<La scarica di energia liquefa dolorosamente il tuo scheletro e fa gonfiare il cervello, che esplode dalla poltiglia viscosa che fino a poco prima era il tuo cranio.>>||||
 Sage21|<<La saggia lancia poi un altro incantesimo per ripulire senza sforzo il disastro che hai lasciato, bandendo i tuoi resti, e tutti i visceri annessi, nei Piani dell'Agonia.>>||||
 Sage22|<<Muori...>>||||
@@ -1788,7 +1788,7 @@ YodP6|Da quanto dura ormai l'inverno?||||
 YodP7|[Mostrare l'Insegna della Gilda dei Macchinisti] Cittadino, temo che abbiate delle tasse arretrate.||||
 YodP8|Abbiate cura di voi, vecchio mio.||||
 Myrmidon1|<<Una piatta voce meccanica rimbomba dalla visiera della grande macchina.>> ##[[EDITTO]]: FERMATEVI & MONDATEVI DAI VOSTRI PECCATI, CITTADINO, POICHÉ VI TROVATE DINANZI A UN SERVO DEL RE MECCANICO.||||
-Myrmidon2|RIFLESSIONE... ##[[AHIMÈ]], LA VOSTRA DOMANDA ESULA DAL MANDATO DI QUESTA INCARNAZIONE. LE PETIZIONI A SUA MAESTÀ POSSONO ESSERE PRESENTATE AL MACHINARIUM.||||
+Myrmidon2|PONDERAZIONE... ##[[AHIMÈ]], LA VOSTRA DOMANDA ESULA DAL MANDATO DI QUESTA INCARNAZIONE. LE PETIZIONI A SUA MAESTÀ POSSONO ESSERE PRESENTATE AL MACHINARIUM.||||
 Myrmidon3|[[VALUTAZIONE]]: SIETE UN VAGABONDO DI LEALTÀ IGNOTA. PERTANTO,##[[EDITTO]]: NON VIOLATE LA PACE DEL RE, POICHÉ SIETE OSSERVATO & TRE VOLTE OSSERVATO.||||
 Myrmidon4|GLORIA A SUA MAESTÀ MACHINUS REX, IL RE MECCANICO.||||
 MyrmidonP1|Lieto di conoscervi.||||
@@ -1809,8 +1809,8 @@ OlegA7|No.||||
 OlegA8|In effetti, no.||||
 OlegA9|Significa che non potete passare.||||
 OlegA10|<<L'uomo alza lo sguardo. Sembra annoiato, come se recitasse a memoria.>>##Al gloriosissimo [[Regno Meccanico]], terra di meraviglie e prosperità senza pari tra i regni mortali, grazie alla saggezza in continuo progresso del [[Re Meccanico]].||||
-OlegA11|<<Ti scruta, le sopracciglia corrugate in sincera confusione.>> Vi sbagliate. Non ho alcun figlio.||||
-OlegA12|<<Ti lancia un'occhiata, con un'espressione indecifrabile.>> Vi sbagliate. Non ho alcun figlio.||||
+OlegA11|<<Ti scruta, le sopracciglia corrugate in sincera confusione.>> Vi sbagliate. Non ho figli.||||
+OlegA12|<<Ti lancia un'occhiata, con un'espressione indecifrabile.>> Vi sbagliate. Non ho figli.||||
 OlegA13|L'ingresso è vietato per ordine del Re Meccanico.||||
 OlegA14|Documenti del genere non hanno valore nel Regno Meccanico.||||
 OlegA15|Voi la chiamereste «Unione Apostatica».||||
@@ -1837,14 +1837,14 @@ OlegA35|Qualsiasi deviazione da queste istruzioni comporterà... come avete dett
 OlegA36|<<Esita, fissandoti negli occhi come se avesse dimenticato che cosa stava facendo>>##Io... ehm... Lunga vita al Re!||||
 OlegA37|Lunga vita al Re!||||
 OlegA38|<<La guardia ingoia il tuo sputo, arrossendo fino alle orecchie. Ti guarda come se una brezza leggera potesse mandarlo in frantumi.>>##G-grazie...||||
-OlegAP1|<<[Consegnare il Permesso Viaggio Meccanico per l'ispezione]>>||||
+OlegAP1|<<[Consegnare il Permesso del Regno Meccanico per l'ispezione]>>||||
 OlegAP2|Vorrei attraversare il Ponte del Cancello, per favore.||||
 OlegAP3|No?||||
 OlegAP4|Che cosa significa?||||
 OlegAP5|Perché no?||||
 OlegAP6|Chi lo dice?||||
 OlegAP7|Scusate, dove conduce questo Ponte del Cancello?||||
-OlegAP8|Non ci siamo già incontrati? La bacheca di Ferropolis. Vostro figlio scomparso.||||
+OlegAP8|Non ci siamo già incontrati? La bacheca di Ferropolis. Cercavate chi vi chiamava padre.||||
 OlegAP9|Buona fortuna con il rompicapo.||||
 OlegAP10|Ma ho qui un passaporto valido.||||
 OlegAP11|E se avessi un Passaporto dell'Unione Apostatica valido?||||
@@ -1881,7 +1881,7 @@ Border2|[[Ti rilancia il passaporto]]##Non lo accettiamo.||||
 Border3|[[Alza gli occhi al cielo e ti liquida con un gesto.]]##Che cosa ci fa un ratto dell'Inquisizione a ficcare il naso da queste parti? Potrei farvi arrestare, sapete.||||
 Border4|Avanti, circolare.||||
 Border5|Non se ne parla. Ora andatevene.||||
-BorderP1|<<[Consegnare il Permesso Viaggio Meccanico per l'ispezione]>>||||
+BorderP1|<<[Consegnare il Permesso del Regno Meccanico per l'ispezione]>>||||
 BorderP2|<<[Consegnare il Passaporto dell'Unione Apostatica]>>||||
 BorderP3|Perché no?||||
 BorderP4|Lasciatemi passare. Devo tornare a casa.||||
@@ -1935,7 +1935,7 @@ MikhailPre29A|Ne abbiamo già discusso. Portate a Misha un valido [[Passaporto d
 MikhailPre29B|Ne abbiamo già discusso. Per [[40 monete]], Misha vi trasfigurerà in innocente barile di sardine mediante la magia delle... ##<<Sputa.>> ((Scartoffie)).||||
 MikhailPre30|Oh, oro? Sono tanto impressionato. Come se Misha non potesse procurarsi oro da nessun'altra parte. ##<<Mikhail sbuffa con disprezzo.>>||||
 MikhailPre31|Misha ha incontrato molti della vostra specie. Pensate che tutto sia in vendita. Pensate persino di poter comprare l'amore. Non siete migliore di una bestia selvatica che fiuta cadaveri.||||
-MikhailPre32|%% <<Mikhail lascia uscire un profondo sospiro.>>##Il cuore di Misha non è di pietra. Potete andare, ma soltanto voi. Qualsiasi altra famiglia ancora qui deve pagare. Le spese sono spese, sì?||||
+MikhailPre32|%% <<Mikhail lascia uscire un profondo sospiro.>>##Il cuore di Misha non è di pietra. Potete andare, ma soltanto voi. Qualsiasi altro familiare ancora qui deve pagare. Le spese sono spese, sì?||||
 MikhailPre33|&& <<Mikhail sbuffa>> Allora i vostri figli impareranno molte nuove abilità. Misha ha già sentito questa storia.##La tariffa è di [[40 monete]], non una di meno.||||
 MikhailPre34|<<Mikhail conta le tue monete, poi scuote la testa.>> ##Non è ciò che avevamo concordato. Non cercate di fottere Misha: là fuori c'è un bel salto.||||
 MikhailPre35|Ora ascoltate: questo viaggio è di sola andata. Se vorrete navigare di nuovo, dovremo stringere nuovo accordo.||||
@@ -1974,7 +1974,7 @@ MikhailPre67|Dunque, ora sapete perché Misha non va mai nell'entroterra. E perc
 MikhailPre68|&& <<Mikhail ti fissa intensamente negli occhi.>> Certe cose non si devono dire in un posto come questo.||||
 MikhailPre69|Esatto. Una grande macchina di magia cifrata, capace di esaudire qualsiasi desiderio. Costruita per essere un governante saggio e giusto, per sempre.##<<Arriccia il naso con disprezzo.>>||||
 MikhailPre70|Ah, la [[Gilda dei Macchinisti]]. Gli umili pezzi grossi del Re Meccanico. Li riconoscerete dall'occhio meccanico e dalla museruola di ferro.||||
-MikhailPre71|Come può Misha descrivere la loro devozione? Chi ha sacrificato di più per difendere la gente del Regno? ##<Mikhail sbuffa.>> Se qualcuno domanda, questo è tutto ciò che Misha vi ha detto.||||
+MikhailPre71|Come può Misha descrivere la loro devozione? Chi ha sacrificato di più per difendere la gente del Regno? ##<<Mikhail sbuffa.>> Se qualcuno domanda, questo è tutto ciò che Misha vi ha detto.||||
 MikhailPre72|La Gilda costruì il Re quando Misha era piccolo. Ora sono loro a far rispettare i suoi ordini.##Sostengono di essere i cani del Re, senza mai prendere decisioni proprie.||||
 MikhailPre73|Be', Misha è solo un semplice Marinaio dei Cieli, ma sa distinguere una lontra da una cipolla. E qui tutti sanno chi comanda.||||
 MikhailPre74|Dunque. Siete soddisfatto? A Misha non piace discutere della sua patria.||||
@@ -2101,12 +2101,12 @@ SkiffUnAP1|Posso farvi qualche domanda?||||
 SkiffUnAP2|<<Presentarsi>>||||
 SkiffUnAP3|Qual è il vostro problema?||||
 Horace1|<<Quest'uomo dall'aspetto elegante sembra perso nelle sue fantasticherie e canticchia sottovoce tra sé. Ha un volto giovanile, nonostante le zampe di gallina sempre più marcate, e una voce dolce come se stesse sussurrando a un neonato addormentato.>>||||
-Horace2|Oh! Salve. Da dove venite? Avete senz'altro scelto la strada meno battuta. ##<<Chiama alle tue spalle.>> Sam! Saresti un angelo e prepareresti dell'altro tè? Abbiamo un ospite!||||
+Horace2|Oh! Salve. Da dove venite? Avete senz'altro scelto la strada meno battuta. ##<<Chiama alle tue spalle.>> Sam! Saresti così caro da preparare dell'altro tè? Abbiamo un ospite!||||
 Horace3|Santo cielo, dove sono finite le mie buone maniere? Sono [[Horace Metcalfe]] — pensionante, bambinaio e factotum del posto.##Mi dedico anche a una piccola attività secondaria come... tessitore di sogni, diciamo, che ha riscosso un successo sorprendente.||||
 Horace4|Siete il benvenuto: fermatevi pure un po' e riposate i piedi. Sono certo che Sammol sarà lieto di prepararvi qualcosa da bere o da mangiare.||||
 Horace5|<<Sorseggia con grazia dalla tazza di porcellana.>> Dunque, in che altro modo posso esservi utile?||||
 Horace6|<<Sorseggia con grazia dalla sua tazzina di porcellana.>> ##Dunque, a cosa dobbiamo questa fortunata visita?||||
-Horace7|Temo ci sia ben poco da raccontare. Ho vissuto nel Regno Meccanico per tutta la vita, e ne sono davvero felicissimo. La salute mi impedisce di viaggiare, ma Sammol mi ha fatto sentire proprio a casa.||||
+Horace7|Temo ci sia ben poco da raccontare. Ho vissuto nel Regno Meccanico per tutta la vita, e ne sono felicissimo. La salute mi impedisce di viaggiare, ma Sammol mi ha fatto sentire proprio a casa.||||
 Horace8|Come accennavo, mi cimento anche nella preparazione di [[Visioni in Bottiglia]]. Sono specializzato in sogni d'avventura nei cieli turbolenti: battaglie aeree, duelli di cappa e spada e altre simili prodezze. A giudicare dalle lettere che ricevo, sono piuttosto popolari.||||
 Horace9|Oh, che meraviglia! Fa sempre piacere sapere che il proprio lavoro trova eco nel pubblico. Desiderate che vi autografi qualcosa?||||
 Horace10|<<Il volto di Metcalfe s'illumina d'entusiasmo.>> Ah, la Compagnia della Stella Oscura! Che argomento appassionante: non riesco proprio a smettere di leggere di loro. Il brizzolato [[Jack Basalt]], l'enigmatica [[Emberiana]]... per non parlare della terrificante [[Vela Callose]] in persona.||||
@@ -2247,7 +2247,7 @@ FrostA47|E ((voi)) dove vorreste trascinarci? Per che cosa ((voi)) combattete? P
 FrostA48|Eppure... c'è del vero in ciò che dite. Per anni ho finto di non sentire odore di fumo, e non ho fatto altro che alimentare l'incendio fino a farlo sfuggire al controllo. Meglio fermare lo spettacolo che lasciare bruciare il palcoscenico.||||
 FrostA49|Forse... c'è del vero in ciò che dite. È sempre stato così facile affidarmi ai sogni altrui. Fidarmi dell'impresario e recitare la parte assegnatami. Ora il teatro brucia e metà del pubblico è morto.||||
 FrostA50|Volevo soltanto una vita tranquilla con Sam. Be', non devo conoscere tutte le risposte per sapere che vale ancora la pena lottare per quella vita. Posso almeno impedire che il tesoro di Vela faccia saltare in aria il mondo e capire il resto strada facendo.||||
-FrostA51|Tuttavia, non basta. Voglio una grazia completa dell'Inquisizione. Voglio la cittadinanza dell'Unione per me, Sammol e la sua famiglia. Voglio 5,000 monete in lingotti d'argento e altre 5,000 in pagherò liberamente cedibili e irrevocabili della Gilda degli Usurai di Riova.||||
+FrostA51|Tuttavia, non basta. Voglio una grazia completa dell'Inquisizione. Voglio la cittadinanza dell'Unione per me, Sammol e la sua famiglia. Voglio 5.000 monete in lingotti d'argento e altre 5.000 in pagherò liberamente cedibili e irrevocabili della Gilda degli Usurai di Riova.||||
 FrostA52|Bene. Considerata la posta in gioco e le mie capacità, direi che è un vero affare.||||
 FrostA53|Dunque siete solo una pedina? Allora dite ai vostri padroni che, se ((loro)) non me lo promettono, la mattina dell'assalto finale si sveglieranno e scopriranno che io sono sparito e tutte le loro macchine sono morte.||||
 FrostA54|Vela aveva sempre progettato di asserragliarsi alla [[Luce Accecante]] se le cose fossero andate a rotoli. Dato che ora è in fuga, immagino abbiate già conquistato la fortezza. Mi metterò in viaggio.||||
@@ -2281,18 +2281,18 @@ FrostAP24|Non abbiamo tempo per questo. Quel che è fatto è fatto.||||
 FrostAP25|Vi prego, aspettate un momento. Lasciatemi parlare.||||
 FrostAP26|Volete chiudere quella fottuta bocca per un secondo?||||
 FrostAP27|Sapete davvero che cosa sta succedendo nel vostro adorato Regno?||||
-FrostAP28|Siete COMPLETAMENTE all'oscuro di tutto ciò che esiste fuori dalla vostra comoda vitucola?||||
+FrostAP28|Siete COMPLETAMENTE all'oscuro di tutto ciò che esiste fuori dal vostro comodo cantuccio?||||
 FrostAP29|Dunque sapete che il Re fa sparire le persone e cancella ogni ricordo di loro?||||
 FrostAP30|Dunque sapete che i ricordi di tutti continuano a svanire e nessuno sa perché?||||
 FrostAP31|Dunque sapete che il Re è del tutto, assolutamente e irrimediabilmente fuori di testa?||||
 FrostAP32|Dunque sapete che l'estate è stata abolita e nessuno riesce più a procurarsi da mangiare?||||
 FrostAP33|No, certo che no! Perché siete rimasto qui seduto a succhiarvi il pollice, inventando fantasie per distrarre tutti mentre il loro regno precipita verso la rovina!||||
-FrostAP34|Non ho finito! E allora, se ho rovinato il vostro giochino di finzione? Non possiamo scegliere tutti di negare la realtà! Siete una delle poche persone al mondo in grado di opporsi a Vela, e nascondervi non farà sparire tutto questo!||||
+FrostAP34|Non ho finito! E allora, se ho rovinato il vostro giochino del far finta? Non possiamo scegliere tutti di negare la realtà! Siete una delle poche persone al mondo in grado di opporsi a Vela, e nascondervi non farà sparire tutto questo!||||
 FrostAP35|Avete vissuto in un sogno, Frost. Il mondo reale è ((fottuto)).||||
 FrostAP36|Ora il mondo ha bisogno che siate Frost. Vi prego.||||
 FrostAP37|Capisco. Vi seppellireste nelle piccole comodità mentre il mondo viene squarciato di nuovo.||||
 FrostAP38|Avete tessuto storie per distrarre la gente mentre i loro vicini morivano.||||
-FrostAP39|Sì, in effetti lo farei.||||
+FrostAP39|Sì, in effetti lo gradirei.||||
 FrostAP40|State zitto.||||
 FrostAP41|Dimenticate Vela e dimenticate il Re. Con ciò che c'è laggiù, potreste costruire voi stesso quel mondo.||||
 FrostAP42|Avete visto dove conducono sempre queste grandi idee. Impediamo a Vela di trascinare tutti giù con lei.||||
@@ -2326,7 +2326,7 @@ FrostB23|A volte quasi vorrei non essermi dato tanta pena. Almeno non sarei stat
 FrostB24|La fortuna è roba da dilettanti, mio caro.||||
 FrostB25|<<Proprio mentre stai per voltarti, senti un colpo di tosse imbarazzato.>> Un momento, se permettete. ##Desidero... cioè, mi corre l'obbligo... ((accidenti)) a tutto, non meniamo il can per il cespuglio.||||
 FrostB26|Avevate perfettamente ragione a rimproverarmi, nel Regno. Quello che facevo era ((crogiolarmi)). Per la precisione, nella rabbia infantile e nell'autocommiserazione.##<<Fa una pausa, apparentemente incerto su come proseguire.>>||||
-FrostB27|((Accidenti)) che altro starei cercando di dire? Andate a ((ramengo)) prima che mi penta di questo spreco di sentimentalismo!||||
+FrostB27|((Accidenti)), che altro starei cercando di dire? Andate a ((ramengo)) prima che mi penta di questo spreco di sentimentalismo!||||
 FrostB28|Mmh. Sì, certo. Molto bene. ##Be', che cosa aspettate? Una medaglia? Andate a ((ramengo)) prima di rompere qualcosa di costoso.||||
 FrostB29|Vediamo se riuscite a formulare una domanda che non abbia già sentito.||||
 FrostB30|Era davvero questo il vostro miglior tentativo di formulare una domanda originale? Credo possiate fare di meglio.||||
@@ -2355,7 +2355,7 @@ FrostB52|Me lo sono chiesto spesso. Di certo le nostre spedizioni contribuirono 
 FrostB53|Me lo sono chiesto spesso. Di certo le nostre spedizioni contribuirono molto al progresso del Regno. A volte avevo l'inquietante sensazione che conoscesse il mio vero scopo e mi tenesse comunque con sé.||||
 FrostB54|Perché lo facesse, non so dirlo. Forse era soltanto per la nostra comune passione per gli Emberiani. Una volta mi disse che le ricordavo qualcuno che le era stato caro, molto tempo prima. Non scoprii mai chi, però.||||
 FrostB55|<<Frost sbuffa.>> Be', lo facevo da tutta la vita. L'unica differenza era la paga extra.||||
-FrostB56|A dire il vero, sospetto che il Re Meccanico possa aver dato una mano. All'epoca ignoravo che Sua Maestà potesse alterare le menti. Ma ricordo di essermi stupito di quanto rapidamente entrai nella parte. Naturalmente, non posso provare nulla.||||
+FrostB56|A dire il vero, sospetto che il Re Meccanico possa aver dato una mano. All'epoca ignoravo che Sua Maestà potesse alterare le menti. Ma ricordo di essermi stupito di quanto rapidamente fossi entrato nella parte. Naturalmente, non posso provare nulla.||||
 FrostB57|<<Frost sospira.>> Francamente, non ne sono del tutto certo neppure io. Ma considerate ciò che aveva condotto a quel momento...||||
 FrostB58|Otto anni sotto copertura. Riuscite a immaginare che cosa significhi? Per essere credibile, non basta fingere. Una parte di voi deve davvero ((diventare)) quell'identità fittizia, mentre un'altra osserva dall'esterno e ricorda la missione.||||
 FrostB59|Sapevo che, se avessi tradito il Re Meccanico, non avrebbe mai smesso di darmi la caccia. Eppure non sopportavo di vivere nella menzogna un solo giorno di più. Da qui l'inevitabile conclusione: la migliore identità di copertura è quella che persino chi la porta crede autentica.||||
@@ -2407,11 +2407,11 @@ VisionFrost3|<<Giusto. Adesso sei Horace Metcalfe, non chi eri prima.##Guardi Ve
 VisionFrost4|<<Sorvoli le Terre Corrotte, leggero come una foglia nel vento. In lontananza sorge una città morta, le ossa carbonizzate esposte al cielo desolato, che si fa sempre più grande mentre scendi a spirale verso le sue porte.>>||||
 VisionFrost5|[[INTERROGAZIONE]]: ULTIME PAROLE? ##<<...dice il Re Meccanico, con una voce simile a un ciclone di mosconi e vetri infranti. Senti il battito accelerare. Ricordi, vero?>>||||
 VisionFrost6|<<La bocca del Re si schiude tremando, i denti grondanti di sangue, e tu e Vela vi addentrate nell'oscurità.>> ##<<Quando i tuoi occhi si abituano, ti ritrovi nell'aula scolastica della tua infanzia.>>||||
-VisionFrost7|<<La stanza è semisepolta sotto cenere compatta; la lavagna è un palinsesto di somme e slogan sbiaditi. Vela, col berretto da maestro, ti scaglia una pala.>> ##Allora, ragazzo? Non vorrete mostrarci che cosa sapete fare?||||
+VisionFrost7|<<La stanza è semisepolta sotto cenere compatta; la lavagna è un palinsesto di somme e slogan sbiaditi. Vela, col berretto da maestro, ti scaglia una pala.>> ##Allora, ragazzo? Non volete mostrarci che cosa sapete fare?||||
 VisionFrost8|<<Scavi per ore, finché colpisci qualcosa di fragile e croccante. Liberando altri detriti, ti rendi conto di trovarti sopra uno specchio gigantesco, con crepe che si diramano dal punto colpito dalla lama.>>||||
 VisionFrost9|<<Sei molto diverso da come ti ricordi. Bello, duro e imperioso, ritto in tutta la tua altezza, con le gambe racchiuse in una sorta di armatura meccanica. Senti il cuore martellare contro la gabbia toracica come un ariete.>>||||
 VisionFrost10|<<Il tuo riflesso ti rivolge un sorriso crudele e provocatorio.>> ##Che c'è, tesoro? Avete dimenticato la battuta?||||
-VisionFrost11|<<Ti svegli senza fiato e madido di sudore, con i pensieri in tumulto.>> ##<<Le>> [[Terre Corrotte]]... La [[città morta]]. È lì che devi andare.>>||||
+VisionFrost11|<<Ti svegli senza fiato e madido di sudore, con i pensieri in tumulto.>> ##<<Le>> [[Terre Corrotte]]... La [[città morta]]. È lì che devi andare.||||
 VisionFrostP1|La dura luce della creazione arde nella carne fallibile.||||
 VisionFrostP2|Ahimè, noi che volevamo gettare le fondamenta della bontà non sapemmo essere buoni.||||
 VisionFrostP3|Devo obbedire alle imperscrutabili esortazioni della mia anima.||||
@@ -2423,7 +2423,7 @@ DigCtrl5|<<Da qualche parte sotto i tuoi piedi, un motore si ridesta con un romb
 DigCtrl6|<<La macchina ti rivolge un bip ostile.>>||||
 DigCtrl7|<<Il tastierino sembra essersi spento. Poco importa: non ti serve più.>>||||
 DigCtrl8|<<Digiti metodicamente i numeri, fermandoti ogni tanto a strizzare gli occhi davanti alla minuscola grafia di Genevieve. Quasi tutti i tentativi falliscono, finché provi l'ultimo codice: 0-5-0-4-5-1.>>||||
-DigCtrlP1|<<[Inserire il codice visto nella visione di Metcalfe.]>>||||
+DigCtrlP1|<<[Inserire il codice apparso nella visione di Metcalfe.]>>||||
 DigCtrlP2|<<[Provare a immaginare Aphra.]>>||||
 DigCtrlP3|<<[Inserire un codice a caso.]>>||||
 DigCtrlP4|<<[Lasciarlo stare.]>>||||
@@ -2465,7 +2465,7 @@ SamBP2|Mi dispiace, non posso fare promesse.||||
 CityGate1|<<Bzzzt.>> [[GIUDIZIO]]: LA CITTÀ DI [[PROGRESSO]] È SOTTO STRETTA QUARANTENA PER ORDINE DEL RE MECCANICO.||||
 CityGate2|PERTANTO, [[EDITTO]]: L'INGRESSO È VIETATO A CHIUNQUE NON SIA IN POSSESSO DELLA PAROLA D'ORDINE CORRETTA.||||
 CityGate3|<<Un ricordo della visione di Metcalfe affiora dal tuo subconscio, come una sanguisuga che risale dal fondo di un lago per nutrirsi dopo il tramonto.>>||||
-CityGate4|<<Bzzzt.>> ELABORAZIONE... ##DEROGA D'EMERGENZA ACCETTATA. BENTORNATO, SIGNOR FROST.||||
+CityGate4|<<Bzzzt.>> PONDERAZIONE... ##DEROGA D'EMERGENZA ACCETTATA. BENTORNATO, SIGNOR FROST.||||
 CityGate5|<<Il [[Guardiano della Quarantena]] non dice altro.##Ti osserva in silenzio attraverso la maschera vuota.>>||||
 CityGateP1|La dura luce della creazione arde nella carne fallibile.||||
 CityGateP2|Ahimè, noi che volevamo gettare le fondamenta della bontà non sapemmo essere buoni.||||
@@ -2615,13 +2615,13 @@ MorozovTerminalP5|Vi prego, ho bisogno di un riparo! Mi inseguono macchine impaz
 MorozovTerminalP6|Ronzo via.||||
 MorozovTerminalP7|Forse voglio parlare con nessuno di niente.||||
 MorozovTerminalP8|Mi manda l'Interprete Capo Aphra. Riguarda il Problema di Sydovski.||||
-MorozovTerminalP9|Mi manda Cohen, l'Addetto alle Pulizie. Ha detto che potevate aiutarmi.||||
+MorozovTerminalP9|Mi manda Cohen, della squadra di bonifica. Ha detto che potevate aiutarmi.||||
 MorozovTerminalP10|Ho detto qualcosa di sbagliato?||||
 MorozovTerminalP11|A quanto pare non corre buon sangue fra voi.||||
 MorozovTerminalP12|A dire il vero, ho qui il vostro pacco.||||
 MorozovTerminalP13|@@ <<[Mentire]>> Oh, intendete ((questo)) pacco? È un po' macchiato di sangue, ma sembra intatto.||||
 MorozovTerminalP14|Vedrò che cosa posso fare.||||
-Morozov1|<<La Macchinista corpulenta e avanti con gli anni sembra sorpresa di vederti.>> ##Cosa? Come siete entrato? Fuori di qui subito, o la mia sicurezza vi friggerà bello croccante!||||
+Morozov1|<<La Macchinista corpulenta e avanti con gli anni sembra sorpresa di vederti.>> ##Cosa? Come siete entrato? Fuori di qui subito, o il mio sistema di sicurezza vi friggerà bello croccante!||||
 Morozov2|Cosa? Perché diavolo dovrei farlo? Sappiate che sono nel bel mezzo di un lavoro ((molto)) importante...||||
 Morozov2b|<<Si gratta la testa.>> Ah, già, è vero. Dov'è quel pacco che...? ##<<Ti squadra da capo a piedi.>> Ahhhh, figlio d'un dio. Non avete niente, vero?||||
 Morozov3|<<Socchiude gli occhi fissandoti.>> Siete proprio un saputello, eh? Perché non provate a ispezionare ((QUESTO))?!? ##<<Schiaccia con forza un pulsante sulla console della macchina.>>||||
@@ -2672,10 +2672,10 @@ Morozov39|Sarà meglio tornare per un controllo a intervalli di qualche anno: al
 Morozov40|Ugh, avrei dovuto allevare limacce da seta.||||
 Morozov41|Non c'è di che, tesoro. No, davvero, non parlatene. Anzi, lasciate la mia torre e non rivolgetemi mai più la parola. Niente di personale, ma ho un appuntamento bollente con una forma di formaggio che tengo da parte da un po'.||||
 Morozov42|Ehi, tutte le vendite sono definitive, niente resi.||||
-Morozov43|...ehi, aspettate un maledetto istante! Ho ((installato)) il vostro Moderatore, emerito zuccone. ##Ora non preoccupatevi, tesoro: un po' di amnesia è perfettamente normale dopo la procedura. Anche se di solito non dura tanto...||||
+Morozov43|...ehi, aspettate un maledetto istante! Ho già ((installato)) il vostro Moderatore, emerito zuccone. ##Ora non preoccupatevi, tesoro: un po' di amnesia è perfettamente normale dopo la procedura. Anche se di solito non dura tanto...||||
 Morozov44|Certo, certo. Immagino che tecnicamente sia il mio "lavoro" o qualcosa del genere. ##Le mie condoglianze per essere diventato la sua nuova recluta. Se volete il mio parere, la Gilda è una nave che affonda.||||
 Morozov45|<<Morozov ascolta il tuo racconto con incredulità crescente, interrompendoti spesso.>>||||
-Morozov46|...Avete detto ((cosa?)) ##...Ma andate a ((farvi)) fottere! ##...Fate sul serio?!||||
+Morozov46|...Avete detto ((cosa?)) ##...Ma che ((cazzo)) dite! ##...Fate sul serio?!||||
 Morozov47|<<Quando hai finito, scoppia a ridere.>> ##Tesoro, come posso dirvelo con delicatezza? Siete matto. Matto certificato: avete i pipistrelli nel campanile, vi mancano sei denti a un ingranaggio e siete partito oltre l'arcobaleno.||||
 Morozov48|Volete che sottragga risorse del Re per eseguire una procedura tecnochirurgica rigidamente regolamentata su uno sconosciuto non autorizzato che ((non fa)) parte della Gilda dei Macchinisti, tutto per rintracciare un povero stronzo scomparso?||||
 Morozov49|<<Sghignazza.>> Mi piace! Sentite, devo aver installato questi impianti in ((centinaia)) di ragazzini idioti. E per che cosa? Perché passino il resto della vita a comandare la gente e succhiare dalla tetta di rame del Re.||||
@@ -2734,7 +2734,7 @@ Reza3|<<La persona dai vestiti sgargianti ti scruta socchiudendo l'unico occhio,
 Reza4|Amuleti e gingilli per attirare il favore del Re Meccanico, naturalmente, o per allontanare il disappunto di Sua Maestà. Guardate qui...||||
 Reza5|Questa ruota dentata è stata strappata dal ventre stesso del Re e reca inciso il sacro Cifro Sestuplo. Indossata al collo, vi porterà fortuna alle stazioni di evocazione.||||
 Reza5b|Oppure questo incenso. Bruciatelo mentre scrivete una petizione al Re e accelererà la vostra richiesta...||||
-Reza6|Mi chiamo [[Reza]], figliolo. Leggo la fortuna, vendo cianfrusaglie e ascolto le voci che corrono. Per un prezzo posso vendervi talismani di fortuna e protezione, o forse perfino darvi qualche consiglio sui vostri problemi.||||
+Reza6|Mi chiamo [[Reza]], figliolo. Predico il futuro, vendo cianfrusaglie e ascolto le voci che corrono. Per un prezzo posso vendervi talismani di fortuna e protezione, o forse perfino darvi qualche consiglio sui vostri problemi.||||
 Reza7|<<Reza ti rivolge un sorriso storto.>> Siamo tutti figli del cosmo, no?||||
 Reza8|Le benedizioni del Re vi accompagnino, figliolo mio.||||
 Reza9|I problemi di ognuno sono diversi, figliolo. Per aiutare davvero una persona, deve esserci ((fiducia)), mh?||||
@@ -2752,7 +2752,7 @@ Reza20|Chi vi ha detto di venire qui? Siete stato seguito?||||
 Reza21|Hrmph. Bene. ##<<Ti valuta con l'occhio rimasto.>>||||
 Reza21b|Hrmph. Vedo che avete la lingua lunga. ##<<Ti valuta con l'occhio rimasto.>>||||
 Reza22|Dunque siete voi che state aiutando Aphra. Vedo che vi ha riempito la testa di meccanismi, come un bravo piccolo Macchinista. ##Ditemi: vi ha spiegato la funzione di un [[Moderatore Cranico]] e che cosa ((fa))?||||
-Reza23|Ah! Non ne dubito. Dunque nessuno vi ha avvertito di come un Moderatore Cranico deformi il pensiero? Di come appiani ogni ((irrazionale)) idea? Di come vi faccia guardare il mondo come un Macchinista, vedendo ogni cosa come un enigma che potete risolvere?||||
+Reza23|Ah! Non ne dubito. Dunque nessuno vi ha avvertito di come un Moderatore Cranico deformi il pensiero? Di come appiani ogni idea ((irrazionale))? Di come vi faccia guardare il mondo come un Macchinista, vedendo ogni cosa come un enigma che potete risolvere?||||
 Reza23b|Avete appena messo le zampe su quella [[Insegna della Gilda dei Macchinisti]] e già comandate a bacchetta la gente. Forse non vi serviva una grande spinta per comportarvi come loro, hmm?||||
 Reza24|I cambiamenti più grandi richiederanno qualche anno, ma ricordate le mie parole: arriveranno. ##È per questo che ho fatto rimuovere il mio.||||
 Reza25|Sì, per molti anni. Ho persino scritto parte della magia cifrata che consente al Re di alterare le persone. Perciò parlo con cognizione di causa quando dico che vite ((innumerevoli)) dipendono dalla vostra opposizione al piano di Aphra.||||
@@ -2790,7 +2790,7 @@ Reza54|Forse la Gilda vi ha parlato di tutti i sacchi d'oro che riceviamo dall'U
 Reza55|Le poche risorse che possediamo serviranno nei giorni a venire. Dovete farlo perché è giusto, oppure non farlo affatto.||||
 Reza56|È tutto ciò che vi chiedo, figliolo. Non fidatevi di Aphra, e non fidatevi nemmeno di me. Fate soltanto ciò che ritenete giusto.||||
 RezaDebug1|Ah, figlio mio. Mi chiedevo da sempre se avrei fatto in tempo a vedere la mia [[Modalità Debug]]. Non preoccupatevi, conosco bene il funzionamento. ##Dunque. Che cosa farete di questa strana isola nella causalità, di questo tempo fuori dal tempo?||||
-RezaDebug2|Così sia. Torniamo al mondo, come disse una volta il poeta Cohen. ##Intendo Cohen, l'Addetto alle Pulizie, naturalmente. Noi persone non binarie dobbiamo sostenerci a vicenda, no?||||
+RezaDebug2|Così sia. Torniamo al mondo, come disse una volta il poeta Cohen. ##Intendo Cohen, della squadra di bonifica, naturalmente. Noi persone non binarie dobbiamo sostenerci a vicenda, no?||||
 RezaDebug3|Se lo dite voi, figliolo. Sappiate soltanto che questa è una mera illusione di potere, nulla di più.||||
 RezaP1|Cerco la settima lettera.||||
 RezaP2|Che cosa vendete?||||
@@ -2811,7 +2811,7 @@ RezaP15|Misha vi manda i suoi saluti.||||
 RezaP16|No, non sono stato seguito.||||
 RezaP17|Ha detto che mi avrebbe permesso di parlare il Cifro Sestuplo.||||
 RezaP18|Morozov ha menzionato alcuni effetti collaterali: emicranie, convulsioni.||||
-RezaP19|A essere sincero, li ha liquidati un po' in fretta.||||
+RezaP19|A essere sincero, ha un po' sorvolato sull'argomento.||||
 RezaP20|Anche voi facevate parte dei Macchinisti?||||
 RezaP21|<<[Provare ad andarsene]>> Ne ho abbastanza di complotti e cospirazioni.||||
 RezaP22|D'accordo, vi ascolto.||||
@@ -2845,7 +2845,7 @@ RoyalFactor13|Sono il [[Fattore Reale]] di Ferropolis.##Mi occupo di tutte quell
 RoyalFactor14|Quindi, come potete immaginare, sono piuttosto occupata, vedete?||||
 RoyalFactor15|<<Per la prima volta ti esamina davvero.>> ##((Misha)) vi manda, dunque? Be', perché non l'avete detto subito? Signor Gallo, mettete in sospeso tutti i biglietti, per favore!||||
 RoyalFactor16|Ora, diamo un'occhiata a questo [['passaporto']]... ##Eh. Il ritratto non è niente male, vero? Ha colto perfettamente il vostro naso.||||
-RoyalFactor17|<<Estrae una pergamena dall'aspetto ufficiale e comincia a compilarla.>>##Quindi vi serve un Permesso Viaggio Meccanico? Non preoccupatevi: supererà ogni controllo. Dopotutto, è del tutto autentico, vedete?||||
+RoyalFactor17|<<Estrae una pergamena dall'aspetto ufficiale e comincia a compilarla.>>##Quindi vi serve un Permesso del Regno Meccanico? Non preoccupatevi: supererà ogni controllo. Dopotutto, è del tutto autentico, vedete?||||
 RoyalFactor18|&& <<La penna del Fattore non smette di muoversi.>> ##Una teoria interessante, cittadino, ma temo di non commentare vane speculazioni. Inoltre...||||
 RoyalFactor19|<<Appone un timbro sulla pergamena e ti rivolge un sorriso radioso.>> ##Se qualcuno deve un favore a Misha, direi che siete voi, vedete?||||
 RoyalFactor20|%% <<La penna del Fattore si ferma. Ti rivolge uno sguardo ammonitore, poi la posa delicatamente.>> ##Io e Misha abbiamo un buon rapporto di lavoro. A modo nostro, serviamo entrambi il Re.||||
@@ -2856,7 +2856,7 @@ RoyalFactor24|Be', credo che qui sia tutto in ordine. Ora i [[Ponti del Cancello
 RoyalFactor25|<<Con efficienza spiccia, appone un timbro sulla pergamena.>>||||
 RoyalFactor26|<<Il Fattore Reale alza lo sguardo verso di te da sopra gli occhialini dalla montatura metallica.>> ##Grazie al vostro aiuto, la mia posizione qui è ormai assai sicura. E ricordo ((sempre)) chi mi fa un favore, vedete?||||
 RoyalFactor27|Ripassate pure se vi serve qualcosa. Non occorre aspettare in fila.||||
-RoyalFactor28|<<Ti restituisce il passaporto.>> ##Dunque vi servirà un [[Permesso Viaggio Meccanico]], no? Credo di potervi aiutare. Ma, considerato il vostro ((anticonvenzionale)) metodo d'arrivo, dovrò sottoporvi a una ((minuscola)) prova di lealtà. Una mano lava l'altra, vedete?||||
+RoyalFactor28|<<Ti restituisce il passaporto.>> ##Dunque vi servirà un [[Permesso del Regno Meccanico]], no? Credo di potervi aiutare. Ma, considerato il vostro ((anticonvenzionale)) metodo d'arrivo, dovrò sottoporvi a una ((minuscola)) prova di lealtà. Una mano lava l'altra, vedete?||||
 RoyalFactor29|<<Arriccia il naso.>> Non avevo intenzione di dire nulla. Con metà delle tubature dell'acqua della città ancora congelate, non siete il cittadino più puzzolente che abbia visto questa settimana.||||
 RoyalFactor30|<<Sorride.>> Ciò che intendo, cittadino, è che il mondo gira grazie a un po' di favori reciproci. Qui nel Regno la chiamiamo "concordia".||||
 RoyalFactor31|Alcuni giorni fa, una [[carovana di merci]] diretta a Ferropolis è caduta in un'imboscata a Yansk. L'unico superstite è morto per le ferite prima di poterci dire chi fosse il colpevole.||||
@@ -2887,7 +2887,7 @@ RoyalFactorP14|<<[Rovesciare la testa sotto aceto sulla sua scrivania]>> Un vost
 RoyalFactorP15|Ricordatemelo: che cosa volevate che facessi?||||
 RoyalFactorP16|Non ancora.||||
 RoyalFactorP17|Che cos'ha di tanto importante questa testa?||||
-RoyalFactorP18|Dunque, a proposito di quel Permesso Viaggio Meccanico...||||
+RoyalFactorP18|Dunque, a proposito di quel Permesso del Regno Meccanico...||||
 NoiseBoxesR1|<<Prendi la cornetta e te la porti all'orecchio.>>||||
 NoiseBoxesR2|<<Questo non sembra il messaggio del Re.>>||||
 NoiseBoxes1|<<Dentro la scatola gialla c'è una console meccanica, con qualcosa di simile a una cornetta acustica appesa a un filo spiralato.>> ##<<Dalla sua imboccatura provengono suoni metallici.>>||||
@@ -2895,9 +2895,9 @@ NoiseBoxes2|<<Il tuo cervello viene sommerso da una cacofonia di suoni stridenti
 NoiseBoxes3|<<La musica pulsa in un metro alieno, sfidando ogni tuo tentativo di seguirne il ritmo. Voci spettrali e disumane si sovrappongono come onde. Sembra un ricordo anteriore alla creazione dell'universo....>>||||
 NoiseBoxes4|<<Questo non sembra il messaggio del Re. Dovrai provare una delle altre scatole.>>||||
 NoiseBoxes5|<<Senti due persone conversare a bassa voce; le loro voci echeggiano come dall'altra estremità di un lungo corridoio di pietra.>>||||
-NoiseBoxes6|"Su, su. Andrà tutto bene." ##(("Come")) dovrebbe andare ((tutto bene))? Lydia è semplicemente ((sparita)), e nessuno se la ricorda. Mi sembra che il cervello si stia sciogliendo e mi coli fuori dalle orecchie!||||
+NoiseBoxes6|"Su, su. Andrà tutto bene." ##(("Come)) dovrebbe andare ((tutto bene))? Lydia è semplicemente ((sparita)), e nessuno se la ricorda. Mi sembra che il cervello si stia sciogliendo e mi coli fuori dalle orecchie!"||||
 NoiseBoxes7|"Lo so, lo so. Voglio solo dire che ci siamo l'un l'altro e io non vado da nessuna parte." ##<<Una pausa.>> "Oggi lavavo i piatti. Hai mai notato quanti ne abbiamo? Abbastanza per cinque persone, non due."||||
-NoiseBoxes8|""Be'... fa comodo averne in più, no?" ##"Tu ((sai)) che non possiamo permetterci più di quanto ci serve. Avevamo anche un letto in più, prima di venderlo. E quella culla.">>"||||
+NoiseBoxes8|""Be'... fa comodo averne in più, no?" ##"Tu ((sai)) che non possiamo permetterci più di quanto ci serve. Avevamo anche un letto in più, prima di venderlo. E quella culla.""||||
 NoiseBoxes9|"Io... immagino fosse bello avere ospiti. Prima di tutto questo, intendo." ##"E ti ((ricordi)) di aver mai avuto ospiti?" <<Una pausa.>> "Quante persone vivevano in questa casa, Kwesi?"||||
 NoiseBoxes10|"<<Una lunga pausa.>> "Io... non lo so." ##"No. Nemmeno io.""||||
 NoiseBoxes11|"<<Cala un lungo silenzio, seguito da una serie di strani suoni umidi.>> ##"Ehi, ehi! Che stai facendo?" ##"Scusa, devo smettere?""||||
@@ -2957,8 +2957,8 @@ GenericGuard2|<<La guardia urla con energia frenetica contro chiunque passi.>>##
 MissingNoticeboard1|<<La superficie della bacheca è completamente sepolta sotto strati e strati di carta, mentre ai suoi piedi si raccolgono candele mezze sciolte. Un cartello in cima recita:>> ##PERSONE SCOMPARSE||||
 MissingNoticeboard2|<<Un avviso in particolare attira la tua attenzione. Sembra relativamente recente ed è scritto con una grafia sottile e irregolare...>>||||
 MissingNoticeboard2b|<<Questo avviso sembra relativamente recente ed è scritto con una grafia sottile e irregolare.>>||||
-MissingNoticeboard3|Cara Figlia, ##Non sò perche sto scrivendo questo. Non sò chi sei. Non ricordo neanche il tuo Nome. Sò solo che ce un Buco nella mia vita & Niente lo riempie.||||
-MissingNoticeboard4|Se sei vera, perfavore torna acasa. Voglio sentirmi di nuovo apposto. ##– Oleg Igorovich||||
+MissingNoticeboard3|A te, che mi chiamavi papà, ##Non sò perche sto scrivendo questo. Non sò chi sei. Non ricordo neanche il tuo Nome. Sò solo che ce un Buco nella mia vita & Niente lo riempie.||||
+MissingNoticeboard4|Se esisti davvero, perfavore torna acasa. Voglio sentirmi di nuovo apposto. ##– Oleg Igorovich||||
 MissingNoticeboard5|<<Dev'essere l'avviso di cui parlava Sunil. Contiene indicazioni per una casa sull'isolotto nord-orientale di Ferropolis, raggiungibile dalla porta posteriore della città.>>||||
 MissingNoticeboard5b|<<C'è qualcosa in questo strano avviso che ti turba. Forse dovresti offrire il tuo aiuto?>> ##<<L'avviso contiene indicazioni per una casa sull'isolotto nord-orientale di Ferropolis, raggiungibile dalla porta posteriore della città.>>||||
 MissingNoticeboard5c|<<L'avviso contiene indicazioni per una casa sull'isolotto nord-orientale di Ferropolis, raggiungibile dalla porta posteriore della città.>>||||
@@ -2991,19 +2991,19 @@ MissingNoticeboardP4|<<[Guardare di nuovo l'avviso di Oleg.]>>||||
 MissingNoticeboardP5|<<[Leggere gli altri avvisi.]>>||||
 MissingNoticeboardP6|<<[Lasciare stare la bacheca.]>>||||
 MissingNoticeboardP7|<<[Leggere un altro avviso.]>>||||
-MissingNoticeboardDebug1|"<<Sulla bacheca è appuntato un cartello temporaneo di carta rossa sbiadita, con la scritta: "MODALITÀ DEBUG".>"||||
+MissingNoticeboardDebug1|"<<Sulla bacheca è appuntato un cartello temporaneo di carta rossa sbiadita, con la scritta: "MODALITÀ DEBUG".>>"||||
 MissingNoticeboardDebug2|<<Nessuna risposta. Non ti aspettavi davvero che una bacheca ti rispondesse, vero?>>||||
 MissingNoticeboardDebug3|"<<Non sembra accadere nulla, ma quando distogli lo sguardo per un momento e poi torni a guardare, il cartello "MODALITÀ DEBUG" è scomparso. C'è mai stato davvero?>>"||||
 OlegB1|<<Una bottiglia di vetro ti sfreccia accanto all'orecchio e si frantuma contro lo stipite. A lanciarla è stato un uomo di mezza età, evidentemente molto ubriaco.>>||||
 OlegB2|Chicazz... – <<Ha il singhiozzo.>> – chi ((cazzo)) ((siete?)) Fuori dalla mia mmmaledetta ((casa!))||||
 OlegB3|<<Gli occhi dell'uomo si spalancano quando ti riconosce, e comincia a puntarti ripetutamente un dito contro il petto.>>||||
 OlegB3b|<<Gli occhi dell'uomo si spalancano quando ti riconosce, e un rossore intenso gli fiorisce sulle guance.>>||||
-OlegB4|Voi! Sssiete quell'– hic – ((Inquishitore))! Brutto fottuto... merdoso, disfattista ((bastardo))! Checcavete fatto a mio [[figlio]], miserabile... ##<<Ha di nuovo il singhiozzo.>> ...((stronzo!))||||
+OlegB4|Voi! Sssiete quell'– hic – ((Inquishitore))! Brutto fottuto... merdoso, disfattista ((bastardo))! Checcavete fatto a [[chi mi chiamava papà]], miserabile... ##<<Ha di nuovo il singhiozzo.>> ...((stronzo!))||||
 OlegB4b|Voi. Sssiete quell'– hic – ((Inquishitore)). ##A-ascoltate, è stata... solo quella volta... non volevo dire ((niente)), miserabile... <<Ha di nuovo il singhiozzo.>> ...((stronzo!))||||
 OlegB5|<<L'uomo ti scruta senza riconoscerti.>> Frrr... frontiera? Un sacco – hic! – di gente alla frontiera. Sentite... ##<<Ti punta contro un dito.>> Io non vi conosco... per UN CAZZO.||||
 OlegB6|<<Ci pensa un momento.>> ##Sapete che c'è? Fanculo. Sì, dico proprio: fanculo! Fateli passare tutti. Lasciateli... far saltare in aria il ((Re!))||||
-OlegB7|È quel che si meritano per avermi portato via mio [[figlio]]. ##<<Ha di nuovo il singhiozzo.>>||||
-OlegB8|<<L'uomo si sforza di mettere a fuoco lo sguardo su di te.>> ##I-io... sto bene? Mmh, se sto ((bene))? Mio [[figlio]] è ((sparito)) e voi chiedete a ((me)) se sto bene?!||||
+OlegB7|È quel che si meritano per avermi portato via [[chi mi chiamava papà]]. ##<<Ha di nuovo il singhiozzo.>>||||
+OlegB8|<<L'uomo si sforza di mettere a fuoco lo sguardo su di te.>> ##I-io... sto bene? Mmh, se sto ((bene))? [[Chi mi chiamava papà]] è ((sparito)) e voi chiedete a ((me)) se sto bene?!||||
 OlegB9|Voi... succhiamelma! Uccello di merda! Miserabile... ##<<Ha il singhiozzo>> ...stronzo!||||
 OlegB10|Gwaar... ancora voi? ##Andate... levatevi dalle palle. Non me ne frega più niente. <<Ha il singhiozzo.>>||||
 OlegB11|<<Oleg geme nel vederti. Sul tavolo c'è una specie di schema enigmistico lasciato a metà.>> ##Di nuovo voi? Non mi sono già umiliato abbastanza?||||
@@ -3025,10 +3025,10 @@ OlegB25|<<L'uomo alza le spalle e la beve. Gli occhi gli si spalancano mentre si
 OlegB26|<<Scuote la testa per schiarirsela.>> Uff!||||
 OlegB27|<<L'uomo sbatte le palpebre, sorpreso, poi ti restituisce lo schiaffo.>> ##Bastardo! Chi diavolo credete di essere, a entrare in casa mia e –||||
 OlegB28|<<Strizza gli occhi.>> ((Ahi.))||||
-OlegB29|<<Oleg ti fulmina con lo sguardo.>> Questa sarebbe la vostra idea di aiuto? ##Avete perso tempo. [[Mio figlio]] è sparito, e io sono ancora qui. Non c'è altro; caso chiuso, fine del discorso.||||
+OlegB29|<<Oleg ti fulmina con lo sguardo.>> Questa sarebbe la vostra idea di aiuto? ##Avete perso tempo. [[Chi mi chiamava papà]] è sparito, e io sono ancora qui. Non c'è altro; caso chiuso, fine del discorso.||||
 OlegB30|Io non ((ho)) figli. Una volta sì. Galette Myshkin e Indira Myshkin. Morte giovani. Le ho seppellite io. Storia antica. Vedete bene che vivo da solo.||||
 OlegB31|"Ma... il mese scorso ho trovato qualcosa. Un [[medaglione]], in mezzo alla robaccia in fondo a quell'armadio che non apro mai. C'è scritto: "a mio padre". Non lo riconosco, eppure in qualche modo so di averlo già visto."||||
-OlegB32|Ci ho pensato, e c'è una sola risposta. ##Il medaglione è mio. Un altro figlio l’((ho avuto)). Uno che, in qualche modo, ho [[dimenticato]].||||
+OlegB32|Ci ho pensato, e c'è una sola risposta. ##Il medaglione è mio. ((Sono stato)) padre anche di qualcun altro. Qualcuno che, in qualche modo, ho [[dimenticato]].||||
 OlegB33|Ecco, ora avete sentito tutta questa storia penosa. Non è patetico, un uomo adulto che piange per una fantasia? ##Che mi crediate o no, non m'importa. Lasciatemi soltanto annegare in pace.||||
 OlegB34|Come vi pare. Non mi è rimasto alcun orgoglio da salvare.||||
 OlegB34R|Allora, avete finito di tormentarmi?||||
@@ -3042,20 +3042,20 @@ OlegB41|Niente. Capite il mio problema? Non ci sono indizi. Ora che lo so, il do
 OlegB42|Pensavo che forse, bevendo abbastanza, avrei dimenticato tutto un'altra volta. Niente da fare.||||
 OlegB43|Adesso capite: il caso è senza speranza. E l'unica persona che potrebbe aiutarmi non mi rivolgerebbe mai la parola. Come ho detto, state perdendo tempo.||||
 OlegB44|<<Oleg ti esamina, valutando le alternative.>> ##Hrm. Be', se questo vi convincerà a lasciarmi in pace...||||
-OlegB45|A ovest di questa città c'è un posto chiamato [[Biblioteca delle Non-Verità]]. Non ci sono cartelli che lo indichino e non compare su nessuna mappa ((ufficiale)) esistente, ma esiste.||||
+OlegB45|A ovest di questa città c'è un posto chiamato [[Biblioteca delle Non-Verità]]. Non ci sono cartelli che lo indichino e non compare su nessuna mappa ((ufficiale)), ma esiste.||||
 OlegB46|Prendete il mio [[medaglione]] e mostratelo alla [[bibliotecaria]], e forse – ((forse)) – vi aiuterà.||||
-OlegB47|Ascoltate, non sono un sentimentale. So che mio figlio potrebbe essere morto, o peggio. Voglio solo conoscerne il [[nome]] e il [[destino]]. Almeno saprò per chi piangere.||||
+OlegB47|Ascoltate, non sono un sentimentale. So che la persona che cerco potrebbe non essere più in vita, o anche peggio. Voglio solo conoscerne il [[nome]] e il [[destino]]. Almeno saprò per chi piangere.||||
 OlegB48|<<Oleg ti esamina, valutando le alternative.>> ##Ho servito questo regno per molti anni. Sorvegliavo la frontiera, sequestravo merce di contrabbando.||||
 OlegB49|Ci capita ((ogni)) genere di merce di contrabbando. Se qualcosa sparisse, nessuno se ne accorgerebbe.||||
 OlegBP1|Oleg Igorovich, presumo.||||
 OlegBP2|Aspettate, vi conosco. Siete la guardia di frontiera che ho incontrato al Ponte del Cancello.||||
 OlegBP3|Signore, va tutto bene?||||
 OlegBP4|Dunque ((siete)) Oleg Igorovich.||||
-OlegBP5|Che storia è questa di vostro figlio?||||
-OlegBP6|Ho ancora delle domande su vostro figlio.||||
+OlegBP5|Che storia è questa della persona che cercate?||||
+OlegBP6|Ho ancora delle domande su chi vi chiamava padre.||||
 OlegBP7|Vi lascio ai postumi della sbornia.||||
 OlegBP8|Ho visto il vostro avviso di scomparsa. Sono qui per aiutarvi.||||
-OlegBP9|Sono un Avventuriero. Forse posso ritrovare vostro figlio.||||
+OlegBP9|Sono un Avventuriero. Forse posso ritrovare chi vi chiamava padre.||||
 OlegBP10|<<[Mostrare l'insegna]>> La Gilda si è interessata al vostro caso, cittadino.||||
 OlegBP11|<<[Mentire]>> Padre, sono io! È passato tanto tempo...||||
 OlegBP12|<<Per cavargli qualcosa di utile, dovrai farlo tornare sobrio.>>||||
@@ -3067,9 +3067,9 @@ OlegBP17|Non perdete il filo. Torno subito.||||
 OlegBP18|Che intendete per "sparito"?||||
 OlegBP19|Allora perché avete affisso quell'avviso?||||
 OlegBP20|Da dove dovrei cominciare a cercare?||||
-OlegBP21|Com'è possibile dimenticare il proprio figlio?||||
+OlegBP21|Com'è possibile dimenticare chi vi chiamava papà?||||
 OlegBP22|Come potete essere sicuro che il medaglione sia davvero vostro?||||
-OlegBP23|Sapete dirmi qualcosa, qualsiasi cosa, su questo figlio?||||
+OlegBP23|Sapete dirmi qualcosa, qualsiasi cosa, sulla persona che cercate?||||
 OlegBP24|Per ora ho finito con le domande.||||
 OlegBP25|E se potessi parlare io con questa persona al posto vostro?||||
 OlegBP26|Vi stupirebbe ciò che so fare, se fossi adeguatamente ((ricompensato)).||||
@@ -3185,17 +3185,17 @@ SpuriousLibrarianA26|<<La bibliotecaria sospira e abbassa la voce in un sussurro
 SpuriousLibrarianA27|La nostra domanda di ((divorzio)) al Re. Non è per questo che vi ha mandato Oleg? Aspettiamo da più di un anno la sentenza di Sua Maestà. Purtroppo c'è un arretrato.||||
 SpuriousLibrarianA28|<<Ascolta la tua spiegazione con crescente allarme.>> ##Ma... ma è assurdo. Non può essere vero. Io ((so)) che non è...||||
 SpuriousLibrarianA29|<<I suoi occhi tornano inesorabilmente al medaglione.>> Per la misericordia del Re. È vero, non è così?||||
-SpuriousLibrarianA30|<<Torna a guardarti, apparentemente sul punto di piangere.>> ##Io... vi chiedo scusa per il mio, ehm, sfogo. Sono un po' scossa. Vedete, [[è anche figlio mio]].||||
-SpuriousLibrarianA31|Ascoltate. Io ((non posso)) aiutarvi. Questa ((è)) solo una biblioteca normale, capite? Qui non c'è ((nulla)) su alcun [[figlio scomparso]]. E io ((sono)) autorizzata ad aiutarvi con ((qualsiasi cosa)) vi serva. Capite?||||
+SpuriousLibrarianA30|<<Torna a guardarti, apparentemente sul punto di piangere.>> ##Io... vi chiedo scusa per il mio, ehm, sfogo. Sono un po' scossa. Vedete, [[io sono sua madre]].||||
+SpuriousLibrarianA31|Ascoltate. Io ((non posso)) aiutarvi. Questa ((è)) solo una biblioteca normale, capite? Qui non c'è ((nulla)) sulla [[persona che state cercando]]. E io ((sono)) autorizzata ad aiutarvi con ((qualsiasi cosa)) vi serva. Capite?||||
 SpuriousLibrarianA32|<<Ti rivolge uno sguardo eloquente.>> Non siate assurdo. Una volta qui c'era una bibliotecaria che poteva solo mentire, ma si è trasformata in un drago ed è volata via.||||
 SpuriousLibrarianA33|Mi dispiace di non esservi stata più utile, caro.||||
 SpuriousLibrarianA34|<<Si fa coraggio.>> Avanti, caro. Come posso aiutarvi?||||
 SpuriousLibrarianA35|<<Ci pensa un momento.>> Tutto ciò che è conservato qui è assolutamente vero, capite? E lo è sempre stato.||||
 SpuriousLibrarianA36|Qualunque cosa abbiate sentito sulla capacità del Re di cancellare le persone dalla realtà è pura assurdità. Se una cosa del genere ((accadesse)) davvero, tutti se ne accorgerebbero di certo.||||
 SpuriousLibrarianA37|E naturalmente non ne esisterebbe alcun documento. Come si può tenere traccia di qualcosa che non è mai esistito? ##Non riesco a immaginare perché mai i Macchinisti dovrebbero aver bisogno di qualcosa del genere.||||
-SpuriousLibrarianA38|Che cosa intendete? Naturalmente posso dirvi informazioni di base su questa biblioteca, per esempio come consultare i documenti. E a nessuno importa se chiacchieriamo delle nostre vite, del tempo o cose simili.||||
+SpuriousLibrarianA38|Che cosa intendete? Naturalmente posso darvi informazioni di base su questa biblioteca, per esempio come consultare i documenti. E a nessuno importa se chiacchieriamo delle nostre vite, del tempo o cose simili.||||
 SpuriousLibrarianA39|Semplicemente non posso discutere di un eventuale scopo segreto della biblioteca, né di qualche sinistro incantesimo cui potrei essere soggetta – perché, naturalmente, nessuna delle due cose esiste.||||
-SpuriousLibrarianA40|Be'... dato che né io né Oleg ricordiamo il bambino, è logico concludere che non sia mai esistito. E se non è mai esistito, non può esserci alcun [[registro]]. Di certo non qui.||||
+SpuriousLibrarianA40|Be'... né io né Oleg ricordiamo chi ci chiamava mamma e papà. È logico concludere che quella persona non sia mai esistita. E se non è mai esistita, non può esserci alcun [[registro]]. Di certo non qui.||||
 SpuriousLibrarianA41|In ogni caso, non c'è modo di accedere alla [[sala di lettura]] al piano superiore senza un permesso reale. Proprio nessun modo. Riuscite a ((immaginare)) che basti una semplice leva nascosta? ##<<Il suo sguardo guizza per un attimo sotto la scrivania.>>||||
 SpuriousLibrarianA42|<<Sbadiglia teatralmente.>> Oh cielo, mi sento piuttosto stanca. Farete il bravo mentre chiudo gli occhi per un momento, vero?||||
 SpuriousLibrarianA43|<<La bibliotecaria russa ostentatamente.>>||||
@@ -3203,7 +3203,7 @@ SpuriousLibrarianA44|<<Le tue dita esplorano il bordo inferiore della scrivania 
 SpuriousLibrarianA45|Grazie, caro. ##A proposito, ehm, mi chiamo Genevieve. Genevieve Myshkin. Non so perché, ma ho pensato che doveste saperlo.||||
 SpuriousLibrarianAP1|Avete detto ((Mecapiedi))?!||||
 SpuriousLibrarianAP2|<<[Abbassare la voce]>> Scusate, i... cosa?||||
-SpuriousLibrarianAP3|A proposito di vostro figlio scomparso...||||
+SpuriousLibrarianAP3|A proposito di chi vi chiamava mamma...||||
 SpuriousLibrarianAP4|Che cos'è esattamente questo posto?||||
 SpuriousLibrarianAP5|Dunque, posso consultare i vostri registri?||||
 SpuriousLibrarianAP6|Per caso questa è la Biblioteca delle Non-Verità?||||
@@ -3220,12 +3220,12 @@ SpuriousLibrarianAP14|Capisco. Grazie dell'aiuto.||||
 SpuriousLibrarianAP15|C'è qualcosa che non va?||||
 SpuriousLibrarianAP16|Allora lo riconoscete davvero.||||
 SpuriousLibrarianAP17|Scusate, a quale petizione vi riferite?||||
-SpuriousLibrarianAP18|Avete frainteso. Sto cercando il figlio scomparso di Oleg.||||
+SpuriousLibrarianAP18|Avete frainteso. Sto cercando chi un tempo chiamava Oleg padre.||||
 SpuriousLibrarianAP19|Aspettate... state mentendo?||||
 SpuriousLibrarianAP20|Ho capito. Siete sotto un incantesimo che vi impedisce di parlare di questo posto.||||
 SpuriousLibrarianAP21|Allora che cos'è davvero questo posto?||||
 SpuriousLibrarianAP22|C'è qualcosa di cui ((potete)) parlare?||||
-SpuriousLibrarianAP23|Se ((esistesse)) un documento relativo a vostro figlio, come potrei trovarlo?||||
+SpuriousLibrarianAP23|Se ((esistesse)) un documento relativo alla persona che cercate, come potrei trovarlo?||||
 SpuriousLibrarianAP24|Grazie, Genevieve.||||
 SpuriousLibrarianAP25|Non preoccupatevi, siete stata molto utile.||||
 SpuriousLibrarianAP26|Ehm... signora? Siete ancora con me?||||
@@ -3245,22 +3245,22 @@ SpuriousLibrarianB11|Istrik? Oh... oh, cielo. Era il nome che davamo alle [[Terr
 SpuriousLibrarianB12|Che... ehm, che curioso. Somiglia molto a ciò che dice il Re quando gli si chiede delle persone cadute vittime della Corruzione...||||
 SpuriousLibrarianB13|<<Genevieve assume un'aria sconsolata.>> ##Direi che la risposta sia proprio davanti ai nostri occhi, no? Quando qualcosa viene Corrotto, i suoi registri ufficiali si scompaginano.||||
 SpuriousLibrarianB14|Alcuni dicono che influisca anche sui ricordi che la gente ha di quella cosa... ##<<Sospira.>> Anche se ((ovviamente)), sappiamo entrambi che quest'ultima parte è una fandonia.||||
-SpuriousLibrarianB15|Istrik non esiste più, ma vicino al luogo in cui sorgeva, nelle [[Terre Corrotte]] c'è un [[accampamento reale di bonifica]]. Se ((esistono)) ancora indizi sul destino di questo figlio, li troverete sicuramente là.||||
-SpuriousLibrarianB15R|Oh, che la benedizione del Re accompagni quei coraggiosi addetti alle pulizie.||||
+SpuriousLibrarianB15|Istrik non esiste più, ma vicino al luogo in cui sorgeva, nelle [[Terre Corrotte]], c'è un [[accampamento reale di bonifica]]. Se ((esistono)) ancora indizi sul destino della persona che cercate, li troverete sicuramente là.||||
+SpuriousLibrarianB15R|Oh, che la benedizione del Re accompagni quei coraggiosi addetti alla bonifica.||||
 SpuriousLibrarianB16|All'[[estremità orientale di quest'isola]], oltre un [[fossato artificiale]]. L'intera zona è interdetta per ordine del Re e le squadre di bonifica entrano ed escono con chiatte volanti...||||
-SpuriousLibrarianB17|<<Si guarda attorno per controllare che i Mecapiedi siano ancora assopiti, poi abbassa la voce.>> ##Ma fra voi e me, ho sentito che là fuori c'è una specie di [[macchina abbandonata]] su cui potreste arrampicarvi.||||
+SpuriousLibrarianB17|<<Si guarda attorno per controllare che i Mecapiedi siano ancora assopiti, poi abbassa la voce.>> ##Ma, detto fra noi, ho sentito che là fuori c'è una specie di [[macchina abbandonata]] su cui potreste arrampicarvi.||||
 SpuriousLibrarianB18|Ecco... <<Ti porge un pezzetto di carta.>> ##Questi sono i [[codici di accesso]] che usiamo in Biblioteca. Molte macchine del Re usano gli stessi. Magari, se li provate, avrete fortuna?||||
 SpuriousLibrarianB19|Nessuno ne è del tutto certo, caro. So che è cominciata molto prima della caduta di Istrik. Solo piccoli focolai qua e là: se ne parlava sottovoce, senza mai riconoscerli ufficialmente.||||
 SpuriousLibrarianB20|Ma poi la città di [[Progresso]] è stata consumata nel giro di poche settimane, e il resto di Istrik l'ha seguita poco dopo. A quel punto lo sapevano ((tutti)) quanti.||||
 SpuriousLibrarianB21|Ricordo esattamente dov'ero quando ho saputo che Progresso era caduta. In quel piccolo appartamento di Ferropolis, a lavare i calzini di Oleg.||||
 SpuriousLibrarianB22|Grazie, caro. Pregherò il Re per voi.||||
-SpuriousLibrarianBP1|Genevieve, ho scoperto la verità sul destino di vostro figlio.||||
-SpuriousLibrarianBP2|Dove dovrei continuare a cercare vostro figlio?||||
-SpuriousLibrarianBP3|Credo di aver trovato qualcosa su vostro figlio scomparso.||||
+SpuriousLibrarianBP1|Genevieve, ho scoperto la verità sul destino di chi vi chiamava mamma.||||
+SpuriousLibrarianBP2|Dove dovrei continuare a cercare chi vi chiamava mamma?||||
+SpuriousLibrarianBP3|Credo di aver trovato qualcosa sulla persona che cercate.||||
 SpuriousLibrarianBP4|Come ve la state cavando, Genevieve?||||
 SpuriousLibrarianBP5|Per ora è tutto. Abbiate cura di voi.||||
 SpuriousLibrarianBP6|L'ultima località nota era l'Oblast di Istrik.||||
-SpuriousLibrarianBP7|Non ho scoperto il nome di vostro figlio. C'era qualcosa su un "errore nel controllo dello stato".||||
+SpuriousLibrarianBP7|Non ho scoperto il nome della persona che cercate. C'era qualcosa su un "errore nel controllo dello stato".||||
 SpuriousLibrarianBP8|Come posso raggiungere le Terre Corrotte?||||
 SpuriousLibrarianBP9|Qual è la natura di questa "Corruzione"?||||
 SpuriousLibrarianBP10|Farò il possibile.||||
@@ -3269,7 +3269,7 @@ SpuriousLibrarianDebug2|Certamente, caro. Posso aiutarvi a trovare qualcos'altro
 SpuriousLibrarianDebug3|Molto bene, caro. Alla prossima, eh? ##Vi prego, cercate di essere gentile con l'altra me. Ha passato anni difficili.||||
 ApocryphaMach1|<<La macchina pulsa di stregoneria. Una penna d'oca vi è assicurata con una catena d'argento.>> ##BENVENUTO ALLA [[BIBLIOTECA DELLE NON-VERITÀ]]. INSCRIVETE LA VOSTRA INTERROGAZIONE. ##((Attenzione! L'accesso non autorizzato è punibile con l'annientamento controllato.))||||
 ApocryphaMach1R|<<La macchina sferraglia mentre risucchia la pergamena e ne srotola una nuova.>> ##BENVENUTO ALLA [[BIBLIOTECA DELLE NON-VERITÀ]]. INSCRIVETE LA VOSTRA INTERROGAZIONE.||||
-ApocryphaMach2|<<Ruote e ingranaggi cominciano a girare. Sotto i tuoi piedi senti la biblioteca recuperare rotoli da caricare nella macchina.>> ##IN MEDITAZIONE...||||
+ApocryphaMach2|<<Ruote e ingranaggi cominciano a girare. Sotto i tuoi piedi senti la biblioteca recuperare rotoli da caricare nella macchina.>> ##PONDERAZIONE...||||
 ApocryphaMach3|[[AHIMÈ]], IMPOSSIBILE EVOCARE IL CODICE. ##[[REGISTRO DELL'ERRORE]]: CODICE NON AUTORIZZATO PER QUESTA INSTALLAZIONE. IN QUESTO ARCHIVIO SONO ELENCATI SOLTANTO SOGGETTI CENSURATI.||||
 ApocryphaMach4|DIVINAZIONE DEI CODICI CORRELATI... ##[[CMLIII/CCXLV]] (Genevieve Elodie Myshkin, ramo I) ##[[CXXIX/DXXII]] (Igor Suleimanevich Myshkin)||||
 ApocryphaMach5|[[CONTEMPLAZIONE CONCLUSA]]. RIPONETE LA PENNA.||||
@@ -3287,7 +3287,7 @@ ApocryphaMach16|[[Anno 15]]: Presentata a Machinus Rex una petizione per un perm
 ApocryphaMach17|[[Anno 24, Mese 1]]: Seconda ammonizione per diffamazione blasfema. ##[[Anno 24, Mese 4]]: Secondo arresto per diffamazione blasfema. Tre mesi di carcere. ##[[Anno 25]]: Terzo arresto per diffamazione blasfema e traffici al mercato nero. Soggetto CENSURATO per ordine di Machinus Rex.||||
 ApocryphaMach18|[[AHIMÈ]], IMPOSSIBILE EVOCARE IL CODICE. [[REGISTRO DELL'ERRORE]]: SOGGETTO REINDICIZZATO NEL PROGETTO REALE [[MMCCCIX]] (OROSCOPO) SU PETIZIONE DI: ((Sunil Khan, Portavoce del Re)).||||
 ApocryphaMach19|[[AHIMÈ]], IMPOSSIBILE EVOCARE IL CAPITOLO. [[REGISTRO DELL'ERRORE]]: CAPITOLO SIGILLATO SU PETIZIONE DI: ((Sunil Khan, Portavoce del Re)).||||
-ApocryphaMach20|IN MEDITAZIONE... ##<<La macchina romba e ronza per qualche tempo mentre ripesca il rotolo successivo dalle profondità della Biblioteca.>>||||
+ApocryphaMach20|PONDERAZIONE... ##<<La macchina romba e ronza per qualche tempo mentre ripesca il rotolo successivo dalle profondità della Biblioteca.>>||||
 ApocryphaMach21|ANNALI DEL PROGETTO REALE [[MMCCCIX]] (OROSCOPO) ##[[FASCICOLO]]: SOGGETTO V ##[[VERO NOME ORIGINALE]]: CCXLII/CCLIII||||
 ApocryphaMach22|[[NOME COMUNE]]: ((AHIMÈ, IMPOSSIBILE EVOCARE IL VERSO)). ##[[DATA DI NASCITA]]: ((Ante Rex)) 4, Mese 5, Giorno 59 ##[[LUOGO DI NASCITA]]: Sconosciuto, Oblast di Yansk ##[[ESITI PRINCIPALI]]:||||
 ApocryphaMach23|[[RAMO 0]] (Originale): ((AHIMÈ, IMPOSSIBILE EVOCARE IL VERSO.)) ##[[RAMO I]]: Morto suicida. ##[[RAMO II]]: Morto in prigione. ##[[RAMO III]]: Giustiziato per sedizione. ##[[RAMO IV]]: Emigrato senza permesso. ##[[RAMO V]]: Assegnata al servizio reale.||||
@@ -3354,7 +3354,7 @@ CorruptedCaptives13|<<La creatura continua a farfugliare, senza dare alcun segno
 CorruptedCaptives13b|{{🜌🜞🜫🜍🜫🜒 🜒🜌🝋🜒🜒🜌 🜌🜞🜫🜍🜫🜒 🜒🜌🜒🜒🜍🜌 🜌🜫🜌🜌🜫🜌 🜒🜌🜌🜒🜍🜞 🜌🜞🜫🜍🜫🜒 🜒🜌🝋🜒🜒🜌 🜌🜞🜫🜒🜌🜞 🜌🜞🜫🜒🜌🜍 🜒🜒🜍🜌🜫🝋 🜒🜌🜍🜌🜞🜫 🜌🜌🜞🜍🜫🜒 🜒🝋🜌🜒🝋🜌 🜒🜌🜒🜒🜌🜌 🜒🜌🜫🜒🜒🜍 🜒🜒🜌🜒🜍🜞 🜌🜞🜫🜒🜒🜍 🜌🜫🝋🜒🝋🝋 🜒🝋🝋🜌🝋🜞 🜍🜫🜒🜒🜌🜞 🜒🜍🜌🜌🜫🜌}}||||
 CorruptedCaptives14|...INCEDERE ORDINATI NEL VIOLETTO, QUA. [[REIFICAZIONE]]: INFONDI INFONDI TREGUA INFONDI. [[ANELITO]]: PIANO RACCONTI DEGLI DÈI MINORI E COPPA DANZANTE E STRIATURE DI PIOGGIA.||||
 CorruptedCaptives15|DACCI UN SEGNO, O TERRA NUTRICE, QUA QUA QUA. [[CONFESSIONE]]: ERAVAMO COSÌ GIOVANI...||||
-CorruptedCaptives16|<<Non vedi nulla che indichi che si tratti del figlio di Oleg.>>||||
+CorruptedCaptives16|<<Non vedi nulla che colleghi questa creatura a Oleg.>>||||
 CorruptedCaptivesP1|<<[Esaminare più da vicino il Corrotto.]>>||||
 CorruptedCaptivesP2|<<[Sollevare il medaglione di Oleg]>> Lo riconoscete?||||
 CorruptedCaptivesP3|<<[Lasciarlo stare.]>>||||
@@ -3368,15 +3368,15 @@ CorruptedAphra4b|{{🜒🜒🝋🜒🜍🜍 🜒🜒🜫🜍🜫🜒 🜒🜒�
 CorruptedAphra5|<<La creatura fissa il medaglione, come ipnotizzata.>> ##{{🜒🝋🜌🜒🝋🜌 🜒🜍🜞🜒🜍🜌 🜒🜍🜫🜌🜫🝋 🜒🜌🜞🜌🜫🝋 🜒🜌🜍🜌🜫🜌 🜌🜫🝋🜒🝋🝋 🜒🝋🝋🜌🝋🜞 🜍🜫🜒🜒🜌🜒 🜌🜞🜫🜌🜌🜞 🜌🜌🜞🜌🜌🜞}}...||||
 CorruptedAphra5b|<<La creatura fissa il medaglione, come ipnotizzata.>>||||
 CorruptedAphra5c|231231 204201 205153 214153 210151 153233 233134 052212 145114 114114||||
-CorruptedAphra6|<<I movimenti e le parole del Corrotto si fanno visibilmente più agitati, ma tu non riesci a capire nulla. Possibile che un tempo questa creatura fosse il figlio di Oleg?>>||||
-CorruptedAphra6b|<<Forse l'Addetto alle Pulizie Cohen può dirti di più.>>||||
+CorruptedAphra6|<<I movimenti e le parole del Corrotto si fanno visibilmente più agitati, ma tu non riesci a capire nulla. Possibile che questa creatura un tempo chiamasse Oleg papà?>>||||
+CorruptedAphra6b|<<Forse Cohen, della squadra di bonifica, può dirti di più.>>||||
 CorruptedAphra7|...COMINCIANDO DALLA FINE PER MANCANZA DI FINITUDINE. [[APORIA]]: SOLO I FATTI, PER FAVORE. [[AHIMÈ]], LA TREBBIATRICE III NON PUÒ ESSERE SALVATA. PERCHÉ NON ASCOLTATE? IN CATATONICA FRENESIA, GIRO E RIGIRO. CONGRATULAZIONI, SIETE STATO ACCETTATO.||||
 CorruptedAphra8|VIA, ISSA VIA, ISSEREMO INSIEME. NEL PROGETTO REALE [[MMCCCIX]] (OROSCOPO). [[AHIMÈ]], LA TREBBIATRICE III HA PATITO UN ANELITO INDEGNO DELLA SUA POSIZIONE. BASTARDI, INUTILI FOTTUTI BASTARDI. [[EDITTO]]: NESSUNO ASCOLTA.||||
 CorruptedAphra9|<<Fissa il medaglione, come ipnotizzata.>> ##[[LIMERENZA]]: PA...||||
 CorruptedAphra10|<<I movimenti e le parole del Corrotto si fanno visibilmente più agitati.>> ##...[[EDITTO]]: NON STARE CURVA! ACQUA CHE SCORRE DOLCEMENTE NEL PARCO. PER FAVORE, ASCOLTA. [[AHIMÈ]], ERRORE NEL CONTROLLO DELLO STATO. SGANCIA, REINSERISCI.||||
 CorruptedAphra11|LUI TI VUOLE BENE, CARA, ANCHE SE NON LO DIMOSTRA. [[AHIMÈ]], IMPOSSIBILE ESISTERE. SOGGETTO [[CCXLII/CCLIII]], LA TUA PETIZIONE È CON LA PRESENTE ACCOLTA. PER FAVORE, ASCOLTA. [[SUPPLICA]]: SIAMO SPIACENTI DI COMUNICARE.||||
 CorruptedAphra12|RESPINTA E TRE VOLTE RESPINTA. [[ATTENZIONE A TUTTI I LAVORATORI]]: QUESTO È UN ALLARME CATASTROFE. CONTINUAVO A RIPROMETTERMI DI SCRIVERE PRIMA, SOLTANTO.||||
-CorruptedAphra13|[[PETIZIONE]]: TERRA, POI IMPICCATI. SGANCIA, REINSERISCI. [[AHIMÈ]], IN CONFORMITÀ AI PARAMETRI DEL [[PROGETTO OROSCOPO]] APPLICABILI. PER FAVORE, ASCOLTA.||||
+CorruptedAphra13|[[PETIZIONE]]: TERRA, POI IMPICCATI. SGANCIA, REINSERISCI. [[AHIMÈ]], IN CONFORMITÀ AI PARAMETRI DEL [[PROGETTO OROSCOPO]]. PER FAVORE, ASCOLTA.||||
 CorruptedAphra14|CARO PAPÀ, TI SCRIVO PER DIRTI. PULIRE OGNI TESTA DI CRISTALLO TRE VOLTE AL GIORNO, FINCHÉ. [[REGISTRO DELL'ERRORE]]: AIUTACI, SIAMO PERDUTI. E ALLEGO QUESTO MEDAGLIONE, CHE SPERO TI SERVA SEMPRE DA RICORDO. PER FAVORE, ASCOLTA.||||
 CorruptedAphra15|[[EDITTO]]: TUTTI I NOMI COMUNI PRECEDENTI SONO CON LA PRESENTE ANNULLATI E SARANNO COME POLVERE. AVANTI, DOBBIAMO ANDARE. CON AFFETTO, TUA FIGLIA [[APHRA MYSHKIN]].||||
 CorruptedAphra16|<<Non è chiaro se riesca a capirti.>>||||
@@ -3402,21 +3402,21 @@ CohenA1|Occhio, cittadino. Se questi mostri si agitano troppo, chiudo la gabbia,
 CohenA2|State indietro, cittadino! Adesso questi mostri sono assopiti, ma potrebbero svegliarsi da un momento all'altro. E se vi mettono gli artigli addosso, diventerete un problema per tutti.||||
 CohenA3|Ci credereste? Un tempo erano cittadini proprio come voi e me. Quando la [[Corruzione]] vi prende, non si torna indietro.||||
 CohenA4|<<Cohen ti squadra.>> Eravate voi, eh? In effetti ((siete)) un tipo dall'aria un po' strana. Senza offesa.||||
-CohenA5|Entrate pure, allora: è il vostro funerale. Tanto, sia chiaro, non vi farebbero nemmeno un funerale.||||
+CohenA5|Entrate pure, allora: sarà il vostro funerale. Tanto, sia chiaro, non vi farebbero nemmeno un funerale.||||
 CohenA6|Avete perso il senno? Nessuno può entrare senza – ##<<All'improvviso, le parole di Cohen vengono coperte da una voce metallica assordante proveniente dall'edificio principale.>>||||
 CohenA7|"<<"ATTENZIONE A TUTTO IL PERSONALE. IL CAMBIO TURNO È RITARDATO DI 72 MINUTI. RIPETO, 72 MINUTI. HUANG, CHIUDO.">> "||||
 CohenA8|...come stavo dicendo. Non si entra senza ordini del capo.||||
-CohenA9|<<L'Addetto alle Pulizie sembra addolorato.>> Merda. Mi... dispiace per vostro figlio, davvero. Ma gli ordini sono tassativi. Non possiamo rischiare che qualcuno porti la Corruzione a Ferropolis.||||
+CohenA9|<<Cohen ha un'aria addolorata.>> Merda. Mi... dispiace per la persona che cercate, davvero. Ma gli ordini sono tassativi. Non possiamo rischiare che qualcuno porti la Corruzione a Ferropolis.||||
 CohenA10|...hmm. È vero, la paga non è granché per un lavoro così pericoloso. E metà delle volte ci pagano in ritardo...||||
 CohenA10b|<<Cohen lancia un'occhiata ai Corrotti nella gabbia.>> ##Ma non vale la pena rischiare la pelle.||||
-CohenA11|Ah, ((merda)). Perché capita sempre a me? ##Mi dispiace, Vostra Signoria, ma ho ordini tassativi di non lasciare entrare ((nessuno)) senza l'autorizzazione del capo. Nessuna eccezione.||||
-CohenA12|Sentite, se siete proprio deciso, parlate con il [[Caposquadra delle Pulizie Huang]]. È nell'edificio principale, all'ultimo piano. ##Ma non ditegli che vi mando io: ha un caratteraccio.||||
-CohenA12R|Come ho detto, parlate con il [[Caposquadra delle Pulizie Huang]] se volete dare un'occhiata nella gabbia. È nell'edificio principale, all'ultimo piano. ##Ma non ditegli che vi mando io: ha un caratteraccio.||||
+CohenA11|Ah, ((merda)). Perché capita sempre a me? ##Mi dispiace, vostro onore, ma ho ordini tassativi di non lasciare entrare ((nessuno)) senza l'autorizzazione del capo. Nessuna eccezione.||||
+CohenA12|Sentite, se siete proprio deciso, parlate con il [[Caposquadra della Bonifica Huang]]. È nell'edificio principale, all'ultimo piano. ##Ma non ditegli che vi mando io: ha un caratteraccio.||||
+CohenA12R|Come ho detto, parlate con il [[Caposquadra della Bonifica Huang]] se volete dare un'occhiata nella gabbia. È nell'edificio principale, all'ultimo piano. ##Ma non ditegli che vi mando io: ha un caratteraccio.||||
 CohenAP1|Che cosa sono quelle cose?||||
 CohenAP2|Voi siete Cohen, vero? Huang ha detto che posso guardare dentro la gabbia.||||
 CohenAP3|Posso dare un'occhiata dentro la gabbia?||||
 CohenAP4|Grazie dell'avvertimento.||||
-CohenAP5|<<[Mentire]>> Vi prego. Ho motivo di credere che uno di loro sia mio figlio.||||
+CohenAP5|<<[Mentire]>> Vi prego. Ho motivo di credere che una di queste creature mi chiamasse papà.||||
 CohenAP6|<<[Offrire monete]>> Potreste chiudere un occhio per un minuto, no?||||
 CohenAP7|<<[Mostrare l'Insegna della Gilda dei Macchinisti]>> Sono affari della Gilda. Devo entrare.||||
 CohenB1|Com'è andata là dentro? Quell'ultimo sembrava volervi fare proprio a pezzi.||||
@@ -3425,25 +3425,25 @@ CohenB3|Siete ancora umano, eh? Non è poco, da queste parti.||||
 CohenB3R|Comunque, che altro vi serve?||||
 CohenB3R2|Che altro vi serve?||||
 CohenB4|Oh, certo. Quel loro farfuglio... ##<<Le parole di Cohen vengono sommerse da una voce metallica che rimbomba per l'accampamento.>>||||
-CohenB4b|"<<"ATTENZIONE, ADDETTO ALLE PULIZIE PNIN. DOV'È LA MIA MALEDETTA CENA? HUANG, CHIUDO.">>"||||
+CohenB4b|"<<"ATTENZIONE, ADDETTO ALLA BONIFICA PNIN. DOV'È LA MIA MALEDETTA CENA? HUANG, CHIUDO.">>"||||
 CohenB5|Ehm. Quel farfuglio è una specie di dialetto del Cifro. Solo i Macchinisti riescono a capirci qualcosa, e solo se hanno uno di quei sofisticati [[impianti cranici]].||||
 CohenB6|Procurarvene uno? Voglio dire, dovrebbero essere riservati agli ingranaggi. Ho sentito che la lista d'attesa è più lunga del pisello di un Verme del Terrore: la maggior parte dei nostri ingegneri cranici è stata epurata anni fa. ##Detto questo...||||
-CohenB6b|Ne saprete più di me, Vostra Signoria. O non ve l'hanno ancora detto? Ho sentito che la lista d'attesa è più lunga del pisello di un Verme del Terrore. ##Be', vi dirò quel che so...||||
+CohenB6b|Ne saprete più di me, vostro onore. O non ve l'hanno ancora detto? Ho sentito che la lista d'attesa è più lunga del pisello di un Verme del Terrore. ##Be', vi dirò quel che so...||||
 CohenB6c|Una volta facevo la guardia al Machinarium, a Ferropolis. Ho avuto, ehm, chiamiamola una ((tresca amorosa)) con un ingranaggio di nome [[Morozov]]. Era completamente svitata. Una vera forza della natura...||||
 CohenB7|<<Cohen si interrompe e resta per un momento a fissare il vuoto.>>||||
 CohenB8|<<Alza le spalle con aria impacciata.>> Fu una storia tempestosa, mettiamola così. ##Comunque, il punto è questo: era ((lei)) che installava le nuove tubature craniche ai Macchinisti in addestramento.||||
 CohenB9|<<Cohen scuote la testa come per schiarirsela.>> Oh, scusate. Fu un periodo tempestoso della mia vita. ##Il punto è questo: era ((lei)) che installava le nuove tubature craniche ai Macchinisti in addestramento.||||
 CohenB10|Morozov vive in una [[torre]] sulle montagne, [[a nord di Ferropolis]]. Forse fare il mio nome servirà a qualcosa? ##È successo un sacco di tempo fa, però: non so se abbia ancora gli ingranaggi in moto.||||
 CohenB11|<<Cohen scrolla le spalle.>> Non che io sappia. Personalmente, neppure tutto il tesoro di Puria mi convincerebbe a lasciare che qualche ingranaggio svitato ficchi le sue dita unte nella mia zucca. ##Ma, se siete proprio deciso...||||
-CohenB11b|<<Cohen alza le spalle.>> Non che io sappia. Neppure tutto il tesoro di Puria convincerebbe ((me)) a lasciare che qualche ingranaggio svitato ficchi le dita unte nella mia zucca. Senza offesa, Vostra Signoria. ##Ma se siete proprio deciso...||||
+CohenB11b|<<Cohen alza le spalle.>> Non che io sappia. Neppure tutto il tesoro di Puria convincerebbe ((me)) a lasciare che qualche ingranaggio svitato ficchi le dita unte nella mia zucca. Senza offesa, vostro onore. ##Ma se siete proprio deciso...||||
 CohenB12|<<Cohen nota il tuo Moderatore Cranico.>> ##...ma vedo che siete già un passo avanti. Ebbene: provate a parlare con quei [[Corrotti]] un'altra volta. Con le vostre nuove tubature, potreste perfino scoprire qualcosa.||||
 CohenB13|Potete provare. Francamente, per me restano un maledetto mistero.||||
 CohenB13R|Volete sapere altro?||||
-CohenB14|<<Cohen sembra turbato.>> ##Il suo ((nome))? Siete sicuro di aver sentito bene?||||
+CohenB14|<<Cohen ha un'aria turbata.>> ##Il suo ((nome))? Siete sicuro di aver sentito bene?||||
 CohenB15|È ((decisamente)) strano. Direi che avvalora la mia teoria della "memoria vestigiale". Sempre che non fosse solo un nome sentito qui all'accampamento.||||
 CohenB16|Sentite, so che è inquietante, ma a volte lo fanno. L'ultimo Macchinista venuto qui pensava fosse una specie di azione riflessa, come il rigor mortis. Cercate di non perderci troppo sonno, eh?||||
 CohenB17|Hmm. È insolito, ma non senza precedenti. A volte sembrano attratti da luoghi particolari: case, piazze, fontane in rovina. La mia teoria è che alcuni conservino ricordi vestigiali della loro vita.||||
-CohenB18|Ehhh, più o meno. L'anno scorso ((è passato)) di qui un ingranaggio. Ha passato ore ad ascoltarli e a prendere appunti. Non ho mai visto nessuno scrivere così in fretta. Aveva anche lui uno di quegli impianti.||||
+CohenB18|Ehhh, più o meno. L'anno scorso ((è passato)) di qui un ingranaggio. Ha trascorso ore ad ascoltarli e a prendere appunti. Non ho mai visto nessuno scrivere così in fretta. Aveva anche lui uno di quegli impianti.||||
 CohenB19|Non si sbottonava molto, ma ho capito che non aveva scoperto granché. Diceva che era come parlare con un folle, o con uno di quei grossi insetti che imitano la voce umana. Pronunciano parole, ma non c'è alcun significato più profondo. Tutto strepito e furore, no?||||
 CohenBP1|Credo che stessero parlando con me, ma non riuscivo a capire nulla.||||
 CohenBP2|Non mi avete detto che i Corrotti parlano il Cifro Sestuplo.||||
@@ -3459,12 +3459,12 @@ CohenBP11|Una di loro mi ha detto il suo nome. Credo che mi stesse chiedendo aiu
 CohenBP12|Uno dei Corrotti sembrava riconoscere il mio medaglione.||||
 CohenBP13|I Macchinisti sanno come parlare con queste cose?||||
 CohenBP14|Grazie del vostro tempo.||||
-CohenDebug1|<<Trovi l'Addetto alle Pulizie Cohen che canta fra sé una strana melodia agrodolce, su un soldato-musicista che cerca di illuminare gli animi della gente nel mezzo di un conflitto brutale.>>||||
+CohenDebug1|<<Trovi Cohen, della squadra di bonifica, che canta fra sé una strana melodia agrodolce, su un soldato-musicista che cerca di illuminare gli animi della gente nel mezzo di un conflitto brutale.>>||||
 CohenDebug2|Ehi, ehi. Reza mi aveva avvertito della [[Modalità Debug]], ma a quanto pare non ci avevo creduto. ##Allora? Che significa tutto questo?||||
 CohenDebug3|Proprio così. Che altro vi serve?||||
 CohenDebug4|Di nuovo niente di speciale, eh? Lo affronterò da... be', da Cohen, suppongo.||||
-Nadja1|<<Questa giovane donna giace ben rimboccata nel letto, con quella pace infantile e inconsapevole che benedice chi dorme profondamente.>> ##<<Un lieve sorriso le aleggia sulle labbra, come per una soddisfazione tutta sua.>>||||
-Nadja2|<<Questa giovane donna giace ben rimboccata nel letto, con quella pace infantile e inconsapevole che benedice chi dorme profondamente.>> ##<<Il volto è contratto in un'espressione inquieta, come se fosse alle prese con un dilemma tutto suo.>>||||
+Nadja1|<<Questa giovane donna giace nel letto sotto coperte ben rimboccate, con quella pace infantile e inconsapevole che benedice chi dorme profondamente.>> ##<<Un lieve sorriso le aleggia sulle labbra, come per una soddisfazione tutta sua.>>||||
+Nadja2|<<Questa giovane donna giace nel letto sotto coperte ben rimboccate, con quella pace infantile e inconsapevole che benedice chi dorme profondamente.>> ##<<Il volto è contratto in un'espressione inquieta, come se fosse alle prese con un dilemma tutto suo.>>||||
 Nadja3|<<Qualcuno le ha pettinato con cura i capelli all'indietro, perché non le cadano sugli occhi.>>||||
 Nadja4|<<Una ciocca spettinata le ricade sugli occhi, coprendole in parte il volto. Nessuno sembra essersene preoccupato.>>||||
 Nadja5|<<Ecco. Tutto in ordine.>>||||
@@ -3472,7 +3472,7 @@ Nadja6|<<È strano vedere Nadja in questo ambiente industriale, stipata insieme 
 Nadja7|<<Ciononostante, un lieve sorriso le aleggia sulle labbra, come per una soddisfazione tutta sua.>>||||
 NadjaP1|<<[Scostarle delicatamente i capelli dagli occhi.]>>||||
 NadjaP2|<<[Lasciarla in pace.]>>||||
-VisionWorksTech1|Scusate, amico, non ho tempo di chiacchierare. Ho ((un sacco)) di padelle sanitarie da svuotare e pulire prima che finisca il turno, e le verdure certo non mi daranno una mano.||||
+VisionWorksTech1|Scusate, amico, non ho tempo di chiacchierare. Ho ((un sacco)) di padelle sanitarie da svuotare e pulire prima che finisca il turno, e i vegetali certo non mi daranno una mano.||||
 VisionWorksTech2|<<Questo tecnico osserva uno dei dormienti con aria pensierosa.>> ##Sapete, a volte mi chiedo che cosa stiano vivendo. A modo suo, dev'essere incredibile.||||
 VisionWorksTech3|Da fuori sembra che dormano profondamente come un neonato a cui hanno dato del gin per tenerlo buono. Ma dentro vivono vite che riusciamo a malapena a immaginare, piene di meraviglia e terrore.||||
 VisionWorksTech4|Io? Oh no, non tocco mai quella roba. I miei amici pensano che sia strano, ma forse la penserebbero allo stesso modo dopo aver lavorato qui.||||
@@ -3549,7 +3549,7 @@ Pripp31|Ospitiamo inoltre un gruppo di sostegno settimanale per i familiari degl
 Pripp32|Se la memoria non m'inganna, potrebbe comprarne una nel negozio di Vidal. Le occorrerebbe un permesso, ma poiché presiedo l'organo che approva tali permessi, non sarà un problema.||||
 Pripp33|Devo avvertirvi che, senza il vantaggio della nostra vasta rete distributiva e del monopolio reale sulle esportazioni, questa opzione sarebbe inevitabilmente meno redditizia per Yasmeen.||||
 Pripp34|D'altra parte, con la pratica Yasmeen potrebbe imparare a catturare i ((propri)) sogni e somministrarli a Nadja, consentendo potenzialmente una forma di comunicazione bidirezionale fra le due.||||
-Pripp35|Perché non prendete uno dei nostri contratti standard perché lo legga? Nel plico è inclusa una busta della Posta Reale di classe 0, già affrancata.||||
+Pripp35|Perché non prendete uno dei nostri contratti standard da farle leggere? Nel plico è inclusa una busta della Posta Reale di classe 0, già affrancata.||||
 Pripp36|Se Yasmeen accetterà la nostra offerta, lascerò la vostra [[provvigione]] presso [[Vidal, il mercante di visioni]] a Ferropolis.||||
 Pripp37|Ricordate, non è una decisione da prendere alla leggera. Invito Yasmeen a prendersi tutto il tempo che desidera.||||
 Pripp38|<<Pripp sputacchia mentre viene sommerso da una pioggia di fogli.>> ##Uff! Avete senz'altro un certo talento per la teatralità.||||
@@ -3654,11 +3654,11 @@ Yasmeen55|A dire il vero, però, è inutile discuterne. Non ho [[120 monete]] pe
 Yasmeen56|Contatterò questo dottor Pripp e comincerò la procedura. Che altro posso fare?||||
 Yasmeen57|%% <<Yasmeen sembra commossa.>> È vero. Mi diceva sempre di non preoccuparmi del lavoro. Che si sarebbe occupata lei di tutto, così io avrei potuto far riposare i polmoni. Forse è davvero ciò che vorrebbe.||||
 Yasmeen58|<<Capisci di averla rassicurata sulla sua decisione.>>||||
-Yasmeen59|&& <<Le tue parole sembrano soltanto acuire il dolore di Yasmeen.>> ##È vero. Mi diceva sempre che si sarebbe occupata lei di tutto, che avrebbe mantenuto tutte e due. Ma non avrei mai voluto che lo facesse ((così!)||||
+Yasmeen59|&& <<Le tue parole sembrano soltanto acuire il dolore di Yasmeen.>> ##È vero. Mi diceva sempre che si sarebbe occupata lei di tutto, che ci avrebbe mantenute tutte e due. Ma non avrei mai voluto che lo facesse ((così!))||||
 Yasmeen60|<<Capisci che Yasmeen è combattuta di fronte alla tua offerta.>> ##Cosa? Oh no, no, non potrei mai accettare. Avete già fatto così tanto...||||
 Yasmeen61|Credo fossero [[120 monete]]. Ma, per le orecchie del Re, non dovreste essere voi a pagarle: avete già fatto moltissimo per noi.||||
 Yasmeen62|<<Sorride appena, poi alza verso di te gli occhi pieni di lacrime.>> ##Molto bene, allora. Credo che ci sia tempo a sufficienza.||||
-Yasmeen63|<<Se è delusa, bada a non darlo a vedere.>> ##Certo, caro. So come vanno queste cose. Ebbene, Contatterò questo dottor Pripp e comincerò la procedura.||||
+Yasmeen63|<<Se è delusa, bada a non darlo a vedere.>> ##Certo, caro. So come vanno queste cose. Ebbene, contatterò questo dottor Pripp e comincerò la procedura.||||
 Yasmeen64|Qualunque sia l'esito, avete aiutato Nadja più di quanto avrei potuto chiedere. Vorrei potervi pagare per il vostro tempo, ma... be', forse questo basterà.||||
 Yasmeen65|Questo è l'[[Atto]] della nostra vecchia casa di famiglia, [[appena fuori Ferropolis]]. Tecnicamente dovremmo presentare al Re Meccanico una petizione per il passaggio di proprietà... ma poiché la Milizia ha quasi del tutto abbandonato la campagna, dovrebbero lasciarvi in pace.||||
 Yasmeen66|Oh, sì che potete! A che ci servirebbe, comunque? Restaurare quel posto è un lavoro a tempo pieno, adatto a qualcuno ((senza)) i polmoni pieni di spore.||||
@@ -3719,7 +3719,7 @@ Receptionist2|Splendido! State tranquillo, siete in buone mani. Il benessere dei
 Receptionist3|Splendido! Ora devo informarvi che non possiamo firmare un contratto senza incontrare il candidato di persona, oppure esaminarlo se non è in condizioni di presentarsi per ragioni mediche. Sarò però lieta di illustrarvi tutti i dettagli.||||
 Receptionist4|Abbiamo diverse posizioni aperte, con contratti di durata compresa fra tre mesi standard Meccanici e 12 anni. Quanto pensavate di restare?||||
 Receptionist5|<<Ridacchia.>> Non preoccupatevi, non siete il primo a chiederlo. Molte persone anziane hanno ancora difficoltà con il calendario. ##Un mese standard Meccanico dura sessanta giorni, Giorno Zero compreso, naturalmente.||||
-Receptionist6|<<L'impiegata cinguetta con una cantilena che ha evidentemente provato centinaia di volte.>> ##Salve, Vostra Signoria, e benvenuto ai [[Regi Laboratori delle Visioni]]! Come posso assistervi?||||
+Receptionist6|<<L'impiegata cinguetta con una cantilena che ha evidentemente provato centinaia di volte.>> ##Salve, vostro onore, e benvenuto ai [[Regi Laboratori delle Visioni]]! Come posso assistervi?||||
 Receptionist7|<<L'impiegata cinguetta con una cantilena che ha evidentemente provato centinaia di volte.>> ##Salve, cittadino, e benvenuto ai [[Regi Laboratori delle Visioni]]! Come posso assistervi?||||
 ReceptionistR|Posso aiutarvi con qualcos'altro?||||
 Receptionist8|Il buon dottore si trova all'[[ultimo piano]]. Sono certa che sarà più che felice di assistervi.||||
@@ -3734,14 +3734,14 @@ Receptionist16|<<L'impiegata sorride freddamente.>> Se non siete qui per un moti
 Receptionist17|Mi dispiace, il [[Dottor Pripp]] è estremamente occupato al momento e riceve soltanto su appuntamento. Posso aiutarvi con qualcos'altro?||||
 Receptionist18|E ora, posso aiutarvi con qualcos'altro?||||
 Receptionist19|Posso aiutarvi con qualcos'altro?||||
-Receptionist20|<<L'impiegata sembra turbata.>> Oh! Vi chiedo scusa, Vostra Signoria. Perché non l'avete detto prima?||||
+Receptionist20|<<L'impiegata sembra turbata.>> Oh! Vi chiedo scusa, vostro onore. Perché non l'avete detto prima?||||
 Receptionist21|Ciò nonostante, temo che dovrò vedere un ordine del Re. È scritto nella nostra lettera patente, capite? ##<<Indica un documento dall'aria ufficiale esposto con orgoglio sulla parete.>>||||
-Receptionist21b|Naturalmente, Vostra Signoria. ((Dovrò)) vedere un ordine del Re. È scritto nella nostra lettera patente, capite? ##<<Indica un documento dall'aria ufficiale esposto con orgoglio sulla parete.>>||||
-Receptionist22|&& <<L'impiegata sembra a disagio.>> Mi dispiace molto, Vostra Signoria, ma semplicemente non ho l'autorità per farlo. Se non vi spiace attendere, sono certa che il dottor Pripp sarà felice di aiutarvi appena sarà disponibile.||||
+Receptionist21b|Naturalmente, vostro onore. ((Dovrò)) vedere un ordine del Re. È scritto nella nostra lettera patente, capite? ##<<Indica un documento dall'aria ufficiale esposto con orgoglio sulla parete.>>||||
+Receptionist22|&& <<L'impiegata sembra a disagio.>> Mi dispiace molto, vostro onore, ma semplicemente non ho l'autorità per farlo. Se non vi spiace attendere, sono certa che il dottor Pripp sarà felice di aiutarvi appena sarà disponibile.||||
 Receptionist23|<<Si ricompone.>> Oh! E lunga vita al Re, naturalmente.||||
-Receptionist24|%% <<L'impiegata ti rivolge uno sguardo d'intesa.>> Ah, ((naturalmente)), Vostra Signoria. Il buon dottore si trova all'[[ultimo piano]]. Sono certa che sarà lieto di assistervi.||||
+Receptionist24|%% <<L'impiegata ti rivolge uno sguardo d'intesa.>> Ah, ((naturalmente)), vostro onore. Il buon dottore si trova all'[[ultimo piano]]. Sono certa che sarà lieto di assistervi.||||
 Receptionist25|<<L'impiegata sbatte le palpebre mentre ti volti.>> Scusate, volete entrare a modo ((vostro))? Ma i visitatori non sono ammessi... ##Ehm, scusate. Cittadino? Dove state andando?||||
-Receptionist26|<<L'impiegata sbatte le palpebre mentre ti volti.>> Scusate, volete entrare a modo ((vostro))? Ma i visitatori non sono ammessi... ##Ehm, scusate. Vostra Signoria? Dove state andando?||||
+Receptionist26|<<L'impiegata sbatte le palpebre mentre ti volti.>> Scusate, volete entrare a modo ((vostro))? Ma i visitatori non sono ammessi... ##Ehm, scusate. Vostro onore? Dove state andando?||||
 Receptionist27|Un reclamo? Da parte di chi? Scusate, chi siete esattamente?||||
 Receptionist28|&& <<L'impiegata ti interrompe con studiata disinvoltura.>> ##Vi fermo qui, "ispettore". Abbiamo una ((procedura)) per questo. Mi occorre un modulo di reclamo firmato e timbrato, altrimenti non posso aiutarvi.||||
 Receptionist29|%% <<La receptionist sbatte le palpebre, spiazzata dalla tua aura di incrollabile sicurezza burocratica.>> ##La CRS? Che cosa significa? Non ne ho mai nemmeno sentito parlare –||||

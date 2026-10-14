@@ -1,4 +1,6 @@
 /dist/
+/review-work/
+/review-input/
 /resources.assets
 /*.zip
 *.backup

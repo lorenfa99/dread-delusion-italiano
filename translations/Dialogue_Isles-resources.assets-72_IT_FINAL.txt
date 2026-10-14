@@ -88,16 +88,16 @@ DesSwitchP2|Lasciarlo stare|||
 Pulmona1|<<L'uomo dentro il guscio è tutto nodi e spigoli, proprio come la sua dimora ingombra di cianfrusaglie. Ti rivolge uno sguardo duro e silenzioso, quasi vedesse attraverso di te qualcosa dall'altra parte.>>|||
 Pulmona2|%%Lo sguardo dell'uomo si stacca di scatto da te; per un istante si fissa oltre la tua spalla, poi ti volta le spalle. Il congedo, per quanto silenzioso, non potrebbe essere più chiaro.|||
 Pulmona3|%%Ah. Un visitatore.##Ma... un visitatore per me?|||
-Pulmona4|Ci vivo quanto i morti lassù vivono sul campo dei caduti. Sì, io passo qui il mio tempo e, a volte, altri ci spendono il loro oro.|||
+Pulmona4|Ci vivo quanto i morti lassù vivono sul campo dei caduti, suppongo. Sì, io passo qui il mio tempo e, a volte, altri ci spendono il loro oro.|||
 Pulmona5|Questo posto? Casa mia, il mio emporio, la mia cavalcatura.|||
 Pulmona6|Oppure intendevate il campo di carneficina lassù?##[[Roccia di Aristide]], così lo chiamavano un tempo.|||
 Pulmona7|Tra le altre cose... di questi tempi incontro raramente qualcuno. Ma conservo qui un certo numero di curiosità e gingilli.##Potreste trovare alcuni [[oggetti di notevole interesse]]...|||
-Pulmona8|Non sono qui per affari, sto... diciamo, porgendo i miei omaggi. Ma sono sempre lieto di fare qualche affare, già che ci sono. Potreste trovare alcuni [[oggetti interessanti]]...|||
+Pulmona8|Non sono qui per affari, sto... diciamo, rendendo omaggio. Ma sono sempre lieto di fare qualche affare, già che ci sono. Potreste trovare alcuni [[oggetti interessanti]]...|||
 Pulmona9|Ai morti là fuori, naturalmente. Ai soldati caduti e agli... altri morti.|||
 Pulmona10|L'Inquisizione vorrebbe farci dimenticare ciò che accadde qui, ma non tutti l'abbiamo dimenticato. Non ancora.##E nemmeno i morti.|||
 Pulmona11|Siete tornato. Di questi tempi incontro raramente qualcuno.##Conservo qui un certo numero di curiosità e gingilli. Potreste trovare alcuni [[oggetti di notevole interesse]]...|||
 Pulmona12|Addio.|||
-PulmonaP1|Lasciarlo ai suoi marchingegni|||
+PulmonaP1|Lasciarlo alle sue faccende|||
 PulmonaP2|@@Che posto è questo?|||
 PulmonaP3|Emporio? Quindi questo è un negozio?|||
 PulmonaP4|Certamente, fatemi vedere cos'avete. <<[COMMERCIA]>>|||
@@ -125,7 +125,7 @@ Drangorg16|Sì, d'accordo. Be', c'è qualcos'altro su cui volete fare due chiacc
 Drangorg17|Hm, be', quando arrivammo alla Roccia di Aristide la guerra era quasi finita. Un posto da nulla, davvero, ma alcuni di quei credenti vi fuggirono con un dio. Anzi, ((su)) un dio.|||
 Drangorg18|E voi non avete mai visto un dio messo alle strette, vero? <<Aggrotta la fronte.>>##No. Meglio per voi.|||
 Drangorg19|Ma avevamo la nostra macchina, quella su cui io e Cornelius prestavamo servizio praticamente dall'inizio di tutta quella faccenda.|||
-Drangorg20|<<Fa una pausa.>> Aspettate, non vi avevo parlato di Cornelius? Era il mio... ah. Il mio comandante. Il migliore che ci sia mai stato. ##Aveva un vero legame con la macchina. Lui e io avevamo spinto quella macchina al limite, battaglia dopo battaglia, finché non la conoscevamo quasi meglio di quanto ci conoscessimo fra noi.|||
+Drangorg20|<<Fa una pausa.>> Aspettate, non vi avevo parlato di Cornelius? Era il mio... ah. Il mio comandante. Il migliore che ci sia mai stato. ##Aveva un vero legame con la macchina. Lui e io avevamo spinto quell'affare al limite, battaglia dopo battaglia, finché non la conoscevamo quasi meglio di quanto ci conoscessimo fra noi.|||
 Drangorg21|Comunque, ah... <<Il vecchio ingegnere si interrompe, perso nei suoi pensieri, e sotto i baffoni spioventi le guance gli si arrossano un poco.>>|||
 Drangorg22|Scusatemi. Ho perso il filo per un momento, io... Ach. ##Non serve che sentiate tutta la storia. È acqua passata, ed è meglio così. Io sono tornato, la maggior parte di noi no, compresi Cornelius e la macchina da guerra.|||
 Drangorg23|Dev'essere ancora laggiù, da qualche parte. Quel che ((resta)) di lui. Nessuno di noi tornò più in quel posto, capite. Anche se qualcuno ((volesse)) tornare su quella roccia maledetta, gli servirebbe un'[[Aeronave potente]].|||
@@ -136,7 +136,7 @@ Drangorg27|<<Tossisce, facendo divampare la pipa in modo particolarmente spettac
 Drangorg28|Ecco. Prendete questo. Non apritelo qui, dove un Inquisitore qualunque potrebbe vederlo! Quello è del Minerale del Vuoto. Non ci ho mai costruito niente né ammazzato niente, e a questo punto non lo farò mai. Ma è con quella roba che abbiamo fatto fuori tutti gli dèi: quella, e il nostro sangue e le nostre budella.|||
 Drangorg29|Un po' di quella roba che misi da parte per me alla fine della guerra, anche se non saprei dire perché. Forse per avere qualcosa che me la ricordasse, ma ora ho... questo.##<<Drangorg stringe forte il ciondolo mentre fa scivolare verso di te un pacchetto. Sembra il momento giusto per lasciare il vecchio ai suoi pensieri.>>|||
 Drangorg30|Già. Ero un geniere da combattimento. Tenente-Artefice Drangorg, 17° GuardiaUnta. Costruivo e mantenevo in funzione macchine da guerra che non riuscireste neppure a immaginare. ##Costruivamo macchine per portare la guerra agli dèi stessi. E abbiamo vinto.|||
-Drangorg31|<<Aggrotta la fronte.>> Be', non serve certo che vi dica che fu ((dura.)) A quei tempi, lo sforzo bellico si divorava tutto ciò che ((avevamo.)) Di giorno lavoravamo, e di notte — cullati fra ruote dentate e ingranaggi delle nostre macchine — l'artiglieria urlante dei Wikkan non ci lasciava dormire.|||
+Drangorg31|<<Aggrotta la fronte.>> Be', non serve certo che vi dica che fu ((dura.)) A quei tempi, lo sforzo bellico si divorava tutto ciò che ((avevamo.)) Di giorno lavoravamo, e di notte — cullati fra ruote dentate e ingranaggi delle nostre macchine — non riuscivamo a dormire per l'artiglieria urlante dei Wikkan.|||
 Drangorg32|Ma il 17°? Eravamo noi i ((migliori)). Quasi tutti eravamo di Kardova — prima del ((Regno Meccanico)), o come diavolo si chiama adesso.|||
 Drangorg33|<<Sospira.>> Non rividi mai la maggior parte di quei ragazzi. Ho sentito dire che laggiù se la passano piuttosto male, con quel Re Meccanico.|||
 Drangorg34|Hm, be', quando arrivammo alla Roccia di Aristide la Guerra Divina era quasi finita. Un posto da nulla, davvero, ma alcuni di quei credenti vi fuggirono con un dio. Anzi, ((su)) un dio.|||
@@ -147,7 +147,7 @@ Drangorg38|Dite pure ciò che volete della vostra Polimate locale: maledite il s
 Drangorg39|Certo, alla fine mi sono trovato faccia a faccia e spada contro spada anche con parecchi dèi, quindi tant'è.|||
 Drangorg40|Già, l'Inquisizione. Vi sta col fiato sul collo, cerca di guardarvi dentro il cranio. Non siete l'unico a trovarla un po'... soffocante.##Ma provate a vedere la cosa dal suo punto di vista. Gli dèi non si limiteranno ad arrendersi e accettare il proprio destino. Non possono scendere a patti con noi. Per loro è una questione ((esistenziale)). Quindi non smetteranno mai di cercare di riprendersi il potere. Mai.|||
 Drangorg41|Questo significa che ogni singolo dio, finché vive — se si può chiamare «vita» ciò che possiede — è un pericolo mortale per l'Unione. Soprattutto perché uno qualunque di loro potrebbe crescere fino a diventare un mostro, se raggirasse abbastanza idioti da farsi adorare.##Quando siete chiuso in gabbia con un cane rabbioso, non potete sempre andarci piano.|||
-Drangorg42|Ah, be'. Hallowshire è un caso particolare. Ai confini è sempre tutto un po' caotico, sapete? E ad alcuni, a dire il vero, quel caos piace. Ma in certi altri regni... forse un giorno li vedrete.|||
+Drangorg42|Ah, be'. Hallowshire è un caso particolare. Ai confini è sempre tutto un po' caotico, sapete? E ad alcuni, a dire il vero, quel caos piace. Ma certi altri regni... forse un giorno li vedrete.|||
 Drangorg43|Io, per esempio, vengo da [[Byonne]]. Gli acini che si gonfiano prima della vendemmia, le campane che suonano nelle città, i mercati, gli studiosi, le canzoni.##Sono queste le cose per cui abbiamo combattuto. E abbiamo vinto.|||
 Drangorg44|<<Ti rivolge un secco cenno del capo.>>|||
 Drangorg45|<<Drangorg annuisce in silenzio e tira una boccata dalla pipa.>>|||

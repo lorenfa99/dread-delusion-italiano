@@ -8,7 +8,7 @@ banished5|Per tutto il viaggio di ritorno non dici una parola. Pensi soltanto a 
 banishedOrder1|Negli anni seguenti, fai carriera nell'Inquisizione, seminando paura al passaggio dei tuoi stivali.||||||||||||
 banishedOrder2|Ben presto ti guadagni una fama terribile, e il tuo nome viene sussurrato con timore e reverenza in tutta l'Unione Apostatica.||||||||||||
 banishedLiberty1|Scontata la tua penitenza, vieni liberato dall'Inquisizione. I successivi scontri con l'autorità ti portano a unirti proprio a quelli che un tempo combattevi: i mercenari della Stella Oscura.||||||||||||
-banishedLiberty2|Ben presto ti guadagni rispetto, infamia e persino il comando, come Vela prima di te. ##Per alcuni sei un tiranno, per altri un liberatore. Ma una cosa è certa: il tuo nome è conosciuto in tutti i Regni Celesti.||||||||||||
+banishedLiberty2|Ben presto ti guadagni rispetto, una fama sinistra e persino il comando, come Vela prima di te. ##Per alcuni sei un tiranno, per altri un liberatore. Ma una cosa è certa: il tuo nome è conosciuto in tutti i Regni Celesti.||||||||||||
 banishedSelf1|Scontata la tua penitenza, vieni liberato dall'Inquisizione. Finalmente libero, parti da solo, senza curarti di dove ti porterà il vento.||||||||||||
 banishedSelf2|Negli anni seguenti, nei Regni Celesti si raccontano storie di un viandante solitario la cui sola presenza sembra innescare strani eventi.||||||||||||
 banished6|Jack Basalt abbandona la vita da mercenario e passa il resto dei suoi giorni a vagare da una taverna all'altra, blaterando da ubriaco delle imprese di un tempo.||||||||||||
@@ -22,7 +22,7 @@ banished13|E Vela? Durante la fuga vi siete detti poco. L'indomani era scomparsa
 joined1|L'Angelo ti chiama a sé. Mentre precipiti nella sua mente, la tua coscienza si contorce, si tende e infine esplode, riversandosi nell'universo.||||||||||||
 joined2|Ora, per la prima volta, lo vedi. Parole, righe e versi si intrecciano in un arazzo che attraversa ogni angolo dell'esistenza. Basterebbero pochi guizzi della lingua per cambiare tutto.||||||||||||
 joined3|E lo fai.||||||||||||
-joined4|Le tue parole riverberano nella realtà. Poche parole rendono reversibile la morte e spezzano la gelida linearità dell'esistenza mortale. Con un'altra frase, doni a ogni persona una minuscola goccia del tuo nuovo potere.||||||||||||
+joined4|Le tue parole riverberano nella realtà. Bastano poche frasi a rendere reversibile la morte e a spezzare la gelida linearità dell'esistenza mortale. Con un'altra frase, doni a ogni persona una minuscola goccia del tuo nuovo potere.||||||||||||
 joined5|In tutti i Regni Celesti, chiunque, dal nobile all'oppresso, avverte un'ondata di comprensione superiore a quella di qualsiasi mago del Cifro.||||||||||||
 joined6|I morti da lungo tempo, silenziosi da secoli, se non più a lungo, scoprono che basta aprire gli occhi e respirare.||||||||||||
 joined7|Tra loro ci sono i tuoi compagni. Basalt, Orlaith, Frost e la Duchessa sono a riva e assistono alla tua ascesa verso qualcosa che trascende perfino la divinità.||||||||||||
@@ -31,7 +31,7 @@ joinedOrder2|Comprendi che, con i suoi nuovi doni, l'umanità si agiterà e si d
 joinedOrder3|Così dai alla città il nome di Paradiso: torri di vedetta di Cifro scrutano senza mai battere ciglio, e legioni di guardiani angelici sono sempre pronte a proteggere ciò che hai costruito.||||||||||||
 joinedLiberty1|E qui, nelle Isole Oniriche, pianti il seme di una nuova città, che crescerà in quest'era di possibilità senza confini.||||||||||||
 joinedLiberty2|Chiami questa città Paradiso, perché sia un fulcro di cambiamento e crescita sotto il tuo sguardo onnipresente.||||||||||||
-joinedLiberty3|Pur rifiutandoti di scendere al livello dell'Inquisizione cancellandola semplicemente dall'esistenza, la tua città di dissidenti ed eretici diventa un tumultuoso affronto a tutto ciò che l'Inquisizione rappresenta e un catalizzatore di trasformazione in tutti i Regni Celesti.||||||||||||
+joinedLiberty3|Benché tu ti rifiuti di scendere al livello dell'Inquisizione cancellandola semplicemente dall'esistenza, la tua città di dissidenti ed eretici diventa un tumultuoso affronto a tutto ciò che l'Inquisizione rappresenta e un catalizzatore di trasformazione in tutti i Regni Celesti.||||||||||||
 joinedSelf1|E qui, nelle Isole Oniriche, ti rinchiudi in un grembo di Cifro. Ben presto una città prolifera intorno a te, ma non le presti attenzione.||||||||||||
 joinedSelf2|Lasci che il nuovo mondo delle possibilità si schiuda petalo dopo petalo, intervenendo il meno possibile. Davanti a te si aprono sentieri verso luoghi luminosi e oscuri, e nemmeno il tuo nuovo sguardo riesce a discernere quale imboccherà l'umanità.||||||||||||
 companions5|Jack Basalt abbandona la vita da mercenario e vaga per i Regni Celesti su una vecchia barca sgangherata. Ogni tanto lo si avvista in qualche porto, intento a incantare i bambini con racconti di cappa e spada troppo stravaganti per sembrare veri.||||||||||||
@@ -59,32 +59,32 @@ joinHallowPaeg2|Col tempo, gli abitanti si spogliano delle loro pelli mortali e 
 joinHallowPaeg3|Dal tuo seggio in Paradiso scruti con occhio guardingo questo caos sfrenato e intervieni regolarmente per soffocare sul nascere gli elementi che minacciano il bene comune.||||||||||||
 joinHallowPaeg4|Benché in Paradiso tutti siano uguali, non puoi fare a meno di prediligere questi nuovi cittadini e di additarli come fulgidi esempi della nuova era.||||||||||||
 joinHallowPaeg5|Approfittando di questa nuova realtà, Paeguth diventa la potenza dominante di Hallowshire e sovrintende alla trasformazione della regione in un regno di fecondità anarchica.||||||||||||
-banEndEntomb1|Nel Regno Eterno, le tue macchinazioni permettono all'Intombata di sconfiggere la Regina d'Argento e il suo consiglio.||||||||||||
+banEndEntomb1|Nel Regno Eterno, le tue macchinazioni permettono all'Entità Sepolta di sconfiggere la Regina d'Argento e il suo consiglio.||||||||||||
 banEndEntomb2|Ben presto, l'intero regno viene dilaniato da magie devastanti, alimentate dalle agonie e dai rancori dei suoi abitanti.||||||||||||
 banEndEntomb3|Sulle poche isolette rimaste, un manipolo di Eterni sopravvissuti si aggrappa a un'esistenza miserabile, confortato soltanto dalla speranza che i propri simili abbiano trovato una qualche forma di pace.||||||||||||
-banEndEntomb4|L'Intombata, che marcisce sotto Sepolcro, finisce per detronizzare la Regina d'Argento e il suo consiglio.||||||||||||
+banEndEntomb4|L'Entità Sepolta, che marcisce sotto Sepolcro, finisce per detronizzare la Regina d'Argento e il suo consiglio.||||||||||||
 banEndEntomb5|Dopo aver preso il controllo di Hallowshire, l'Unione Apostatica chiude i confini ai profughi Eterni. Chi riesce comunque a compiere la traversata viene trattato con scherno e disprezzo.||||||||||||
 banEndEntomb6|Paeguth guarda con pietà questi sopravvissuti e offre a molti di loro un posto a Hallowshire, ormai liberata.||||||||||||
 banEndEntomb7|Alcuni Eterni scoprono persino che la magia Wikkan, con i suoi effetti trasformativi, allevia la loro miseria.||||||||||||
-banEndQueen1|Placando l'ira dell'Intombata, hai garantito alla Regina d'Argento molti altri secoli di regno sul Regno Eterno, mentre i suoi sudditi riposano al sicuro nella quieta penombra dei loro mausolei.||||||||||||
-banEndQueen2|E aiutando Penitente D'Isgelo a risolvere il dilemma della carne senziente, permetti agli Eterni di restare autosufficienti. Continuano a banchettare con carne priva di coscienza.||||||||||||
-banEndQueen3|I rapporti con l'Unione Apostatica continuano a migliorare e, col tempo, i due vicini diventano alleati saldi e inseparabili, uniti dalla loro comune empietà.||||||||||||
+banEndQueen1|Placando l'ira dell'Entità Sepolta, hai garantito alla Regina d'Argento molti altri secoli di dominio sul Regno Eterno, mentre i suoi sudditi riposano al sicuro nella quieta penombra dei loro mausolei.||||||||||||
+banEndQueen2|E aiutando Penitente D'Isgelo a risolvere il dilemma della carne senziente, permetti agli Eterni di restare autosufficienti. Continuano a banchettare con carne che, per quanto se ne sappia, è priva di coscienza.||||||||||||
+banEndQueen3|I rapporti con l'Unione Apostatica continuano a migliorare e, col tempo, i due vicini diventano alleati saldi e inseparabili, uniti dal comune rifiuto degli dèi.||||||||||||
 banEndQueen4|Con Paeguth al potere in Hallowshire, i due vicini stringono un'insolita alleanza e aprono nuove frontiere nell'esplorazione dei misteri e delle magie arcane, con grande scorno dell'Unione Apostatica.||||||||||||
 banEndQueen5|Ben presto, però, diventa chiaro che le fattorie della carne degli Eterni non sono una fonte di sostentamento praticabile. Lord Rhydder riesce a convincerli a riprendere le Crociate dei Cadaveri, e gli Eterni tornano a banchettare con carne mortale.||||||||||||
 banEndQueen6|L'Unione Apostatica replica dichiarando guerra, e tutta la furia della Marina dell'Unione si abbatte su Sepolcro, radendo la città al suolo.||||||||||||
 banEndQueen7|Gli Eterni, tuttavia, si dimostrano tenaci, e per molti anni i mortali dei Regni Celesti vivono nel terrore dei Corsari dei Cadaveri.||||||||||||
 banEndQueen8|Hallowshire, ricca di carne grazie al nuovo dominio di Paeguth, si rivela il terreno di caccia prediletto degli Eterni. Il conflitto inghiotte le Isole Oniriche per molti anni a venire.||||||||||||
-joinEndEntomb1|Nel Regno Eterno, le tue macchinazioni permettono all'Intombata di sconfiggere la Regina d'Argento e il suo consiglio.||||||||||||
+joinEndEntomb1|Nel Regno Eterno, le tue macchinazioni permettono all'Entità Sepolta di sconfiggere la Regina d'Argento e il suo consiglio.||||||||||||
 joinEndEntomb2|La sua presenza amplifica le agonie e i rancori dell'isola. Ora che la magia ha acquistato nuova potenza, il loro malessere finisce per divorare la regione, finché un giorno il Regno Eterno scompare senza preavviso né cerimonie.||||||||||||
 joinEndEntomb3|Nella vicina Hallowshire, la gente comune dell'Unione Apostatica quasi non fa caso a questo strano evento; chi pure se ne accorge scopre di non riuscire a ricordare bene che cosa ci fosse su quelle isole in origine.||||||||||||
 joinEndEntomb4|Col tempo, quasi nessuno menziona più gli Eterni, e gli studiosi che cercano risposte nelle biblioteche si ritrovano spesso davanti a pagine inspiegabilmente bianche.||||||||||||
 joinEndEntomb5|Nella vicina Hallowshire, gli abitanti del nuovo dominio di Paeguth quasi non fanno caso a questo strano evento; chi pure se ne accorge scopre di non riuscire a ricordare bene che cosa ci fosse su quelle isole in origine.||||||||||||
 joinEndEntomb6|Alcuni sacerdoti Wikkan provano persino a interpellare i propri dèi, ma la risposta è sempre la stessa: l'antico regno di Verdante fu distrutto molto tempo fa, senza lasciare la minima traccia.||||||||||||
-joinEndEntomb7|Nel Regno Eterno, la presenza dell'Intombata amplifica le agonie e i rancori dell'isola.||||||||||||
+joinEndEntomb7|Nel Regno Eterno, la presenza dell'Entità Sepolta amplifica le agonie e i rancori dell'isola.||||||||||||
 joinEndEntomb8|Ora che la magia ha acquistato nuova potenza, il loro malessere finisce per divorare la regione, finché un giorno il Regno Eterno scompare senza preavviso né cerimonie.||||||||||||
-joinEndQueen1|Placando l'ira dell'Intombata, hai fatto sì che la Regina d'Argento possa guidare il suo popolo in questa era di possibilità con rinnovata speranza.||||||||||||
+joinEndQueen1|Placando l'ira dell'Entità Sepolta, hai fatto sì che la Regina d'Argento possa guidare il suo popolo in questa era di possibilità con rinnovata speranza.||||||||||||
 joinEndQueen2|E infatti, gli abitanti del Regno Eterno scoprono presto di avere la pelle un po' più liscia e la voce un po' meno roca. Alcuni notano perfino degli alberelli spuntare tra gli alberi morti.||||||||||||
-joinEndQueen3|I rapporti con Hallowshire migliorano enormemente: la gente comune dell'Unione Apostatica sembra nutrire meno pregiudizi verso chi ha ancora sangue nelle guance.||||||||||||
+joinEndQueen3|I rapporti con Hallowshire migliorano enormemente: la gente comune dell'Unione Apostatica sembra nutrire meno pregiudizi verso chi ha di nuovo sangue nelle guance.||||||||||||
 joinEndQueen4|Col tempo, l'appena ribattezzato Regno di Verdante e la vicina Unione diventano saldi alleati, legati tanto dal commercio quanto dalla cultura.||||||||||||
 joinEndQueen5|Col tempo, il regno diventa noto come Regno di Verdante ed è considerato in tutti i Regni Celesti un luogo di bellezza e pace.||||||||||||
 joinEndQueen6|Per ironia della sorte, ora sono gli abitanti di Verdante a osservare i vicini con curiosità e disgusto, poiché le bizzarre usanze dell'Hallowshire di Paeguth appaiono loro ripugnanti.||||||||||||

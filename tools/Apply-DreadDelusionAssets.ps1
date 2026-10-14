@@ -15,6 +15,7 @@ $toolsDir = Join-Path $releaseDir 'DreadDelusion-AssetTools'
 $patcher = Join-Path $toolsDir 'dread_patch.dll'
 $verifier = Join-Path $toolsDir 'verify_patch.dll'
 $classData = Join-Path $toolsDir 'classdata.tpk'
+$prepareTexts = Join-Path $releaseDir 'Prepare-DreadDelusionTexts.ps1'
 $bundledFont = Join-Path $toolsDir 'LiberationSans SDF Atlas-resources.assets-16.png'
 if ([string]::IsNullOrWhiteSpace($TranslationsDir)) {
     $repositoryTranslations = Join-Path (Split-Path -Parent $releaseDir) 'translations'
@@ -178,6 +179,7 @@ try {
     Require-File $patcher 'Patcher degli asset'
     Require-File $verifier 'Validatore degli asset'
     Require-File $classData 'Database delle classi Unity'
+    Require-File $prepareTexts 'Preparatore UTF-8 dei testi'
 
     $txtFiles = @(Get-ChildItem -LiteralPath $TranslationsDir -Filter '*.txt' -File |
         Where-Object { $_.Name -ne 'SHA256SUMS.txt' })
@@ -186,9 +188,7 @@ try {
     }
 
     New-Item -ItemType Directory -Path $textStage -Force | Out-Null
-    foreach ($txtFile in $txtFiles) {
-        Copy-Item -LiteralPath $txtFile.FullName -Destination $textStage -Force
-    }
+    & $prepareTexts -TranslationsDir $TranslationsDir -DestinationDir $textStage
 
     if ([string]::IsNullOrWhiteSpace($FontPng)) {
         $fontCandidates = @(Get-ChildItem -LiteralPath $releaseDir -Filter 'LiberationSans SDF Atlas-resources.assets-*.png' -File)
@@ -266,6 +266,19 @@ finally {
         Remove-Item -LiteralPath $temp -Force -ErrorAction SilentlyContinue
     }
     if (Test-Path -LiteralPath $textStage) {
-        Remove-Item -LiteralPath $textStage -Recurse -Force -ErrorAction SilentlyContinue
+        # Resolve and constrain the recursive cleanup to this invocation's temp folder.
+        $resolvedStage = (Resolve-Path -LiteralPath $textStage).Path
+        $resolvedTempRoot = (Resolve-Path -LiteralPath ([IO.Path]::GetTempPath())).Path.TrimEnd('\', '/')
+        $stageParent = (Split-Path -Parent $resolvedStage).TrimEnd('\', '/')
+        $stageLeaf = Split-Path -Leaf $resolvedStage
+        $stageInfo = Get-Item -LiteralPath $resolvedStage
+        $isOwnedStage = [string]::Equals($stageParent, $resolvedTempRoot, [StringComparison]::OrdinalIgnoreCase) -and
+            $stageLeaf -match '^DreadDelusionAssetTextStage-[0-9a-f]{32}$' -and
+            ($stageInfo.Attributes -band [IO.FileAttributes]::ReparsePoint) -eq 0
+        if ($isOwnedStage) {
+            Remove-Item -LiteralPath $resolvedStage -Recurse -Force -ErrorAction SilentlyContinue
+        } else {
+            Write-Warning 'Temporary text folder was not removed because its resolved path was unexpected.'
+        }
     }
 }

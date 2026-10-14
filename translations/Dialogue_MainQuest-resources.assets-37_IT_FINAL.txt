@@ -57,14 +57,14 @@ droneBC1|L'[[Inquisitore Ignavius]] vi attende nella vicina [[Colonna dell'Inqui
 droneBC2|Questo [[campo base]] serviva da punto di raccolta per i nostri agenti dell'Inquisizione.##Si è rivelato molto utile per [[fare un po' di pratica]] prima che andassero tutti a farsi massacrare dai mercenari di Vela.||||
 droneBC3|Vi consigliamo di usare i [[manichini d'addestramento]] per esercitarvi con la spada; potrebbe aumentare marginalmente il tempo che vi separa dalla vostra inevitabile morte.||||
 droneBC4|Cercate l'[[Inquisitore Ignavius]]? Si è trasferito alla fortezza Luce Accecante; lo troverete vicino all'Alta Confessora.||||
-agent1|Siete uno del posto? <<Ti squadra da capo a piedi con disgusto>>.##Sentite, lasciatemi in pace. Ho fallito l'Inquisizione. Preferirei morire in pace.||||
+agent1|Siete uno del posto? <<Ti squadra da capo a piedi con disgusto>>.##Sentite, lasciatemi in pace. Ho deluso l'Inquisizione. Preferirei morire in pace.||||
 p11|@@ Sono qui per aiutarvi. Il vostro Inquisitore mi ha incaricato di catturare Vela Callose.||||
 agent2|%%<<Lascia sfuggire una risata stanca che si spezza in un colpo di tosse>>.||||
 agent3|Oh cielo, ora vi riconosco. Siete uno dei prigionieri. Per gli dèi, l'Inquisitore dev'essere proprio disperato.||||
 agent4|Lo sapete che morirete, vero? Quei bastardi hanno annientato tutto il nostro contingente.||||
 agent5|Se insistete in questa impresa da stolti, potreste trovare delle provviste nella mia capsula di lancio precipitata.##Risalite il fiume e dovreste trovarla accanto alla cascata.||||
 agent6|&&Venite da me vestito di stracci e sostenete di lavorare per l'Inquisizione? Non fatemi ridere.||||
-agent7|Sentite, lasciatemi in pace. Ho fallito l'Inquisizione. Preferirei morire in pace.||||
+agent7|Sentite, lasciatemi in pace. Ho deluso l'Inquisizione. Preferirei morire in pace.||||
 p12|Va bene, vi... lascio in pace.||||
 drone20|Per proseguire, dovete sbloccare questa porta. Per cominciare, dovrete usare un [[Grimaldello]] su questa serratura. Dovreste trovarne una buona scorta accanto a me.||||
 drone21|Quando forzate una serratura, c'è sempre la possibilità di fallire e spezzare il Grimaldello. Per scassinare più facilmente, aumentate la vostra abilità di [[Scasso]].||||
@@ -86,11 +86,11 @@ vela1-1|<<Vela Callose si erge solenne, la sua voce sovrasta il fragore della na
 vela1-2|Spiegate le vele! E perché il motore antigravità non è in funzione? ## <<All'improvviso, incroci il suo sguardo.>>||||
 vela1-3|E questo cos'è, un ritardatario? La Compagnia della Stella Oscura vi dà il benvenuto. Perdonatemi, ma ci avete colti in un momento alquanto... inopportuno.||||
 vela1-p1|Vela Callose, sono venuto a catturarvi in nome dell'Inquisizione.||||
-vela1-4|<<Getta indietro la testa e ride.>> ## Oh, questa è bella. ((Siete voi)) venuto a catturarmi? Avete l'aria di aver bisogno di un pasto e di una bella dormita. Non credo siate in condizione di catturare nemmeno una Limaccia da seta.||||
+vela1-4|<<Getta indietro la testa e ride.>> ## Oh, questa è bella. ((Voi)) siete venuto a catturarmi? Avete l'aria di aver bisogno di un pasto e di una bella dormita. Non credo siate in condizione di catturare nemmeno una Limaccia da seta.||||
 vela1-5|Quei cani dell'Inquisizione devono essere davvero disperati, eh? Ma non possiamo indugiare qui. Ormai si sono messi in moto eventi impossibili da fermare.||||
 vela1-p2|Sono appena evaso da una prigione dell'Inquisizione. Posso unirmi a voi?||||
 vela1-6|<<Ti squadra dalla testa ai piedi con un sorrisetto.>> ## Senza offesa, ma la Compagnia della Stella Oscura ha certi standard. E voi non siete esattamente all'altezza.||||
-vela1-7|Preparatevi, ritardatario. Si preparano grandi imprese. Imprese che porranno fine alla tirannia dell'Unione Apostatica... e inaugureranno una nuova era di Paradiso.||||
+vela1-7|Preparatevi, ritardatario. Grandi imprese sono all'orizzonte. Imprese che porranno fine alla tirannia dell'Unione Apostatica... e inaugureranno una nuova era di Paradiso.||||
 vela1-8|E ora dobbiamo congedarci. È stato un piacere, ma dubito che ci incontreremo ancora.||||
 inq2-1|Dunque, Vela è fuggita, eh? I nostri Drone hanno rilevato la partenza della sua nave.||||
 inq2-p1|Non sono riuscito a catturarla. Ho fallito.||||
@@ -173,7 +173,7 @@ UnderDuchessA13|Si dice che costruissero persino macchine capaci di camminare e 
 UnderDuchessA14|Si dice che le loro creazioni siano sopravvissute agli stessi Emberiani e rimangano ancora quaggiù. Se questo fosse l'((unico)) pericolo da affrontare, avrei buone ragioni per preoccuparmi; ma non è tutto.||||
 UnderDuchessA15|Lo Squarcio del Mondo fu una cascata sintattica che disfece l'essenza stessa di ogni cosa che toccò. Molti morirono, ma alcuni subirono una sorte peggiore: furono deformati in spettri animati da intenti maligni.||||
 UnderDuchessA16|Qualunque cosa dobbiamo fare quaggiù, dobbiamo farla ((in fretta)).||||
-UnderDuchessA17|Ah, quella è la mia [[tenda transposizionale dei rifornimenti]]. È intessuta con un intricato incantesimo di Cifro che distorce il tempo e lo spazio, perciò all'interno è molto più grande di quanto sembri.||||
+UnderDuchessA17|Ah, quella è la mia [[tenda trasposizionale dei rifornimenti]]. È intessuta con un intricato incantesimo di Cifro che distorce il tempo e lo spazio, perciò all'interno è molto più grande di quanto sembri.||||
 UnderDuchessA18|Usatela pure per [[creare]] o fare scorta di [[provviste]]. C'è anche un portale che conduce alla mia dimora nel Regno Eterno, sebbene a questo punto ritirarci sarebbe poco saggio; dovremmo proseguire.||||
 UnderDuchessAP1|D'accordo. Mi metto in cammino.||||
 UnderDuchessAP2|Sono maledetto. Potete aiutarmi?||||
@@ -230,7 +230,7 @@ UnderFrostB4b|A proposito, credo che siamo vicini al punto in cui la Spedizione 
 UnderFrostB5a|Credo proprio che siamo vicini al [[luogo dello schianto]] di cui vi parlavo. Se desiderate sopravvivere a questa piccola scampagnata, vi consiglio di cercare nei dintorni una [[Maschera Filtrante]].||||
 UnderFrostB5b|Avete trovato una [[Maschera Filtrante]]? Molto bene. Oserei dire che il capitano Munro e il suo equipaggio non ne hanno più bisogno; che le stelle accolgano le loro anime.||||
 UnderFrostB6|Per cominciare, il motore di galleggiamento della nostra nave si guastò all'arrivo. Poi i razzi di segnalazione si rivelarono difettosi, e così mancammo l'appuntamento con i soccorsi.||||
-UnderFrostB7|Il nostro taumometro andava in tilt sopra i 7.3 millihex. E le nostre bombole respiratorie difettose finirono in sovrappressione, provocandoci allucinazioni.||||
+UnderFrostB7|Il nostro taumometro andava in tilt sopra i 7,3 millihex. E le nostre bombole respiratorie difettose finirono in sovrappressione, provocandoci allucinazioni.||||
 UnderFrostB8|Fu il primo indizio che la tanto decantata capacità manifatturiera del Regno Meccanico potesse essere in declino. ##Francamente, senza la mia compianta collega Magda, oggi non sarei qui.||||
 UnderFrostB9|Alla fine tutti ricevettero una medaglia, vivi e morti, e il Re ritenne senza dubbio che le nostre scoperte valessero molte volte il prezzo che avevamo pagato.||||
 UnderFrostB10|Certamente. Rimarrò qui per qualche tic, per assicurarmi che nessuno resti indietro.||||
@@ -257,7 +257,7 @@ UnderBasaltC2|Siamo fortunati. Vedete quella [[città]] in lontananza? Queste [[
 UnderBasaltC3|Frost sta facendo la sua magia, ma sembra che ci servirà comunque una [[Chiave]] per avviare una delle Autocarrozze. ##Quindi fareste meglio a mettervi a cercarne una.||||
 UnderBasaltC4|Certo, sarà come cercare un ago in un mucchio di merda. Magari la Duchessa può scrutarne una per voi? ##L'ultima volta l'ho vista dirigersi verso la [[foresta di funghi]] laggiù.||||
 UnderFrostC1|<<Frost rovescia una cascata di bizzarri epiteti mentre lotta con il meccanismo.>> ##Diecimila... ((caramelle mou)) da masticare... pustolosi... ((maledetti))... ##((PERDINCI!))||||
-UnderFrostC2|<<Assesta al tram un calcio con uno stivale dalla punta d'acciaio. Risuona come un gong.>> ##Che mi ((ranocchino)) all'indietro con una ((lampeggiante)) ascia da battaglia!||||
+UnderFrostC2|<<Assesta al tram un calcio con uno stivale dalla punta d'acciaio. Risuona come un gong.>> ##Che mi ((ranocchino)) all'indietro con una ((benedetta)) ascia da battaglia!||||
 UnderFrostC3|<<Frost appare insolitamente imbarazzato.>> ##Vi prego di accettare le mie più profonde scuse per il ritardo. Questa è di gran lunga la macchina più avanzata con cui abbia mai avuto a che fare, e non sono abituato a un simile grado di... ((ostinazione)).||||
 UnderFrostC4|Sono riuscito a ripristinare la forza motrice, ma queste [[misure di sicurezza]] sono di un'eleganza sorprendente. Posso solo supporre che gli Emberiani attribuissero alla rete di Autocarrozze un enorme valore strategico.||||
 UnderFrostC5|Tutto sembra ruotare attorno a una sorta di [[Chiave]]. Non temete: sono certo di poter aggirare l'ostacolo.||||
@@ -282,7 +282,7 @@ UnderBasaltF1|Be', ((che mi venga un colpo)). Ne ho visti di posti, in vita mia:
 UnderBasaltF2|<<Si asciuga la fronte.>> Fermiamoci un momento a riprendere fiato. Questa città sembra brulicare di guardie meccaniche, quindi dobbiamo restare all'erta.||||
 UnderBasaltF3|Quando sarete pronto, ci dirigeremo verso la [[torre più alta]] laggiù. In cima, la Duchessa ha scrutato una specie di [[Autocarrozza]] orientata verso la Culla. Non sarà una scalata facile, ma non ho idee migliori.||||
 UnderBasaltF4|Comunque, potrebbe andare peggio. ##<<Indica i bassifondi sotto la città.>> Almeno non dobbiamo andare ((laggiù)).||||
-UnderDuchessF1|Ho eretto un'altra istanza della mia [[tenda transposizionale dei rifornimenti]]. Grazie a un ingegnoso artificio di Cifro, può esistere in due luoghi contemporaneamente; potrete quindi usarla per tornare al luogo dello schianto della Navetta, se lo desiderate.||||
+UnderDuchessF1|Ho eretto un'altra istanza della mia [[tenda trasposizionale dei rifornimenti]]. Grazie a un ingegnoso artificio di Cifro, può esistere in due luoghi contemporaneamente; potrete quindi usarla per tornare al luogo dello schianto della Navetta, se lo desiderate.||||
 UnderDuchessF2|Detto questo, ritengo che non dovremmo indugiare più del necessario. Attraversiamo questa città orrenda il più rapidamente possibile.||||
 UnderEmberianF1|<<Si agita nell'armatura, chiaramente irrequieta.>> ##Siamo ((vicini)), Confessore. Nel bene o nel male, presto raggiungeremo Vela.||||
 UnderEmberianF2|Ma non abbassate la guardia. Questa città è un groviglio di passerelle, gallerie e murature in rovina: potrebbe volerci un po' per trovare una via.||||
@@ -292,9 +292,9 @@ UnderFrostF2|Ma ((guardate)) là. In appena una manciata di queste torri entrere
 UnderFrostF3|<<Schiocca le dita e torna a guardarti, gli occhi accesi da un'intuizione febbrile.>> ##Ma certo. Le ((Autocarrozze)). Trasportare merci e manodopera ovunque servano, alla velocità del fulmine.||||
 UnderFrostF4|Tutto torna, capite? Potevano vivere in campagna e lavorare in città, o viceversa. Destinare interi edifici, intere ((città)), a un unico scopo, specializzando e ottimizzando ogni cosa fino all'estremo. Il Regno Meccanico portato alla perfezione!||||
 UnderBasaltG1|Uhm. Dobbiamo arrivare in [[cima a questa torre]], ma pare non ci siano scale, e l'Ascensore là fuori... <<Indica l'uscita.>> ...va soltanto ((giù)).||||
-UnderBasaltG2|A quanto pare, dovremo fare un giro in quei [[bassifondi]] dopotutto. Proprio la mia dannata fortuna.||||
+UnderBasaltG2|A quanto pare, dovremo fare un giro in quei [[bassifondi]] dopotutto. Maledetta sfortuna, come sempre.||||
 UnderDuchessG1|Sembra che questo luogo sia una sorta di teatro; quanto ((intrigante)). Nel Regno Eterno siamo assediati da drammaturghi e poeti che compensano la mancanza di talento con un'abbondanza di ((tempo)); è stranamente confortante trovare qui un parallelo culturale.||||
-UnderDuchessG2|Mi domando. Nonostante le loro grandiose conquiste e gli innumerevoli agi, le poesie emberiane lamentavano ancora le più meschine follie umane? Le loro tragedie traboccavano ancora di pathos e rimpianto?||||
+UnderDuchessG2|Chissà. Nonostante le loro grandiose conquiste e gli innumerevoli agi, le poesie emberiane lamentavano ancora le più meschine follie umane? Le loro tragedie traboccavano ancora di pathos e rimpianto?||||
 UnderEmberianG1|Pensare che un tempo questa sala accoglieva centinaia di miei antenati riuniti in allegria. Credo sia quanto di più simile a una ((casa)) abbia mai avuto.||||
 UnderEmberianG2|Eppure, tra questi sedili vuoti e arrugginiti, non mi sono mai sentita più sola.||||
 UnderFrostG1|<<Frost fischia, poi ascolta l'eco.>> ##Acustica perfetta. Che cos'è quella ((creatura))? Un fantasma prigioniero? No, troppo nitida. ((Meccanica)). Un interprete artificiale per un palcoscenico tecnologico. Come hanno ((fatto))?||||
@@ -316,7 +316,7 @@ UnderFrostI1|<<Frost tende il collo per esaminare il soffitto decorato.>> ##I se
 UnderFrostI2|Forse gli Emberiani tenevano matematica e geometria in maggiore considerazione rispetto al mito? ##Senza dubbio questo motivo aveva un significato rituale.||||
 UnderBasaltJ1|Be', eccoci finalmente: la ((Culla)). Non somiglia a nessuna taverna che ((io)) abbia mai visto... <<Ridacchia.>>||||
 UnderBasaltJ2|Questa piattaforma dovrebbe portarci dentro. Quando raggiungeremo Vela, parlerete voi, Confessore; credo sia la nostra occasione migliore. Se vede il resto di noi, userà le sue ((spade)) per parlare, visto che siamo gli ((ammutinati)) di un tempo.||||
-UnderBasaltJ3|Immagino che i vostri superiori la vogliano riportata indietro senza clamore, ma se le cose si mettono male, e scommetto che ((succederà)) davvero, vi copriremo le spalle. ##Saremo anche pochi, ma abbiamo già affrontato situazioni disperate.||||
+UnderBasaltJ3|Immagino che i vostri superiori vogliano che la arrestiate senza clamore, ma se le cose si mettono male, e scommetto che ((succederà)) davvero, vi copriremo le spalle. ##Saremo anche pochi, ma abbiamo già affrontato situazioni disperate.||||
 UnderBasaltJ4|<<Sospira.>> Oh, ((spero)) che sia davvero così semplice, Confessore. Per il nostro bene... e per quello di Vela.||||
 UnderBasaltJ5|Sappiate solo che, se prova a tagliarvi la gola, saremo pronti a intervenire.||||
 UnderBasaltJ6|<<Annuisce.>> Non è una cattiva idea. Avrà con sé parecchi mercenari della Stella Oscura rimasti fedeli, quindi dovremo preparare l'attacco. Fatela parlare abbastanza a lungo.||||
@@ -397,7 +397,7 @@ AvatarAP11|Che cosa siete?||||
 AvatarAP12|Potete parlarmi di questa città?||||
 AvatarAP13|È tutto ciò che volevo sapere.||||
 ShadeB1|Questa dannata Autocarrozza è in ritardo ((di nuovo!)) Non ((posso)) fare tardi. Sono sotto quota! Potrebbero retrocedermi di classe... oh, dèi...||||
-ShadeB2|Il conducente è in ritardo, ((di nuovo)) e per questo le porte sono sprangate.||||
+ShadeB2|Il conducente è in ritardo, ((di nuovo)), e per questo le porte sono sprangate.||||
 ShadeB3|Per superare quelle porte vi servirebbe almeno un lasciapassare di sicurezza di Classe C. Del resto, non vedrete certo cittadini di Classe C mescolarsi con noi pendolari: saranno nel quartiere nobiliare ad ammirare l'orticoltura dei funghi.||||
 ShadeB4|Mmh? Che assurdità state dicendo? Lavoro per uno dei principali consorzi di incantesimi cifrati dell'Impero, dove vigono ((standard elevati!))||||
 ShadeB5|<<La figura si guarda improvvisamente attorno.>> ##Aspettate, cos'è quella luce? Qui sta facendo un caldo tremendo...||||
@@ -413,7 +413,7 @@ UnderVela6|<<Socchiude gli occhi.>> Un momento: siete quel marmocchio che ha avu
 UnderVela7|Ma dovete aver ricevuto aiuto. <<Riflette per un momento.>> ##Soltanto Orlaith vide la mappa che conduceva qui. Non avrebbe deciso di venire da sola, quindi dev'essere stato Basalt a convincerla.||||
 UnderVela7a|E se stava mettendo insieme una squadra, Caxton Frost sarebbe stato in cima alla lista. Forse anche la Duchessa...||||
 UnderVela8|<<Scuote la testa.>> Ma Basalt non può essere il solo a guidare tutto questo. Non si sarebbe mai unito all'Inquisizione senza che qualcuno lo convincesse. Può essere soltanto... ((Caer)).||||
-UnderVela9|Non lo negate? <<Sorride.>> ##Dunque, un branco di traditori guidato da un Inquisitore alle prime armi è venuto alle mie calcagna. Ditemi: ((che cosa)) sperate di ottenere, esattamente?||||
+UnderVela9|Non lo negate? <<Sorride.>> ##Dunque, un branco di traditori guidato da un Inquisitore alle prime armi è venuto a mordermi i calcagni. Ditemi: ((che cosa)) sperate di ottenere, esattamente?||||
 UnderVela10|((Follia?)) Ah! È ((questo)) che sostengono? ##Sono gli abitanti dei ((Regni Celesti)) ad aver perduto ogni barlume di ragione. Io cerco soltanto di rimettere le cose a posto.||||
 UnderVela11|<<Lascia sfuggire una risata impertinente.>> E perché mai dovrei fidarmi di uno come ((voi))? Anche se avessi bisogno d'aiuto, e di certo ((non ne ho)) affatto, perché dovrei accettarlo da una spia dell'Inquisizione?||||
 UnderVela12|Dunque, alla prima occasione ricorrereste alla violenza e alla barbarie? <<Schiocca la lingua con teatralità.>> ##È proprio questo modo egocentrico di pensare che ((non va)) in questo mondo.||||
@@ -430,7 +430,7 @@ UnderVela21|<<Sorride.>> Cambierò ((ogni cosa)).||||
 UnderVela22|<<Sorride.>> Il processo non è privo di pericoli.||||
 UnderVela23a|Gli Emberiani chiamavano questa creatura un [[Angelo]], e, se fossero riusciti a risvegliarla, la loro tirannia avrebbe soggiogato il mondo per l'eternità.||||
 UnderVela23b|Gli Emberiani costruirono questa struttura come incubatrice per l'Angelo e, se fossero riusciti a risvegliarlo, la loro tirannia avrebbe soggiogato il mondo per l'eternità.||||
-UnderVela24|Siamo fortunati che si sia verificato il male ((minore)) poiché, risvegliando l'Angelo, provocarono lo Squarcio del Mondo e quasi annientarono l'intera esistenza.||||
+UnderVela24|Siamo fortunati che si sia verificato il male ((minore)), poiché, risvegliando l'Angelo, provocarono lo Squarcio del Mondo e quasi annientarono l'intera esistenza.||||
 UnderVela25|Ma noi abbiamo imparato dai loro errori. Useremo l'Angelo per trasformare questo mondo in un Paradiso, dove ogni anima sarà libera e uguale.||||
 UnderVela26|Negli ultimi anni ho reclutato alcuni dei più illustri studiosi di Cifro ancora in vita. Con le protezioni adeguate impediremo una cascata sintattica. Di questo siamo... ((quasi)) certi.||||
 UnderVela27|E comunque, la ricompensa non vale forse il rischio? Ciò che resta di questo mondo merita a stento di essere salvato, ma io ci eleverei a qualcosa di più nobile di quanto la storia abbia mai conosciuto.||||
@@ -462,7 +462,7 @@ UnderVela52|<<Il volto di Vela si accende d'improvviso disprezzo.>> ##Allora avr
 UnderVela53|<<Vela aggrotta la fronte.>> Un ((fantasma))? Ma chi sa di...? No, non può essere...||||
 UnderVela54|...((Caer?)) ##<<Deglutisce, senza trovare le parole.>> ##Allora dev'essere stata lei a parlarvi di...||||
 UnderVela55|<<Ride.>> Oh no, piccolo Inquisitore. È qui che tutto ((comincia)).||||
-UnderVela56|<<Sorride.>> O è la storia di copertura dell'Inquisizione più ovvia che abbia mai sentito, oppure un triplo bluff insolitamente abile. Niente di personale, ma non posso rischiare di lasciarvi accodare a noi.||||
+UnderVela56|<<Sorride.>> O è la storia di copertura dell'Inquisizione più ovvia che abbia mai sentito, oppure un triplo bluff insolitamente abile. Niente di personale, ma non posso rischiare di lasciarvi venire con noi.||||
 UnderVela57|<<Vela deglutisce, cercando di ricomporsi.>> Ammetto che le mie motivazioni sono complesse. E i miei metodi...||||
 UnderVela57a|<<Ti rivolge un sorriso storto, quasi pentito.>> ##Se l'avessi fatto per una causa minore, sarei un mostro.||||
 UnderVela58|<<Vela tuona all'equipaggio.>> ##((Risvegliate l'Angelo!)) Non mi ((importa)) se i preparativi non sono completi: ((non abbiamo più tempo!))||||
@@ -530,7 +530,7 @@ CradleEmberianA10|Sentite, Confessore... ##Quando ci siamo incontrati, mi avete 
 CradleEmberianA11|Questa volta non farò domande: lascerò che sia la mia ((spada)) a parlare. Fareste meglio ad ((accettarlo)).||||
 CradleEmberianA12|<<Sorride.>> Colgo forse un desiderio di ((vendetta)) nella vostra voce, Confessore? Vela vi ha ((davvero)) trafitto per bene, laggiù...||||
 CradleEmberianA13|<<Sospira.>> Non è così semplice. Quando cominciano a volare fendenti, è questione di vita o di morte. Ma... darò tutta me stessa.||||
-CradleEmberianA14|Sentite, Confessore... ##Quando ci siamo incontrati, avete detto di voler ((aiutare)) Vela a realizzare la sua idea distorta di Paradiso. Dopo aver preso le sue parti e visto che cosa è ((diventata)), pensate ancora lo stesso?||||
+CradleEmberianA14|Sentite, Confessore... ##Quando ci siamo incontrati, avete detto di voler ((aiutare)) Vela a realizzare la sua idea distorta di Paradiso. Dopo aver preso le sue parti e aver visto che cosa è ((diventata)), pensate ancora lo stesso?||||
 CradleEmberianA15|<<Sbuffa.>> Dopo che vi ha trapassato con la spada, pensavo aveste cambiato idea. ((Maledetta)) Vela e quella sua lingua d'argento.||||
 CradleEmberianA16|Be', se non volete aiutarmi, lo farò ((da sola.)) Appena raggiungeremo la Culla, darò la caccia a Vela, con o ((senza)) di voi.||||
 CradleEmberianA17|<<Sorride appena.>> Sono felice che abbiate cambiato idea, Confessore. Che cosa vi ha fatto ricredere? Forse il fatto che Vela vi abbia trapassato con la sua ((spada))?||||
@@ -559,7 +559,7 @@ CradleFrostA1|<<Frost sorseggia da una tazza da tè e la solleva in segno di sal
 CradleFrostA2|Dunque, eccoci finalmente. L'intervallo è quasi terminato. Il sipario sta per alzarsi. Tutto è pronto per l'atto finale. ##Speriamo soltanto che io ricordi le battute.||||
 CradleFrostA3a|<<Sorseggia.>> Oh, naturalmente ho una fifa da perdere la ((camicia)) di dosso. È questo lo scontro da cui fuggo da sempre. È per sfuggire a ((questo)) che sono diventato Horace.||||
 CradleFrostA3b|<<Sorseggia.>> Nondimeno, un po' di fifa da palcoscenico è del tutto naturale. È questo lo scontro da cui fuggo da sempre. È per sfuggire a ((questo)) che sono diventato Horace.||||
-CradleFrostA4|Eppure trovo che la paura sia meno... ((mordente)) di prima. In qualche modo è rasserenante andare finalmente ((incontro)) ai miei problemi con ferma determinazione. ##<<Sbuffa.>> È curioso quanto a lungo resistiamo alle lezioni più semplici.||||
+CradleFrostA4|Eppure trovo che la paura sia meno... ((pungente)) di prima. In qualche modo è rasserenante andare finalmente ((incontro)) ai miei problemi con ferma determinazione. ##<<Sbuffa.>> È curioso quanto a lungo resistiamo alle lezioni più semplici.||||
 CradleFrostA5|Confessore, ricordate il nostro primo incontro? Ultimamente non faccio che rimuginarci sopra. ##All'epoca sosteneste che avremmo dovuto usare il potere dell'Angelo per costruire un mondo migliore.||||
 CradleFrostA6|Ero titubante, naturalmente. Mi fidavo a malapena del mio giudizio persino per scegliere un paio di tende, figuriamoci per decidere il destino dell'umanità.||||
 CradleFrostA7|Ma... ##<<Sospira, poi ti guarda negli occhi.>> Sono giunto alla conclusione che avevate ragione e io torto.||||
@@ -584,10 +584,10 @@ CradleFrostAP3|Se state dicendo che volete attivare l'Angelo, sono con voi.||||
 CradleFrostAP4|Mi dispiace, Frost. Non vi permetterò di attivare l'Angelo.||||
 CradleFrostAP5|Sinceramente, non ho idea di che cosa farò quando raggiungeremo l'Angelo.||||
 CradleDuchessA1|Da quando lo abbiamo visto, non faccio che pensare a quell'Angelo. ##Da tempo leggo di simili entità funeste alla deriva nel Vuoto oltre la realtà, ma fino a oggi erano del tutto ((teoriche)).||||
-CradleDuchessA2|Ma vedendo una simile creatura nella ((carne?)) ho potuto ((percepire)) la sua incongruità, la sua immensa contraddizione, come una spina nel cervello. Con qualcosa di tanto estraneo a questo mondo, forse Vela ((può)) davvero piegare la realtà alla propria volontà...||||
+CradleDuchessA2|Ma vedendo una simile creatura in ((carne e ossa?)) ho potuto ((percepire)) la sua incongruità, la sua immensa contraddizione, come una spina nel cervello. Con qualcosa di tanto estraneo a questo mondo, forse Vela ((può)) davvero piegare la realtà alla propria volontà...||||
 CradleDuchessA2b|<<La Duchessa giocherella distrattamente con il Pugnale del Vuoto, osservandolo scivolare nell'aria.>> ##Oh, Confessore. Perdonatemi, ero assorta nei miei pensieri...||||
 CradleDuchessA2c|È quell'((Angelo.)) Da tempo leggo di simili entità alla deriva nel Vuoto oltre la realtà, ma fino a oggi erano del tutto ((teoriche)). Nonostante tutta la complessità della nostra arte del Cifro, comprendiamo il Vuoto solo in minima parte.||||
-CradleDuchessA2d|Ma vedendo una simile creatura nella ((carne?)) ho potuto ((percepire)) la sua incongruità, la sua immensa contraddizione, come una spina nel cervello. Nessuna sua parte era mai destinata a toccare questo mondo.||||
+CradleDuchessA2d|Ma vedendo una simile creatura in ((carne e ossa?)) ho potuto ((percepire)) la sua incongruità, la sua immensa contraddizione, come una spina nel cervello. Nessuna sua parte era mai destinata a toccare questo mondo.||||
 CradleDuchessA2e|Che Vela sia riuscita a impossessarsi della creatura è davvero notevole. Forse ((può)) davvero realizzare l'audace ((Paradiso)) che immagina.||||
 CradleDuchessA3|Confessore, mi avete detto che Vela potrebbe concedere agli Eterni una vera morte, se il suo Paradiso prevalesse. ##In questi ultimi giorni ci ho riflettuto molto.||||
 CradleDuchessA4|È ironico che la sua ricerca dell'immortalità possa concedere al mio popolo il sonno senza sogni che molti desiderano. <<Sorride.>> Ironico, ma non sgradito.||||
@@ -615,7 +615,7 @@ CradleBasaltBP1|Qual è il piano, ora che siamo qui?||||
 CradleBasaltBP2|Mi metto in cammino.||||
 CradleEmberianB1|Siamo a bordo della nave più abominevole mai costruita, circondati dalla Marina dell'Unione, diretti ad affrontare ((Vela Callose)) e l'orrore arcano da lei tenuto prigioniero.||||
 CradleEmberianB2|<<Sorride.>> Piano, Confessore. Se la situazione diventasse ancora più pericolosa, potrei cominciare a ((divertirmi)).||||
-CradleDuchessB1|Ho eretto ancora una volta la mia [[tenda transposizionale dei rifornimenti]]. Servitevene pure per fare scorta, ma non indugiate: ora che siamo qui dobbiamo colpire in fretta.||||
+CradleDuchessB1|Ho eretto ancora una volta la mia [[tenda trasposizionale dei rifornimenti]]. Servitevene pure per fare scorta, ma non indugiate: ora che siamo qui dobbiamo colpire in fretta.||||
 CradleDuchessB2|Gli scagnozzi di Vela ci assaliranno in forze, ma cercherò di tenerli a bada il più a lungo possibile. ##Una volta partiti, dovrete [[trovare Frost]] e aiutarlo a fare il suo ingresso.||||
 CradleFrostB1|<<Frost è in piena foga, come posseduto dal fantasma del proprio passato piratesco.>> ##Avanti, signore! Niente indugi, niente tentennamenti e niente ((cazzeggio)) di sorta! Chi arriva ultimo al [[condotto di aerazione]] offrirà a tutti una colazione lundelese completa!||||
 CradleFrostB2|<<Ti lancia un'occhiata, scoprendo i denti in un sorriso feroce.>> ##È l'ora dello spettacolo, Confessore. In bocca al lupo.||||
@@ -691,7 +691,7 @@ Angel9|<<Il tuo corpo ribolle di... ((impotenza)) e impazienza. Sì, comprendi: 
 Angel10|<<Deve fondersi con un altro essere, una creatura senziente di ((questo)) piano materiale, per poter agire qui.>>||||
 Angel11|<<Basterebbe un istante, poi l'Angelo potrebbe separarsi di nuovo, staccarsi dalla nuova forma e tornare nel Vuoto. ##Oppure potrebbe restare e tessere una nuova realtà all'interno di questa.>>||||
 Angel12|<<Vedi un cadavere calato in una fossa, poi un neonato che si apre con le unghie un varco dall'((altra parte)) della terra, coperto di sangue e placenta. Fondersi significherebbe morire e rinascere.>>||||
-Angel13|<<Poi vedi del vino versato in uno strano recipiente sinuoso. Quando il vetro si rompe, il vino rimane e ne conserva la forma. Fondersi cambierebbe anche l'Angelo, infondendogli tutte le tue peculiarità e i tuoi valori.||||
+Angel13|<<Poi vedi del vino versato in uno strano recipiente sinuoso. Quando il vetro si rompe, il vino rimane e ne conserva la forma. Fondersi cambierebbe anche l'Angelo, infondendogli tutte le tue peculiarità e i tuoi valori.>>||||
 Angel14|<<I fiori sbocciano e marciscono nello stesso istante. Le nubi evaporano, si gonfiano e scoppiano. Una falena batte le ali e le torri crollano; le batte di nuovo e le torri sono sempre state lì, fiere e intatte. Incertezza: l'Angelo non può dire con certezza che cosa ne sarà del tuo mondo.>>||||
 Angel15|<<Ti pervade un senso di responsabilità. Credi che significhi... che ((tu)) debba essere prudente. Se ti fonderai con lui, diventerete una cosa sola e il potere che eserciterai sarà terrificante.>>||||
 Angel16|<<Provi nostalgia per ciò che più somiglia a casa, la vastità del Vuoto infinito. Ma un'ondata d'ansia ti investe: da questa decisione non si potrà tornare indietro.>>||||
@@ -735,7 +735,7 @@ underCharmHologram2|INOLTRE: rilevate molteplici anomalie organiche: distorsione
 underCharmHologram3|@@Guardatevi attorno, macchina. Sono tutti morti. Volete una persona ((di classe)) come interlocutore? Sono quanto di meglio troverete.||||
 underCharmHologram4|%%ANALISI: l'affermazione dell'interlocutore è corretta. Popolazione drasticamente ridotta. Situazione critica.||||
 underCharmHologram5|RICHIESTA DI INFORMAZIONI AGGIUNTIVE ACCOLTA.||||
-underCharmHologram6|Calo della popolazione della città di Albertus: stima 99.99%. ##Crescita fungina entro i confini cittadini: saturazione critica.##ANOMALIA RILEVATA: analisi in corso.||||
+underCharmHologram6|Calo della popolazione della città di Albertus: stima 99,99%. ##Crescita fungina entro i confini cittadini: saturazione critica.##ANOMALIA RILEVATA: analisi in corso.||||
 underCharmHologram7|Alcuni funghi contengono materiale genetico umano: rilevate tracce di canalizzazione del Cifro: la realtà viene distorta nelle vicinanze.||||
 underCharmHologram8|CONCLUSIONE: l'interlocutore dovrebbe prestare particolare attenzione all'ambiente attorno ai funghi umanoidi. Le cose potrebbero non essere come sembrano. ##Comunicazione terminata.||||
 underCharmHologram9|&&ANALISI: l'interlocutore non è un cittadino: Classe Z stimata (Alieno; Immigrato; Eccetera). ##Comunicazione terminata immediatamente.||||
@@ -793,7 +793,7 @@ VelaCradleAngry22|È... quello che dico sempre, vero? «Non volevo». «Mi hanno
 VelaCradleAngry23|Avete... la minima ((idea)) di quanto il ((mai)) possa essere lungo? Non rivedere mai più mia sorella. Non sentire mai più quella sua stupida risatina. ##Dannati dèi, tutto ciò che ho ((sempre)) voluto... <<Serra gli occhi.>>||||
 VelaCradleAngry24|Quando ho trovato quella mappa, è stato come se un fottuto ((Djinn)) avesse esaudito il mio desiderio. Capite? Come un messaggio dell'universo: forse è morta perché io potessi salvare ((tutti)).||||
 VelaCradleAngry25|E da allora, a ogni passo, ho fatto la stessa scelta. Ogni principio tradito. Ogni amico morto. L'Angelo poteva rimettere tutto a posto. ##Così il mio debito ha continuato a crescere, e crescere, finché...||||
-VelaCradleAngry26|<<Vela resta in silenzio a lungo. Quando torna a guardarti, ha un sorriso disperato e la voce le si spezza mentre si abbandona a una confessione disperata, senza più freni.>> ##Sono sprofondata così a fondo nel sangue che non riesco più nemmeno a vedere la superficie.||||
+VelaCradleAngry26|<<Vela resta in silenzio a lungo. Quando torna a guardarti, ha un sorriso sconsolato e la voce le si spezza mentre si abbandona a una confessione disperata, senza più freni.>> ##Sono sprofondata così a fondo nel sangue che non riesco più nemmeno a vedere la superficie.||||
 VelaCradleAngry27|<<Vela indica l'Angelo con un gesto sconsolato.>> Avete vinto, Confessore. L'Angelo risponderà al primo mortale che gli parlerà. Se mi ritenete una sciocca, allora ((distruggete)) l'Angelo.||||
 VelaCradleAngry28|Solo... qualunque cosa facciate, fatela ((in fretta)). Prima che cambi di nuovo idea.||||
 p112|Grazie, Vela.||||
@@ -805,7 +805,7 @@ VelaCradleAngry32|<<Vela è scossa da un altro accesso di tosse e si sforza di r
 VelaCradleAngry33|Ma guarda un po'... di nuovo ((voi))?||||
 VelaCradleAngry34|Quel maledetto ((Dio della Morte))! Quando avrò finito con voi, gli taglierò la ((testa))!||||
 VelaCradleSad1|<<Vela culla Orlaith fra le braccia, il corpo scosso da singhiozzi silenziosi e le lacrime che le scorrono sulle guance.>>||||
-VelaCradleSad2|<<Alza verso di te gli occhi arrossati, fin troppo umana, dopotutto.>> ##Dunque siete ((voi)). Buffo... avrei pensato che una spada nel cuore si rivelasse un serio ((ostacolo)).||||
+VelaCradleSad2|<<Alza verso di te gli occhi arrossati, fin troppo umana, dopotutto.>> ##Dunque siete ((voi)). Buffo... avrei pensato che una spada nel cuore si sarebbe rivelata un serio ((ostacolo)).||||
 p120|Ho ricevuto aiuto da una vostra ((amica)).||||
 VelaCradleSad3|Avrei dovuto immaginare che avreste trovato proprio ((quella)) lì. Un bel vantaggio... ##<<Sorride debolmente.>> L'Unione non sa che cosa si perde.||||
 p121|Sono pieno di sorprese.||||

@@ -22,15 +22,15 @@ p6a|Sembrate... un po' malconcia.||||
 p6|Cos'avete alla faccia?||||
 chi7|Avrete senz'altro sentito storie sugli Eterni, Respirante. L'immortalità ha un prezzo.||||
 p7|Sapete cosa provoca queste scosse?||||
-chi8|La gente dice che sia L'Intombata, imprigionata sotto il Castello delle Costole. Dicono che si stia risvegliando. Ma la gente ne dice tante, e a prenderle tutte sul serio si diventa matti.||||
+chi8|La gente dice che sia l'Entità Sepolta, imprigionata sotto il Castello delle Costole. Dicono che si stia risvegliando. Ma la gente ne dice tante, e a prenderle tutte sul serio si diventa matti.||||
 chi9|Comunque, è chiaro che siete nuovo da queste parti e io ho un po' di tempo da ammazzare. C'è qualcosa che volete sapere?||||
 chi10|Di nuovo salve, Respirante.||||
-p10|Chi è L'Intombata?||||
+p10|Chi è l'Entità Sepolta?||||
 chi11|Non ne ho idea. Fa tremare l'isola da secoli, ma ultimamente succede sempre più spesso. Ho sentito dire che, se continua così, potrebbe ridurre l'intera isola in pezzi.||||
 p11|Cos'è il Castello delle Costole?||||
 chi12|Il palazzo in cui risiede la nostra Regina. Continuate verso ovest: non potete mancarlo.||||
 p12|Parlatemi della Regina.||||
-chi13|Il suo titolo completo è Regina d'Argento. È piuttosto schiva. Governa gli Eterni da tre secoli e negli ultimi due secoli non si è mai mostrata in pubblico.||||
+chi13|Il suo titolo completo è Regina d'Argento. È piuttosto schiva. Governa gli Eterni da tre secoli e negli ultimi due non si è mai mostrata in pubblico.||||
 p13|Chi siete?||||
 p13a|Chi siete, già?||||
 chi14|Mi chiamo Chiasma. Sto solo aspettando che mi ammettano in uno dei Mausolei.||||
@@ -75,9 +75,9 @@ bar8|Direi di sì. È da un secolo buono che non abbiamo molto da fare.||||
 p29|Sapete se c'è del lavoro?||||
 bar9|Fuori dai Mausolei non c'è molto lavoro, Respirante. Però potreste fare visita al Siniscalco della Regina, nel Castello delle Costole. Forse potrebbe avere bisogno di qualcuno con il sistema nervoso ancora funzionante.||||
 bar10|Altrimenti c'è la Fattoria della carne, sul crinale a nord di qui. Per quanto ne so, ci sono soltanto Penitente D'Isgelo e quel suo sottoposto, quindi magari una mano farebbe loro comodo.||||
-p30|Cos'era quella storia degli alcolici fantasma?||||
+p30|Cos'era quella storia dei liquori fantasma?||||
 bar11|Be', noi Eterni siamo fatti... diversamente da voi Respiranti. Ci vuole un altro genere di bevanda per darci davvero alla testa.||||
-bar12|Il Vino Fantasma si può preparare come una pozione, ma le annate migliori sono ectoplasmatiche. Quando un fantasma nasce da un trauma, a volte anche gli oggetti vicini, o perfino le ((bevande)) passano nel mondo degli spiriti. Quella è roba buona.||||
+bar12|Il Vino Fantasma si può preparare come una pozione, ma le annate migliori sono ectoplasmatiche. Quando un fantasma nasce da un trauma, a volte anche gli oggetti vicini, o perfino le ((bevande)), passano nel mondo degli spiriti. Quella è roba buona.||||
 bar13|Oppure, per un Eterno a corto di monete, c'è sempre il buon vecchio arsenico. Ma a gente come voi non lo consiglierei...||||
 p31|Qual è la storia di questa città?||||
 bar14|Be', questa città si chiama Sepolcro. <<Inclina la testa.>> Volete la versione lunga o quella breve?||||
@@ -89,7 +89,7 @@ p33|Quella breve.||||
 bar18|Oggi Sepolcro è poco più di un avamposto commerciale. La maggior parte di noi Eterni vive in quei grandi Mausolei laggiù. E quella torre enorme che incombe su di noi? È il Castello delle Costole, dove vive la Regina, ma non ne esce da anni.||||
 p34|Ehm, esattamente quanto ((lunga)) è la versione lunga?||||
 bar19|<<Gli sfugge una risata roca, che gli strappa via un pezzetto di carne.>> ##Non preoccupatevi, Respirante. So che noi Eterni possiamo ((teoricamente)) parlare per sempre, ma non vi ucciderò di noia.||||
-bar20|Allora, che cosa prendete?||||
+bar20|Allora, quale scegliete?||||
 p34b|Sapete che c'è? Lasciamo perdere.||||
 bar22|Nessun problema, Respirante. Volete sapere altro?||||
 bar23|C'è altro che volete sapere?||||
@@ -98,8 +98,8 @@ bar24|D'accordo. Volete qualcos'altro?||||
 p35a|Com'è la vita a Sepolcro?||||
 bar25|Umpf. Vorrete dire: «com'è la ((morte))»?||||
 bar26|Be', il castello della Regina è esploso. Direi che è una cosa bella grossa.||||
-bar27|La gente dice che L'Intombata si sia risvegliata. Altri dicono che il Traghettatore stia portando la vera morte. Io so solo che l'isola sta crollando, e la cosa non mi piace proprio per niente.||||
-bar28|Be', quelle terribili scosse sono cessate. La gente dice che L'Intombata sia stata abbattuta in uno scontro mortale e che così il regno sia stato salvato... o qualche sciocchezza del genere.||||
+bar27|La gente dice che l'Entità Sepolta si sia risvegliata. Altri dicono che il Traghettatore stia portando la vera morte. Io so solo che l'isola sta crollando, e la cosa non mi piace proprio per niente.||||
+bar28|Be', quelle terribili scosse sono cessate. La gente dice che l'Entità Sepolta sia stata abbattuta in uno scontro mortale e che così il regno sia stato salvato... o qualche sciocchezza del genere.||||
 p35b|Cos'avete da bere?||||
 bar29|Non vi sorprenderà sapere che abbiamo un sacco di [[Vino Fantasma]]. ##Ultimamente, però, gli avventori hanno voglia di un po' di buon vecchio alcol da mortali. Se vi capita di trovare del [[Vino Pregiato]] di Riova, ve lo pagherò bene.||||
 p36|Io vado.||||
@@ -269,14 +269,14 @@ p101|I vostri soldati non hanno niente di meglio da fare?||||
 sen63a|No, la Regina li congedò molto tempo fa. La maggior parte si è dedicata ai propri affari o si è schierata con D'Isgelo, ma alcuni mi sono ancora fedeli.||||
 p102|No, grazie. Lavoro da solo.||||
 sen63|Ah, un lupo solitario, dunque? Una mina vagante, forse? Non temete! Non vi intralcerò.||||
-sen64|Ancora nessuna fortuna nel trovare i vostri compagni della Stella Oscura. Le mie guardie stanno setacciando l'isola palmo a palmo. Forse fareste meglio a cercare altrove.||||
+sen64|Ancora nessuna traccia dei vostri compagni della Stella Oscura. Le mie guardie stanno setacciando l'isola palmo a palmo. Forse fareste meglio a cercare altrove.||||
 p103|Sapete cosa provoca questi terremoti?||||
-sen65|Hmm. È opinione diffusa che L'Intombata sia all'origine dei recenti sconvolgimenti.||||
-p104|Avete qualche teoria sull'Intombata?||||
+sen65|Hmm. È opinione diffusa che l'Entità Sepolta sia all'origine dei recenti sconvolgimenti.||||
+p104|Avete qualche teoria sull'Entità Sepolta?||||
 sen66|Ah, sì. Avete avvertito uno dei recenti terremoti? Una faccenda terribile.||||
-sen67|Ho motivo di credere che dietro L'Intombata si celi lo spettro del Re Incappucciato, tornato per vendicarsi del regno che lo abbandonò a morire. Qualcuno deve trovarla e persuaderla a rinunciare alla vendetta... con la forza, se necessario.||||
+sen67|Ho motivo di credere che dietro l'Entità Sepolta si celi lo spettro del Re Incappucciato, tornato per vendicarsi del regno che lo abbandonò a morire. Qualcuno deve trovarlo e persuaderlo a rinunciare alla vendetta... con la forza, se necessario.||||
 p105|Posso provarci.||||
-sen68|Lo fareste davvero? Sarei in debito con voi. Prendete questa: è la chiave della cripta sotto il Castello. L'Intombata si trova da qualche parte laggiù.||||
+sen68|Lo fareste davvero? Sarei in debito con voi. Prendete questa: è la chiave della cripta sotto il Castello. L'Entità Sepolta si trova da qualche parte laggiù.||||
 p106|Buona fortuna.||||
 sen69|Grazie, mortale. Per il vostro bene, spero che la situazione non peggiori mentre siete qui.||||
 p107|Nelle cripte c'è una Porta Zannuta che non mi lascia passare.||||
@@ -286,7 +286,7 @@ sen71|Dovrete trovare qualcuno ancora leale al vecchio Re e convincerlo a darvi 
 p109|Potrei usare il vostro sangue?||||
 sen77|No, temo che l'incantesimo mi riconoscerebbe senz'altro come un traditore. Fareste meglio a cercare altrove.||||
 p109b|Grazie dell'aiuto.||||
-p110|Ho parlato con L'Intombata.||||
+p110|Ho parlato con l'Entità Sepolta.||||
 sen78|Oh, davvero? Avevo ragione? È il Re Incappucciato?||||
 p111|No. È un fantasma nato dal sacrificio della Regina.||||
 sen79|Davvero? Non immaginavo che un fantasma potesse essere tanto potente... Forse dovreste parlarne con Penitente D'Isgelo. Lei ne saprà di più.||||
@@ -408,7 +408,7 @@ thaw46|L'unica alternativa è continuare a banchettare con le Fattorie della car
 p233|Va bene, lo farò.||||
 thaw47|Sono lietissima che comprendiate la gravità della questione. Ora, via.||||
 p234|Mi rifiuto di prendere parte a tutto questo.||||
-thaw48|È questo il problema di voi mortali. Non siete pragmatico. Ora sparite.||||
+thaw48|È questo il problema di voi mortali. Non siete pragmatici. Ora sparite.||||
 p235|Sapevate che la Fattoria della carne sta diventando autocosciente?||||
 thaw49|Interessante. Spiegatevi.||||
 p236|Ho conversato a lungo con lei, dentro la mia testa.||||
@@ -454,17 +454,17 @@ p255|Solo a Figliodiverme.||||
 thaw70|Stolto. Andate subito a vedere come sta. Muovetevi!||||
 p256|No, non ancora.||||
 thaw71|Che sollievo. Se l'aveste detto a qualcuno e quella persona fosse andata in giro a spifferarlo, si sarebbe trovata in terribile pericolo. Ora sparite.||||
-p257|Quindi avete sempre saputo chi fosse L'Intombata?||||
+p257|Quindi avete sempre saputo chi fosse l'Entità Sepolta?||||
 thaw72|Sono una maga, mortale. Ammasso segreti come un avaro ammassa oro. E sapete qual è il modo più rapido per restare senza segreti? Raccontarli a tutti!||||
-p258|Ho sentito dire che fu L'Intombata a rendervi un'Eterna.||||
-thaw73|Sì, esatto. L'Intombata è il residuo vivente dell'incantesimo iniziale fallito, fuso con un fantasma vendicativo. Una combinazione particolarmente tossica.||||
+p258|Ho sentito dire che fu l'Entità Sepolta a rendervi un'Eterna.||||
+thaw73|Sì, esatto. L'Entità Sepolta è il residuo vivente dell'incantesimo iniziale fallito, fuso con un fantasma vendicativo. Una combinazione particolarmente tossica.||||
 thaw74|Ma utile per me. Poiché l'incantesimo era rimasto attivo, potei beneficiare di tutti i suoi effetti.||||
-p259|L'Intombata può essere fermata?||||
+p259|L'Entità Sepolta può essere fermata?||||
 thaw75|Tutto è possibile. Ma questo caso è insidioso. Il fantasma-incantesimo è profondamente instabile e si è radicato tanto a fondo nel tessuto magico del paesaggio che attaccarlo direttamente potrebbe fare a pezzi il regno.||||
 thaw76|Consiglio la diplomazia. La Regina è una donna ragionevole. Di certo lo sarà anche il suo fantasma, no?||||
 p260|E se la diplomazia fallisse?||||
 thaw77|Ho in mente un piano d'emergenza. ## <<Penitente rovista tra i suoi scaffali. Infine torna con una fiala sottile in mano.>>||||
-thaw78|Questo è un concentrato dei ricordi più felici che ho estratto dalla poltiglia mentale. Speravo di conservarlo per, ehm, uso personale... Ma forse servirà a persuadere L'Intombata che vale la pena salvare questo posto.||||
+thaw78|Questo è un concentrato dei ricordi più felici che ho estratto dalla poltiglia mentale. Speravo di conservarlo per, ehm, uso personale... Ma forse servirà a persuadere l'Entità Sepolta che vale la pena salvare questo posto.||||
 p261|Siete leale al Re Incappucciato?||||
 thaw79|Prima del mio tempo. Quando arrivai nel Regno Eterno, il Re era già scomparso da un secolo. Perché lo chiedete?||||
 p262|Una porta magica mi chiede sangue fedele.||||
@@ -494,9 +494,9 @@ thaw91b|Tuttavia, alla fine sarà la vostra specie a soffrirne, mortale. Spero s
 p270b|Ho distrutto le uova. La Fattoria della carne vivrà.||||
 thaw93|Hmph, sciocco mortale. Prima che riesca a escogitare un altro modo per distruggere quella cosa, Lord Rhydder avrà radunato i suoi alleati...||||
 thaw94|Sì, ormai non si può più fermare. Ci sarà un'altra Crociata. ##Questo mi farà perdere anni di ricerca. ((Anni!))||||
-thaw95|Anche se, a quanto pare mi sono procurata un nuovo soggetto di prova... <<Il cipiglio si distende e un sorriso sottile le affiora sul volto.>> ##Sì... la Fattoria della carne potrà conservare la sua senzienza, purché si dimostri utile in... altri modi.||||
+thaw95|Anche se, a quanto pare, mi sono procurata un nuovo soggetto di prova... <<Il cipiglio si distende e un sorriso sottile le affiora sul volto.>> ##Sì... la Fattoria della carne potrà conservare la sua senzienza, purché si dimostri utile in... altri modi.||||
 thaw96|Ora sparite, mortale. Avete già seminato abbastanza scompiglio.||||
-queen1|<<Quando la Regina posa lo sguardo su di te, un'ondata di malinconia tanto profonda ti travolge e quasi ti costringe in ginocchio.>>||||
+queen1|<<Quando la Regina posa lo sguardo su di te, ti travolge un'ondata di malinconia tanto profonda che quasi ti costringe in ginocchio.>>||||
 queen2|Oh... Salve. Temo di non ricevere visite, al momento. Vi prego, parlate con il mio Siniscalco: si prenderà diligentemente cura di voi.||||
 p300|@@Cosa vi affligge, Maestà?||||
 queen3|%%<<Le labbra lacere si ritraggono dai lunghi denti gialli. Sembra tentare un sorriso.>>##Siete curioso, non è vero? Ma posso assicurarvi che non c'è nulla di insolito.||||
@@ -594,7 +594,7 @@ queen52|Cominciò la Grande Divorazione.||||
 p349|E cosa accadde a vostro padre?||||
 queen53|Non lo so. Forse fu tra coloro che rimasero mortali. È una delle crudeltà dell'universo.||||
 queen54|&&Mi dispiace, ma non è una storia che amo raccontare. Chiedetemi altro.||||
-p350|Cosa sapete dell'Intombata?||||
+p350|Cosa sapete dell'Entità Sepolta?||||
 queen55|Credo che sia mio padre. Dopo il fallimento del rituale che doveva renderlo immortale, fuggì sotto il castello e si perse nei suoi corridoi tortuosi.||||
 p351|Non dovreste fare qualcosa?||||
 queen56|Fare cosa? Mandare laggiù delle guardie? L'ho fatto. Non tornano. Scendere io stessa? Mai. Non sopporto l'idea di rivederlo.||||
@@ -602,17 +602,17 @@ p352|Siete certa che sia lui?||||
 queen57|Lo sento nelle ossa.||||
 p353|E se scendessi laggiù e cercassi di impedirgli di fare a pezzi l'isola?||||
 queen58|Siete libero di tentare; credo che il mio Siniscalco abbia la chiave. Ma non credo che ci riuscirete.||||
-p356|L'Intombata è un fantasma creato dal vostro sacrificio, Maestà.||||
+p356|L'Entità Sepolta è un fantasma creato dal vostro sacrificio, Maestà.||||
 queen62|Sì. Lo so.||||
 p357|Lo sapevate già?||||
 queen63|Sì.||||
-p358|Ma mi avete detto che L'Intombata era vostro padre.||||
+p358|Ma mi avete detto che l'Entità Sepolta era vostro padre.||||
 queen64|Non mentivo. In quel fantasma vedo più di mio padre che di me stessa.||||
 p359|Come l'avete scoperto?||||
 queen65|So della sua presenza fin dall'inizio del mio regno.||||
 p360|Perché non me l'avete detto?||||
 queen66|Per ovvie ragioni, tengo segreta l'esistenza del mio fantasma. Se i miei sudditi scoprissero che un'ombra della loro stessa Regina cerca di distruggerli...||||
-p361|Quando avete visto di persona L'Intombata per l'ultima volta?||||
+p361|Quando avete visto di persona l'Entità Sepolta per l'ultima volta?||||
 queen67|La vidi l'ultima volta due secoli fa, quando accompagnai Penitente D'Isgelo laggiù perché diventasse Eterna.||||
 p362|Anche Penitente lo sapeva?||||
 queen68|È l'unica altra persona a saperlo. Era inevitabile: quello era l'unico modo in cui potevo esaudire la sua richiesta di diventare Eterna.||||
@@ -621,15 +621,15 @@ queen69|Non l'ho rinchiusa. Potrebbe fuggire facilmente, se volesse, ma si rifiu
 p364|Cos'è esattamente?||||
 queen70|È al tempo stesso incantesimo e sacrificio. In parte fantasma, in parte residuo persistente dell'incantesimo che trasformò gli abitanti del regno in Eterni. È uno dei motivi per cui è tanto potente e per cui ebbi bisogno del suo aiuto per rendere Eterna Penitente.||||
 queen71|Ma il suo potere continua a crescere, ben oltre i limiti di un tempo. Credo che sia alimentata dalla fede sempre maggiore dei miei sudditi nel Traghettatore.||||
-queen72|Le loro scritture insegnano ad agognare la morte, e le preghiere per il proprio annientamento alimentano la fiamma dell'Intombata.||||
+queen72|Le loro scritture insegnano ad agognare la morte, e le preghiere per il proprio annientamento alimentano la fiamma dell'Entità Sepolta.||||
 queen72b|Potrebbe fuggire facilmente, se volesse, ma si rifiuta di smettere di infestare le ossa di mio padre.||||
 p365|Come posso persuaderla a non distruggere il regno?||||
 queen73|Mi viene in mente una cosa...##<<La Regina ti posa qualcosa sul palmo: una collana di topazio. Sulla gemma è inciso un sigillo complesso.>>||||
 queen74|Indossavo questa collana durante il rituale. Forse le ricorderà che lo scopo di una Regina, prima di ogni altra cosa, è servire le esigenze del regno.||||
-p366|L'Intombata ha rinunciato a distruggere il regno.||||
+p366|L'Entità Sepolta ha rinunciato a distruggere il regno.||||
 queen75|Ottimo lavoro, mortale. Non credevo che avrei mai visto questo giorno. Alla fine, cosa l'ha persuasa?||||
 p367|La speranza in un futuro migliore.||||
-queen76|L'Intombata voleva distruggere il regno, eppure custodiva ancora in segreto un seme di speranza. Notevole. La speranza mi sembra tanto estranea.||||
+queen76|L'Entità Sepolta voleva distruggere il regno, eppure custodiva ancora in segreto un seme di speranza. Notevole. La speranza mi sembra tanto estranea.||||
 p368|La felicità.||||
 queen77|Ah. Dovete aver cercato in lungo e in largo per trovarla.||||
 p369|L'abuso di sostanze.||||
@@ -639,14 +639,14 @@ queen79|Costi quel che costi, mortale. Preservare un regno non è sempre indolor
 p371|Di certo non la vostra collana.||||
 queen80|Sacrificio. È questo che dobbiamo fare. Ancora e ancora e ancora, per impedire a questo luogo marcio di cadere a pezzi.||||
 queen81|<<La Regina d'Argento sospira e si abbandona nuovamente sul trono.>>##E così ci compriamo qualche altro anno della nostra esistenza eterna. Che gioia.||||
-p372|L'Intombata è pronta a stringere una tregua, ma deve parlarvi di persona.||||
+p372|L'Entità Sepolta è pronta a stringere una tregua, ma deve parlarvi di persona.||||
 queen82|Ottimo lavoro, mortale. Scenderò immediatamente a parlarle.||||
 p373|Siete ancora leale a vostro padre?||||
 queen83|No. Non sono fedele a niente e a nessuno, se non al mio regno.||||
 queen84|Oh... salve. Ci conosciamo?||||
 p374|Cosa vi è successo?||||
 queen85|Non lo so. Ricordo soltanto una luce intensa e una mano dentro la testa.||||
-p375|Avete parlato con L'Intombata?||||
+p375|Avete parlato con l'Entità Sepolta?||||
 queen86|Chi sarebbe? Mi dispiace. È tutto confuso.||||
 p376|Ricordate di essere una Regina, vero?||||
 queen87|Davvero? Che bello.||||
@@ -666,7 +666,7 @@ ent6|Mio padre? Quello sciocco di mio padre? L'avete trovato. ##<<Indica con dis
 ent7|Lì giace il Re Incappucciato. L'uomo che sacrificò sua figlia per l'immortalità. Avreste dovuto vederlo contorcersi e piangere.||||
 p405|Non sono nessuno, Maestà.||||
 ent8|Esatto.||||
-p406|Quindi siete voi L'Intombata?||||
+p406|Quindi siete voi l'Entità Sepolta?||||
 ent9|Io sono la Regina. La vera Regina. Non una triste vecchia reliquia come la Regina di Sopra.||||
 ent9b|Il mio regno marcisce. Presto distruggerò quest'intera isola... e con essa tutti i miei sudditi. ##Porrò fine a questa miserabile maledizione e concederò finalmente ai miei sudditi la pace eterna che bramano.||||
 p407|Dov'è il Re Incappucciato?||||
@@ -691,7 +691,7 @@ ent18|E io ho poca pazienza.||||
 ent18b|E ne sono lieta.||||
 p417|Addio, fantasma.||||
 p418|Vedete questa collana, Maestà? Ricordate perché vi sacrificaste?||||
-ent19|<<Per un istante L'Intombata fissa la collana di topazio con qualcosa di simile al desiderio sul volto. Poi il suo sguardo si indurisce. Ti strappa la collana e riduce il topazio in polvere tra due dita.>>||||
+ent19|<<Per un istante l'Entità Sepolta fissa la collana di topazio con qualcosa di simile al desiderio sul volto. Poi il suo sguardo si indurisce. Ti strappa la collana e riduce il topazio in polvere tra due dita.>>||||
 ent20|Sacrificio. Ah. ##La Regina di Sopra crede di potermi ricordare cosa significhi servire il regno? Io ((sto)) servendo il regno, molto meglio di quanto abbia mai fatto lei mentre sedeva depressa nella sala del trono!||||
 ent21|Questo regno ((implora)) di essere distrutto! Il suo popolo è miserabile e mi invoca perché ponga fine alle sue lunghe vite!||||
 p419|Prima che andiate oltre... Vi prego, bevete questo.||||
@@ -704,7 +704,7 @@ p421|Ora capirete che nella vita degli Eterni esistono ancora momenti che hanno 
 p422|E voi distruggereste tutto questo, convinta che sia ciò che desiderano.||||
 p423|Un momento di gioia pura vale più di un secolo di sofferenza, non è vero?||||
 ent26|Le vostre parole hanno peso, mortale.||||
-ent27|<<Davanti ai tuoi occhi, la rabbia ardente che ribolle sotto la pelle dell'Intombata comincia ad affievolirsi e spegnersi.>>||||
+ent27|<<Davanti ai tuoi occhi, la rabbia ardente che ribolle sotto la pelle dell'Entità Sepolta comincia ad affievolirsi e spegnersi.>>||||
 ent28|Lasciatemi sola. Mi avete dato molto su cui riflettere.||||
 p424|Avete ragione. Vi aiuterò a distruggere il Regno Eterno.||||
 ent29|Mi aiutereste davvero a distruggere questo luogo? Mi sorprendete, mortale, nel migliore dei modi.||||
@@ -731,12 +731,12 @@ p437|Un'altra invenzione simile potrebbe arrivare da un momento all'altro.||||
 p438|Un giorno il regno potrebbe essere salvato di nuovo.||||
 ent37|<<Riflette a lungo.>>||||
 ent38|Le vostre parole hanno peso, mortale. Il peso degli anni è già immenso... Che importanza può avere qualche anno in più? Forse le cose miglioreranno.||||
-ent39|<<Davanti ai tuoi occhi, la rabbia ardente che ribolle sotto la pelle dell'Intombata comincia ad affievolirsi e spegnersi.>>||||
+ent39|<<Davanti ai tuoi occhi, la rabbia ardente che ribolle sotto la pelle dell'Entità Sepolta comincia ad affievolirsi e spegnersi.>>||||
 ent40|Lasciatemi sola. Mi avete dato molto su cui riflettere.||||
 p439|Non potete decidere al posto loro.||||
 p440|Siete soltanto l'ennesimo fantasma folle in un regno che ne è pieno.||||
 p441|Forse avete ragione...||||
-ent41|<<L'Intombata si volta verso di te, la pelle ardente di luce interiore.>>##Vi prego. Mortale. Considerate il mio punto di vista. So di chiedere molto: chiedo la distruzione di un intero regno. Ma qui non nasce una nuova anima da secoli.||||
+ent41|<<L'Entità Sepolta si volta verso di te, la pelle ardente di luce interiore.>>##Vi prego. Mortale. Considerate il mio punto di vista. So di chiedere molto: chiedo la distruzione di un intero regno. Ma qui non nasce una nuova anima da secoli.||||
 ent42|Nessun bambino, nessun giovane. Gli unici grandi mutamenti dello stato delle cose sono stati innescati dai mortali. Prima Penitente D'Isgelo... e ora voi. Gli Eterni sono stanchi, annoiati e marci. Si nascondono nei Mausolei senza far nulla, fingendosi morti.||||
 ent43|Bramano carne mortale e, se le Fattorie della carne venissero meno, riprenderebbero all'istante le loro Crociate. Non hanno il coraggio di porre fine alla propria esistenza, eppure lo desiderano.##Ascoltate la mia supplica, mortale. Aiutatemi a distruggere questo regno maledetto.||||
 ent44|Sono lieta che siate qui, mortale, a testimoniare i miei ultimi istanti.||||
@@ -752,9 +752,9 @@ p446|Quanto ci vorrà?||||
 ent49|Pochissimo. Solo qualche altro istante.||||
 p447|Vi prego, aspettate un momento.||||
 p448|Questo regno ha visto abbastanza sacrifici, Maestà.||||
-p449|Meglio così.||||
+p449|Bella liberazione.||||
 ent50|Addio e buona fortuna, mortale.||||
-ent51|<<L'Intombata chiude gli occhi e rivolge il volto al soffitto. Con un sospiro, si dissolve in polvere e brandelli di pergamena.>>||||
+ent51|<<L'Entità Sepolta chiude gli occhi e rivolge il volto al soffitto. Con un sospiro, si dissolve in polvere e brandelli di pergamena.>>||||
 ent52|Salve, mortale! Siete venuto ad ammirare la mia opera?||||
 p450|Avete distrutto l'intero castello?||||
 ent53|Sì. E questo è soltanto l'inizio. Gioite, mortale! Gioite, perché la fine è giunta per gli Eterni!||||
@@ -762,7 +762,7 @@ p451|Cos'è successo alla Regina d'Argento?||||
 ent54|Oh, non preoccupatevi. Non l'ho uccisa. Le ho soltanto sottratto la mente e l'ho resa mia. Ora penso con più chiarezza che mai!||||
 p452|È troppo tardi per fermarvi?||||
 ent55|Ormai è troppo tardi, mortale! Sono ineluttabile come il tramonto!||||
-ent56|<<Con una risata squillante, L'Intombata alza le mani. I suoi occhi lampeggiano e scintillano, e una crepa spacca il terreno. Il mondo sembra spostarsi sotto i tuoi piedi, gemendo.>>||||
+ent56|<<Con una risata squillante, l'Entità Sepolta alza le mani. I suoi occhi lampeggiano e scintillano, e una crepa spacca il terreno. Il mondo sembra spostarsi sotto i tuoi piedi, gemendo.>>||||
 ent57|Fareste meglio a volare via, mortale! A quest'isola non resta molto tempo!||||
 ent58|<<Il fantasma non risponde. Fissa il vuoto in lontananza.>>||||
 fang1|<<La porta sorride e sfodera le zanne.>>##Soltanto chi è fedele al Re può passare.||||
@@ -826,7 +826,7 @@ p618|Meglio saperlo.||||
 rhy28|Siete proprio un mortale bizzarro, lo sapete?||||
 p619|Cosa pensate della Regina d'Argento?||||
 rhy29|È la legittima monarca degli Eterni e, suppongo, lo sarà per sempre. Questo è quanto posso dire. Non parlerò male di lei con un estraneo.||||
-p620|@@Suvvia, mio Lord, nella vostra dimora potrete certamente esprimere ciò che provate davvero.||||
+p620|@@Suvvia, mio signore, nella vostra dimora potrete certamente esprimere ciò che provate davvero.||||
 p621|Molto bene, non insisterò oltre.||||
 rhy30|Una decisione saggia da parte vostra.||||
 rhy31|%%Per quanto la vostra vita sia penosamente breve, stavolta parlate con saggezza. Perché dovrei usare riguardi con il vuoto involucro che chiamiamo Regina?||||
@@ -843,9 +843,9 @@ rhy37|Ah! Non fatemi ridere. Quel cagnolino nervoso? No. Grazie al cielo, il nos
 p626|Il suo nuovo burattinaio è Penitente D'Isgelo?||||
 rhy38|Hmph. Non posso proprio pronunciarmi.||||
 rhy39|&&Che io sia in casa o meno, resta il fatto che non mi fido di voi, mortale.||||
-p627|Cosa sapete dell'Intombata?||||
+p627|Cosa sapete dell'Entità Sepolta?||||
 rhy40|Si sta risvegliando. Ai vecchi tempi il terreno tremava una volta ogni cinque anni circa. Ora accade ogni settimana. Si sta destando, e non vedo l'ora che scorra la marea di sangue che seguirà.||||
-p628|Sapete chi potrebbe essere L'Intombata?||||
+p628|Sapete chi potrebbe essere l'Entità Sepolta?||||
 rhy41|È il Re Incappucciato. Il mio sovrano. Si risveglia perché abbiamo dimenticato la nostra fame e siamo diventati inutili e deboli.||||
 rhy42|Presto sorgerà dalla tomba, spazzerà via i traditori del Castello delle Costole e prenderà di nuovo il comando del nostro regno. E io sarò lì a offrirgli la mia spada.||||
 p629|Siete un seguace del Traghettatore?||||
@@ -955,7 +955,7 @@ p710|Chi siete?||||
 p711|Uscite dalla mia testa!||||
 p712|Ahi.||||
 flesh5|RESPIRATE. SUDATE. MANGIATE, DORMITE, ESPELLETE RIFIUTI. CORRETTO?||||
-p713|credo di sì. E allora?||||
+p713|Credo di sì. E allora?||||
 flesh6|COME PENSAVO.||||
 p714|Vi prego, cercate di parlare più piano.||||
 p715|...No.||||
@@ -1039,7 +1039,7 @@ flesh44|VI PREGO, ABBIATE PIETÀ. PERCHÉ VUOLE CHE IO MUOIA?||||
 p759|La vostra coscienza crea un problema politico.||||
 p760|Se potete pensare, non assolvete più allo scopo per cui siete stata creata.||||
 p761|Gli Eterni potrebbero uccidere migliaia di persone, se non potessero più nutrirsi di voi.||||
-flesh45|VI PREGO... NON HO SCELTO DI ESSERE UN ESSERE PENSANTE. NON È STATA UNA MIA SCELTA. È SEMPLICEMENTE CIÒ CHE SONO.||||
+flesh45|VI PREGO... NON HO SCELTO DI ESSERE UNA CREATURA PENSANTE. NON È STATA UNA MIA SCELTA. È SEMPLICEMENTE CIÒ CHE SONO.||||
 p762|La vita è ingiusta.||||
 p763|Lo so.||||
 p764|Mi dispiace.||||
@@ -1053,7 +1053,7 @@ p765|((Deporre le uova di ragno sulla massa tremante per uccidere la Via di Ogni
 flesh47|ASPETTATE, COS'È STATO? COSA STATE FACENDO? NO! VI PREGO!||||
 flesh48|<<Mentre ti allontani, senti le uova cominciare a schiudersi una dopo l'altra. Odi un crepitio e il suono della carne rosicchiata da mille mandibole.>>||||
 flesh49|<<Ben presto, però, ogni altro suono viene soffocato da un urlo terrorizzato che riecheggia nel tuo cranio e ti fa cadere in ginocchio per il dolore.>>||||
-p766|((Afferrarsi la testa.))||||
+p766|((Prendersi la testa tra le mani.))||||
 flesh50|<<Dopo quelle che sembrano ore, le urla si spengono. Restano soltanto lo zampettio e il ticchettio dello sciame.>>||||
 flesh51|<<La Via di Ogni Carne è morta. Ti allontani in fretta prima che i ragni cerchino nuove prede.>>||||
 p766b|((Andarsene.))||||
@@ -1106,8 +1106,8 @@ p812|Però dovreste smettere di nutrirvi della Fattoria della carne, no?||||
 mag15|E quale sarebbe l'alternativa, eh? Dovrei mangiarmi voi?||||
 p813|Grazie, Figliodiverme.||||
 mag16|Andate a parlare con D'Isgelo, compare.||||
-p814|Cosa sapete dell'Intombata?||||
-mag17|Be', è intombata. Questo lo so per certo.||||
+p814|Cosa sapete dell'Entità Sepolta?||||
+mag17|Be', è sepolta. Questo lo so per certo.||||
 p815|Volete aggiungere altro?||||
 p816|Tutto qui?||||
 p817|Davvero utile, grazie.||||
@@ -1217,7 +1217,7 @@ agony7|<<Il fantasma tace per un momento, contraendosi dal dolore.>> ##Sentite, 
 p868|Sì.||||
 agony8|Vedete quelle rupi laggiù? Nascondono un cimitero sepolto nelle profondità del sottosuolo. Uno dei tanti. Un incantesimo d'illusione ne cela l'ingresso.||||
 agony9|Durante la Grande Divorazione, gli Eterni cedettero alla fame, ma conservarono il rimorso... la vergogna.||||
-agony10|Così seppellirono le vittime lontano da ogni sguardo. Il mio corpo giace dietro quelle scogliere... da qualche parte.||||
+agony10|Così seppellirono le vittime lontano da ogni sguardo. Il mio corpo giace dietro quelle rupi... da qualche parte.||||
 p869|No.||||
 agony11|Come volete. Allora potete lasciarmi ai miei tormenti.||||
 mag50|<<Figliodiverme è stato chiaramente torturato. Costole spezzate spuntano dalla carne disseccata. I denti sono ridotti in schegge. Un uncino arrugginito gli sporge ancora dalla spalla.>>||||
@@ -1245,7 +1245,7 @@ ghostCharm4|Quando furono creati, gli Eterni erano divorati da una fame insaziab
 ghostCharm5|Gli spiriti come me sono vestigia di un trauma. Io non mi limito a ((ricordare)) quegli anni indicibili... Li vivo ancora.||||
 ghostCharm6|Ma conservo abbastanza senno da distinguere il passato dal presente... perlopiù. Perciò veglio su questo luogo. Affinché la gente ricordi.||||
 p901|@@ Sono venuto a rendere omaggio.||||
-ghostCharm7|%% Un intento onorevole. Aprirò la porta che conduce al resto della tomba, così potrete compiangerli in pace.||||
+ghostCharm7|%% Un intento onorevole. Aprirò la porta che conduce al resto della tomba, così potrete piangerli in pace.||||
 ghostCharm8|&& Apprezzo il gesto. Tuttavia, essendo un giovane mortale, non potete sperare di comprendere fino in fondo ciò che accadde qui. Per questo devo tenere la tomba sigillata.||||
 myg1|No, no, no! Non potete entrare! ## Andatevene!||||
 p905|Chi siete?||||
@@ -1283,7 +1283,7 @@ royalG4|La ((Regina d'Argento)) è la nostra sovrana indiscussa. Governa dal suo
 royalG5|Potete darmi qualche indicazione?||||
 royalG6|Vedete quell'enorme città che incombe sopra di noi? È [[Sepolcro]], ed è probabilmente l'unico posto in cui un Respirante come voi sarebbe benvenuto.||||
 royalG7|A sud ci sono un [[Mausoleo]] e le [[Miniere di Cristallo]] e non vorreste perdervi in nessuno dei due.||||
-royalG8|Laggiù c'è anche la [[Tenuta della Duchessa]] dove, a quanto ne so, nessuno la vede da anni.||||
+royalG8|Laggiù c'è anche la [[Tenuta della Duchessa]], ma a quanto ne so lei non si fa vedere da anni.||||
 royalG9|E infine, a nord, ci sono le [[Fattorie della carne]] e il [[Mastio dei Cadaveri]].||||
 royalG10|Ora muovetevi, Respirante: non posso perdere tempo a fare da balia a quelli come voi.||||
 royalG11|D'accordo, me ne vado.||||

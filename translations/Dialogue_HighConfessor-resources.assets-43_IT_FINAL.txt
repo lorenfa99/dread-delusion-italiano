@@ -254,7 +254,7 @@ p109|Parlatemi di Vela Callose.||||
 hc91|Quel nome... incute timore e rispetto in tutti i Regni Celesti. La sua compagnia mercenaria... la [[Stella Oscura]]... ha rovesciato tiranni, fomentato rivolte... ((ucciso dèi)).||||
 hc92|<<Inspira con fatica.>> Perfino chi... come me, è parte integrante degli ingranaggi dell'Inquisizione... può provare ((ammirazione)) per quella ragazza e per le sue imprese.||||
 hc93|<<Senti un tonfo provenire dall'interno della bara.>> Ma quella donna ci ha ((traditi)). Avrebbe potuto compiere... imprese ancora ((più grandi)). Invece ci ha trascinati nel fango, inseguendo... oscuri e funesti presagi.||||
-hc94|Il suo delirio... di creare una sorta di ((paradiso)) in questi Regni Celesti... sarà la rovina di tutti noi. La Marina dell'Unione la vuole catturata. ##Ma se io... riuscirò a metterle le grinfie addosso... non vedrà l'alba di domani.||||
+hc94|Il suo delirio... di creare una sorta di ((paradiso)) in questi Regni Celesti... sarà la rovina di tutti noi. La Marina dell'Unione vuole che sia catturata. ##Ma se io... riuscirò a metterle le grinfie addosso... non vedrà l'alba di domani.||||
 p110|Parlatemi dell'Inquisizione.||||
 hc95|Siamo un corpo d'élite dell'... Unione Apostatica. Specializzato in... spionaggio, intelligence e... contrasto al culto.||||
 hc96|Come sapete, essere apostati significa... rinnegare la propria fede. Ci siamo liberati dalle catene dei nostri dèi... durante la [[Guerra Divina]], circa quarant'anni fa.||||
@@ -266,7 +266,7 @@ p112|Volevo chiedervi una cosa.||||
 hc101|Molto bene, ma... <<Con un fremito, la macchina si accovaccia leggermente. >> ## Dovrete parlare più forte. Qui dentro c'è davvero... molta eco.||||
 p113|Che cos'ha di particolare questa fortezza?||||
 hc102|Il suo nome... è [[Luce Accecante]]. ##Era una fortezza della Guerra Divina, circa quarant'anni fa. Una meraviglia dell'ingegneria kardovana. Quel gigantesco cannone... trapassava il cuore di molti dèi con lance d'Acciaio del Vuoto.||||
-hc103|Al culmine dell'infamia della Stella Oscura, Vela Callose si procurò... questa fortezza. La restaurò... partendo da un mucchio di rottami. Negli ultimi anni, da quando i membri della Stella Oscura si sono rivoltati gli uni contro gli altri, Vela si nasconde qui.||||
+hc103|Al culmine della notorietà della Stella Oscura, Vela Callose si procurò... questa fortezza. La restaurò... partendo da un mucchio di rottami. Negli ultimi anni, da quando i membri della Stella Oscura si sono rivoltati gli uni contro gli altri, Vela si nasconde qui.||||
 hc104|Che ci crediate o no... sono già stata qui, molto tempo fa. È... strano essere tornata.||||
 p114|Perché siete dentro quella bara di metallo?||||
 hc105|Non siete... l'unico membro di questo tribunale... ad aver tradito l'Unione Apostatica.||||
@@ -317,7 +317,7 @@ caer21|Fu costruita durante la Guerra Divina, e gli Apostati la chiamarono [[Luc
 caer22|È ironico che sia caduta nelle mani di una donna tanto ((accecata)) dall'ambizione e dallo zelo; Vela se n'è impadronita per inseguire il proprio paradiso distorto, e ora la Luce Accecante punta i cannoni contro le anime senza fede che la crearono.||||
 caer23|<<I suoi occhi spettrali scintillano.>> Ditemi, straniero. Se un nemico odiato si frapponesse fra voi e il vostro ideale più caro, lo abbattereste? Avreste l'((arroganza)) di togliere una vita per inseguire la vostra fantasia?||||
 p504|Sì, ucciderei per ciò in cui credo.||||
-caer24|Almeno siete sincero; e non siete certo il solo. I Regni Celesti sono macchiati del sangue di chi si trovò dalla parte sbagliata della storia. Perfino i ((dèi)) si rivelarono fallibili, alla fine.||||
+caer24|Almeno siete sincero; e non siete certo il solo. I Regni Celesti sono macchiati del sangue di chi si trovò dalla parte sbagliata della storia. Perfino gli ((dèi)) si rivelarono fallibili, alla fine.||||
 p505|Mai.||||
 caer25|<<Sorride.>> Dunque siete un macellaio ((e)) un bugiardo? ##Non crediate che non vi abbia osservato, straniero. Non appena l'Inquisizione vi ha scaraventato fuori dalla sua prigione, avete cominciato a uccidere i compagni di Vela senza la minima ombra di rimorso.||||
 caer26|<<Sorride debolmente.>> Un cuore gentile è cosa rara, a quanto pare; ma finora siete stato fedele alla vostra parola.||||
@@ -333,7 +333,7 @@ p533|E adesso?||||
 hc134|Voi e gli ex mercenari della Stella Oscura formerete una squadra d'assalto anticulto... e inseguirete Vela. ##La vostra missione è... la seguente.||||
 hc135|Raggiungerete l'[[hangar]] della Luce Accecante, dove una piccola [[Navetta]] è pronta a scendere nelle Terre di Sotto.||||
 hc136|Jack Basalt piloterà il velivolo, mentre la magia della Duchessa... lo proteggerà dal caos incessante delle sottotempeste. Caxton Frost... disattiverà qualunque antico sistema di sicurezza troviate in superficie.||||
-hc137|Una volta atterrato, Orlaith vi guiderà... fino alla [[Culla]]. Non sappiamo esattamente che cosa sia la Culla, ma Vela... crede che possa riscrivere il tessuto stesso della ((realtà)). ##Inutile dirlo: deve essere ((fermata)).||||
+hc137|Una volta che sarete atterrati, Orlaith vi guiderà... fino alla [[Culla]]. Non sappiamo esattamente che cosa sia la Culla, ma Vela... crede che possa riscrivere il tessuto stesso della ((realtà)). ##Inutile dirlo: deve essere ((fermata)).||||
 hc138|<<Fa una pausa. Dai suoi meccanismi proviene un rantolo sinistro: è forse un sospiro? Sembra quasi... commossa.>> Ascoltate, Confessore. Se dipendesse da me, avremmo un'intera ((flotta da guerra)) lanciata laggiù. Ma la Marina dell'Unione non vuole saperne. Pensano che questa bara in cui mi hanno rinchiusa... abbia offuscato la mia ragione.||||
 hc139|Ho l'autorità di inviare soltanto gli elementi più ((sacrificabili)) del mio tribunale. ##<<Punta un arto meccanico verso di te.>> Ma, per quanto mi costi ammetterlo, vi siete dimostrato... all'altezza di qualsiasi agente ai miei ordini.||||
 hc140|Spetta quindi soltanto alla ((vostra)) squadra fermare Vela a ogni costo. Ricordate... che armeggia con forze al di là della nostra comprensione e minaccia la stabilità non solo dell'Unione Apostatica... ma di tutti i Regni Celesti.||||
@@ -358,7 +358,7 @@ hc153|Ma io conosco Vela. In questi ultimi anni... ha vissuto in preda a una par
 hc154|Se qualcuno di voi dovesse tradire l'Inquisizione... so che sarà ((Vela)) ad abbatterlo.||||
 p539|Ripetetemi la nostra missione nelle Terre di Sotto.||||
 caer30|Un tempo i campi di [[Hallowshire]] erano seminati con semente Wikkan; le loro divinità, benché indebolite, potevano garantire un buon raccolto. I patti con gli dèi erano modesti; il prezzo di sangue, equo.||||
-caer31|Naturalmente, ben presto l'Unione Apostatica fiutò la cosa. Mandò quella [[Polimate]] e il suo seguito a soffocare ogni brace divina, e ora la gente comune muore di fame, mentre i campi giacciono sterili e desolati.||||
+caer31|Naturalmente, alla fine l'Unione Apostatica fiutò la cosa. Mandò quella [[Polimate]] e il suo seguito a soffocare ogni brace divina, e ora la gente comune muore di fame, mentre i campi giacciono sterili e desolati.||||
 caer32|L'Unione sostiene di farlo in nome della ((ragione)) e del ((progresso.)) <<Emette un sospiro dissonante>>. ## Ammetto che quegli antichi patti Wikkan possano essere... ingannevoli. Molti non comprendono il peso della propria firma finché la maledizione non attecchisce...||||
 caer33|Ma l'Unione soffocherebbe i Regni Celesti in un groviglio di burocrazia, fino a farci adorare nient'altro che scadenze e manifesti di carico. La sua unica virtù è l'onestà: almeno la gente ((sa)) di essere calpestata.||||
 caer34|E che mi dite di ((voi)), straniero? Preferireste essere avvolto da una dolce menzogna, beato nella vostra ignoranza, oppure scegliereste l'amara ((verità))?||||
@@ -375,7 +375,7 @@ caer41|I suoi abitanti si accalcano in città-sepolcro sotterranee, isolando i l
 caer42|Ma un'esistenza tanto miserabile è davvero preferibile alla morte? Ditemi, straniero: se quegli studiosi dell'Unione hanno ragione, e dopo la vita non vi è altro che un sonno senza sogni, quel nulla cancella forse ciò che è venuto prima? L'oblio imminente rende vana la nostra esistenza?||||
 p603|È vero. La morte rende le nostre vite prive di senso.||||
 caer43|<<Ridacchia.>> Detto da ((voi)), sembra alquanto macabro.||||
-caer44|<<Fa un gesto tutt'intorno.>> E allora tutto ((questo)), che cos'è? L'opera collettiva di noi mortali, le ((meraviglie)) della civiltà? È soltanto un'illusione collettiva, un rifiuto della nostra intrinseca inutilità?||||
+caer44|<<Fa un gesto tutt'intorno.>> E allora tutto ((questo)), che cos'è? L'opera collettiva di noi mortali, le ((meraviglie)) della civiltà? È soltanto un'illusione condivisa, un rifiuto della nostra intrinseca inutilità?||||
 caer45|<<Sorride.>> Sapete che c'è? Non rispondete. Perfino da spirito, mi fa rabbrividire.||||
 p604|La brevità ha una sua bellezza. La vita eterna sarebbe una tortura.||||
 caer46|<<Annuisce.>> Molti Eterni condividerebbero il vostro pensiero, dopo essere rimasti prigionieri dei propri corpi tanto a lungo. Si dice che perfino gli Eterni fatti a pezzi restino... coscienti.||||
@@ -421,7 +421,7 @@ caer76|Ma i suoi poteri, per quanto incredibili, erano limitati. Poteva soltanto
 p614|Dunque è ((questa)) la spina nel cuore di Vela.||||
 caer77|<<Annuisce lentamente.>> Credo che sia stata la perdita di Isabet a spingere Vela ad abbandonare la Marina dell'Unione. Con un ammiraglio per padre, avrebbe potuto raggiungerne i vertici; ma semplicemente... non ne vedeva il senso.||||
 caer78|Così prese il sogno di suo padre e lo capovolse. Nacque la Stella Oscura; il suo emblema, una stella nera, era una beffa cinica del simbolo dell'Unione Apostatica.||||
-caer79|<<Sorride.>> Ma per oggi abbiamo raccontato abbastanza storie, non credete? C'è un'isola con una [[Baia per Aeronavi]] sul [[margine occidentale del Regno Eterno]]; incontratemi là quando sarete pronto, e continuerò il mio racconto.||||
+caer79|<<Sorride.>> Ma per oggi abbiamo raccontato abbastanza storie, non credete? C'è un'isola con una [[Baia delle Aeronavi]] sul [[margine occidentale del Regno Eterno]]; incontratemi là quando sarete pronto, e continuerò il mio racconto.||||
 caer80|È qui che cominciò tutto: la compagnia mercenaria nota come Stella Oscura. ##Vela, Jack Basalt e Orlaith. Soltanto loro tre, in una grotta, con uno Sloop traballante a malapena in grado di volare.||||
 caer81|Durante uno dei loro primi incarichi trovarono ((me)). O meglio, la ((vera)) me, prima che assumessi l'aspetto di un dipinto da quattro soldi. <<Sorride.>> ##Quei tre per poco non mi ammazzarono.||||
 p615|Un momento: avete davvero ((combattuto)) contro Vela?||||
@@ -445,7 +445,7 @@ caer95|Nei primi tempi della Stella Oscura, Vela accettava incarichi da chiunque
 caer96|Non sopportava l'idea di somigliare a suo padre, le cui campagne militari avevano provocato tanta devastazione. Così, se un incarico puzzava di marcio, lo rifiutavamo e restavamo a digiuno. Non ci importava.||||
 caer97|Ma quando accettavamo un incarico? ((Nulla)) poteva fermarci. In breve tempo le nostre fila si ingrossarono, e quella minuscola grotta non bastò più. Ben presto, dall'ultimo dei furfanti al più altolocato dei nobili, tutti conoscevano la ((Stella Oscura)).||||
 p619|Perché la gente voleva seguire Vela?||||
-caer98|Vela ci conquistò tutti con sogni inebrianti. Non ci saremmo limitati ad arricchirci; avremmo ((costruito)) qualcosa che né l'Unione né i Wikkan possedevano. Un luogo senza dèi né padroni. Un paradiso. Un ((cielo))...||||
+caer98|Vela ci conquistò tutti con sogni inebrianti. Non ci saremmo limitati ad arricchirci; avremmo ((costruito)) qualcosa che né l'Unione né i Wikkan possedevano. Un luogo senza dèi né padroni. Un'utopia. Un ((paradiso))...||||
 caer99|Quelli furono gli anni più felici della mia vita. Combattevamo insieme, bevevamo e danzavamo insieme, ((sognavamo)) insieme. Ma... non era destinato a durare.||||
 p620|E allora che cosa andò storto?||||
 caer100|Per pagare le nuove reclute, Vela dovette essere meno ((scrupolosa)) nella scelta degli incarichi. A volte ci scontravamo: quando uccise il dio minore Cernun, andai su tutte le furie... Non avevo mai voluto il sangue di un dio sulle mie mani.||||

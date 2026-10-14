@@ -14,7 +14,7 @@ lordself|Ah, perdonatemi. Sono [[Romulous Chairon VII]], lord ed erede del [[Ter
 lordp5|Sono stato alle miniere: ecco che cosa ho visto.||||
 lordp6|Devo andare.||||
 lord5|Le mie miniere si trovano a sud-ovest.##I minerali sono una preziosa merce d'esportazione. Il Minerale Pregiato si vende a prezzi da capogiro nel [[Regno Meccanico]].||||
-lord6|Probabilmente possiedo quelle miniere da prima che nasceste! D'altronde, non mi occupo granché della loro gestione. Ho dei sottoposti incaricati di sbrigare sul posto simili inezie.##Respirante, potreste indagare per mio conto?||||
+lord6|Probabilmente possiedo quelle miniere da prima che nasceste! Però non mi occupo granché della loro gestione. Ho dei sottoposti incaricati di sbrigare sul posto simili inezie.##Respirante, potreste indagare per mio conto?||||
 lord7|Ah, sareste così gentile? Mi fareste un favore inestimabile.||||
 lordp8|Sarei lieto di aiutarvi.||||
 lordp9|@@Dietro compenso, s'intende!||||
@@ -60,7 +60,7 @@ res5|<<La domanda lo turba profondamente; lui comincia a piagnucolare.>>##Chi er
 res6|Credo di essere stato un caposquadra... o forse un minatore? Oppure ero un soldato?##Ricordo di essere stato un ragazzino quando arrivarono i Crociati e... No. Devo essere stata sua madre... Ma non posso essere stata neanche lei...||||
 res7|Alcuni di questi ricordi non sono miei...||||
 resp4|Vedrò cosa posso fare...||||
-res8|Credo che questa volta stia morendo davvero. Ho tanta paura.||||
+res8|Credo di stare morendo davvero, questa volta. Ho tanta paura.||||
 resLaw1|<<Piange di gratitudine. I cristalli sul suo volto si sono ritratti.>> Grazie infinite... Non riesco a credere che stia finendo.||||
 resLaw2|Vi prego, prendete questo! Anche se so che non è molto...||||
 resp5|Abbiate cura di voi.||||
@@ -107,7 +107,7 @@ keybp1|@@Sono qui per mostrare la mia devozione.||||
 keyb2fail|&&<<Ti guarda e chiude gli occhi. Dopo una lunga pausa, scuote il capo in segno di rifiuto, senza dire una parola.>>||||
 keyb2succ|%%<<Ti guarda e chiude gli occhi. Dopo una lunga pausa, fa un cenno d'assenso.>>##<<Sblocca in silenzio il cancello della [[camera degli inni]].>>||||
 keybp2|Chi siete?||||
-keyb3|Sono il levatore del nostro nuovo dio.||||
+keyb3|Sono un levatore del nostro nuovo dio.||||
 keyb4|[[La scultrice]] mi ha affidato la custodia della [[camera degli inni]].||||
 keybp3|Parlatemi della [[camera degli inni]].||||
 keyb5|La camera degli inni si trova oltre questo cancello. È un luogo di rituali sacri.||||
@@ -183,7 +183,7 @@ sta6|<<Il volto inferiore, identico all'altro, fa capolino tra le Sue gambe come
 sta7|<<Più a lungo la osservi, più cresce la tua ammirazione. Non soltanto per l'artista e per ciò che ha realizzato, ma per la Dea di Cristallo stessa e per tutte le profondità che racchiude.>>||||
 stap6|<<Giurare fedeltà alla Dea di Cristallo...>>||||
 sta8|<<Prima di eseguire il>> [[rituale]] <<che Lucia ti ha insegnato, ti chiedi:>>##<<Sei sicuro di voler fare questa scelta?>>##<<Un patto simile>> [[non può essere infranto.]]||||
-stap7|<<Eseguire i [[gesti rituali]] e consacrarsi alla [[Dea di Cristallo...]]||||
+stap7|<<Eseguire i [[gesti rituali]] e consacrarsi alla [[Dea di Cristallo...]]>>||||
 sta9|<<La tua mente è attraversata da visioni di fili geometrici che convergono nel cuore della statua.##Reti immacolate si estendono in ogni direzione, intrecciandosi nelle vene della roccia circostante.>>||||
 sta10|<<Attraverso di Lei, vedi la totalità cosmica ricondotta all'unità.>>||||
 sta11|<<Anche la dea ti vede, con quel suo sguardo che ti accarezza.##Lei vede ogni cosa.>>||||
