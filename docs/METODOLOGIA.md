@@ -90,6 +90,9 @@ Il `resources.assets` finale è stato ricostruito con i 20 testi e il nuovo atla
 
 ## 8. Revisioni successive e adattamento della v1.0.1
 
+La successiva lavorazione in Codex per la v1.0.1 è stata eseguita con **GPT‑6.1**,
+distintamente dai modelli e dai livelli di ragionamento della fase iniziale.
+
 La revisione successiva è stata confrontata nuovamente con l'inglese, controllando
 le proposte nel contesto e intervenendo anche sulle occorrenze collegate. Le
 correzioni sono registrate come sostituzioni esatte e ricostruite dal backup;

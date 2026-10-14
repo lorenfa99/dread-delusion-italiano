@@ -1,5 +1,9 @@
 # Revisione di ottobre 2026
 
+La revisione e l'adattamento della nuova versione in Codex sono stati svolti con
+**GPT‑6.1**. Per i modelli usati nella lavorazione iniziale, vedi la
+[metodologia](METODOLOGIA.md).
+
 La v1.0.1 incorpora le revisioni linguistiche successive alla prima pubblicazione
 e l'adattamento alla build Steam 25907859. Rispetto ai TXT della v1.0.0 sono
 modificate 363 righe e 364 campi in 18 file. Il registro conserva 439 operazioni:

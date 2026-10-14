@@ -21,14 +21,17 @@ l'asset pronto di una release su una build diversa da quella indicata.
 
 ## Metodo
 
+La lavorazione iniziale, pubblicata nella v1.0.0, ha seguito questi passaggi:
+
 - cinque traduzioni indipendenti con profili diversi, prodotte sul Web con **GPT‑5.6‑sol (high)**;
 - confronto e fusione ragionata delle versioni, seguiti da due revisioni complete;
 - controllo finale riga per riga in Codex con **GPT‑5.6‑sol (xhigh)**, sempre a partire dall’inglese;
 - audit di naturalezza, calchi, terminologia e coerenza tra file, più validazione strutturale deterministica.
 
-Il controllo iniziale ha coperto **20 file e 12.041 righe**. La v1.0.1 include
-ulteriori revisioni linguistiche e l'adattamento al gioco aggiornato. I dettagli
-sono in [Metodologia](docs/METODOLOGIA.md) e [Controlli qualità](docs/QA.md).
+Il controllo iniziale ha coperto **20 file e 12.041 righe**. Per la v1.0.1 è stato
+usato **GPT‑6.1 in Codex** per le ulteriori revisioni linguistiche e l'adattamento
+al gioco aggiornato. I dettagli sono in [Metodologia](docs/METODOLOGIA.md) e
+[Controlli qualità](docs/QA.md).
 
 ## Materiale facoltativo
 
